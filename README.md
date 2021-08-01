@@ -1,36 +1,32 @@
-[问题]:12.9寸的ipad pro 你会买吗？你觉得定价多少钱是合适的价位。
+**问题**:12.9寸的ipad pro 你会买吗？你觉得定价多少钱是合适的价位。
 
-[答案]:不支持手写的话，根本和surface pro没有竞争力。我就看cook能否有魄力加入电磁感应手写笔。
-
- 
-
- 
-
-[问题]: 12306网站如果外包给苹果公司去做，是不是可以避免被骂？
-
-[答案]:苹果的网络服务都是外包给微软azure 的。。
+**答案**:不支持手写的话，根本和surface pro没有竞争力。我就看cook能否有魄力加入电磁感应手写笔。
 
  
 
  
+<br>**问题**: 12306网站如果外包给苹果公司去做，是不是可以避免被骂？
 
-[问题]:1952 年高校院系调整中，哪些高校损失最大，哪些受益最大？这样调整的根源是什么？？
-
-[答案]: 复旦这个名字取得好。因为是“明日再升”，红太阳看着开心，就好好把她养起来
-
- 
-
- 
-
-[问题]: 1952年院系调整中拆分了当时亚洲排名第一的国立中央大学是利还是弊？
-[答案]: 一个贫穷落后的国家，想什么教育。。。
+**答案**:苹果的网络服务都是外包给微软azure 的。。
 
  
 
  
+<br>**问题**:1952 年高校院系调整中，哪些高校损失最大，哪些受益最大？这样调整的根源是什么？？
 
-[问题]: 1架波音747约2.6亿美金，我一辈子坐飞机付的钱都抵消不了这一成本，航空公司实际是一个慈善组织么？
-[答案]: 我发现我在知乎免费写答案看答案，好赚本哦！！
+**答案**: 复旦这个名字取得好。因为是“明日再升”，红太阳看着开心，就好好把她养起来
+
+ 
+
+ 
+<br>**问题**: 1952年院系调整中拆分了当时亚洲排名第一的国立中央大学是利还是弊？
+**答案**: 一个贫穷落后的国家，想什么教育。。。
+
+ 
+
+ 
+<br>**问题**: 1架波音747约2.6亿美金，我一辈子坐飞机付的钱都抵消不了这一成本，航空公司实际是一个慈善组织么？
+**答案**: 我发现我在知乎免费写答案看答案，好赚本哦！！
 
 我用10000年，都无法抵消知乎的服务器和程序员成本 
 
@@ -41,20 +37,18 @@
  
 
  
+<br>**问题**:2011年5月11日, 加拿大的D-Wave System Inc. 发布了一款号称 “全球第一款商用型量子计算机”的计算设备“D-Wave One”，请问这是不是一台类似核磁共振的设备？对人体会造成危害吗？
 
-[问题]:2011年5月11日, 加拿大的D-Wave System Inc. 发布了一款号称 “全球第一款商用型量子计算机”的计算设备“D-Wave One”，请问这是不是一台类似核磁共振的设备？对人体会造成危害吗？
-
-[答案]: 如果真的能实现，对人体有害绝精绝育我也干啊。。
+**答案**: 如果真的能实现，对人体有害绝精绝育我也干啊。。
 
 问题是现在对人体有害也做不出来
 
  
 
  
+<br>**问题**:2013 年电影《地心引力》（Gravity）中有哪些科学上的错误？
 
-[问题]:2013 年电影《地心引力》（Gravity）中有哪些科学上的错误？
-
-[答案]: 我就来说这一点吧，这不是硬伤：
+**答案**: 我就来说这一点吧，这不是硬伤：
 
 5、 ** 乔治·克鲁尼可以不牺牲？ ** 
 
@@ -66,71 +60,63 @@
 
 **  
 
-![](https://pic2.zhimg.com/69504501309153b44536b7afd914130d_b.jpg)
+!****(https://pic2.zhimg.com/69504501309153b44536b7afd914130d_b.jpg)
 
  
 
  
-
-[问题]: 2013年4月当地时间15日策划发起美国波士顿的马拉松爆炸案的人或组织有什么动机？
-[答案]: 可能是没有拿到harvard或者mit的offer，也可能是联邦政府退税过期了自己几千块钱的税还没有退回来。对美国外强内弱的无能政府失望至极采取的极端主义措施。
-
- 
+<br>**问题**: 2013年4月当地时间15日策划发起美国波士顿的马拉松爆炸案的人或组织有什么动机？
+**答案**: 可能是没有拿到harvard或者mit的offer，也可能是联邦政府退税过期了自己几千块钱的税还没有退回来。对美国外强内弱的无能政府失望至极采取的极端主义措施。
 
  
 
-[问题]:2014 巴西世界杯期间，湾区科技公司会如何组织员工看球？
+ 
+<br>**问题**:2014 巴西世界杯期间，湾区科技公司会如何组织员工看球？
 
-[答案]: 你好无聊。。
+**答案**: 你好无聊。。
 
 可以去食堂大屏幕上看
 
  
 
  
+<br>**问题**:2014 年下半年科技领域预计会有哪些重大事件？
 
-[问题]:2014 年下半年科技领域预计会有哪些重大事件？
-
-[答案]: 预计苹果会发布真正的iwatch然后google就萎靡了。
-
- 
-
- 
-
-[问题]:2014 年你在科研上有哪些值得分享的进展和突破？
-
-[答案]: 最大的突破是我决定退学然后希望找个CS工作
+**答案**: 预计苹果会发布真正的iwatch然后google就萎靡了。
 
  
 
  
+<br>**问题**:2014 年你在科研上有哪些值得分享的进展和突破？
 
-[问题]:2014 年的 Google IO 大会有何值得期待？
-
-[答案]: 我期待google的广告做得好点
-
- 
-
- 
-
-[问题]: 2014山西中考物理19题有争议，不知b是否正确？
-[答案]: =
+**答案**: 最大的突破是我决定退学然后希望找个CS工作
 
  
 
  
+<br>**问题**:2014 年的 Google IO 大会有何值得期待？
 
-[问题]:2015 年的 15 寸 MacBook Pro 是否值得等待？
+**答案**: 我期待google的广告做得好点
 
-[答案]: 主要是钱多没处花。。其实我3年前买的现在用的还很欢乐
+ 
+
+ 
+<br>**问题**: 2014山西中考物理19题有争议，不知b是否正确？
+**答案**: =
 
  
 
  
+<br>**问题**:2015 年的 15 寸 MacBook Pro 是否值得等待？
 
-[问题]:2015 年，美国旧金山湾区就业形势如何？
+**答案**: 主要是钱多没处花。。其实我3年前买的现在用的还很欢乐
 
-[答案]:今年确实不好，但水平高的仍然可以拿到100w年薪，收获几乎所有start up的onsite，然后自己淡定，低调的选择。 
+ 
+
+ 
+<br>**问题**:2015 年，美国旧金山湾区就业形势如何？
+
+**答案**:今年确实不好，但水平高的仍然可以拿到100w年薪，收获几乎所有start up的onsite，然后自己淡定，低调的选择。 
 
 所以。如果你感觉的今年不景气，那么其实就是一个原因：你也是只能靠着景气才能找到工作的。那批中等，中等偏上的人，天冷了，他们最先知道。 
 
@@ -143,86 +129,75 @@
  
 
  
+<br>**问题**:2015加州大学伯克利分校summer school？
 
-[问题]:2015加州大学伯克利分校summer school？
-
-[答案]: 有qq群么？求加人。
-
- 
-
- 
-
-[问题]: 2015年哈尔滨工业大学录取分数线是否全面崩溃？
-[答案]: 主要是大家都去武汉了。热干面虽然难吃，公交上虽然打电话和吵架一样，饭菜左不如四川南不比湖南，但毕竟气候温暖。和哈尔冰比还是好
+**答案**: 有qq群么？求加人。
 
  
 
  
-
-[问题]: 2015最权威的大学排行榜有没有？
-[答案]: 清华北大，复旦，中科大，交大，南大，山东大学，其他学校，浙大。
-
- 
-
- 
-
-[问题]:2016 MacBook Pro 会有大的更新吗？
-
-[答案]:就MacBook pro 而言，说是苹果产品发布会，其实是intel 处理器发布会
+<br>**问题**: 2015年哈尔滨工业大学录取分数线是否全面崩溃？
+**答案**: 主要是大家都去武汉了。热干面虽然难吃，公交上虽然打电话和吵架一样，饭菜左不如四川南不比湖南，但毕竟气候温暖。和哈尔冰比还是好
 
  
 
  
+<br>**问题**: 2015最权威的大学排行榜有没有？
+**答案**: 清华北大，复旦，中科大，交大，南大，山东大学，其他学校，浙大。
 
-[问题]: 2016年会是苹果公司发展的拐点吗？
-[答案]: 是的。主要原因是知乎最大果粉，我的背叛和出逃。
+ 
+
+ 
+<br>**问题**:2016 MacBook Pro 会有大的更新吗？
+
+**答案**:就MacBook pro 而言，说是苹果产品发布会，其实是intel 处理器发布会
+
+ 
+
+ 
+<br>**问题**: 2016年会是苹果公司发展的拐点吗？
+**答案**: 是的。主要原因是知乎最大果粉，我的背叛和出逃。
 
 家里的黑苹果都换成Windows 10 了
 
  
 
  
+<br>**问题**: 2016计算机硕士找工作准备以及学习安排？
 
-[问题]: 2016计算机硕士找工作准备以及学习安排？
-
-[答案]:........楼主，我回拿cs 硕士回去火拼你。你等着！
-
- 
-
- 
-
-[问题]: 2017年1月18日Facebook发行的PyTorch相比TensorFlow、MXNet有何优势？
-[答案]: Keras表示python早就可以用tensorflow了
+**答案**:........楼主，我回拿cs 硕士回去火拼你。你等着！
 
  
 
  
+<br>**问题**: 2017年1月18日Facebook发行的PyTorch相比TensorFlow、MXNet有何优势？
+**答案**: Keras表示python早就可以用tensorflow了
 
-[问题]: 361的阶乘到底是多少？
-[答案]: !(https://pic1.zhimg.com/caae32a61d72c44d56d206264032c9d0_b.png)
+ 
+
+ 
+<br>**问题**: 361的阶乘到底是多少？
+**答案**: !(https://pic1.zhimg.com/caae32a61d72c44d56d206264032c9d0_b.png)
 
 冰冰我爱你
 
  
 
  
-
-[问题]: 58同城转卖iPhone6s手机，轻信假支付宝转账截图，手机被骗走！怎么办？
-[答案]: 支付宝转账难道你自己看不到是否属实么=（转给你的吧我猜）
-
- 
-
- 
-
-[问题]: 600亿年之后，会发生什么？
-[答案]: 苹果死了，软粉还活着
+<br>**问题**: 58同城转卖iPhone6s手机，轻信假支付宝转账截图，手机被骗走！怎么办？
+**答案**: 支付宝转账难道你自己看不到是否属实么=（转给你的吧我猜）
 
  
 
  
+<br>**问题**: 600亿年之后，会发生什么？
+**答案**: 苹果死了，软粉还活着
 
-[问题]: 64位windows为什么不把system32改成system64
-[答案]: 当初就应该直接叫SYSTEM。。。
+ 
+
+ 
+<br>**问题**: 64位windows为什么不把system32改成system64
+**答案**: 当初就应该直接叫SYSTEM。。。
 
 搞得好像十几年前就知道以后要出不同位数的操作系统一样的。。。（咦，好像真的出了） 
 
@@ -233,33 +208,29 @@
  
 
  
+<br>**问题**:98% 的世界 500 强公司都在使用 iOS，那不使用的 10 个是哪些公司？
 
-[问题]:98% 的世界 500 强公司都在使用 iOS，那不使用的 10 个是哪些公司？
-
-[答案]: 微软和麦当劳。
-
- 
-
- 
-
-[问题]:985 本科毕业，去英国ucl、ic之流读硕士会有损声誉，给简历留污点吗？
-
-[答案]: 。。。我建议你考清华北大的研究生
+**答案**: 微软和麦当劳。
 
  
 
  
+<br>**问题**:985 本科毕业，去英国ucl、ic之流读硕士会有损声誉，给简历留污点吗？
 
-[问题]: 985一定比211厉害吗？
-[答案]: 你都已经选择了，想也没有用。去你们学校学CS拿专业第一吧。
+**答案**: 。。。我建议你考清华北大的研究生
+
+ 
+
+ 
+<br>**问题**: 985一定比211厉害吗？
+**答案**: 你都已经选择了，想也没有用。去你们学校学CS拿专业第一吧。
 
  
 
  
+<br>**问题**:**程序员** Sequence As Interface
 
-[问题]:[程序员] Sequence As Interface
-
-[答案]:本节内容来自sicp 第二章第三节及习题
+**答案**:本节内容来自sicp 第二章第三节及习题
 
  
 
@@ -489,9 +460,9 @@ li) ( ** reduce ** op null ( ** cdr ** li)))))
 
  
 
-通过观察，我们不难发现reduce 序列的操作实际上是一个递归的，reduce(list[i:])=op(list[i],
+通过观察，我们不难发现reduce 序列的操作实际上是一个递归的，reduce(list**i:**)=op(list**i**,
 
-reduce(list[i+1:])) 的过程。 他已经实现了list元素的依次遍历，借此我们可以用reduce 直接来实现很多功能：
+reduce(list**i+1:**)) 的过程。 他已经实现了list元素的依次遍历，借此我们可以用reduce 直接来实现很多功能：
 
  
 
@@ -593,11 +564,11 @@ op应该是 (lambda ( x y) (cons x y)), null设成list2
 
  
 
-length(a[i:])=1+length(a[i+1:])
+length(a**i:**)=1+length(a**i+1:**)
 
  
 
-length([])=0
+length(****)=0
 
  
 
@@ -643,13 +614,13 @@ null=0
 
  
 
-因为注意到： ![a_n x^n+a_{n-1} x^{n+1} + ... + a_{1} x^{1} +a_0
+因为注意到： !**a_n x^n+a_{n-1} x^{n+1} + ... + a_{1} x^{1} +a_0
 
  
 
 =\(a_0 +x \(a_1 + x\( a_2
 
-+...\)\)](http://www.zhihu.com/equation?tex=a_n+x%5En%2Ba_%7Bn-1%7D+x%5E%7Bn%2B1%7D+%2B+...+%2B+a_%7B1%7D+x%5E%7B1%7D+%2Ba_0+%0A%3D%28a_0+%2Bx+%28a_1+%2B+x%28+a_2+%2B...%29%29)
++...\)\)**(http://www.zhihu.com/equation?tex=a_n+x%5En%2Ba_%7Bn-1%7D+x%5E%7Bn%2B1%7D+%2B+...+%2B+a_%7B1%7D+x%5E%7B1%7D+%2Ba_0+%0A%3D%28a_0+%2Bx+%28a_1+%2B+x%28+a_2+%2B...%29%29)
 
  
 
@@ -671,11 +642,11 @@ rest))) 0 list ))
 
  
 
-计算 ![3+2x +5 x^2 +10 x^4
+计算 !**3+2x +5 x^2 +10 x^4
 
-+x^5](http://www.zhihu.com/equation?tex=3%2B2x+%2B5+x%5E2+%2B10+x%5E4+%2Bx%5E5) 
++x^5**(http://www.zhihu.com/equation?tex=3%2B2x+%2B5+x%5E2+%2B10+x%5E4+%2Bx%5E5) 
 
-, 且 ![x=10](http://www.zhihu.com/equation?tex=x%3D10)
+, 且 !**x=10**(http://www.zhihu.com/equation?tex=x%3D10)
 
  
 
@@ -1010,42 +981,41 @@ m col) ) n))
  
 
  
+<br>**问题**: 程序员n皇后问题
 
-[问题]: 程序员n皇后问题
-
-[答案]:n皇后问题是一个时间复杂度特别高的问题。一般的命令式语言通常使用回溯法计算所有可能的解。这里我们给出scheme的list procedure
+**答案**:n皇后问题是一个时间复杂度特别高的问题。一般的命令式语言通常使用回溯法计算所有可能的解。这里我们给出scheme的list procedure
 
 解。一些具体的procedure定义和实现参考前一篇日志。
 
  
 
-解题思路如下。采用递归法，显然，一个 ![n\\times
+解题思路如下。采用递归法，显然，一个 !**n\\times
 
-k](http://www.zhihu.com/equation?tex=n%5Ctimes+k) 
+k**(http://www.zhihu.com/equation?tex=n%5Ctimes+k) 
 
-大小的棋盘最多放 ![k](http://www.zhihu.com/equation?tex=k) 
+大小的棋盘最多放 !**k**(http://www.zhihu.com/equation?tex=k) 
 
-个皇后，因为每列只能放一个皇后。那么，如果我们已经知道 ![n\\times
+个皇后，因为每列只能放一个皇后。那么，如果我们已经知道 !**n\\times
 
-k](http://www.zhihu.com/equation?tex=n%5Ctimes+k) 
+k**(http://www.zhihu.com/equation?tex=n%5Ctimes+k) 
 
-大小的棋盘的全部解，记作 ![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+大小的棋盘的全部解，记作 !**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
-，如何得到 ![n\\times
+，如何得到 !**n\\times
 
-\(k+1\)](http://www.zhihu.com/equation?tex=n%5Ctimes+%28k%2B1%29) 
+\(k+1\)**(http://www.zhihu.com/equation?tex=n%5Ctimes+%28k%2B1%29) 
 
 大小的棋盘的解呢？
 
  
 
-答案是， ![Sol\(n,k+1\) =\( filter\\ safe? \\ Sol\(n,k\)+ \(k+1,rol\)\\ for\\
+答案是， !**Sol\(n,k+1\) =\( filter\\ safe? \\ Sol\(n,k\)+ \(k+1,rol\)\\ for\\
 
 rol\\ in\\ \(1,n\)
 
-\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%2B1%29+%3D%28+filter%5C++safe%3F+%5C+Sol%28n%2Ck%29%2B+%28k%2B1%2Crol%29%5C++for%5C+rol%5C+in%5C+%281%2Cn%29+%29) 
+\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%2B1%29+%3D%28+filter%5C++safe%3F+%5C+Sol%28n%2Ck%29%2B+%28k%2B1%2Crol%29%5C++for%5C+rol%5C+in%5C+%281%2Cn%29+%29) 
 
-。这里， ![\(k+1, rol\)](http://www.zhihu.com/equation?tex=%28k%2B1%2C+rol%29) 
+。这里， !**\(k+1, rol\)**(http://www.zhihu.com/equation?tex=%28k%2B1%2C+rol%29) 
 
 值的是在第k+1 列 的第 rol
 
@@ -1059,23 +1029,23 @@ safe?
 
  
 
-显然，给出的解中， ![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+显然，给出的解中， !**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
 已经满足条件了。唯一需要判断的，仅仅是
 
  
 
-1\. ![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+1\. !**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
-中是不是存在和 ![rol](http://www.zhihu.com/equation?tex=rol) 
+中是不是存在和 !**rol**(http://www.zhihu.com/equation?tex=rol) 
 
 同行的
 
  
 
-2\. ![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+2\. !**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
-中是不是存在和 ![\(k+1, rol\)](http://www.zhihu.com/equation?tex=%28k%2B1%2C+rol%29) 
+中是不是存在和 !**\(k+1, rol\)**(http://www.zhihu.com/equation?tex=%28k%2B1%2C+rol%29) 
 
 对角的。
 
@@ -1083,31 +1053,31 @@ safe?
 
 这两个都很好判断。1 只需要在
 
-![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+!**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
-的每一个解list中找出是否有和 ![rol](http://www.zhihu.com/equation?tex=rol) 
+的每一个解list中找出是否有和 !**rol**(http://www.zhihu.com/equation?tex=rol) 
 
-相同的元素。2 只需要在要在 ![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+相同的元素。2 只需要在要在 !**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
-的每一个解list中找到和 ![rol](http://www.zhihu.com/equation?tex=rol) 
+的每一个解list中找到和 !**rol**(http://www.zhihu.com/equation?tex=rol) 
 
 的差的绝对值是否等于他们的列数差（也就是上下对角） 
 
  
 
-这里我们就很清楚了， ![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+这里我们就很清楚了， !**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
-的每一个元素，都是一个k列时的可行解。这个可行解由每一列的皇后所在的行数组成，例如 ![\(1\\ 2\\ 3\\ 4\\
+的每一个元素，都是一个k列时的可行解。这个可行解由每一列的皇后所在的行数组成，例如 !**\(1\\ 2\\ 3\\ 4\\
 
-5\)](http://www.zhihu.com/equation?tex=%281%5C++2%5C++3%5C++4%5C++5%29) 
+5\)**(http://www.zhihu.com/equation?tex=%281%5C++2%5C++3%5C++4%5C++5%29) 
 
 。当然这个解完全对角，是不可行的解。每次增加一列，我们只需要在
 
-![Sol\(n,k\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
+!**Sol\(n,k\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%29) 
 
 的每一个元素后面加上rol，然后送去safe? 判断，最后过滤出来的集合，就是
 
-![Sol\(n,k+1\)](http://www.zhihu.com/equation?tex=Sol%28n%2Ck%2B1%29) 
+!**Sol\(n,k+1\)**(http://www.zhihu.com/equation?tex=Sol%28n%2Ck%2B1%29) 
 
 。
 
@@ -1117,7 +1087,7 @@ safe?
 
  
 
-![](http://pic1.zhimg.com/6a21d32807be82206a24090830bcc108_b.jpg) 
+!****(http://pic1.zhimg.com/6a21d32807be82206a24090830bcc108_b.jpg) 
 
 通过procedure (queen-cols k) 递归。当k=0的时候，显然返回一个空集。 在这个空集上，我们通过(adjoin-position)
 
@@ -1131,25 +1101,25 @@ safe?
 
  
 
-![](http://pic2.zhimg.com/c853961ece773046c5d637cf2df2cc49_b.jpg) 
+!****(http://pic2.zhimg.com/c853961ece773046c5d637cf2df2cc49_b.jpg) 
 
 最关键的是safe函数的定义：
 
  
 
-![](http://pic3.zhimg.com/6f42caed4b617681077ac021784bfe52_b.jpg) 
+!****(http://pic3.zhimg.com/6f42caed4b617681077ac021784bfe52_b.jpg) 
 
 这是是否对角的判定：
 
  
 
-![](http://pic2.zhimg.com/c0f257635413c8b697a082662ee1e829_b.jpg) 
+!****(http://pic2.zhimg.com/c0f257635413c8b697a082662ee1e829_b.jpg) 
 
 这是添加试解的procedure
 
  
 
-![](http://pic3.zhimg.com/d832a3549ad339f89086dc7a05fae962_b.jpg) 
+!****(http://pic3.zhimg.com/d832a3549ad339f89086dc7a05fae962_b.jpg) 
 
 通过计算我们有board-size从1到12时解法数目如下：
 
@@ -1180,10 +1150,9 @@ safe?
  
 
  
+<br>**问题**:**程序员**subsets of set
 
-[问题]:[程序员]subsets of set
-
-[答案]:给定set a={1,2,3,4,5,6,7} 求出他的全部子集。
+**答案**:给定set a={1,2,3,4,5,6,7} 求出他的全部子集。
 
  
 
@@ -1195,11 +1164,11 @@ safe?
 
  
 
-\> subsets=[[]] 
+\> subsets=******** 
 
 \> for x in a: 
 
-\> \\\\\\\extend=subsets[:] 
+\> \\\\\\\extend=subsets**:** 
 
 \> \\\\\\\for set in extend: 
 
@@ -1211,7 +1180,7 @@ safe?
 
  
 
-那么我们给出一种递归解：注意到 a 的全部子集 是a[1:]的全部子集加上a[0]和不加上a[0]的集合。那么我们就有list 递归：
+那么我们给出一种递归解：注意到 a 的全部子集 是a**1:**的全部子集加上a**0**和不加上a**0**的集合。那么我们就有list 递归：
 
  
 
@@ -1239,15 +1208,15 @@ safe?
 
 \> \\\\\\\if len(a)==0: 
 
-\> \\\\\\\\\\\\\\\return [[]] 
+\> \\\\\\\\\\\\\\\return ******** 
 
 \> \\\\\\\else: 
 
-\> \\\\\\\\\\\\\\\rest=subsets(a[1:]) 
+\> \\\\\\\\\\\\\\\rest=subsets(a**1:**) 
 
-\> \\\\\\\\\\\\\\\copy=rest[:] 
+\> \\\\\\\\\\\\\\\copy=rest**:** 
 
-\> \\\\\\\\\\\\\\\temp=list(s.append(a[0]) for s in copy) 
+\> \\\\\\\\\\\\\\\temp=list(s.append(a**0**) for s in copy) 
 
 \> \\\\\\\\\\\\\\\rest.extend(temp) 
 
@@ -1260,10 +1229,9 @@ safe?
  
 
  
+<br>**问题**: 程序员找到最多数
 
-[问题]: 程序员找到最多数
-
-[答案]:此题见leetcode 169
+**答案**:此题见leetcode 169
 
  
 
@@ -1277,15 +1245,15 @@ safe?
 
 ​         
 
-  n=[a1,a2,a3,...,an]
+  n=**a1,a2,a3,...,an**
 
 ​     
 
  
 
-找到其中出现次数大于 ![n/2](http://www.zhihu.com/equation?tex=n%2F2) 
+找到其中出现次数大于 !**n/2**(http://www.zhihu.com/equation?tex=n%2F2) 
 
-次的元素 ![a_k](http://www.zhihu.com/equation?tex=a_k) 
+次的元素 !**a_k**(http://www.zhihu.com/equation?tex=a_k) 
 
 。
 
@@ -1329,7 +1297,7 @@ A Linear-Time Majority Vote Algorithm _ _ ，里面有原作者的paper。
 
 你随机的从数组n中选一个数，然后统计他出现的次数（这一步需要耗时O(N))。如果他的次数超过了
 
-![n/2](http://www.zhihu.com/equation?tex=n%2F2) 
+!**n/2**(http://www.zhihu.com/equation?tex=n%2F2) 
 
 ，那么他就是你要找的数。如果不是，你就再随机抽一个，直到你找到位置。
 
@@ -1337,15 +1305,15 @@ A Linear-Time Majority Vote Algorithm _ _ ，里面有原作者的paper。
 
 你居然能够证明，此方法的平均消耗时间也是O(N)。你只需要计算期望。因为你要找的数是一个多数，随机一次抽取不到这个数的概率总是小于1/2。连续k次抽取不到这个数的概率是
 
-![<\(1/2\)^k](http://www.zhihu.com/equation?tex=%3C%281%2F2%29%5Ek) 
+!**<\(1/2\)^k**(http://www.zhihu.com/equation?tex=%3C%281%2F2%29%5Ek) 
 
 。那么，最后能抽取到的抽取次数期望就是
 
  
 
-![O\(\\sum_{1}^{\\infty}
+!**O\(\\sum_{1}^{\\infty}
 
-k\(1/2\)^k\)=O\(2\)](http://www.zhihu.com/equation?tex=O%28%5Csum_%7B1%7D%5E%7B%5Cinfty%7D++k%281%2F2%29%5Ek%29%3DO%282%29) 
+k\(1/2\)^k\)=O\(2\)**(http://www.zhihu.com/equation?tex=O%28%5Csum_%7B1%7D%5E%7B%5Cinfty%7D++k%281%2F2%29%5Ek%29%3DO%282%29) 
 
  
 
@@ -1362,10 +1330,9 @@ k\(1/2\)^k\)=O\(2\)](http://www.zhihu.com/equation?tex=O%28%5Csum_%7B1%7D%5E%7B%
  
 
  
+<br>**问题**:**计算机**不需要recursion的inorder traversal
 
-[问题]:[计算机]不需要recursion的inorder traversal
-
-[答案]:In Order Tree traversal 是很容易通过tree的recursive nature来实现的。
+**答案**:In Order Tree traversal 是很容易通过tree的recursive nature来实现的。
 
  
 
@@ -1387,7 +1354,7 @@ to algorithms。
 
  
 
-![](http://pic4.zhimg.com/34463795159bbbe382d4cf252f8894b7_b.jpg) 
+!****(http://pic4.zhimg.com/34463795159bbbe382d4cf252f8894b7_b.jpg) 
 
 但inorder traversal还存在不需要递归的方法。这个方法常用在bst中，因为bst的基本操作之一就是in order traversal 排序.
 
@@ -1403,7 +1370,7 @@ print( node.val) 堆栈化，就能重现对于这两者的递归（其实就是
 
  
 
-![](http://pic2.zhimg.com/5c54939abcfbfe6af5f1c9e40a3cf071_b.jpg) 
+!****(http://pic2.zhimg.com/5c54939abcfbfe6af5f1c9e40a3cf071_b.jpg) 
 
  
 
@@ -1413,7 +1380,7 @@ print( node.val) 堆栈化，就能重现对于这两者的递归（其实就是
 
  
 
-![](http://pic2.zhimg.com/ec7f92b1e38f46bc2191d3fa9731b449_b.jpg) 
+!****(http://pic2.zhimg.com/ec7f92b1e38f46bc2191d3fa9731b449_b.jpg) 
 
 我们不难可以递推得出，一旦这个分支的栈元素全部被弹出，我们又能回到上次压入的节点继续访问其父。因为每一个node我们都会把他的node.right重新压栈然后独立访问一次，而且这个访问是可返回的。从这个递归的过程我们可以知道，对于所有的节点，我们都先访问他的left
 
@@ -1428,10 +1395,9 @@ subtree会被访问到，right中的right也会被访问。
  
 
  
+<br>**问题**:**计算机**从下至上的merge sort(上)
 
-[问题]:[计算机]从下至上的merge sort(上)
-
-[答案]:Merge Sort
+**答案**:Merge Sort
 
 是一种很优雅的分治排序法。当然和其他看似简单的算法一样，这种分治排序法隐藏着许多细节。一个细节是，你几乎没有办法可以对一个数组（array）进行in-
 
@@ -1443,13 +1409,13 @@ list的结构，其操作非常不同。最后，存在空间复杂度为O(1)的
 
 对于array来说，merge sort的算法一般如下： 
 
-![](http://pic1.zhimg.com/97f260800ea44785f5ee8126d309dda4_b.jpg) 
+!****(http://pic1.zhimg.com/97f260800ea44785f5ee8126d309dda4_b.jpg) 
 
 其中无法in-place 完成的就是merge：
 
  
 
-![](http://pic1.zhimg.com/71565b4c8ddfc7f074963448373f12fc_b.jpg)
+!****(http://pic1.zhimg.com/71565b4c8ddfc7f074963448373f12fc_b.jpg)
 
  
 
@@ -1469,7 +1435,7 @@ place的形式。但是，鉴于list的不可index的特质，我们必须在必
 
  
 
-![](http://pic4.zhimg.com/cdd31f37f35bae2e92d3c4ab8345f307_b.jpg) 
+!****(http://pic4.zhimg.com/cdd31f37f35bae2e92d3c4ab8345f307_b.jpg) 
 
 注意，我们返回的是一个tuple，也就是新merge成的list segment的起点和终点。这两个值至关重要，因为我们必须用到这两个新的start 和
 
@@ -1519,7 +1485,7 @@ O(1)。
 
 有了这个merge 函数我们可以试图仿造array mergesort 制造一个recursive list mergesort，如下： 
 
-![](http://pic3.zhimg.com/d6e35ea991e0c66ff25f1118c2f0a4b6_b.jpg)
+!****(http://pic3.zhimg.com/d6e35ea991e0c66ff25f1118c2f0a4b6_b.jpg)
 
  
 
@@ -1545,7 +1511,7 @@ tree最右边的node（end）是什么了。那么这个end.next很可能指向l
 
  
 
-![](http://pic4.zhimg.com/7b476ca67e926f156ff75d8250aa6e2b_b.jpg)
+!****(http://pic4.zhimg.com/7b476ca67e926f156ff75d8250aa6e2b_b.jpg)
 
  
 
@@ -1556,10 +1522,9 @@ case的时候，这个stack的大小显然是O(logN)的。因此，此递归算�
  
 
  
+<br>**问题**: 计算机线程和进程的区别是什么？
 
-[问题]: 计算机线程和进程的区别是什么？
-
-[答案]:
+**答案**:
 
  
 
@@ -1712,9 +1677,8 @@ going to become a more important tool in system programming.
  
 
  
-
-[问题]: 计算机补码也是减法
-[答案]: 长话短说。
+<br>**问题**: 计算机补码也是减法
+**答案**: 长话短说。
 
  
 
@@ -1726,13 +1690,13 @@ going to become a more important tool in system programming.
 
  
 
-这一点很显然。一个 ![k](https://www.zhihu.com/equation?tex=k) 
+这一点很显然。一个 !**k**(https://www.zhihu.com/equation?tex=k) 
 
-位2进制数能表示的数字的个数是 ![2^k](https://www.zhihu.com/equation?tex=2%5Ek) 
+位2进制数能表示的数字的个数是 !**2^k**(https://www.zhihu.com/equation?tex=2%5Ek) 
 
-。如果从0开始算，最大的整数就是 ![2^k-1](https://www.zhihu.com/equation?tex=2%5Ek-1) 
+。如果从0开始算，最大的整数就是 !**2^k-1**(https://www.zhihu.com/equation?tex=2%5Ek-1) 
 
-。这些数以及他们的加法都显然生活在mod ![2^k](https://www.zhihu.com/equation?tex=2%5Ek) 
+。这些数以及他们的加法都显然生活在mod !**2^k**(https://www.zhihu.com/equation?tex=2%5Ek) 
 
 里，永远也不能超过他。
 
@@ -1746,45 +1710,45 @@ going to become a more important tool in system programming.
 
  
 
-![a-b \\ \(mod n\) =a+\(n-b\) \\
+!**a-b \\ \(mod n\) =a+\(n-b\) \\
 
-\(modn\)](https://www.zhihu.com/equation?tex=a-b+%5C+%28mod+n%29+%3Da%2B%28n-b%29+%5C+%28modn%29) 
+\(modn\)**(https://www.zhihu.com/equation?tex=a-b+%5C+%28mod+n%29+%3Da%2B%28n-b%29+%5C+%28modn%29) 
 
  
 
-为什么 ![n-b](https://www.zhihu.com/equation?tex=n-b) 
+为什么 !**n-b**(https://www.zhihu.com/equation?tex=n-b) 
 
-的计算要比 ![a-b](https://www.zhihu.com/equation?tex=a-b) 
+的计算要比 !**a-b**(https://www.zhihu.com/equation?tex=a-b) 
 
-好呢？因为n一定是 ![2^k](https://www.zhihu.com/equation?tex=2%5Ek)  
+好呢？因为n一定是 !**2^k**(https://www.zhihu.com/equation?tex=2%5Ek)  
 
-，这个数就是2进制表示下的一组本征解（ ![1<<k](https://www.zhihu.com/equation?tex=1%3C%3Ck) 
+，这个数就是2进制表示下的一组本征解（ !**1<<k**(https://www.zhihu.com/equation?tex=1%3C%3Ck) 
 
-）。 ![n](https://www.zhihu.com/equation?tex=n) 
+）。 !**n**(https://www.zhihu.com/equation?tex=n) 
 
-比起 ![a](https://www.zhihu.com/equation?tex=a) 
+比起 !**a**(https://www.zhihu.com/equation?tex=a) 
 
 来说要好表示的多。
 
  
 
-其次， ![n-b](https://www.zhihu.com/equation?tex=n-b) 
+其次， !**n-b**(https://www.zhihu.com/equation?tex=n-b) 
 
 这个减法也好算的多。实际上，我们会有类似这样的算法笔试题：
 
  
 
-用bit operation计算 ![n-b](https://www.zhihu.com/equation?tex=n-b) 
+用bit operation计算 !**n-b**(https://www.zhihu.com/equation?tex=n-b) 
 
 。
 
  
 
-![n-b](https://www.zhihu.com/equation?tex=n-b) 
+!**n-b**(https://www.zhihu.com/equation?tex=n-b) 
 
-的技巧无非是，首先注意到 ![n](https://www.zhihu.com/equation?tex=n) 
+的技巧无非是，首先注意到 !**n**(https://www.zhihu.com/equation?tex=n) 
 
-只有最高位是1。把 ![n](https://www.zhihu.com/equation?tex=n) 
+只有最高位是1。把 !**n**(https://www.zhihu.com/equation?tex=n) 
 
 的traliling 0 变成1， 用这些全部的1去减一个（位数比自己小的）数，得到的结果很简单：
 
@@ -1794,23 +1758,23 @@ going to become a more important tool in system programming.
 
  
 
-![b](https://www.zhihu.com/equation?tex=b) 
+!**b**(https://www.zhihu.com/equation?tex=b) 
 
 中的1被1减，就得到0；0被1减，还是1。不存在任何借位的问题。这就是为什么
 
-![n-b](https://www.zhihu.com/equation?tex=n-b) 
+!**n-b**(https://www.zhihu.com/equation?tex=n-b) 
 
 好算了。
 
  
 
-那么，如何把 ![n](https://www.zhihu.com/equation?tex=n) 
+那么，如何把 !**n**(https://www.zhihu.com/equation?tex=n) 
 
 的traliling 0 全部变成1呢？
 
  
 
-就是 ![n-1](https://www.zhihu.com/equation?tex=n-1) 
+就是 !**n-1**(https://www.zhihu.com/equation?tex=n-1) 
 
 了。这是2进制中翻转trailing 0的最好的做法。当然此做法同时把最低位的1变成了0。如果你不想这么做的话，你可以再和n 做一个or运算即可。
 
@@ -1824,19 +1788,19 @@ going to become a more important tool in system programming.
 
  
 
-![n-1-b](https://www.zhihu.com/equation?tex=n-1-b) 
+!**n-1-b**(https://www.zhihu.com/equation?tex=n-1-b) 
 
  
 
-为了正确计算 ![n-b](https://www.zhihu.com/equation?tex=n-b)
+为了正确计算 !**n-b**(https://www.zhihu.com/equation?tex=n-b)
 
  
 
-注意到 ![n-1-b+1=n-b](https://www.zhihu.com/equation?tex=n-1-b%2B1%3Dn-b)
+注意到 !**n-1-b+1=n-b**(https://www.zhihu.com/equation?tex=n-1-b%2B1%3Dn-b)
 
  
 
-因此，我们计算 ![n-b](https://www.zhihu.com/equation?tex=n-b) 
+因此，我们计算 !**n-b**(https://www.zhihu.com/equation?tex=n-b) 
 
 的过程就是，把b每一位翻转，剩余的高位全部补1，最后再加1。当然，为了区别他和普通的正数，最高位置1。
 
@@ -1847,20 +1811,18 @@ going to become a more important tool in system programming.
  
 
  
+<br>**问题**:A. Zangwill 的 Modern Electrodynamics 怎么样？
 
-[问题]:A. Zangwill 的 Modern Electrodynamics 怎么样？
-
-[答案]: 经典电磁学这玩意几十年没变过了，不存在什么“更现代更友好”。
+**答案**: 经典电磁学这玩意几十年没变过了，不存在什么“更现代更友好”。
 
 这种硬硬的东西就是要硬着啃
 
  
 
  
+<br>**问题**:Airbnb 既不高频也不刚需，由此来看，能否说高频刚需不一定是 O2O 成功的条件？
 
-[问题]:Airbnb 既不高频也不刚需，由此来看，能否说高频刚需不一定是 O2O 成功的条件？
-
-[答案]:Airbnb 在中国很难成功吧。 
+**答案**:Airbnb 在中国很难成功吧。 
 
 美国人房子大而且没事干。 
 
@@ -1875,10 +1837,9 @@ going to become a more important tool in system programming.
  
 
  
+<br>**问题**:AlphaGo 与李世石的对战会推动人类的极限还是机器学习的进步和觉醒？(1)
 
-[问题]:AlphaGo 与李世石的对战会推动人类的极限还是机器学习的进步和觉醒？(1)
-
-[答案]: 很早以前人类也不相信汽车跑的可以比马快
+**答案**: 很早以前人类也不相信汽车跑的可以比马快
 
  
 
@@ -1891,10 +1852,9 @@ going to become a more important tool in system programming.
  
 
  
+<br>**问题**:AlphaGo 与李世石的对战会推动人类的极限还是机器学习的进步和觉醒？
 
-[问题]:AlphaGo 与李世石的对战会推动人类的极限还是机器学习的进步和觉醒？
-
-[答案]: 其实反映的不是AI的智商会挑战人，超过人
+**答案**: 其实反映的不是AI的智商会挑战人，超过人
 
 而是DEEPMIND那一群科学家和FAIR的哪一些科学家（YUANDONG TIAN）等，他们的智商挑战了人，超过了人。。 
 
@@ -1915,26 +1875,23 @@ going to become a more important tool in system programming.
  
 
  
+<br>**问题**:andrew shen是谁？
 
-[问题]:andrew shen是谁？
-
-[答案]: 你们不要黑他。他很萌的
-
- 
-
- 
-
-[问题]:Apple Music 为什么没有歌词？
-
-[答案]: 美国电影也没有字幕。可能是美国人从小训练听力吧
+**答案**: 你们不要黑他。他很萌的
 
  
 
  
+<br>**问题**:Apple Music 为什么没有歌词？
 
-[问题]:Apple Pay 联合银联正式宣布入华，这对国内移动支付将有怎样的影响？
+**答案**: 美国电影也没有字幕。可能是美国人从小训练听力吧
 
-[答案]:Apple Pay 起码从技术角度告诉某个国家的某些银行，每次付款时需要发短信验证码确认，电话确认，U盾确认，IE 安全控件确认，Windows
+ 
+
+ 
+<br>**问题**:Apple Pay 联合银联正式宣布入华，这对国内移动支付将有怎样的影响？
+
+**答案**:Apple Pay 起码从技术角度告诉某个国家的某些银行，每次付款时需要发短信验证码确认，电话确认，U盾确认，IE 安全控件确认，Windows
 
 安全组件确认的时代，已经一去不复返了；而不论这个国家的盗贼多么横行，盗刷多么猖獗，民智多么未开，Windows XP多么风靡。 
 
@@ -1951,10 +1908,9 @@ Pay 才是真正意义上便捷并且自带主动安全的支付服务：退位�
  
 
  
+<br>**问题**:Apple Pencil 不用时可以放在哪里？
 
-[问题]:Apple Pencil 不用时可以放在哪里？
-
-[答案]: 放在抽屉里。。
+**答案**: 放在抽屉里。。
 
 自带配重，不会滚。 
 
@@ -1963,20 +1919,18 @@ Pay 才是真正意义上便捷并且自带主动安全的支付服务：退位�
  
 
  
+<br>**问题**:Apple Pencil为何缺货这么严重？
 
-[问题]:Apple Pencil为何缺货这么严重？
-
-[答案]:=苹果首先让你认识到，就算没有笔iPad pro 也很好用。然后再给你笔。这样你退货的概率就小了很多。 
+**答案**:=苹果首先让你认识到，就算没有笔iPad pro 也很好用。然后再给你笔。这样你退货的概率就小了很多。 
 
 再就是良品率肯定还不高
 
  
 
  
+<br>**问题**:Apple Pippin 为何失败，为什么苹果公司不再做家用游戏主机？
 
-[问题]:Apple Pippin 为何失败，为什么苹果公司不再做家用游戏主机？
-
-[答案]: 苹果的主机完全胜任游戏，只是MAC上跑的游戏比较少。自从推出APP
+**答案**: 苹果的主机完全胜任游戏，只是MAC上跑的游戏比较少。自从推出APP
 
 STORE，这个局面正在改变。可以说，苹果不但要做游戏主机，他还要向CONSOLE公司例如任天堂，索尼那样，垄断游戏的发行市场
 
@@ -1985,18 +1939,16 @@ STORE，这个局面正在改变。可以说，苹果不但要做游戏主机，
  
 
  
+<br>**问题**:Apple Watch 2什么时候发布？
 
-[问题]:Apple Watch 2什么时候发布？
-
-[答案]:苹果正在绞尽脑汁想办法设计一款增量硬件更新Apple watch 2 ，使得购买者必须首先获得Apple watch 1. 否则如何卖的出去啊我的亲娘
-
- 
+**答案**:苹果正在绞尽脑汁想办法设计一款增量硬件更新Apple watch 2 ，使得购买者必须首先获得Apple watch 1. 否则如何卖的出去啊我的亲娘
 
  
 
-[问题]:Apple Watch 一天预订量超 Android 手表全年销量，为什么？
+ 
+<br>**问题**:Apple Watch 一天预订量超 Android 手表全年销量，为什么？
 
-[答案]:Apple Watch/Android Watch = Android Watch/Microsoft windows watch. 
+**答案**:Apple Watch/Android Watch = Android Watch/Microsoft windows watch. 
 
  
 
@@ -2013,10 +1965,9 @@ also, Apple Watch/Android Watch >> 1
  
 
  
+<br>**问题**:Apple Watch 上会产生什么样的「杀手级应用」？
 
-[问题]:Apple Watch 上会产生什么样的「杀手级应用」？
-
-[答案]: 打飞机比赛。
+**答案**: 打飞机比赛。
 
 通过apple watch记录你自己打飞机的频率，速度，时间等等。打完一次可以和周围的人排名比较。比如，你今天的飞机击败了99%的中国人之类。 
 
@@ -2033,36 +1984,32 @@ watch的实时数据产生相应的握力，速度， 方向。让你爽，爽�
  
 
  
+<br>**问题**:Apple Watch 为何使用配对动画的方式来配对？
 
-[问题]:Apple Watch 为何使用配对动画的方式来配对？
-
-[答案]: 不这样怎么骗人去买？
-
- 
+**答案**: 不这样怎么骗人去买？
 
  
 
-[问题]:Apple WATCH 到底应该拿来作什么？
+ 
+<br>**问题**:Apple WATCH 到底应该拿来作什么？
 
-[答案]: 装饰自己的手。
+**答案**: 装饰自己的手。
 
 那黑黑的屏幕多好看！
 
  
 
  
+<br>**问题**:Apple Watch 区分手指触碰类型的 Force Touch 技术是何工作原理？
 
-[问题]:Apple Watch 区分手指触碰类型的 Force Touch 技术是何工作原理？
-
-[答案]:反正那些觉得不如moto 360的人不会关心这种问题。。
-
- 
+**答案**:反正那些觉得不如moto 360的人不会关心这种问题。。
 
  
 
-[问题]:Apple Watch 的使用体验如何？
+ 
+<br>**问题**:Apple Watch 的使用体验如何？
 
-[答案]: 因为贵，所以买的人一定说好。否则不是自己打脸吗。pingguo果然高。
+**答案**: 因为贵，所以买的人一定说好。否则不是自己打脸吗。pingguo果然高。
 
 有几个问题是显而易见的： 
 
@@ -2085,10 +2032,9 @@ watch的实时数据产生相应的握力，速度， 方向。让你爽，爽�
  
 
  
+<br>**问题**:Apple Watch会不会是下一款革命性产品？
 
-[问题]:Apple Watch会不会是下一款革命性产品？
-
-[答案]: 显然是。你们还在关注他的电子性能，软件能力，移动理念？过时了。
+**答案**: 显然是。你们还在关注他的电子性能，软件能力，移动理念？过时了。
 
 自己不知道罢了。 
 
@@ -2121,26 +2067,23 @@ car的预言杖，粗糙钢铁工业的终结者，冶金和表链行业的嗜�
  
 
  
+<br>**问题**:Apple 为什么要以 Photos 应用取代 OS X 的 iPhoto 和 Aperture？
 
-[问题]:Apple 为什么要以 Photos 应用取代 OS X 的 iPhoto 和 Aperture？
-
-[答案]: 她放弃了？我怎么不知道。。。
-
- 
-
- 
-
-[问题]:Apple 的下划线避开 descender 的效果是如何做到的？
-
-[答案]: 微软反正做不到
+**答案**: 她放弃了？我怎么不知道。。。
 
  
 
  
+<br>**问题**:Apple 的下划线避开 descender 的效果是如何做到的？
 
-[问题]:Apple, Google and Microsoft
+**答案**: 微软反正做不到
 
-[答案]:
+ 
+
+ 
+<br>**问题**:Apple, Google and Microsoft
+
+**答案**:
 
  
 
@@ -2165,10 +2108,9 @@ program. So indeed Ms Office is much better than google docs.
  
 
  
+<br>**问题**:AVL Tree Python module with testing
 
-[问题]:AVL Tree Python module with testing
-
-[答案]:AVL Tree implementation with recursive addition/deletion + iterator, print and
+**答案**:AVL Tree implementation with recursive addition/deletion + iterator, print and
 
 in method override 
 
@@ -2618,7 +2560,7 @@ in method override
 
 ​    def __inorder(self):
 
-​      lst=[]
+​      lst=****
 
 ​      if not self.root:
 
@@ -2658,7 +2600,7 @@ in method override
 
   
 
-​      result=[]
+​      result=****
 
   
 
@@ -2690,11 +2632,11 @@ in method override
 
 ​        if level>=len(result):
 
-​          result.append([])
+​          result.append(****)
 
   
 
-​        result[level].append(str(node.val))
+​        result**level**.append(str(node.val))
 
   
 
@@ -2732,7 +2674,7 @@ in method override
 
   
 
-​      return "\n".join([",".join(each) for each in result])
+​      return "\n".join(**",".join(each) for each in result**)
 
   
 
@@ -2764,7 +2706,7 @@ in method override
 
   
 
-  lst=sample([x for x in range(k)],k)
+  lst=sample(**x for x in range(k)**,k)
 
   
 
@@ -2802,7 +2744,7 @@ in method override
 
   
 
-  lst=sample([x for x in range(k)],k)
+  lst=sample(**x for x in range(k)**,k)
 
   
 
@@ -2833,16 +2775,14 @@ in method override
  
 
  
-
-[问题]: A磁铁的正极吸引B磁铁的负极，为什么不会因为排斥B磁铁的正极而不吸引B磁铁？
-[答案]: 欲辩已忘言。咱们看看图吧
-
- 
+<br>**问题**: A磁铁的正极吸引B磁铁的负极，为什么不会因为排斥B磁铁的正极而不吸引B磁铁？
+**答案**: 欲辩已忘言。咱们看看图吧
 
  
 
-[问题]: Baidu和Google的区别何在
-[答案]: 最近一直有人说，GOOGLE和BAIDU区别何在？都是靠广告赚钱的搜索引擎啊。技术无罪，搜索引擎不该背锅。直到最近连BAIDU
+ 
+<br>**问题**: Baidu和Google的区别何在
+**答案**: 最近一直有人说，GOOGLE和BAIDU区别何在？都是靠广告赚钱的搜索引擎啊。技术无罪，搜索引擎不该背锅。直到最近连BAIDU
 
 CEO的北大同学都站出来黑他了（ 搜房网CEO致李彦宏公开信 百度收了搜房千万“保护费”?-新华网 _ _
 
@@ -2909,59 +2849,52 @@ BAIDU祝你玩的愉快！
  
 
  
+<br>**问题**:BAT 的境界与谷歌、Facebook 的差距在哪？
 
-[问题]:BAT 的境界与谷歌、Facebook 的差距在哪？
-
-[答案]:差距在996的工作制度，薪资社会福利，政府控制和面试的难度上=难怪吧轮子都逼走了，winter 也差不多了
-
- 
+**答案**:差距在996的工作制度，薪资社会福利，政府控制和面试的难度上=难怪吧轮子都逼走了，winter 也差不多了
 
  
 
-[问题]:BAT 的实习工资有多少？可以议价吗？
+ 
+<br>**问题**:BAT 的实习工资有多少？可以议价吗？
 
-[答案]: 很多了。。。。。
+**答案**: 很多了。。。。。
 
 美帝也是6000一个月啊。。
 
  
 
  
+<br>**问题**:Berkeley Coop提供的房子怎么样
 
-[问题]:Berkeley Coop提供的房子怎么样
-
-[答案]:就一个summer ... 挤挤不好吗
-
- 
-
- 
-
-[问题]: bhuztez为什么选择从大学退学？
-[答案]: 短发女人也有她的性感和可爱。
+**答案**:就一个summer ... 挤挤不好吗
 
  
 
  
-
-[问题]:Bittersweet如何翻译简洁恰当 又不损它本来的意境？
-
-[答案]: 码农的工资
+<br>**问题**: bhuztez为什么选择从大学退学？
+**答案**: 短发女人也有她的性感和可爱。
 
  
 
  
+<br>**问题**:Bittersweet如何翻译简洁恰当 又不损它本来的意境？
 
-[问题]:Build2014 调试那架钢琴意味着什么？
+**答案**: 码农的工资
 
-[答案]:微软可以先说服所有的atm机装上他这个最新的嵌入式系统windows 8.1，再谈其他。。
+ 
+
+ 
+<br>**问题**:Build2014 调试那架钢琴意味着什么？
+
+**答案**:微软可以先说服所有的atm机装上他这个最新的嵌入式系统windows 8.1，再谈其他。。
 
  
 
  
+<br>**问题**:C C++ Python哪个更适合新手？
 
-[问题]:C C++ Python哪个更适合新手？
-
-[答案]: C++毫无悬念的被排除了。这不是因为轮子，而是因为这不是一门可以被学习的语言。C++是一门工程语言，以后你有钱了可以买本字典每天好好学。
+**答案**: C++毫无悬念的被排除了。这不是因为轮子，而是因为这不是一门可以被学习的语言。C++是一门工程语言，以后你有钱了可以买本字典每天好好学。
 
  
 
@@ -2976,10 +2909,9 @@ BAIDU祝你玩的愉快！
  
 
  
+<br>**问题**:c++ object model 1
 
-[问题]:c++ object model 1
-
-[答案]:
+**答案**:
 
  
 
@@ -3206,10 +3138,9 @@ class 的member乃至 member function。那么对于每一个函数，编译器�
  
 
  
+<br>**问题**:C++ 里删delete指针两次会怎么样？
 
-[问题]:C++ 里删delete指针两次会怎么样？
-
-[答案]: 记一次面试：
+**答案**: 记一次面试：
 
 在GOOGLE面试的时候，高级工程师问完我倒置悬挂交替二叉树的解法后，又饶有兴致地问道： 
 
@@ -3234,17 +3165,15 @@ CODE上可没有，我完全没有办法准备过啊。我恼羞成怒，内心�
  
 
  
+<br>**问题**: C++11引入了哪些让人难忘的坑？
 
-[问题]: C++11引入了哪些让人难忘的坑？
-
-[答案]:What a language fucked by shitty programmers
-
- 
+**答案**:What a language fucked by shitty programmers
 
  
 
-[问题]: C++primer中一个疑似错误？
-[答案]: 只要强势就好了管他精不精。。
+ 
+<br>**问题**: C++primer中一个疑似错误？
+**答案**: 只要强势就好了管他精不精。。
 
 从这类错误占的比例来看，对于代码书都要看中文版的人来说，这辈子离学写程序也算是无缘了。 
 
@@ -3255,9 +3184,8 @@ CODE上可没有，我完全没有办法准备过啊。我恼羞成怒，内心�
  
 
  
-
-[问题]: C++真的穷途末路了？
-[答案]: c++当然是威力强大。但创造性的工作，越来越多的使用语法简介的语言例如python，ruby来干了。ruby的理念不是改变程序员的思考模式么。python的简洁到了深处也真的成了一种改变思想的美。如果数学不美，那没人愿意学。说的就是这个道理。
+<br>**问题**: C++真的穷途末路了？
+**答案**: c++当然是威力强大。但创造性的工作，越来越多的使用语法简介的语言例如python，ruby来干了。ruby的理念不是改变程序员的思考模式么。python的简洁到了深处也真的成了一种改变思想的美。如果数学不美，那没人愿意学。说的就是这个道理。
 
  
 
@@ -3270,19 +3198,17 @@ CODE上可没有，我完全没有办法准备过啊。我恼羞成怒，内心�
  
 
  
-
-[问题]: c++菜鸟关于上课一道例题中private的疑问，求解惑？
-[答案]: 果粉来答题：
+<br>**问题**: c++菜鸟关于上课一道例题中private的疑问，求解惑？
+**答案**: 果粉来答题：
 
 Private or public 作用的是class scope。然而你们现在显然在同一个class scope 里，所以是可见的
 
  
 
  
+<br>**问题**:Caffe 和 Torch 谁比较厉害？为什么谷歌、脸谱等公司不用开源的基于C++的 Caffe 呢？
 
-[问题]:Caffe 和 Torch 谁比较厉害？为什么谷歌、脸谱等公司不用开源的基于C++的 Caffe 呢？
-
-[答案]: 我觉得这个问题没有Torch的作者出来回答是很不合适的。但他们可能不上知乎
+**答案**: 我觉得这个问题没有Torch的作者出来回答是很不合适的。但他们可能不上知乎
 
  
 
@@ -3303,10 +3229,9 @@ Private or public 作用的是class scope。然而你们现在显然在同一个
  
 
  
+<br>**问题**:Change of Plan
 
-[问题]:Change of Plan
-
-[答案]: 本着学与用相结合的态度，我们决定下周直接从第十章看起；目标是2周内看到第十六章。
+**答案**: 本着学与用相结合的态度，我们决定下周直接从第十章看起；目标是2周内看到第十六章。
 
  
 
@@ -3331,36 +3256,32 @@ Week 1 Note | Slack _ _
  
 
  
+<br>**问题**:Chromebook Pixel 2015的硬件水准是否超越了很多笔记本？
 
-[问题]:Chromebook Pixel 2015的硬件水准是否超越了很多笔记本？
-
-[答案]:超越苹果我不知道。超越Lenovo thinkpad 全系列我觉得是做到了。Lenovo thinkpad 所有打折扣的型号你去看，不是上一代core
+**答案**:超越苹果我不知道。超越Lenovo thinkpad 全系列我觉得是做到了。Lenovo thinkpad 所有打折扣的型号你去看，不是上一代core
 
 就是i5，i7中的脑残配置，就是HDD硬盘，就是4GB上一代内存（1033MHZ，1333MHZ，etc ) 。联想已经俨然成长为小白用户欺骗专家。
 
  
 
  
+<br>**问题**:Computer Science 这门学科更像 Mathematics 还是 Physics？
 
-[问题]:Computer Science 这门学科更像 Mathematics 还是 Physics？
-
-[答案]:CS is math experiment in a computer
-
- 
-
- 
-
-[问题]:Coursera 上的 Data Scientist Specialist 的训练效果如何？
-
-[答案]:Apply for Berkeley data science program. Thx
+**答案**:CS is math experiment in a computer
 
  
 
  
+<br>**问题**:Coursera 上的 Data Scientist Specialist 的训练效果如何？
 
-[问题]: CS专业留学生毕业之后留美的难度有多大？
+**答案**:Apply for Berkeley data science program. Thx
 
-[答案]:CS 专业据我所知，如果你是第一阶梯CS 专业大神phd , 例如CMU , Stanford , MIT , Berkeley ,
+ 
+
+ 
+<br>**问题**: CS专业留学生毕业之后留美的难度有多大？
+
+**答案**:CS 专业据我所知，如果你是第一阶梯CS 专业大神phd , 例如CMU , Stanford , MIT , Berkeley ,
 
 学习视觉，机器学习，AI，数据库，算法，搜索之类的，你找不到20W加（含package）的flag
 
@@ -3519,24 +3440,21 @@ Data Scientist, Data Engineer, Data Science Engineer。至于这些所谓的Data
  
 
  
-
-[问题]: CVPR2015几个组提交的关于图像描述的文章，不知道大家看了有什么感想？
-[答案]: 我没看。但我的感想是水平不够高的还是去当码农好了。码农都当不了的还是去种菜吧
-
- 
-
- 
-
-[问题]:C语言为什么要有 main 函数？具体作用是什么？
-
-[答案]:CLI 程序运行的入口
+<br>**问题**: CVPR2015几个组提交的关于图像描述的文章，不知道大家看了有什么感想？
+**答案**: 我没看。但我的感想是水平不够高的还是去当码农好了。码农都当不了的还是去种菜吧
 
  
 
  
+<br>**问题**:C语言为什么要有 main 函数？具体作用是什么？
 
-[问题]: D.E.shaw的科研内容与水平？
-[答案]: 我认识一个"清北天才"在里面，年薪100万刀。
+**答案**:CLI 程序运行的入口
+
+ 
+
+ 
+<br>**问题**: D.E.shaw的科研内容与水平？
+**答案**: 我认识一个"清北天才"在里面，年薪100万刀。
 
 科研内容应该还是有货，水平还是很高的吧。 
 
@@ -3547,10 +3465,9 @@ Data Scientist, Data Engineer, Data Science Engineer。至于这些所谓的Data
  
 
  
+<br>**问题**:Dict(hashtable, Map) implementation in python
 
-[问题]:Dict(hashtable, Map) implementation in python
-
-[答案]:简单粗暴，但是基本还原了python 关于dict类的实现：
+**答案**:简单粗暴，但是基本还原了python 关于dict类的实现：
 
  
 
@@ -3606,7 +3523,7 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      self.itemsize=0
 
-​      self.itemarray=[-1]*self.arraysize
+​      self.itemarray=**-1***self.arraysize
 
   
 
@@ -3626,7 +3543,7 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
   
 
-​      self.itemarray=[-1]*newsize
+​      self.itemarray=**-1***newsize
 
   
 
@@ -3636,9 +3553,9 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      for i in range(oldsize):
 
-​        if oldarray[i]!=-1:
+​        if oldarray**i**!=-1:
 
-​          self.put(oldarray[i].key,oldarray[i].value)
+​          self.put(oldarray**i**.key,oldarray**i**.value)
 
   
 
@@ -3656,9 +3573,9 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      position=self.hashing(key)
 
-​      if self.itemarray[position]==-1:
+​      if self.itemarray**position**==-1:
 
-​        self.itemarray[position]=Item(key,value)
+​        self.itemarray**position**=Item(key,value)
 
 ​         self.itemsize=1+self.itemsize
 
@@ -3672,17 +3589,17 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​        while True:
 
-​          if self.itemarray[nextposition]==-1:
+​          if self.itemarray**nextposition**==-1:
 
-​            self.itemarray[nextposition]=Item(key,value)
+​            self.itemarray**nextposition**=Item(key,value)
 
 ​            self.itemsize=1+self.itemsize
 
 ​            return
 
-​          elif self.itemarray[nextposition].key==key:
+​          elif self.itemarray**nextposition**.key==key:
 
-​            self.itemarray[nextposition].value=value
+​            self.itemarray**nextposition**.value=value
 
 ​            return
 
@@ -3726,7 +3643,7 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      position=self.hashing(key)
 
-​      if self.itemarray[position]==-1:
+​      if self.itemarray**position**==-1:
 
 ​        return None
 
@@ -3738,13 +3655,13 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​        while True:
 
-​          if self.itemarray[nextposition]==-1:
+​          if self.itemarray**nextposition**==-1:
 
 ​            return None
 
-​          elif self.itemarray[nextposition].key==key:
+​          elif self.itemarray**nextposition**.key==key:
 
-​            return self.itemarray[position].value
+​            return self.itemarray**position**.value
 
   
 
@@ -3790,7 +3707,7 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      position=self.hashing(key)
 
-​      if self.itemarray[position]==-1:
+​      if self.itemarray**position**==-1:
 
 ​        raise KeyError("%s does not exist" % key)
 
@@ -3802,13 +3719,13 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​        while True:
 
-​          if self.itemarray[nextposition]==-1:
+​          if self.itemarray**nextposition**==-1:
 
 ​            raise KeyError("%s does not exist" % key)
 
-​          elif self.itemarray[nextposition].key==key:
+​          elif self.itemarray**nextposition**.key==key:
 
-​            self.itemarray[nextposition]=-1
+​            self.itemarray**nextposition**=-1
 
 ​            self.itemsize=self.itemsize-1
 
@@ -3828,9 +3745,9 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      for i in range(self.arraysize):
 
-​        if self.itemarray[i]!=-1:
+​        if self.itemarray**i**!=-1:
 
-​          yield self.itemarray[i].key
+​          yield self.itemarray**i**.key
 
   
 
@@ -3842,9 +3759,9 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​      for i in range(self.arraysize):
 
-​        if self.itemarray[i]!=-1:
+​        if self.itemarray**i**!=-1:
 
-​          yield self.itemarray[i].value
+​          yield self.itemarray**i**.value
 
   
 
@@ -3860,31 +3777,31 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
   
 
-  hs["man"]='adman22'
+  hs**"man"**='adman22'
 
   
 
-  hs["man2"]='adman'
+  hs**"man2"**='adman'
 
   
 
-  hs["man3"]='adman'
+  hs**"man3"**='adman'
 
   
 
-  hs["man4"]='adman'
+  hs**"man4"**='adman'
 
   
 
-  hs["man5"]='adman'
+  hs**"man5"**='adman'
 
   
 
-  hs["man6"]='adman'
+  hs**"man6"**='adman'
 
   
 
-  hs["man7"]='adman'
+  hs**"man7"**='adman'
 
   
 
@@ -3900,7 +3817,7 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
 
 ​    print(i in hs)
 
-​    print(hs[i])
+​    print(hs**i**)
 
   
 
@@ -3911,25 +3828,22 @@ open addressing, (random) probing (这里是quadratic), array resizing. yield �
  
 
  
-
-[问题]: DJI大疆能成为像苹果一样，把无人机变成像iPhone一样伟大的产品么？
-[答案]: 第一个做手机的是摩托罗拉。第一个死得更早。。
-
- 
-
- 
-
-[问题]:electromagnetic emission和electromagnetic radiation是一样还是不一样的概念？
-
-[答案]:emission 发出的东西叫做 radiation
+<br>**问题**: DJI大疆能成为像苹果一样，把无人机变成像iPhone一样伟大的产品么？
+**答案**: 第一个做手机的是摩托罗拉。第一个死得更早。。
 
  
 
  
+<br>**问题**:electromagnetic emission和electromagnetic radiation是一样还是不一样的概念？
 
-[问题]:Elon Musk 所说的「物理学的思考方法」是什么意思？
+**答案**:emission 发出的东西叫做 radiation
 
-[答案]: 他扯淡了。物理学大部分的本质士通过analogy来解释新的现象，从而获得新的洞见。当然是既有analogy，又有difference。
+ 
+
+ 
+<br>**问题**:Elon Musk 所说的「物理学的思考方法」是什么意思？
+
+**答案**: 他扯淡了。物理学大部分的本质士通过analogy来解释新的现象，从而获得新的洞见。当然是既有analogy，又有difference。
 
 即便是quantum
 
@@ -3942,28 +3856,25 @@ musk 说的仅仅是某些人的analogy比另一些人的analogy更加fundamenta
  
 
  
+<br>**问题**:Episcopal Academy是一所怎样的学校？
 
-[问题]:Episcopal Academy是一所怎样的学校？
-
-[答案]: .........whatever了。。。很多事情不是一定要知道大家对他的看法的。特别是zhihu又不是一个精英团队。你去问社会上真正的精英，各行各业真正的精英，他们不但能给你回答，还能给你更多的机会（前提是你得高中毕业，你现在想的太多了，自欺欺人，自恋。多读一读郭敬明未来的生活会充实些；改革开放前20年的那群高中生只知道刷题，现在人家大部分在美国混的好好的，也没死啊？）
-
- 
+**答案**: .........whatever了。。。很多事情不是一定要知道大家对他的看法的。特别是zhihu又不是一个精英团队。你去问社会上真正的精英，各行各业真正的精英，他们不但能给你回答，还能给你更多的机会（前提是你得高中毕业，你现在想的太多了，自欺欺人，自恋。多读一读郭敬明未来的生活会充实些；改革开放前20年的那群高中生只知道刷题，现在人家大部分在美国混的好好的，也没死啊？）
 
  
 
-[问题]:e租宝拖欠700亿元, 我们该怎么办
+ 
+<br>**问题**:e租宝拖欠700亿元, 我们该怎么办
 
-[答案]: 不劳而获的思想始终是不可取的。
+**答案**: 不劳而获的思想始终是不可取的。
 
 爬上门槛吧
 
  
 
  
+<br>**问题**:Facebook Edgerank 的算法是什么？
 
-[问题]:Facebook Edgerank 的算法是什么？
-
-[答案]:Feed/ranking 内部似乎不叫edge
+**答案**:Feed/ranking 内部似乎不叫edge
 
 rank。内部工具迭代比较快，需求比较多，可获取的用户数据和方法很牛逼，计算流程很先进，计算器很强大。当然，基本理念就是上面所说的ML的方法罢了。我相信提取feature
 
@@ -3974,18 +3885,16 @@ rank。内部工具迭代比较快，需求比较多，可获取的用户数据�
  
 
  
+<br>**问题**:Facebook 允许 Google 对其移动应用内容进行搜索，对这两家公司来说各有怎样的价值？
 
-[问题]:Facebook 允许 Google 对其移动应用内容进行搜索，对这两家公司来说各有怎样的价值？
-
-[答案]:让更多的人用Facebook search，从而让更多的人去Facebook 用 search。诡计。
-
- 
+**答案**:让更多的人用Facebook search，从而让更多的人去Facebook 用 search。诡计。
 
  
 
-[问题]:Facebook 和 Google 究竟有没有刻意封禁wikileaks？
+ 
+<br>**问题**:Facebook 和 Google 究竟有没有刻意封禁wikileaks？
 
-[答案]: 看到Caffe1.0及2.0作者贾扬清大神也来“玄学洗地”
+**答案**: 看到Caffe1.0及2.0作者贾扬清大神也来“玄学洗地”
 
 ——也就是，虽然我也不知道当时算法上具体发生了什么，但你们这些数学本科没毕业机器学习发不了顶会paper的都别班门弄斧在这里胡说八道了，全听我一个人来解释——我就知道这件事来头不小：确实能够让贾神发怒，才会有这么完全不顾自己形象，在当爹的时候还如此激动甚至带有讽刺、嘲笑、轻蔑、诋毁他人智商的措辞。这完全偏离了我们心目中一个一个成功人士该有的大智若愚，温文尔雅。
 
@@ -4044,10 +3953,9 @@ Facebook拥有用户的全部数据，在权力和计算能力上和用户相比
  
 
  
+<br>**问题**:Facebook 的用户体验有哪些值得吐槽的地方？
 
-[问题]:Facebook 的用户体验有哪些值得吐槽的地方？
-
-[答案]: 由此可见FB并不是一个优秀的前端网站。
+**答案**: 由此可见FB并不是一个优秀的前端网站。
 
 他还没办法做到按照地域进行个性化，特别是亚洲人的个性化。 
 
@@ -4072,10 +3980,9 @@ Facebook拥有用户的全部数据，在权力和计算能力上和用户相比
  
 
  
+<br>**问题**: Facebook正在研究人工智能的哪些方面？
 
-[问题]: Facebook正在研究人工智能的哪些方面？
-
-[答案]:Yuandong Tian 正在打算弄个大新闻 
+**答案**:Yuandong Tian 正在打算弄个大新闻 
 
 Yangqing Jia 正在打算帮他一起弄个大新闻 
 
@@ -4086,10 +3993,9 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
  
 
  
+<br>**问题**:find maximum in k-subarray
 
-[问题]:find maximum in k-subarray
-
-[答案]:一个巧妙的构造一个invariance structure的办法在线性时间内计算出一个数组的所有大小为k的子数组（连续）中的最大元素的算法。 
+**答案**:一个巧妙的构造一个invariance structure的办法在线性时间内计算出一个数组的所有大小为k的子数组（连续）中的最大元素的算法。 
 
  
 
@@ -4117,17 +4023,17 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
 
   
 
-​    queue=[]
+​    queue=****
 
   
 
-​    result=[]
+​    result=****
 
   
 
 ​    for i in range(k):
 
-​      while (queue and queue[-1]<a[i]):
+​      while (queue and queue**-1**<a**i**):
 
 ​        queue.pop()
 
@@ -4137,7 +4043,7 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
 
   
 
-​    result.append(a[queue[0]])
+​    result.append(a**queue**0****)
 
   
 
@@ -4145,13 +4051,13 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
 
   
 
-​      while queue and queue[0]<i-k+1: # remove elements that are outside the current k-size window. the largest number of last window may not be outside .
+​      while queue and queue**0**<i-k+1: # remove elements that are outside the current k-size window. the largest number of last window may not be outside .
 
 ​        queue.pop(0)
 
   
 
-​      while queue and a[queue[-1]]<a[i]: # only keep significant elements after the largest up to now. it means we keep a strickly decreasing queue for
+​      while queue and a**queue**-1****<a**i**: # only keep significant elements after the largest up to now. it means we keep a strickly decreasing queue for
 
 ​        \# numbers after the largest on the current k-size window.
 
@@ -4165,7 +4071,7 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
 
   
 
-​      result.append(a[queue[0]]) ## if this invariance is kept, then everytime the top of the queue tells you, the largest number of the current k-size window.
+​      result.append(a**queue**0****) ## if this invariance is kept, then everytime the top of the queue tells you, the largest number of the current k-size window.
 
   
 
@@ -4173,42 +4079,38 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
 
   
 
-  print(kmaximum([1, 2, 3, 1, 4, 5, 2, 3, 6],3))
+  print(kmaximum(**1, 2, 3, 1, 4, 5, 2, 3, 6**,3))
 
 ​     
 
  
 
  
-
-[问题]: FLAG等公司福利待遇和工作环境那么好，员工还有工作动力么？
-[答案]: 有。因为不工作就会被辞职
-
- 
-
- 
-
-[问题]:gaclib 在 Linux 中为什么要依赖gtk？
-
-[答案]:gay lib？
+<br>**问题**: FLAG等公司福利待遇和工作环境那么好，员工还有工作动力么？
+**答案**: 有。因为不工作就会被辞职
 
  
 
  
+<br>**问题**:gaclib 在 Linux 中为什么要依赖gtk？
 
-[问题]:gcc, g++对下面程序处理有什么不同啊？
+**答案**:gay lib？
 
-[答案]:你都说是const还能变？我说c＋＋ 的坑多吧。。。 
+ 
+
+ 
+<br>**问题**:gcc, g++对下面程序处理有什么不同啊？
+
+**答案**:你都说是const还能变？我说c＋＋ 的坑多吧。。。 
 
 要是java 你改变final 变量，编译器直接找麻烦找到你家去。
 
  
 
  
+<br>**问题**:go die这样用对吗？
 
-[问题]:go die这样用对吗？
-
-[答案]: 对
+**答案**: 对
 
 还有常用语： go work, go watch, go Tsinghua 
 
@@ -4217,10 +4119,9 @@ Yangqing Jia 正在打算帮他一起弄个大新闻
  
 
  
+<br>**问题**:Google DeepMind 与 Facebook AI Research 在研究方向上有何不同？
 
-[问题]:Google DeepMind 与 Facebook AI Research 在研究方向上有何不同？
-
-[答案]:谷歌的研究更principled, 接近微软。 
+**答案**:谷歌的研究更principled, 接近微软。 
 
 Facebook 主要从他们那里挖人。我也不知道是为什么被骗过去的= 
 
@@ -4241,18 +4142,16 @@ Mark 真是品味独特啊。
  
 
  
+<br>**问题**:Google Engineer 真的是不用 IDE 进行开发的吗？
 
-[问题]:Google Engineer 真的是不用 IDE 进行开发的吗？
-
-[答案]:反正facebook 不用。目测效率因此下跌了100%。但，facebook 的 php 工具应该世界第一了吧
-
- 
+**答案**:反正facebook 不用。目测效率因此下跌了100%。但，facebook 的 php 工具应该世界第一了吧
 
  
 
-[问题]:Google Labs 和 Google X 的区别是什么？
+ 
+<br>**问题**:Google Labs 和 Google X 的区别是什么？
 
-[答案]: 我反对所有人的答案。至于为什么请不要问我。
+**答案**: 我反对所有人的答案。至于为什么请不要问我。
 
 google labs是一个计算机科学的实验室； 
 
@@ -4313,36 +4212,32 @@ up做的都比他好，所以要收购。你羡慕google-x，我建议你羡慕�
  
 
  
+<br>**问题**:Google MV面试后选组应该怎么选，有没有内部人士知道哪些组比较好？
 
-[问题]:Google MV面试后选组应该怎么选，有没有内部人士知道哪些组比较好？
-
-[答案]: 大神透露下面试经验吧。。。
-
- 
+**答案**: 大神透露下面试经验吧。。。
 
  
 
-[问题]:Google X 前成员，赵勇是怎样一个人？
+ 
+<br>**问题**:Google X 前成员，赵勇是怎样一个人？
 
-[答案]:google x 里面的资深科学家都是资深啊。。。 
+**答案**:google x 里面的资深科学家都是资深啊。。。 
 
 资深的开发大牛。
 
  
 
  
+<br>**问题**:Google X 这个神秘的部门最近有哪些新动向？
 
-[问题]:Google X 这个神秘的部门最近有哪些新动向？
-
-[答案]: 改造世界，统治全球，打败微软。
-
- 
+**答案**: 改造世界，统治全球，打败微软。
 
  
 
-[问题]:Google 为什么收购 Waze，它在国内和国外的用户体验好吗？
+ 
+<br>**问题**:Google 为什么收购 Waze，它在国内和国外的用户体验好吗？
 
-[答案]:因为waze 比google 聪明，好用，有趣。 
+**答案**:因为waze 比google 聪明，好用，有趣。 
 
 几个简单的例子： waze 能导航半路根据前方路况改变路径；waze 能够奖励你提供路况信息或者开车历程；waze 可以和同路人建立朋友关系。等等。 
 
@@ -4371,10 +4266,9 @@ up做的都比他好，所以要收购。你羡慕google-x，我建议你羡慕�
  
 
  
+<br>**问题**:Google 无人驾驶汽车的发布意味着什么？
 
-[问题]:Google 无人驾驶汽车的发布意味着什么？
-
-[答案]: 实际上，google此举的意义不在于google变成了一个汽车制造商，或者变成了一个自动驾驶的设计师。google通过把人的“行”纳入自己的网络（之前已经有google
+**答案**: 实际上，google此举的意义不在于google变成了一个汽车制造商，或者变成了一个自动驾驶的设计师。google通过把人的“行”纳入自己的网络（之前已经有google
 
 maps），可以更加具体，细致的搜集和分析用户的信息，利用自己整合整个互联网的能力，将用户的出行信息进行归纳，给出：广告。。这样google就又赚大钱了。 
 
@@ -4391,12 +4285,11 @@ google立足于互联网的信息，致力于把全世界的具体信息都整�
  
 
  
+<br>**问题**:Google 无人驾驶汽车的环境侦测技术有何优越之处？
 
-[问题]:Google 无人驾驶汽车的环境侦测技术有何优越之处？
+**答案**: google的无人驾驶汽车主要用的技术有：
 
-[答案]: google的无人驾驶汽车主要用的技术有：
-
-![](https://pic4.zhimg.com/844fc922fed6a4e2b7da9bdcac8138e3_b.jpg) 
+!****(https://pic4.zhimg.com/844fc922fed6a4e2b7da9bdcac8138e3_b.jpg) 
 
 lidar，激光雷达；可以快速扫描周围360度的障碍物。激光雷达在空气中衰减很少（看波长，600-1000nm范围内的话），探测几公里是很正常的事。其主要原理是发射一个光学脉冲，通过探测其反射的一个来回的时间，确定障碍物的距离。根据反射之后的相位，波形等等建模还能分析障碍物的速度，形状，etc 
 
@@ -4415,10 +4308,9 @@ orientation sensor，转向探测器。主要是汽车自身定位和平衡用�
  
 
  
+<br>**问题**:Google 有哪些逆天的黑科技？
 
-[问题]:Google 有哪些逆天的黑科技？
-
-[答案]:黑科技就是通过大把的金钱收购start up然后把自己描述成能够拯救世界的科学狂人。 
+**答案**:黑科技就是通过大把的金钱收购start up然后把自己描述成能够拯救世界的科学狂人。 
 
 事实上，怎么可能呢？ 
 
@@ -4435,18 +4327,16 @@ orientation sensor，转向探测器。主要是汽车自身定位和平衡用�
  
 
  
+<br>**问题**:Google 现在还是一个对员工有足够吸引力的梦幻公司吗？
 
-[问题]:Google 现在还是一个对员工有足够吸引力的梦幻公司吗？
-
-[答案]: 早就不是了。
-
- 
+**答案**: 早就不是了。
 
  
 
-[问题]:Google 的 Android 为什么不自主开发一个内核而要用 Linux 内核？
+ 
+<br>**问题**:Google 的 Android 为什么不自主开发一个内核而要用 Linux 内核？
 
-[答案]:首先正面回答题主的问题：为什么android 选择Linux. Android 使用Linux 2.6作为内核主要有以下3各方面的原因： 
+**答案**:首先正面回答题主的问题：为什么android 选择Linux. Android 使用Linux 2.6作为内核主要有以下3各方面的原因： 
 
  
 
@@ -4601,10 +4491,9 @@ The list goes on.
  
 
  
+<br>**问题**:Google 的员工回复说身份受限不能申请该职位，什么意思？
 
-[问题]:Google 的员工回复说身份受限不能申请该职位，什么意思？
-
-[答案]:google已经成为许多人的 生活的寄托和希望。 
+**答案**:google已经成为许多人的 生活的寄托和希望。 
 
 人生真无聊。 
 
@@ -4613,40 +4502,35 @@ The list goes on.
  
 
  
+<br>**问题**:Google 的面试流程是怎样的？有什么心得？
 
-[问题]:Google 的面试流程是怎样的？有什么心得？
-
-[答案]: 是啊
-
- 
-
- 
-
-[问题]:Google 败诉后，Android 放弃 Java 的可能性有多大？
-
-[答案]: 希望google不要受到影响继续出钱支持基础研究。。。。。。到时候在硬件层面大牛了完爆了软oracle。。。
+**答案**: 是啊
 
  
 
  
+<br>**问题**:Google 败诉后，Android 放弃 Java 的可能性有多大？
 
-[问题]:Google和top hedge fund的developer offer如何选择？
-
-[答案]: 别的我不知道。我只知道金融才是人类文明的牛耳。其他就看待遇吧。
-
- 
-
- 
-
-[问题]: Google在中国地区访问困难，长期来看会导致它的搜索结果质量变差吗？
-[答案]: google完蛋了。
+**答案**: 希望google不要受到影响继续出钱支持基础研究。。。。。。到时候在硬件层面大牛了完爆了软oracle。。。
 
  
 
  
+<br>**问题**:Google和top hedge fund的developer offer如何选择？
 
-[问题]: Google这些年都在靠哪些业务营利？和百度的区别是？
-[答案]: 作者：小勃勃
+**答案**: 别的我不知道。我只知道金融才是人类文明的牛耳。其他就看待遇吧。
+
+ 
+
+ 
+<br>**问题**: Google在中国地区访问困难，长期来看会导致它的搜索结果质量变差吗？
+**答案**: google完蛋了。
+
+ 
+
+ 
+<br>**问题**: Google这些年都在靠哪些业务营利？和百度的区别是？
+**答案**: 作者：小勃勃
 
 链接： Baidu和Google的区别何在 - 知乎书馆 - 知乎专栏 
 
@@ -4709,10 +4593,9 @@ BAIDU祝你玩的愉快！
  
 
  
+<br>**问题**:GPU Boost3.0是如何工作的？它和Boost2.0的区别在哪？
 
-[问题]:GPU Boost3.0是如何工作的？它和Boost2.0的区别在哪？
-
-[答案]: 天哪，我这个平行宇宙的boost才到1.61啊，题主的怎么就3.0了。
+**答案**: 天哪，我这个平行宇宙的boost才到1.61啊，题主的怎么就3.0了。
 
  
 
@@ -4739,34 +4622,30 @@ Boost可以根据负载和温度自动调整GPU频率和电压。2.0下，如果
  
 
  
+<br>**问题**: Hass的在职读MBA录取要求是什么？感觉如何？
 
-[问题]: Hass的在职读MBA录取要求是什么？感觉如何？
-
-[答案]:UCB 也就靠这个项目提高逼哥了
-
- 
-
- 
-
-[问题]:IBM 为什么要跟 Apple 合力推出 MobileFirst for iOS 企业解决方案？
-
-[答案]:我现在就是很担心微软那些c# visual studio程序员该怎么办。你说去apple人家肯定不要你，objc都不会用。
+**答案**:UCB 也就靠这个项目提高逼哥了
 
  
 
  
+<br>**问题**:IBM 为什么要跟 Apple 合力推出 MobileFirst for iOS 企业解决方案？
 
-[问题]:IBM 成为 Apple 的分销商，能给后者带来多少销量？
+**答案**:我现在就是很担心微软那些c# visual studio程序员该怎么办。你说去apple人家肯定不要你，objc都不会用。
 
-[答案]:反正坐等微软翻船，一个只会开发visual studio的公司是没有前途的哈哈哈哈哈哈哈哈。
+ 
+
+ 
+<br>**问题**:IBM 成为 Apple 的分销商，能给后者带来多少销量？
+
+**答案**:反正坐等微软翻船，一个只会开发visual studio的公司是没有前途的哈哈哈哈哈哈哈哈。
 
  
 
  
+<br>**问题**:ibuick 卖的 Apple 设备的价格为何比官方的教育优惠价还要低？
 
-[问题]:ibuick 卖的 Apple 设备的价格为何比官方的教育优惠价还要低？
-
-[答案]: 没有人会做亏本的买卖。题主你首先要提高智商。你贪黑起早，努力工作，最后净利润是负，你当中国这些开宝马开奔驰的沿海城市富商们是傻子啊=。。他们现在的财富积累绝大多数就是因为我国还有相当于美国人口总数的，智商亟待开发，收入急需提高，但却特别爱面子贪小便宜的这些人们。你觉得你贪了小便宜，殊不知他们利用你这种心理给你卖假货赚了更多的钱。
+**答案**: 没有人会做亏本的买卖。题主你首先要提高智商。你贪黑起早，努力工作，最后净利润是负，你当中国这些开宝马开奔驰的沿海城市富商们是傻子啊=。。他们现在的财富积累绝大多数就是因为我国还有相当于美国人口总数的，智商亟待开发，收入急需提高，但却特别爱面子贪小便宜的这些人们。你觉得你贪了小便宜，殊不知他们利用你这种心理给你卖假货赚了更多的钱。
 
  
 
@@ -4801,36 +4680,32 @@ Boost可以根据负载和温度自动调整GPU频率和电压。2.0下，如果
  
 
  
+<br>**问题**:IE 有哪些优点使得你放弃其他浏览器？
 
-[问题]:IE 有哪些优点使得你放弃其他浏览器？
-
-[答案]: 排名第一的答案说之所以用ie，是因为ie对触摸支持很好。这是没有用过ipad下的safari得出的结论吧。。。
+**答案**: 排名第一的答案说之所以用ie，是因为ie对触摸支持很好。这是没有用过ipad下的safari得出的结论吧。。。
 
 我建议他入手一个ipad之后再来说什么触摸，什么支持。。
 
  
 
  
+<br>**问题**:IntealliJ IDEA 与 Visual Studio 中，哪一个 IDE 更加强大
 
-[问题]:IntealliJ IDEA 与 Visual Studio 中，哪一个 IDE 更加强大
-
-[答案]: 一看就是赚钱的程序员
-
- 
-
- 
-
-[问题]:iOS 8 使用起来感受如何？你发现了哪些 bug？
-
-[答案]: 我觉得不好。
+**答案**: 一看就是赚钱的程序员
 
  
 
  
+<br>**问题**:iOS 8 使用起来感受如何？你发现了哪些 bug？
 
-[问题]:iOS 8 和 OS X Yosemite 的 Continuity Handoff 特性有何使用场景？
+**答案**: 我觉得不好。
 
-[答案]: 当你同时需要在电脑上干活，又有电话打进来的时候。这其实是facetime和voice
+ 
+
+ 
+<br>**问题**:iOS 8 和 OS X Yosemite 的 Continuity Handoff 特性有何使用场景？
+
+**答案**: 当你同时需要在电脑上干活，又有电话打进来的时候。这其实是facetime和voice
 
 的融合。如果习惯了在电脑上facetime，那么同时voice并没有问题。 
 
@@ -4841,26 +4716,23 @@ Boost可以根据负载和温度自动调整GPU频率和电压。2.0下，如果
  
 
  
+<br>**问题**:iOS 8 带来的账号家庭共享 (Family Sharing) 对开发者是好是坏？
 
-[问题]:iOS 8 带来的账号家庭共享 (Family Sharing) 对开发者是好是坏？
-
-[答案]: 如果不能选择和那些设备共享，在那些设备上共享什么内容的话，这就是一个煞笔设计。
-
- 
-
- 
-
-[问题]:iOS 8 输入法 API 的开放会不会催生一大批中文输入法应用？
-
-[答案]: 不会。苹果平台上只有做的最好的app才能生存，因为用户的审美都很高。根据mac平台上中文输入法的结局，最后只有搜狗等2，3家输入法生活下来了。fit输入法都挂了。个人比不过团队。
+**答案**: 如果不能选择和那些设备共享，在那些设备上共享什么内容的话，这就是一个煞笔设计。
 
  
 
  
+<br>**问题**:iOS 8 输入法 API 的开放会不会催生一大批中文输入法应用？
 
-[问题]:iOS 如何实现聊天界面仿 QQ 表情和文本混排问题？
+**答案**: 不会。苹果平台上只有做的最好的app才能生存，因为用户的审美都很高。根据mac平台上中文输入法的结局，最后只有搜狗等2，3家输入法生活下来了。fit输入法都挂了。个人比不过团队。
 
-[答案]: 我是来看轮子哥的。＊
+ 
+
+ 
+<br>**问题**:iOS 如何实现聊天界面仿 QQ 表情和文本混排问题？
+
+**答案**: 我是来看轮子哥的。＊
 
  
 
@@ -4881,10 +4753,9 @@ Boost可以根据负载和温度自动调整GPU频率和电压。2.0下，如果
  
 
  
+<br>**问题**:iOS7 发布一年，是否已经证明其设计上的出色和前瞻性？
 
-[问题]:iOS7 发布一年，是否已经证明其设计上的出色和前瞻性？
-
-[答案]: 不是所有人，只是某些人。
+**答案**: 不是所有人，只是某些人。
 
 许多人总以为苹果做的是表面功夫，什么扁平化只是画了几个奇丑无比的图标，当然，他们义愤填膺，或者说风凉话，嬉笑怒骂，等着看好戏。 
 
@@ -4901,10 +4772,9 @@ dynamic的动态变化，一种效率的提升，一种完美的空间和时间�
  
 
  
+<br>**问题**:iPad Pro 会失败吗？
 
-[问题]:iPad Pro 会失败吗？
-
-[答案]:iPad 整体的工业设计是超过surface 的。轻薄，无孔洞，镜面边缘，阳极氧化磨砂质感，无风扇。这一切都达到了一种极致，让我捧起iPad
+**答案**:iPad 整体的工业设计是超过surface 的。轻薄，无孔洞，镜面边缘，阳极氧化磨砂质感，无风扇。这一切都达到了一种极致，让我捧起iPad
 
 看网页看视频看书就是一种享受。 
 
@@ -4935,10 +4805,9 @@ dynamic的动态变化，一种效率的提升，一种完美的空间和时间�
  
 
  
+<br>**问题**:iPad Pro 的 A9X 处理器为什么不需要风扇？
 
-[问题]:iPad Pro 的 A9X 处理器为什么不需要风扇？
-
-[答案]:相比之下SURFACE PRO需要风扇真是性能捉急啊！ 
+**答案**:相比之下SURFACE PRO需要风扇真是性能捉急啊！ 
 
 == 
 
@@ -4947,10 +4816,9 @@ dynamic的动态变化，一种效率的提升，一种完美的空间和时间�
  
 
  
+<br>**问题**:iPad Pro 的后续产品有没有可能搭载 OS X？
 
-[问题]:iPad Pro 的后续产品有没有可能搭载 OS X？
-
-[答案]:如果搭载了那还会叫做iPad 么？（注意这个i Device， 都要iOS） 
+**答案**:如果搭载了那还会叫做iPad 么？（注意这个i Device， 都要iOS） 
 
  
 
@@ -4959,10 +4827,9 @@ dynamic的动态变化，一种效率的提升，一种完美的空间和时间�
  
 
  
+<br>**问题**:iPad Pro 能否取代 Surface Pro？
 
-[问题]:iPad Pro 能否取代 Surface Pro？
-
-[答案]:ipad pro 还是一个先锋产品。特别喜欢尝鲜的用户会去买，正如apple watch， new
+**答案**:ipad pro 还是一个先锋产品。特别喜欢尝鲜的用户会去买，正如apple watch， new
 
 macbook一样。如果要达到正如排名第一答案所说的那样，可能得等ipad pro 2, ipad pro
 
@@ -4971,10 +4838,9 @@ macbook一样。如果要达到正如排名第一答案所说的那样，可能�
  
 
  
+<br>**问题**:iPad Pro的意义在哪里？
 
-[问题]:iPad Pro的意义在哪里？
-
-[答案]: 挺好用的。虽然之前我扬言要退货，但其实，人眼对于屏幕Real
+**答案**: 挺好用的。虽然之前我扬言要退货，但其实，人眼对于屏幕Real
 
 Estate的扩张的满足并无底限。就算拿来看郭德纲，回复知乎，都是极爽的。四个音响可以用来装逼。虽然屏幕变大了，但是对于普通iPad
 
@@ -5005,26 +4871,23 @@ Pro 用它的品质做到了。相反，如果为了省钱而去降低自己的�
  
 
  
+<br>**问题**:iPad 支持分屏和多任务后会对 Windows 平板产生冲击么？
 
-[问题]:iPad 支持分屏和多任务后会对 Windows 平板产生冲击么？
-
-[答案]: 码农公司的码农工具都必须在公司认证的设备上用。。
-
- 
-
- 
-
-[问题]:iPhone 6 和 iPhone 6 Plus 哪个会卖得更多？
-
-[答案]:截止上周末的数据，6+ 占出货量60%
+**答案**: 码农公司的码农工具都必须在公司认证的设备上用。。
 
  
 
  
+<br>**问题**:iPhone 6 和 iPhone 6 Plus 哪个会卖得更多？
 
-[问题]:iPhone 6 实际使用体验如何？
+**答案**:截止上周末的数据，6+ 占出货量60%
 
-[答案]: 我只想说三个字:
+ 
+
+ 
+<br>**问题**:iPhone 6 实际使用体验如何？
+
+**答案**: 我只想说三个字:
 
 爽爽爽 
 
@@ -5033,10 +4896,9 @@ Pro 用它的品质做到了。相反，如果为了省钱而去降低自己的�
  
 
  
+<br>**问题**:iPhone 到底爽在哪里？
 
-[问题]:iPhone 到底爽在哪里？
-
-[答案]:等到我国人均GDP达到1W美金之后，这个问题的答案就会完全不同了。其实在美帝也有很多人用Android，因为软件厂商素质较高，也因为Google store
+**答案**:等到我国人均GDP达到1W美金之后，这个问题的答案就会完全不同了。其实在美帝也有很多人用Android，因为软件厂商素质较高，也因为Google store
 
 可以访问，问题不大。三星手机不是卖的挺好么～ 
 
@@ -5047,18 +4909,16 @@ Pro 用它的品质做到了。相反，如果为了省钱而去降低自己的�
  
 
  
+<br>**问题**:iPhone6 128G和部分64G版本用的是最差的TLC闪存吗？
 
-[问题]:iPhone6 128G和部分64G版本用的是最差的TLC闪存吗？
-
-[答案]: 此新闻已经证伪了。
-
- 
+**答案**: 此新闻已经证伪了。
 
  
 
-[问题]: iPhone的图标里为什么只有时钟和日历是动态的？
+ 
+<br>**问题**: iPhone的图标里为什么只有时钟和日历是动态的？
 
-[答案]:又不是色盲选择症windows 10的大型单色磁铁；app图标设计者的要点是把app设计的更好以至于人喜欢点开来看＝app
+**答案**:又不是色盲选择症windows 10的大型单色磁铁；app图标设计者的要点是把app设计的更好以至于人喜欢点开来看＝app
 
 icon需要简洁，simplistic，怎么能显示这么多复杂的东西呢？ 
 
@@ -5067,18 +4927,16 @@ icon需要简洁，simplistic，怎么能显示这么多复杂的东西呢？
  
 
  
+<br>**问题**: iPhone被盗后，骗子发来一个链接想骗取iCloud密码，有机会捉获他归案吗？
 
-[问题]: iPhone被盗后，骗子发来一个链接想骗取iCloud密码，有机会捉获他归案吗？
-
-[答案]:有一点我不是很懂。苹果在换机的时候难道不可以查阅一下自己的手机失窃报告数据库么= 不过确实也是难为了。。
-
- 
+**答案**:有一点我不是很懂。苹果在换机的时候难道不可以查阅一下自己的手机失窃报告数据库么= 不过确实也是难为了。。
 
  
 
-[问题]:IT 公司可以不要提供的吃饭、团建等所谓福利吗？
+ 
+<br>**问题**:IT 公司可以不要提供的吃饭、团建等所谓福利吗？
 
-[答案]: 程序员的小孩不是一出生就会写代码么，她自己可以写代码玩啊。程序员婴儿不都是吃代码长大的么。。。
+**答案**: 程序员的小孩不是一出生就会写代码么，她自己可以写代码玩啊。程序员婴儿不都是吃代码长大的么。。。
 
 作为嫂（对了，何必把自己说的这么老呢），你也应该自动学会写代码啊？既然工资这么高，就不要还惦记着天伦之乐，人伦之快了吧。。 
 
@@ -5087,18 +4945,16 @@ icon需要简洁，simplistic，怎么能显示这么多复杂的东西呢？
  
 
  
+<br>**问题**:IT 高手是如何查找硬盘隐藏文件的，如何隐藏自己电脑上的文件才能不被察觉？
 
-[问题]:IT 高手是如何查找硬盘隐藏文件的，如何隐藏自己电脑上的文件才能不被察觉？
-
-[答案]:用RAR加密压缩，密码通过iOS key chains 生成。
-
- 
+**答案**:用RAR加密压缩，密码通过iOS key chains 生成。
 
  
 
-[问题]:iTunes 音乐文件放在多个文件夹里还是放一个文件夹里？
+ 
+<br>**问题**:iTunes 音乐文件放在多个文件夹里还是放一个文件夹里？
 
-[答案]:最好的做法是建立一个类似git 的file system，所有的文件通过sha-1
+**答案**:最好的做法是建立一个类似git 的file system，所有的文件通过sha-1
 
 hash索引到以这个hash为名的文件夹结构当中。其实ipod里面就是这么做的。。。 
 
@@ -5107,16 +4963,14 @@ hash索引到以这个hash为名的文件夹结构当中。其实ipod里面就�
  
 
  
-
-[问题]: IT培训行业的兴盛，是否折射出中国高等教育某个层面的失败？
-[答案]: 失败就在那里，不需要折射。
-
- 
+<br>**问题**: IT培训行业的兴盛，是否折射出中国高等教育某个层面的失败？
+**答案**: 失败就在那里，不需要折射。
 
  
 
-[问题]: IT行业加班算艰苦奋斗么？
-[答案]: 算的，除了很多人认为他们智商低写代码是重复劳动整天去GitHub
+ 
+<br>**问题**: IT行业加班算艰苦奋斗么？
+**答案**: 算的，除了很多人认为他们智商低写代码是重复劳动整天去GitHub
 
 也不知道文学水平提高了多少以外（主要是科学家们会这么看他；硬件工程师也这么看，而我认为这样的看法有道理：许多本科，硕士CS写了几年说大牛也就大牛了，说自由也就自由了，说投资人也就投资人了。这行的门槛何在，让那些理科phd情何以堪？） 
 
@@ -5127,20 +4981,18 @@ hash索引到以这个hash为名的文件夹结构当中。其实ipod里面就�
  
 
  
+<br>**问题**:Java 垃圾回收和 360 清理内存 原理上 有何区别？
 
-[问题]:Java 垃圾回收和 360 清理内存 原理上 有何区别？
-
-[答案]: 这是知乎在知乎上被黑得最惨的一次。。
+**答案**: 这是知乎在知乎上被黑得最惨的一次。。
 
 Java 只清理自己程序heap 里面的内存，360估计是要把kernel 内存都清理掉了
 
  
 
  
+<br>**问题**: Java、Python中没有指针，怎么实现链表、图等数据结构？
 
-[问题]: Java、Python中没有指针，怎么实现链表、图等数据结构？
-
-[答案]:
+**答案**:
 
   
 
@@ -5163,20 +5015,18 @@ Java 只清理自己程序heap 里面的内存，360估计是要把kernel 内存
  
 
  
+<br>**问题**:Jump Trading 是一家怎样的公司？
 
-[问题]:Jump Trading 是一家怎样的公司？
-
-[答案]: 没有去MIT念本科的确实也就不必想了。。
+**答案**: 没有去MIT念本科的确实也就不必想了。。
 
 5555
 
  
 
  
+<br>**问题**:Kevin Hsuan最后去了哪所学校？
 
-[问题]:Kevin Hsuan最后去了哪所学校？
-
-[答案]:我们，哭闹的人 _ _ 
+**答案**:我们，哭闹的人 _ _ 
 
 推荐看这个日志。。 
 
@@ -5185,10 +5035,9 @@ Java 只清理自己程序heap 里面的内存，360估计是要把kernel 内存
  
 
  
+<br>**问题**:KlayGE 4.10 是世界最先进的开源游戏引擎吗？
 
-[问题]:KlayGE 4.10 是世界最先进的开源游戏引擎吗？
-
-[答案]: 叛逆者你不要把别人屏蔽之后，拈轻挑重不答重点啊。
+**答案**: 叛逆者你不要把别人屏蔽之后，拈轻挑重不答重点啊。
 
  
 
@@ -5221,10 +5070,9 @@ Java 只清理自己程序heap 里面的内存，360估计是要把kernel 内存
  
 
  
+<br>**问题**:kth element in union of array
 
-[问题]:kth element in union of array
-
-[答案]: 此题我在网上找了很多答案，不是错的，就是逻辑过于复杂，并且也是错的。现给出琢磨一晚的答案，附上任意数目的test。中心思想是leetcode的，但是他那个判别法和判别结果看上去错误，第二种情况的判别现在看来是毫无必要的，又过于复杂。而且他没有base
+**答案**: 此题我在网上找了很多答案，不是错的，就是逻辑过于复杂，并且也是错的。现给出琢磨一晚的答案，附上任意数目的test。中心思想是leetcode的，但是他那个判别法和判别结果看上去错误，第二种情况的判别现在看来是毫无必要的，又过于复杂。而且他没有base
 
 case，难以理解。 
 
@@ -5260,13 +5108,13 @@ case，难以理解。
 
 ​    if not a and b:
 
-​      return b[k-1]
+​      return b**k-1**
 
   
 
 ​    if not b and a:
 
-​      return a[k-1]
+​      return a**k-1**
 
   
 
@@ -5298,19 +5146,19 @@ case，难以理解。
 
 ​      elif enda>=starta and endb<startb:
 
-​        return a[starta+k-1]
+​        return a**starta+k-1**
 
   
 
 ​      elif endb>=startb and enda<starta:
 
-​        return b[startb+k-1]
+​        return b**startb+k-1**
 
   
 
 ​      if k==1:
 
-​        return min(a[starta],b[startb])
+​        return min(a**starta**,b**startb**)
 
   
 
@@ -5340,7 +5188,7 @@ case，难以理解。
 
 ​      else:
 
-​        bj=b[j+startb]
+​        bj=b**j+startb**
 
   
 
@@ -5352,11 +5200,11 @@ case，难以理解。
 
 ​      else:
 
-​        bj_1=b[startb+j+1]
+​        bj_1=b**startb+j+1**
 
   
 
-​      ai = a[i+starta]
+​      ai = a**i+starta**
 
   
 
@@ -5366,7 +5214,7 @@ case，难以理解。
 
 ​      else:
 
-​        ai_1=a[starta+i+1]
+​        ai_1=a**starta+i+1**
 
   
 
@@ -5404,11 +5252,11 @@ case，难以理解。
 
 ​    result=binarysearch(0,len(a)-1,0,len(b)-1,k)
 
-​    answer=c[k-1]
+​    answer=c**k-1**
 
   
 
-​    return answer==result, c, k, c[k-1]
+​    return answer==result, c, k, c**k-1**
 
   
 
@@ -5426,9 +5274,9 @@ case，难以理解。
 
   
 
-​    a=[]
+​    a=****
 
-​    b=[]
+​    b=****
 
 ​    i=0
 
@@ -5481,9 +5329,8 @@ median这东西情况太复杂，我宁可分奇数偶数call 这个find kth，�
  
 
  
-
-[问题]: KTV是否应该给“切歌”按钮增加一个确认的对话框？
-[答案]: 你还会唱歌？来来来约起
+<br>**问题**: KTV是否应该给“切歌”按钮增加一个确认的对话框？
+**答案**: 你还会唱歌？来来来约起
 
  
 
@@ -5498,17 +5345,15 @@ KTV用户体验最差让人发指
  
 
  
-
-[问题]: LED显示屏的滚动字幕的滚动速度可以超过光速，模拟这样的超光速有现实意义么？
-[答案]: 你不能超过光速的意义是信息／能量的流动不能超过光速。即便你的led灯闪的再快，也无法让他们超越光速传递到观察者的眼中。因而这和光速之类的没有什么关系。你的思维也可以超越光速，但是这个信息无法超光速的传递给其他接受者。
-
- 
+<br>**问题**: LED显示屏的滚动字幕的滚动速度可以超过光速，模拟这样的超光速有现实意义么？
+**答案**: 你不能超过光速的意义是信息／能量的流动不能超过光速。即便你的led灯闪的再快，也无法让他们超越光速传递到观察者的眼中。因而这和光速之类的没有什么关系。你的思维也可以超越光速，但是这个信息无法超光速的传递给其他接受者。
 
  
 
-[问题]:leetcode 中有哪些题的解法让你拍案叫绝？
+ 
+<br>**问题**:leetcode 中有哪些题的解法让你拍案叫绝？
 
-[答案]:
+**答案**:
 
   
 
@@ -5536,11 +5381,11 @@ KTV用户体验最差让人发指
 
 ​        
 
-​      table = [True for _ in range(n)]
+​      table = **True for _ in range(n)**
 
-​      table[0] = False
+​      table**0** = False
 
-​      table[1] = False
+​      table**1** = False
 
 ​      
 
@@ -5548,9 +5393,9 @@ KTV用户体验最差让人发指
 
 ​      for i in range(2, int(n**0.5) + 1):
 
-​        if table[i]:
+​        if table**i**:
 
-​          table[i*i:n:i] = [False]* len(table[i*i:n:i])
+​          table**i*i:n:i** = **False*** len(table**i*i:n:i**)
 
 ​      
 
@@ -5567,10 +5412,9 @@ KTV用户体验最差让人发指
  
 
  
+<br>**问题**:Linear least squares, Lasso,ridge regression有何本质区别？
 
-[问题]:Linear least squares, Lasso,ridge regression有何本质区别？
-
-[答案]: 这个问题我才疏学浅，只能从下面几个方面回答：
+**答案**: 这个问题我才疏学浅，只能从下面几个方面回答：
 
 1，linear regression是个很大的题目，还有general linear regression。题主说的least square,
 
@@ -5589,37 +5433,35 @@ colinearity或者非唯一解，那么estimator 的数值解可能不存在／�
  
 
  
+<br>**问题**:Linux 与 Windows 相比，优点体现在哪？
 
-[问题]:Linux 与 Windows 相比，优点体现在哪？
-
-[答案]: Windows
+**答案**: Windows
 
 的图形化不完全。你无法在图形界面做你全部想做的事，最终还需要去他那个烂的要死的CLI去倒腾。特别是就算是图形界面，也做得那么不一致，那么丑。每一次升级总有一些部门的代码没有跟上（参考最知名的网络连接属性）这玩意还真是只能用程序不能用操作系统了
 
  
 
  
-
-[问题]: linux系统与windows的差别？
-[答案]: 我可以来和你说说WINDOWS是一种什么样子的操作系统。按照最新CEO的说法，WINDOWS是一个解放人生产力的操作系统，那么事实真的是这样吗？
+<br>**问题**: linux系统与windows的差别？
+**答案**: 我可以来和你说说WINDOWS是一种什么样子的操作系统。按照最新CEO的说法，WINDOWS是一个解放人生产力的操作系统，那么事实真的是这样吗？
 
 WINDOWS 10： 
 
 一款让人眼睛瞎掉的操作系统（高分屏下，汉字；更多例子：系统自带输入法的输入框大小，各种软件的文字大小等等，可见这个操作系统设计之初，使用的是什么样的文字引擎。。难道是朝鲜共和国设计的吗。这样的操作系统，要是统一了世界，不堪设想） 
 
-![](https://pic4.zhimg.com/042675b41dadb8b54fbae3d85b8eae9b_b.png) 
+!****(https://pic4.zhimg.com/042675b41dadb8b54fbae3d85b8eae9b_b.png) 
 
 一款让人惊叹于其工程师设计思想的操作系统： 
 
 点开（HOW DO I UNBLOCK THIS PUBLISHER）得到的结果你猜是什么？ 
 
-![](https://pic2.zhimg.com/eb9b8d596d501e4f5ef5f2b6983de559_b.png) 
+!****(https://pic2.zhimg.com/eb9b8d596d501e4f5ef5f2b6983de559_b.png) 
 
  
 
 得到（HOW TO FIND HELP IN WINDOWS 10）真是丧心病狂： 
 
-![](https://pic2.zhimg.com/6025d70a79b505ac7dc3277b0c1185f1_b.png) 
+!****(https://pic2.zhimg.com/6025d70a79b505ac7dc3277b0c1185f1_b.png) 
 
  
 
@@ -5632,10 +5474,9 @@ WINDOWS 10：
  
 
  
+<br>**问题**:Longest Palindrome Substring
 
-[问题]:Longest Palindrome Substring
-
-[答案]:最长palindrome substring的o(N)算法。以前我看到palindrom就嗤之以鼻，以为dp是最好的算法。其实不是。。。。
+**答案**:最长palindrome substring的o(N)算法。以前我看到palindrom就嗤之以鼻，以为dp是最好的算法。其实不是。。。。
 
  
 
@@ -5663,13 +5504,13 @@ str一样）的线性解。无非就是完全省去了重复计算，导致的�
 
   
 
-​    newstring=['$']
+​    newstring=**'$'**
 
 ​    \# "$" is used to mark the start and end of string.
 
 ​    for i in range(len(string)):
 
-​      newstring.append(string[i])
+​      newstring.append(string**i**)
 
 ​      newstring.append('#')
 
@@ -5685,7 +5526,7 @@ str一样）的线性解。无非就是完全省去了重复计算，导致的�
 
   
 
-​    size=[0]*len(newstring)
+​    size=**0***len(newstring)
 
   
 
@@ -5695,21 +5536,21 @@ str一样）的线性解。无非就是完全省去了重复计算，导致的�
 
   
 
-​      size[i]=min(size[mirror],boundary-i) if i<boundary else 1
+​      size**i**=min(size**mirror**,boundary-i) if i<boundary else 1
 
   
 
-​      while newstring[i-size[i]]==newstring[i+size[i]]:
+​      while newstring**i-size**i****==newstring**i+size**i****:
 
-​        size[i]+=1 # expanding palindrome
-
-  
+​        size**i**+=1 # expanding palindrome
 
   
 
-​      if i+size[i]-1>boundary:
+  
 
-​        boundary=i+size[i]-1
+​      if i+size**i**-1>boundary:
+
+​        boundary=i+size**i**-1
 
 ​        center=i  # update new boundary 
 
@@ -5719,9 +5560,9 @@ str一样）的线性解。无非就是完全省去了重复计算，导致的�
 
 ​    for i in range(len(size)):
 
-​      if max<size[i]:
+​      if max<size**i**:
 
-​        max=size[i]
+​        max=size**i**
 
   
 
@@ -5739,15 +5580,14 @@ str一样）的线性解。无非就是完全省去了重复计算，导致的�
 
  
 
-![](https://pic3.zhimg.com/4c5f709a400a9088b720f4a61d38e70e_b.jpg)
+!****(https://pic3.zhimg.com/4c5f709a400a9088b720f4a61d38e70e_b.jpg)
 
  
 
  
+<br>**问题**:Mac OS X 有机会战胜 Windows 吗？
 
-[问题]:Mac OS X 有机会战胜 Windows 吗？
-
-[答案]:看起来iOS 有战胜Windows 10 的野心。Mac OS X 没有。 
+**答案**:看起来iOS 有战胜Windows 10 的野心。Mac OS X 没有。 
 
 Mac OS X 没有 DirectX，就是告别了游戏机 
 
@@ -5766,34 +5606,30 @@ iOS
  
 
  
+<br>**问题**:Mac Pro 2013 是否展现 Apple 现阶段最高水准设计制造能力，为何要在一款销量很低的产品上倾注如此多的精力？
 
-[问题]:Mac Pro 2013 是否展现 Apple 现阶段最高水准设计制造能力，为何要在一款销量很低的产品上倾注如此多的精力？
-
-[答案]: “每个市场都有那些很多人买的低价的细分市场，这些市场是垃圾”，库克，2013年q4财报
-
- 
-
- 
-
-[问题]:Mac 下有什么自动排版工具吗？
-
-[答案]: latex是满足文档出版专业要求的排版软件。不过需要你懂得一定的latex语法
+**答案**: “每个市场都有那些很多人买的低价的细分市场，这些市场是垃圾”，库克，2013年q4财报
 
  
 
  
+<br>**问题**:Mac 下有什么自动排版工具吗？
 
-[问题]:Mac 版 Office 好用吗？
+**答案**: latex是满足文档出版专业要求的排版软件。不过需要你懂得一定的latex语法
 
-[答案]:等office 365的新版
+ 
+
+ 
+<br>**问题**:Mac 版 Office 好用吗？
+
+**答案**:等office 365的新版
 
  
 
  
+<br>**问题**:Mac 给你的生活或工作带来了什么？
 
-[问题]:Mac 给你的生活或工作带来了什么？
-
-[答案]: 让我了解到。原来这个世界上不是仅仅只有微软会做操作系统的。
+**答案**: 让我了解到。原来这个世界上不是仅仅只有微软会做操作系统的。
 
 让我了解到还有一种编程语言叫做objective c 
 
@@ -5804,44 +5640,39 @@ iOS
  
 
  
+<br>**问题**:macbook pro 15' yosemite系统 有时用预览看PDF卡顿是什么问题？
 
-[问题]:macbook pro 15' yosemite系统 有时用预览看PDF卡顿是什么问题？
-
-[答案]: 你的pdf恐怕大小超过了12g吧。。。这种pdf和高清电影没啥区别。
+**答案**: 你的pdf恐怕大小超过了12g吧。。。这种pdf和高清电影没啥区别。
 
 仔细看了下截图。建议卸载chrome
 
  
 
  
+<br>**问题**:MacBook Pro Retina 2014 年 7 月的更新为何这么大方？
 
-[问题]:MacBook Pro Retina 2014 年 7 月的更新为何这么大方？
-
-[答案]: 因为你问的这么勤快，apple当然也很大方啦。楼主哥哥工作好卖力的哦！
-
- 
-
- 
-
-[问题]:Mathematica 有什么奇技淫巧？
-
-[答案]:** 楼下说得对。楼下最懂计算 **
+**答案**: 因为你问的这么勤快，apple当然也很大方啦。楼主哥哥工作好卖力的哦！
 
  
 
  
+<br>**问题**:Mathematica 有什么奇技淫巧？
 
-[问题]:MATLAB 中有哪些命令，让人相见恨晚？
+**答案**:** 楼下说得对。楼下最懂计算 **
 
-[答案]:delete matlab
+ 
+
+ 
+<br>**问题**:MATLAB 中有哪些命令，让人相见恨晚？
+
+**答案**:delete matlab
 
  
 
  
+<br>**问题**:Matrix67 的数学水平怎么样？
 
-[问题]:Matrix67 的数学水平怎么样？
-
-[答案]: 你们太让我伤心了
+**答案**: 你们太让我伤心了
 
 人家都有女朋友了，你们还去关心。 
 
@@ -5852,27 +5683,24 @@ iOS
  
 
  
+<br>**问题**: MBP15还是XPS15，WIN10环境下如何选择
 
-[问题]: MBP15还是XPS15，WIN10环境下如何选择
-
-[答案]:MacBook Pro + Parallels Windows . 
+**答案**:MacBook Pro + Parallels Windows . 
 
 Mac 下的AirDrop 和 利用 iPhone 的 Bluetooth hotspot 上网这两个功能无可取代。
 
  
 
  
-
-[问题]: Mbp升级之后开机出现禁止符号？
-[答案]: 找不到启动盘。。。
-
- 
+<br>**问题**: Mbp升级之后开机出现禁止符号？
+**答案**: 找不到启动盘。。。
 
  
 
-[问题]:Microsoft Office for iPad 直到 2014 年才发布，为时已晚吗？
+ 
+<br>**问题**:Microsoft Office for iPad 直到 2014 年才发布，为时已晚吗？
 
-[答案]: 不晚。因为微软总算认识到pad的主要使用者都是ipad，而不是surface。就好比笔记本的主要生产力使用者都是macbook
+**答案**: 不晚。因为微软总算认识到pad的主要使用者都是ipad，而不是surface。就好比笔记本的主要生产力使用者都是macbook
 
 pro一样（某硅谷it公司都是发macbook
 
@@ -5891,10 +5719,9 @@ xp足以。
  
 
  
+<br>**问题**:Microsoft Office 和 Apple iWork 的优缺点各有哪些？
 
-[问题]:Microsoft Office 和 Apple iWork 的优缺点各有哪些？
-
-[答案]: 这个问题我可以一答：
+**答案**: 这个问题我可以一答：
 
 apple的问题在于它在专业软件上的投入不足（除开final cut pro, aperture
 
@@ -5915,20 +5742,18 @@ word显然是功能最强大，对象支持最广泛的字处理软件。除了�
  
 
  
+<br>**问题**:MSRA 在五年之内会不会被微软关闭？
 
-[问题]:MSRA 在五年之内会不会被微软关闭？
-
-[答案]: 只要轮子做得多，永远都不怕被裁员。
+**答案**: 只要轮子做得多，永远都不怕被裁员。
 
 北京市是世界未来。
 
  
 
  
+<br>**问题**:NEC LaVie Z 笔记本是怎么做到比 Surface Pro 3 平板电脑更轻的？
 
-[问题]:NEC LaVie Z 笔记本是怎么做到比 Surface Pro 3 平板电脑更轻的？
-
-[答案]:我就想看看surface pro3今年年底的数据到底是多少，以此验证下： 
+**答案**:我就想看看surface pro3今年年底的数据到底是多少，以此验证下： 
 
 1，支持微软的消费者都是什么消费能力 
 
@@ -5937,51 +5762,45 @@ word显然是功能最强大，对象支持最广泛的字处理软件。除了�
  
 
  
+<br>**问题**: NET里两个double相加为啥是1.3+0.1=1.4000001？
 
-[问题]: NET里两个double相加为啥是1.3+0.1=1.4000001？
-
-[答案]:double 表示的小数是永远不会精确的。。
-
- 
-
- 
-
-[问题]:NVIDIA CUDA、AMD stream、C++ AMP、OpenCL等GPU计算框架各有什么特点？
-
-[答案]:为什么计算机领域的概念如此难以理解？ - 程序员
+**答案**:double 表示的小数是永远不会精确的。。
 
  
 
  
+<br>**问题**:NVIDIA CUDA、AMD stream、C++ AMP、OpenCL等GPU计算框架各有什么特点？
 
-[问题]:NVIDIA 发布的 Shield Tablet 平板会成功吗？
-
-[答案]: 除了ipad都不会成功
-
- 
-
- 
-
-[问题]:Offer 比较 Uber 和 2 Sigma该去哪个
-
-[答案]: 去纽约吧影帝,qiuneitui
+**答案**:为什么计算机领域的概念如此难以理解？ - 程序员
 
  
 
  
+<br>**问题**:NVIDIA 发布的 Shield Tablet 平板会成功吗？
 
-[问题]: offer比较：airbnb中国，今日头条，腾讯SNG，微软office？
-[答案]: 微软office。吹故事公司的估值会稳步下降（随着银行利率的提高），想去这些公司步大魔王后尘然后回国开live收钱介绍去美国工作的人可以谨慎一下
+**答案**: 除了ipad都不会成功
+
+ 
+
+ 
+<br>**问题**:Offer 比较 Uber 和 2 Sigma该去哪个
+
+**答案**: 去纽约吧影帝,qiuneitui
+
+ 
+
+ 
+<br>**问题**: offer比较：airbnb中国，今日头条，腾讯SNG，微软office？
+**答案**: 微软office。吹故事公司的估值会稳步下降（随着银行利率的提高），想去这些公司步大魔王后尘然后回国开live收钱介绍去美国工作的人可以谨慎一下
 
 技术积累最深的是微软。我都要跳槽了
 
  
 
  
+<br>**问题**:Office for iPad 的基本功能免费会对行业造成怎样的影响？
 
-[问题]:Office for iPad 的基本功能免费会对行业造成怎样的影响？
-
-[答案]:google doc是世界上最大的软件笑话。。。 
+**答案**:google doc是世界上最大的软件笑话。。。 
 
 这一点将得到更深刻的验证。 
 
@@ -5990,18 +5809,16 @@ word显然是功能最强大，对象支持最广泛的字处理软件。除了�
  
 
  
+<br>**问题**:OS X El Capitan 测试版如何升级到正式版？
 
-[问题]:OS X El Capitan 测试版如何升级到正式版？
-
-[答案]:不必了。你会一直测试下去。一直到os x 11的测试版。一朝测试版，永远测试版。这就是苹果软体的品质！
-
- 
+**答案**:不必了。你会一直测试下去。一直到os x 11的测试版。一朝测试版，永远测试版。这就是苹果软体的品质！
 
  
 
-[问题]:OS X Mavericks 免费是进步还是退步，对软件行业有何影响？
+ 
+<br>**问题**:OS X Mavericks 免费是进步还是退步，对软件行业有何影响？
 
-[答案]:从os的角度mac os 其实不如ubuntu，总的来说如果ubuntu的消费者转向合理，ubuntu的易用性，可配置性特别是效能超过mac os。（mac
+**答案**:从os的角度mac os 其实不如ubuntu，总的来说如果ubuntu的消费者转向合理，ubuntu的易用性，可配置性特别是效能超过mac os。（mac
 
 os实际上就是ubuntu换了darwin的内核？） 
 
@@ -6024,20 +5841,18 @@ ipad, macbook
  
 
  
+<br>**问题**:OS X Mavericks 的免费升级策略，是否会对微软造成重大冲击，微软可以如何应对？
 
-[问题]:OS X Mavericks 的免费升级策略，是否会对微软造成重大冲击，微软可以如何应对？
-
-[答案]:协同工作为什么这么难弄。。是因为难弄还是因为没人去弄。如果latex可视化＋协同了，岂不是完爆现在的office, iworks, google
+**答案**:协同工作为什么这么难弄。。是因为难弄还是因为没人去弄。如果latex可视化＋协同了，岂不是完爆现在的office, iworks, google
 
 doc（这种免费的东西多少人用对于公司价值意义不大）？
 
  
 
  
+<br>**问题**:OS X Yosemite 10.10.3 正式版使用体验如何？
 
-[问题]:OS X Yosemite 10.10.3 正式版使用体验如何？
-
-[答案]: 苹果急缺程序员，可惜程序员大牛都不去，待遇太低。而且执念于OC，却不使用业界先进的C#等轮子哥推荐的工具。导致其内部开发效率极低。这么几十年了才用Cocoa重写过一次Finder
+**答案**: 苹果急缺程序员，可惜程序员大牛都不去，待遇太低。而且执念于OC，却不使用业界先进的C#等轮子哥推荐的工具。导致其内部开发效率极低。这么几十年了才用Cocoa重写过一次Finder
 
 . 
 
@@ -6050,36 +5865,32 @@ doc（这种免费的东西多少人用对于公司价值意义不大）？
  
 
  
+<br>**问题**:OS X Yosemite 和 iOS 8 提供的统一体验，微软和谷歌有可能提供吗？
 
-[问题]:OS X Yosemite 和 iOS 8 提供的统一体验，微软和谷歌有可能提供吗？
-
-[答案]: 不可能。一个移动端牛逼桌面是屎，一个桌面牛逼移动端是屎。
-
- 
-
- 
-
-[问题]:OS X Yosemite 支持 iPhone 游戏手柄意味着什么？
-
-[答案]: 那里姿辞了？给出链接。。
+**答案**: 不可能。一个移动端牛逼桌面是屎，一个桌面牛逼移动端是屎。
 
  
 
  
+<br>**问题**:OS X Yosemite 支持 iPhone 游戏手柄意味着什么？
 
-[问题]:OS X 有哪些让你抓狂的难用点？
+**答案**: 那里姿辞了？给出链接。。
 
-[答案]:OS X 系统对主板的usb 接口数存在大小为15的上限。 
+ 
+
+ 
+<br>**问题**:OS X 有哪些让你抓狂的难用点？
+
+**答案**:OS X 系统对主板的usb 接口数存在大小为15的上限。 
 
 该公司智商该提高了
 
  
 
  
+<br>**问题**:OS X 有那些好用的地方？为什么？
 
-[问题]:OS X 有那些好用的地方？为什么？
-
-[答案]: 我来做如下几个比较吧：
+**答案**: 我来做如下几个比较吧：
 
 一个是，迄今为止还在metro界面和desktop界面纠结不清，纠缠不休的过渡操作系统 
 
@@ -6093,29 +5904,29 @@ windows：我不明白为什么自动获取ip地址之后，你就不告诉我ip
 
 properties，不是settings。难道我不应该在属性栏里面看到分配到的ip地址吗？。。） 
 
-![](https://pic1.zhimg.com/08d21207734bcf5c9b1d0769a161ab1c_b.jpg) 
+!****(https://pic1.zhimg.com/08d21207734bcf5c9b1d0769a161ab1c_b.jpg) 
 
 windows的控制面板简直是一推乱麻。一堆乱麻也就罢了，还在左边栏做出organize的样子，其实这些分类之间的重合，歧义，模糊，就不用提了。。 
 
-![](https://pic2.zhimg.com/1184897d3102a3588d98c363e8339fdd_b.jpg) 
+!****(https://pic2.zhimg.com/1184897d3102a3588d98c363e8339fdd_b.jpg) 
 
 迄今为止还保留的上个世纪的bug。微软真的不是一个做产品的公司。。。 
 
-![](https://pic4.zhimg.com/dc9737fc57ee1612150ac2a85df83f5f_b.jpg) 
+!****(https://pic4.zhimg.com/dc9737fc57ee1612150ac2a85df83f5f_b.jpg) 
 
 mac： 
 
 不存在交叉分类的控制面板，这意味着你一定可以返回，返回到主菜单。。而且不会为了达到一个目的走不同的路。 
 
-![](https://pic2.zhimg.com/10f9d1dc3e1abbddb873dabd9f03947d_b.jpg) 
+!****(https://pic2.zhimg.com/10f9d1dc3e1abbddb873dabd9f03947d_b.jpg) 
 
 dhcp也能显示ip的网络面板。点选高级可以看到更多。 
 
-![](https://pic1.zhimg.com/73f768c3d8be7a2e411770f65cb96c84_b.jpg) 
+!****(https://pic1.zhimg.com/73f768c3d8be7a2e411770f65cb96c84_b.jpg) 
 
 网络分享。一步到位：用什么分享，分享的时候分享什么。在windows上设置分享你需要无数第三方软件而且很多时候失败。我自己设置过不同人家的windows，几个成功，几个失败。我不能责怪windows，这主要是pc上的网卡驱动不一样，厂家的支持不同。这种事情在mac上不会发生 
 
-![](https://pic4.zhimg.com/df660a777eee55eb1557886497290163_b.jpg) 
+!****(https://pic4.zhimg.com/df660a777eee55eb1557886497290163_b.jpg) 
 
  
 
@@ -6123,11 +5934,11 @@ dhcp也能显示ip的网络面板。点选高级可以看到更多。
 
 控制面板的设定，全局搜索，高亮指示： 
 
-![](https://pic1.zhimg.com/fec8cb0f1484e8d396eda39f6154b950_b.jpg) 
+!****(https://pic1.zhimg.com/fec8cb0f1484e8d396eda39f6154b950_b.jpg) 
 
 大触摸板＋multi touch。这是真的有效的multi touch。 
 
-![](https://pic4.zhimg.com/321c1cd5505be715ed8b6014bd777c97_b.jpg) 
+!****(https://pic4.zhimg.com/321c1cd5505be715ed8b6014bd777c97_b.jpg) 
 
 空格预览文件，回车改文件名。 
 
@@ -6139,15 +5950,14 @@ dhcp也能显示ip的网络面板。点选高级可以看到更多。
 
 一定能杀死的进程： 
 
-![](https://pic3.zhimg.com/0f0db2a8cfe627817e92958715c4cc92_b.jpg)
+!****(https://pic3.zhimg.com/0f0db2a8cfe627817e92958715c4cc92_b.jpg)
 
  
 
  
+<br>**问题**:OS X 用户如何看待 Windows788.1？是否对 Windows 存在刻板印象？
 
-[问题]:OS X 用户如何看待 Windows788.1？是否对 Windows 存在刻板印象？
-
-[答案]: !(https://pic1.zhimg.com/7ee21529ad9e3a3d8fb80f997ccc0ce8_b.jpg)
+**答案**: !(https://pic1.zhimg.com/7ee21529ad9e3a3d8fb80f997ccc0ce8_b.jpg)
 
 直接上图吧。看windows脑残程序员怎么黑。 
 
@@ -6216,36 +6026,32 @@ x么？不能。因此作为你虚拟机下的操作系统挺好，因为我常�
  
 
  
+<br>**问题**:PC 到底是什么？
 
-[问题]:PC 到底是什么？
-
-[答案]: pc就是轮子哥最喜欢的那一种东西。
-
- 
+**答案**: pc就是轮子哥最喜欢的那一种东西。
 
  
 
-[问题]:PHP 为什么没有取代 Python ？
+ 
+<br>**问题**:PHP 为什么没有取代 Python ？
 
-[答案]: 其实我更好奇python为什么没有取代php。。。
+**答案**: 其实我更好奇python为什么没有取代php。。。
 
 那样的话大家的生命又能多几年
 
  
 
  
+<br>**问题**: PHP既然这么烂，那它是怎么火起来的？
 
-[问题]: PHP既然这么烂，那它是怎么火起来的？
-
-[答案]:轮子哥你不会写Python 来乱问什么
-
- 
+**答案**:轮子哥你不会写Python 来乱问什么
 
  
 
-[问题]:PowerPoint 推出类「神奇移动」特效 Morph 之后，Keynote 会靠什么功能保持领先？
+ 
+<br>**问题**:PowerPoint 推出类「神奇移动」特效 Morph 之后，Keynote 会靠什么功能保持领先？
 
-[答案]:看苹果这阵势，她是要放弃自己的iWork 系列的，改版之后功能减少界面混乱，pages 太鸡肋，numbers 有人用？剩下的keynote
+**答案**:看苹果这阵势，她是要放弃自己的iWork 系列的，改版之后功能减少界面混乱，pages 太鸡肋，numbers 有人用？剩下的keynote
 
 让人怀念但因为缺乏和其他两者的充分互动，特别是缺乏公式处理功能，让人心寒。再等两年吧。 
 
@@ -6254,15 +6060,14 @@ iOS 10，iOS X 再成熟点，说不定就有人习惯在大iPad 上处理幻灯
  
 
  
-
-[问题]: presence的词源和含义是什么？
-[答案]: !(https://pic1.zhimg.com/c9a72a5e672457dfb2cbf5b2cd79cbf4_b.png)
+<br>**问题**: presence的词源和含义是什么？
+**答案**: !(https://pic1.zhimg.com/c9a72a5e672457dfb2cbf5b2cd79cbf4_b.png)
 
 不好意思我没看到这个意思。 
 
 但是在英汉字典中，居然有： 
 
-![](https://pic2.zhimg.com/513424c8d366673c002e9af648ef1249_b.png) 
+!****(https://pic2.zhimg.com/513424c8d366673c002e9af648ef1249_b.png) 
 
 我只能说。中国人为了把意思说清楚，篡改字典的事情也不是没做过。 
 
@@ -6279,18 +6084,16 @@ iOS 10，iOS X 再成熟点，说不定就有人习惯在大iPad 上处理幻灯
  
 
  
+<br>**问题**:Project Loon 将会带来哪些改变？
 
-[问题]:Project Loon 将会带来哪些改变？
-
-[答案]: 改变google的盈利势头。一家公司就这么不务正业的倒闭了。
-
- 
+**答案**: 改变google的盈利势头。一家公司就这么不务正业的倒闭了。
 
  
 
-[问题]:Project Tango 的产品定位是什么？
+ 
+<br>**问题**:Project Tango 的产品定位是什么？
 
-[答案]: !(https://pic1.zhimg.com/38a139e5cffd1389d76a428eb9cd1634_b.jpg)
+**答案**: !(https://pic1.zhimg.com/38a139e5cffd1389d76a428eb9cd1634_b.jpg)
 
 tango是一款填补市场空白的具有先驱价值的平板样机。tango的定位是一种现在尚不存在的，可以感知人类尺度（模拟人类）空间和方位的移动硬件。这种硬件可以做的事情取决于你的想像力。军方，游戏开发者，室内导航，商品购物，社交互动等等等等。对于打算开发下一代平板程序的公司或者个人来说，1024美元属于“科研经费”。科研经费是什么知道吗，就是买很多，可能用到，但是又不一定要用到，但是不买又不知道自己有没有可能用到的东西。这些东西，有的是小的消耗品（请问你做生物、化学的phd），有的是大型的设备，仪器。大型的设备仪器，几十万，几百万美金你也得买。 
 
@@ -6305,22 +6108,20 @@ wwdc的门票都要1500美元呢。
  
 
  
+<br>**问题**:Python 为什么要设计分片赋值？
 
-[问题]:Python 为什么要设计分片赋值？
+**答案**:a**:** 返回的是shallow copy。但是a**:**=**1,2** 这里的 a**:**不需要返回任何东西，这只是一个index的syntactic
 
-[答案]:a[:] 返回的是shallow copy。但是a[:]=[1,2] 这里的 a[:]不需要返回任何东西，这只是一个index的syntactic
-
-sugar。基本上属于楼上说的__SETITEM__(a,[:],[1,2])这样。这两者没有矛盾。 
+sugar。基本上属于楼上说的__SETITEM__(a,**:**,**1,2**)这样。这两者没有矛盾。 
 
 真正矛盾和麻烦的是在于python处理identity和deep copy的时候。
 
  
 
  
+<br>**问题**:Python 现在这么火，国外有些大学基础也是 Python，为什么国内大学还在教C 语言呢？
 
-[问题]:Python 现在这么火，国外有些大学基础也是 Python，为什么国内大学还在教C 语言呢？
-
-[答案]:为什么不？Berkeley 本科第一门计算机课CS61A就是Python. 因为语法清晰，它可以花很大功夫来讲解scope , recursion ,
+**答案**:为什么不？Berkeley 本科第一门计算机课CS61A就是Python. 因为语法清晰，它可以花很大功夫来讲解scope , recursion ,
 
 data structure 和其他一些初学者没时间搞清楚但很有价值的问题。其中关于面向对象的部分说的很少。面向对象是和Java一起教的。学硬件了再上C。 
 
@@ -6337,10 +6138,9 @@ Python-Java-C++-MIPS-C 是比较好的顺序。深入浅出，循序渐进。我
  
 
  
+<br>**问题**: python中的赋值，什么时候是传值什么时候是传址？
 
-[问题]: python中的赋值，什么时候是传值什么时候是传址？
-
-[答案]:在python中, parameter sent to function 使用的全部是 by object。 
+**答案**:在python中, parameter sent to function 使用的全部是 by object。 
 
 也就是，这无法通过by value或者 by reference 来定义。这是python的独到之处。 
 
@@ -6390,13 +6190,13 @@ Python-Java-C++-MIPS-C 是比较好的顺序。深入浅出，循序渐进。我
 
  
 
-\> a=[10,11,12,13] 
+\> a=**10,11,12,13** 
 
 \> 
 
 \> def function1(value): 
 
-\> value[1:3]=[] 
+\> value**1:3**=**** 
 
 \> print(value) 
 
@@ -6414,9 +6214,9 @@ Python-Java-C++-MIPS-C 是比较好的顺序。深入浅出，循序渐进。我
 
  
 
-\> [10,13] 
+\> **10,13** 
 
-\> [10,13]
+\> **10,13**
 
  
 
@@ -6436,42 +6236,38 @@ method。也就是说，reverse是在原来object上操作，而不会创造一�
 
  
 
-而slicing [::] 这个，会创造一个新的object。所以。自然啦。 
+而slicing **::** 这个，会创造一个新的object。所以。自然啦。 
 
 最好的办法是deep copy
 
  
 
  
+<br>**问题**: Python为什么下面这段程序只删除1个0？
 
-[问题]: Python为什么下面这段程序只删除1个0？
-
-[答案]:Check the implementation of iterator
-
- 
+**答案**:Check the implementation of iterator
 
  
 
-[问题]: python变量赋值时，值前面加下划线是什么意思？
-[答案]: @冯伟刚
+ 
+<br>**问题**: python变量赋值时，值前面加下划线是什么意思？
+**答案**: @冯伟刚
 
 如果是这样的话，那和mathematica简直如出一辙。
 
  
 
  
+<br>**问题**: python和C++哪种更加具备面向对象的思想？
 
-[问题]: python和C++哪种更加具备面向对象的思想？
-
-[答案]:python。everything is object in python。
-
- 
+**答案**:python。everything is object in python。
 
  
 
-[问题]: python里修改列表和生成新列表的原理是怎样的？
+ 
+<br>**问题**: python里修改列表和生成新列表的原理是怎样的？
 
-[答案]:你可以看看list.reverse() 和 reversed(string) 返回值是什么 
+**答案**:你可以看看list.reverse() 和 reversed(string) 返回值是什么 
 
 或者看看list.append(a) 和 string+a 返回值是什么 
 
@@ -6482,10 +6278,9 @@ mutable 的对象不需要复制自己就可以更改元素 immutable 对象是�
  
 
  
+<br>**问题**:Quant 和程序员到底有什么差别？(1)
 
-[问题]:Quant 和程序员到底有什么差别？(1)
-
-[答案]:据说quant工资是cs的3-4倍。但据说quant turnover rate
+**答案**:据说quant工资是cs的3-4倍。但据说quant turnover rate
 
 很高，就是要不断裁员。所以高票答案说的，比较安稳，我不知道是为什么。。难道不是一类公司？难道你不是quant？难道你是硕士？难道你在英国或者大陆？ 
 
@@ -6504,17 +6299,15 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
  
 
  
+<br>**问题**:Quant 和程序员到底有什么差别？
 
-[问题]:Quant 和程序员到底有什么差别？
-
-[答案]: 收入吧
-
- 
+**答案**: 收入吧
 
  
 
-[问题]: Quant面试烧脑题概率题求各位解答？
-[答案]: 我瞎猜的吧。（果然猜错了，原因在于1／2这个概率是错误的）
+ 
+<br>**问题**: Quant面试烧脑题概率题求各位解答？
+**答案**: 我瞎猜的吧。（果然猜错了，原因在于1／2这个概率是错误的）
 
  
 
@@ -6523,10 +6316,9 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
  
 
  
+<br>**问题**: quickselect
 
-[问题]: quickselect
-
-[答案]:这是一种在没排序数组中O(n) （最坏n^2）速度的快速选择算法。一般教材都有讲。这里贴出代码： 
+**答案**:这是一种在没排序数组中O(n) （最坏n^2）速度的快速选择算法。一般教材都有讲。这里贴出代码： 
 
  
 
@@ -6560,11 +6352,11 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
 ​    def swap(i,j):
 
-​      temp=a[j]
+​      temp=a**j**
 
-​      a[j]=a[i]
+​      a**j**=a**i**
 
-​      a[i]=temp
+​      a**i**=temp
 
   
 
@@ -6594,7 +6386,7 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
 ​      if start==end:
 
-​        return a[start]
+​        return a**start**
 
   
 
@@ -6602,11 +6394,11 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
   
 
-​      pivot=a[i]
+​      pivot=a**i**
 
   
 
-​      print("before partitioning",a[start:end+1],"to find",k,"th")
+​      print("before partitioning",a**start:end+1**,"to find",k,"th")
 
   
 
@@ -6634,7 +6426,7 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
   
 
-​        if a[probe]>=pivot:
+​        if a**probe**>=pivot:
 
 ​          if record==-1:
 
@@ -6660,7 +6452,7 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
   
 
-​      print("after partitioning",a[start:end+1])
+​      print("after partitioning",a**start:end+1**)
 
   
 
@@ -6692,7 +6484,7 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
 ​    a.sort()
 
-​    answer=a[k-1]
+​    answer=a**k-1**
 
   
 
@@ -6714,7 +6506,7 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
 
   
 
-​    a=[randint(-1000,1000) for x in range(lengtha)]
+​    a=**randint(-1000,1000) for x in range(lengtha)**
 
   
 
@@ -6745,10 +6537,9 @@ start up ipo是要看时机的。钱不都来自华尔街么。。要是fund没�
  
 
  
+<br>**问题**: shadowmatic是如何做到这么逼真的效果？
 
-[问题]: shadowmatic是如何做到这么逼真的效果？
-
-[答案]:THAT'S WHY APPLE'S BLACK TECH HAS SHUAIED GOOGLE AND ITS MS MATES SEVERL
+**答案**:THAT'S WHY APPLE'S BLACK TECH HAS SHUAIED GOOGLE AND ITS MS MATES SEVERL
 
 NOODLES OF STREETS. 
 
@@ -6771,19 +6562,17 @@ of view 外加一些近视啊）
  
 
  
-
-[问题]: snapchat马上要IPO了，这意味着Facebook失败了吗？
-[答案]: trump当政他还能ipo的起来？
+<br>**问题**: snapchat马上要IPO了，这意味着Facebook失败了吗？
+**答案**: trump当政他还能ipo的起来？
 
 naive
 
  
 
  
+<br>**问题**:Splaying Tree in Python
 
-[问题]:Splaying Tree in Python
-
-[答案]:Splaying Tree 的实现。
+**答案**:Splaying Tree 的实现。
 
  
 
@@ -7228,18 +7017,16 @@ children这种情况。对于zig-zig和zig-zag，处理两次parent children 即
  
 
  
+<br>**问题**:SS Wang 为什么能获得微软亚洲研究院的奖学金和百度发的奖学金？
 
-[问题]:SS Wang 为什么能获得微软亚洲研究院的奖学金和百度发的奖学金？
-
-[答案]:知乎 - 与世界分享你的知识、经验和见解
-
- 
+**答案**:知乎 - 与世界分享你的知识、经验和见解
 
  
 
-[问题]:Steam 为什么暂停使用支付宝了？
+ 
+<br>**问题**:Steam 为什么暂停使用支付宝了？
 
-[答案]:支付宝不支持Visa MasterCard 和 American Express
+**答案**:支付宝不支持Visa MasterCard 和 American Express
 
 ，这种和国家做对，开资本倒车，毫无前途的支付方式，许多人天天刷支付宝居然还乐在其中。真是愚民不可教也。这和每天用百度知道刷贴吧却还感叹国内资讯发达的人相比有什么区别？ 
 
@@ -7252,28 +7039,25 @@ children这种情况。对于zig-zig和zig-zag，处理两次parent children 即
  
 
  
+<br>**问题**:struct SomeStruct a**1**;是什么用法？
 
-[问题]:struct SomeStruct a[1];是什么用法？
-
-[答案]:轮子哥说的对。这都是C下的小trick. 但在c++ 中完全不建议使用。。
-
- 
+**答案**:轮子哥说的对。这都是C下的小trick. 但在c++ 中完全不建议使用。。
 
  
 
-[问题]:Surface Book 的显卡热插拔技术是如何实现的？
+ 
+<br>**问题**:Surface Book 的显卡热插拔技术是如何实现的？
 
-[答案]:显然是windows 10的显卡驱动技术实现了新的飞跃，可以让显卡热插拔了。 
+**答案**:显然是windows 10的显卡驱动技术实现了新的飞跃，可以让显卡热插拔了。 
 
 与其相比，连skylake 都不支持的el capitan 还是回家喝奶茶去吧。
 
  
 
  
+<br>**问题**:Surface Pro 3 和 MacBook Air，你会选择哪一个？
 
-[问题]:Surface Pro 3 和 MacBook Air，你会选择哪一个？
-
-[答案]: 。。。我什么都不说，就看销售数据。
+**答案**: 。。。我什么都不说，就看销售数据。
 
 推销各种微软服务的人就算了吧。你们的思维还停留在”世界上所有人都想当一辈子工人“的阶段，故你们对这些榔头，锤子，扳手特别感兴趣（更别说这些榔头，锤子，扳手还是闭源的。你真需要科学计算你不会aws啊？）。。。 
 
@@ -7302,10 +7086,9 @@ children这种情况。对于zig-zig和zig-zag，处理两次parent children 即
  
 
  
+<br>**问题**:Surface Pro 3 是否可以像微软宣传的那样，取代笔记本电脑？
 
-[问题]:Surface Pro 3 是否可以像微软宣传的那样，取代笔记本电脑？
-
-[答案]:我是surface pro的长期关注者，而且我希望surface pro大卖。但经过我从发布到今天这几天的慎重分析，我认为现在的surface
+**答案**:我是surface pro的长期关注者，而且我希望surface pro大卖。但经过我从发布到今天这几天的慎重分析，我认为现在的surface
 
 pro仍然无法完成取代笔记本，成为主流产品的使命。原因有下： 
 
@@ -7370,18 +7153,16 @@ hardware)。对于前者，其实微软可以做的更轻薄，便宜，简单�
  
 
  
+<br>**问题**:Surface Pro 4 屏幕使用的 PixelSense™是什么技术？
 
-[问题]:Surface Pro 4 屏幕使用的 PixelSense™是什么技术？
-
-[答案]: 所以这年头重新发明的电磁屏都可以取个名字了。。风靡多年的触摸技术该怎么办
-
- 
+**答案**: 所以这年头重新发明的电磁屏都可以取个名字了。。风靡多年的触摸技术该怎么办
 
  
 
-[问题]:Surface Pro 4 有哪些缺点
+ 
+<br>**问题**:Surface Pro 4 有哪些缺点
 
-[答案]: 首先我觉得我有必要来反驳一下轮子ai的答案，贵？这玩意并不贵。如果好用，3000usd我也买，我不买，我司也会买来配给我们。
+**答案**: 首先我觉得我有必要来反驳一下轮子ai的答案，贵？这玩意并不贵。如果好用，3000usd我也买，我不买，我司也会买来配给我们。
 
  
 
@@ -7478,10 +7259,9 @@ os x的可用性水平了。可惜还是没有做到。至于那个触摸板，�
  
 
  
+<br>**问题**:Surface Pro 4，轻度使用应该选购 Core M 还是 i5 版本？
 
-[问题]:Surface Pro 4，轻度使用应该选购 Core M 还是 i5 版本？
-
-[答案]:如果CoreM 的性能（以及所谓的磁盘速度）还不如A9X的话，同样是轻薄无风扇，那还不如选择iPad Pro。 
+**答案**:如果CoreM 的性能（以及所谓的磁盘速度）还不如A9X的话，同样是轻薄无风扇，那还不如选择iPad Pro。 
 
 将其放在大腿上一点也不烫也不重呢~ 
 
@@ -7492,10 +7272,9 @@ os x的可用性水平了。可惜还是没有做到。至于那个触摸板，�
  
 
  
+<br>**问题**:Surface Pro 与 iPad+Mac 这两种搭配那个好一点？
 
-[问题]:Surface Pro 与 iPad+Mac 这两种搭配那个好一点？
-
-[答案]: 生产电脑不仅仅是把高配置的元器件摆在一起然后装一个windows这么简单（尽管这就是兼容机的主旨），否则我们都应该去买神舟牌笔记本电脑。
+**答案**: 生产电脑不仅仅是把高配置的元器件摆在一起然后装一个windows这么简单（尽管这就是兼容机的主旨），否则我们都应该去买神舟牌笔记本电脑。
 
  
 
@@ -7511,11 +7290,11 @@ display会爽死你的相信我，速度也会爽死你的，虚拟机和主机�
 
 downloads 文件夹的附件发一封邮件。parallels desktop也可以完美纠正windows在高分屏下的脑残表现。 
 
-![](https://pic2.zhimg.com/89bdb1d9b23da35825707a1404c6e3f9_b.jpg) 
+!****(https://pic2.zhimg.com/89bdb1d9b23da35825707a1404c6e3f9_b.jpg) 
 
  
 
-![](https://pic2.zhimg.com/0053c11ee70e31f34ac4484648b81fa5_b.jpg) 
+!****(https://pic2.zhimg.com/0053c11ee70e31f34ac4484648b81fa5_b.jpg) 
 
 这样的速度和便捷，楼主你还在考虑重启登录windows只是为了使用一个office的bootcamp吗？我来告诉你2014年的解决方案：parallels
 
@@ -7528,30 +7307,27 @@ desktop
  
 
  
+<br>**问题**:surface pro3选i3还是i5
 
-[问题]:surface pro3选i3还是i5
-
-[答案]:如果只是one note 的话，建议等iPad pro 出来后试试。。没有对比，就没有杀戮。 
+**答案**:如果只是one note 的话，建议等iPad pro 出来后试试。。没有对比，就没有杀戮。 
 
 当然，作为一款平板，surface 是可以的。不过已经有不少人反映他的续航，卡顿等问题，不知道你是否可以适应
 
  
 
  
+<br>**问题**:Surface pro4和Surface Book销量能达到怎样的高度？
 
-[问题]:Surface pro4和Surface Book销量能达到怎样的高度？
-
-[答案]:据说surface pro 屏幕取下来续航时间长达4小时。。 
+**答案**:据说surface pro 屏幕取下来续航时间长达4小时。。 
 
 果然还是个半成品啊。
 
  
 
  
+<br>**问题**:SurfaceBook和Surface Pro4的优差点分别是？性价比都怎么样？？
 
-[问题]:SurfaceBook和Surface Pro4的优差点分别是？性价比都怎么样？？
-
-[答案]: 优点是太屌了，差点是一点都不给苹果面子。。
+**答案**: 优点是太屌了，差点是一点都不给苹果面子。。
 
 买一个2700美刀的顶配surface book，等于附送一个人价值1000的iPad pro .. 谁还买iPad pro? 
 
@@ -7574,9 +7350,8 @@ Mac OS X长得比较好看吗？
  
 
  
-
-[问题]: SVM和logistic回归分别在什么情况下使用？
-[答案]: 补充第一楼的答案:
+<br>**问题**: SVM和logistic回归分别在什么情况下使用？
+**答案**: 补充第一楼的答案:
 
 Logistic Regression 来自于Generalized Linear Model， 其想法和Linear
 
@@ -7587,27 +7362,24 @@ SVM的思想来源于Perceptron Method。区别在于要找到最有效的分类
  
 
  
+<br>**问题**:Swift 语言开发的应用能够兼容 iOS 7 和 OS X Mavericks 以下的更低版本吗？
 
-[问题]:Swift 语言开发的应用能够兼容 iOS 7 和 OS X Mavericks 以下的更低版本吗？
-
-[答案]:SWIFT 只是把所有的语言重新编译成obj-c的代码，再运行。因此应该没关系。除非你使用了ios 8才开放了新的api。 
+**答案**:SWIFT 只是把所有的语言重新编译成obj-c的代码，再运行。因此应该没关系。除非你使用了ios 8才开放了新的api。 
 
 很多语言都应该学习一下新的结构。。。这样所有语言都看起来像python的话，世界人民就开心很多。matlab也应该看起来像mathematica，否则那些函数名是人看的？
 
  
 
  
-
-[问题]: swift有代替c++的潜力吗？
-[答案]: 连我都看不下去了。。
-
- 
+<br>**问题**: swift有代替c++的潜力吗？
+**答案**: 连我都看不下去了。。
 
  
 
-[问题]:te^t （t→+∞）不用洛必达法则怎么做
+ 
+<br>**问题**:te^t （t→+∞）不用洛必达法则怎么做
 
-[答案]:展开e^t 成1 + t + 1/2 t^2 + O(t^3) 
+**答案**:展开e^t 成1 + t + 1/2 t^2 + O(t^3) 
 
 不言自明 
 
@@ -7619,31 +7391,31 @@ SVM的思想来源于Perceptron Method。区别在于要找到最有效的分类
 
 显然 
 
-![for\\ any\\ t>0, e^t >= 1 + t
+!**for\\ any\\ t>0, e^t >= 1 + t
 
-+0.5t^2](https://www.zhihu.com/equation?tex=for%5C+any%5C+t%3E0%2C+e%5Et+%3E%3D+1+%2B+t+%2B0.5t%5E2) 
++0.5t^2**(https://www.zhihu.com/equation?tex=for%5C+any%5C+t%3E0%2C+e%5Et+%3E%3D+1+%2B+t+%2B0.5t%5E2) 
 
 因此： 
 
-![e^t/t >= 1/t + 1 + 0.5t > 0.5t, always\\ holds\\ when\\ t >
+!**e^t/t >= 1/t + 1 + 0.5t > 0.5t, always\\ holds\\ when\\ t >
 
-0](https://www.zhihu.com/equation?tex=e%5Et%2Ft+%3E%3D+1%2Ft+%2B+1+%2B+0.5t+%3E+0.5t%2C+always%5C+holds%5C+when%5C++t+%3E+0) 
+0**(https://www.zhihu.com/equation?tex=e%5Et%2Ft+%3E%3D+1%2Ft+%2B+1+%2B+0.5t+%3E+0.5t%2C+always%5C+holds%5C+when%5C++t+%3E+0) 
 
 下面是见证奇迹的时候 
 
-因为，对于任意的 ![N>0](https://www.zhihu.com/equation?tex=N%3E0) 
+因为，对于任意的 !**N>0**(https://www.zhihu.com/equation?tex=N%3E0) 
 
-，我们都存在 ![t_0=2N](https://www.zhihu.com/equation?tex=t_0%3D2N) 
+，我们都存在 !**t_0=2N**(https://www.zhihu.com/equation?tex=t_0%3D2N) 
 
-, ![\\forall t > t_0, e^t/t > 0.5t =
+, !**\\forall t > t_0, e^t/t > 0.5t =
 
-N](https://www.zhihu.com/equation?tex=%5Cforall+t+%3E+t_0%2C+e%5Et%2Ft+%3E+0.5t+%3D+N) 
+N**(https://www.zhihu.com/equation?tex=%5Cforall+t+%3E+t_0%2C+e%5Et%2Ft+%3E+0.5t+%3D+N) 
 
 根据定义，我们有： 
 
-![\\lim_{t \\rightarrow \\infty}{e^t/t} =
+!**\\lim_{t \\rightarrow \\infty}{e^t/t} =
 
-\\infty](https://www.zhihu.com/equation?tex=%5Clim_%7Bt+%5Crightarrow+%5Cinfty%7D%7Be%5Et%2Ft%7D+%3D+%5Cinfty) 
+\\infty**(https://www.zhihu.com/equation?tex=%5Clim_%7Bt+%5Crightarrow+%5Cinfty%7D%7Be%5Et%2Ft%7D+%3D+%5Cinfty) 
 
  
 
@@ -7651,17 +7423,16 @@ N](https://www.zhihu.com/equation?tex=%5Cforall+t+%3E+t_0%2C+e%5Et%2Ft+%3E+0.5t+
 
 又根据定义，我们有： 
 
-![\\lim_{t \\rightarrow \\infty}{t/e^t} = 0
+!**\\lim_{t \\rightarrow \\infty}{t/e^t} = 0
 
-](https://www.zhihu.com/equation?tex=%5Clim_%7Bt+%5Crightarrow+%5Cinfty%7D%7Bt%2Fe%5Et%7D+%3D+0+)
-
- 
+**(https://www.zhihu.com/equation?tex=%5Clim_%7Bt+%5Crightarrow+%5Cinfty%7D%7Bt%2Fe%5Et%7D+%3D+0+)
 
  
 
-[问题]:Tesla Motors 的「90 秒换电池」前景如何？
+ 
+<br>**问题**:Tesla Motors 的「90 秒换电池」前景如何？
 
-[答案]: @司马非
+**答案**: @司马非
 
 说的不错。视频中内燃机加了22GALLON的汽油，高速上保守估计能开30*22=660MILE。TESLA的电池一般可以跑300MILE。TESLA换了2个电池，一次要花费60USD；内燃机加满了一次油，花费99USD。其实差不多的，内燃机还便宜。不过理论上说换电池可以更快，不知道为什么机械臂的速度被限定在一个并非“飞速”的数值上。。。另外一个问题是，为什么要收费？既然电费都免费了，只要客户最后把电池还回来（比如48小时以内），就应该免费啊。如果这个服务免费，TESLA才算是有一个KILLER
 
@@ -7670,28 +7441,25 @@ SERVICE。。
  
 
  
+<br>**问题**:thin equals beautiful 中形容词怎么做主词了？
 
-[问题]:thin equals beautiful 中形容词怎么做主词了？
-
-[答案]:thin = the thin = noun. 
+**答案**:thin = the thin = noun. 
 
 beautiful= the beautiful = noun.
 
  
 
  
+<br>**问题**: TOP10大学的学生假期一般都干什么？
 
-[问题]: TOP10大学的学生假期一般都干什么？
-
-[答案]:去其他top 10的大学玩
-
- 
+**答案**:去其他top 10的大学玩
 
  
 
-[问题]: uber软件算法需要几个工程师来写？是否很难？以及uber2009年就成立了为什么14年才火起来？
+ 
+<br>**问题**: uber软件算法需要几个工程师来写？是否很难？以及uber2009年就成立了为什么14年才火起来？
 
-[答案]:Anyway，反正不是boosting decision tree就是linear regression (including logistic,
+**答案**:Anyway，反正不是boosting decision tree就是linear regression (including logistic,
 
 SVM)。不会是NN的。 
 
@@ -7724,10 +7492,9 @@ yeah。每秒刷的价格都不同哦$）而不让用户发现；各种地方暗
  
 
  
+<br>**问题**:UC Berkeley 和 Stanford 相比，有何优劣？
 
-[问题]:UC Berkeley 和 Stanford 相比，有何优劣？
-
-[答案]: 我来回答一下吧。
+**答案**: 我来回答一下吧。
 
 世界是分层的。世界是有优劣的。人生是痛苦的，因为我们不断地生活在其他人的单调的评价之下。 
 
@@ -7820,49 +7587,43 @@ yeah。每秒刷的价格都不同哦$）而不让用户发现；各种地方暗
  
 
  
+<br>**问题**:UC Berkeley 的口号「Go Bears」如何翻译比较合适？
 
-[问题]:UC Berkeley 的口号「Go Bears」如何翻译比较合适？
-
-[答案]: 滚吧，小破熊。
-
- 
-
- 
-
-[问题]: UCB明明有更好的入门课CS164，为什么曾博却坚持推荐CS61A？
-[答案]: 。。本校烂课？
+**答案**: 滚吧，小破熊。
 
  
 
  
-
-[问题]: UCB有哪些非常值得选修的课程？
-
-[答案]:CS 61A，B，C
+<br>**问题**: UCB明明有更好的入门课CS164，为什么曾博却坚持推荐CS61A？
+**答案**: 。。本校烂课？
 
  
 
  
+<br>**问题**: UCB有哪些非常值得选修的课程？
 
-[问题]: UCB的中国人也是有一些的，唯独曾博如此受人关注，他值吗？
-[答案]: 不值。而且你会发现他混的是最差的
+**答案**:CS 61A，B，C
+
+ 
+
+ 
+<br>**问题**: UCB的中国人也是有一些的，唯独曾博如此受人关注，他值吗？
+**答案**: 不值。而且你会发现他混的是最差的
 
  
 
  
+<br>**问题**:UCLA的本科计算机专业(Computer Science)怎么样？
 
-[问题]:UCLA的本科计算机专业(Computer Science)怎么样？
-
-[答案]: 那是显然不如cmu的。。。。你转学吧。
+**答案**: 那是显然不如cmu的。。。。你转学吧。
 
 cmu没有一个没找到工作的，ucla我还没听过没有因为找不到工作而回国的。楼下有的话请用事实教育我。
 
  
 
  
-
-[问题]: UC系列各分校各有什么气质？
-[答案]: 楼上胡说八道。。
+<br>**问题**: UC系列各分校各有什么气质？
+**答案**: 楼上胡说八道。。
 
 ucsb的理论物理独步美帝，看看教材中几个大牛在那里你就知道了 
 
@@ -7879,18 +7640,16 @@ ucb 是一个发源地，本科生集散/批发/就业中心，最终的结果�
  
 
  
-
-[问题]: UNIXLinux最伟大的技术是什么？
-[答案]: 虽然说轮子哥胡说八道，但就他的工资和地位来看，早就秒杀本版所有回答者。他有时间来教导我们，我们当感到荣幸。NT确实是近代最优秀的内核之一，说他超过NIX
+<br>**问题**: UNIXLinux最伟大的技术是什么？
+**答案**: 虽然说轮子哥胡说八道，但就他的工资和地位来看，早就秒杀本版所有回答者。他有时间来教导我们，我们当感到荣幸。NT确实是近代最优秀的内核之一，说他超过NIX
 
 那千年如一日的内核，确实不足为过Linux 其他方面并无什么贡献，最主要的贡献其实还是那个开源的平台。让更多人用上了computation .
 
  
 
  
-
-[问题]: U步、滴滴，天气恶劣时，为何2倍3倍涨价？真的合理吗？
-[答案]: 自由经济学和政府掌控之间存在一个平衡
+<br>**问题**: U步、滴滴，天气恶劣时，为何2倍3倍涨价？真的合理吗？
+**答案**: 自由经济学和政府掌控之间存在一个平衡
 
 如果一个国家没有任何可靠的公共交通，全都靠共享车来运行的话，那么社会中层的人就要造反了 
 
@@ -7905,25 +7664,22 @@ ucb 是一个发源地，本科生集散/批发/就业中心，最终的结果�
  
 
  
+<br>**问题**:vczh 的 ID 该怎么念？
 
-[问题]:vczh 的 ID 该怎么念？
-
-[答案]: 轮啊胖
-
- 
-
- 
-
-[问题]: vczh(知乎用户)在知乎的回答全是抖机灵调侃两三句话，但是大家为什么却仍然关注、点赞、膜拜他呢？
-
-[答案]:因为 微软教育的好（逃
+**答案**: 轮啊胖
 
  
 
  
+<br>**问题**: vczh(知乎用户)在知乎的回答全是抖机灵调侃两三句话，但是大家为什么却仍然关注、点赞、膜拜他呢？
 
-[问题]: vczh和曾博哪个更有水平
-[答案]: 轮子哥比我有前途。毕竟他认识高级工程师，而且和他是好朋友；
+**答案**:因为 微软教育的好（逃
+
+ 
+
+ 
+<br>**问题**: vczh和曾博哪个更有水平
+**答案**: 轮子哥比我有前途。毕竟他认识高级工程师，而且和他是好朋友；
 
 而我呢？一个朋友都没有。 
 
@@ -7932,24 +7688,21 @@ ucb 是一个发源地，本科生集散/批发/就业中心，最终的结果�
  
 
  
-
-[问题]: vczh转战segmentfault？
-[答案]: 我要关注！
-
- 
-
- 
-
-[问题]: vczh（轮子哥）为什么没参加2016年6月20日播出的有关程序员那期的《职人介绍所》？
-[答案]: 浙能去吗。。
+<br>**问题**: vczh转战segmentfault？
+**答案**: 我要关注！
 
  
 
  
+<br>**问题**: vczh（轮子哥）为什么没参加2016年6月20日播出的有关程序员那期的《职人介绍所》？
+**答案**: 浙能去吗。。
 
-[问题]:Vine 的视频录制模式为何如此有趣？
+ 
 
-[答案]: 因为vine融合了以下元素：
+ 
+<br>**问题**:Vine 的视频录制模式为何如此有趣？
+
+**答案**: 因为vine融合了以下元素：
 
 1，社交网络；twitter上拥有完整和广阔的社交群； 
 
@@ -7964,26 +7717,23 @@ ucb 是一个发源地，本科生集散/批发/就业中心，最终的结果�
  
 
  
+<br>**问题**:VS C++ 最大的数组下标是2500599
 
-[问题]:VS C++ 最大的数组下标是2500599
-
-[答案]:轮子哥说的对。new 就会放在heap 里。这样就只和虚拟内存的大小有关了
-
- 
-
- 
-
-[问题]:we of the young generation extol the wisdom of the great leader and educator中of...generation做啥成分
-
-[答案]:of the young generation 修辞 we。
+**答案**:轮子哥说的对。new 就会放在heap 里。这样就只和虚拟内存的大小有关了
 
  
 
  
+<br>**问题**:we of the young generation extol the wisdom of the great leader and educator中of...generation做啥成分
 
-[问题]:Why must the eigenvalue of the number operator be an integer
+**答案**:of the young generation 修辞 we。
 
-[答案]:You can prove that if it is not integer , you can never annihilate it. You
+ 
+
+ 
+<br>**问题**:Why must the eigenvalue of the number operator be an integer
+
+**答案**:You can prove that if it is not integer , you can never annihilate it. You
 
 won't be able to reach a base case. Only integer can reach 0 because each step
 
@@ -7992,18 +7742,16 @@ of annihilation reduce the engenvalue by one
  
 
  
+<br>**问题**:Win 10 下用什么写 C++ ？
 
-[问题]:Win 10 下用什么写 C++ ？
-
-[答案]: 建议你买一台win10电脑送给老师。
-
- 
+**答案**: 建议你买一台win10电脑送给老师。
 
  
 
-[问题]: win10安装声卡驱动无法安装怎么办？
+ 
+<br>**问题**: win10安装声卡驱动无法安装怎么办？
 
-[答案]:对。反正微软最屌爆的是从不使用 Java 或者 Python 抛出异常，抛出的异常宁可显示一段128位的16进制也不现实错误信息。 
+**答案**:对。反正微软最屌爆的是从不使用 Java 或者 Python 抛出异常，抛出的异常宁可显示一段128位的16进制也不现实错误信息。 
 
 他可能认为我们人人都有一本1000页的错误代码-信息查询书吧。他的异常都是汇编抛出来的。 
 
@@ -8014,51 +7762,45 @@ of annihilation reduce the engenvalue by one
  
 
  
+<br>**问题**:Win10无法打开Software Protection Service怎么办？
 
-[问题]:Win10无法打开Software Protection Service怎么办？
-
-[答案]:Error 1053. 看来微软也知道自己写的程序错误成千上万啊。。 
+**答案**:Error 1053. 看来微软也知道自己写的程序错误成千上万啊。。 
 
 那不该暴露给用户的错误暴露给用户，就是微软的最大特色。
 
  
 
  
-
-[问题]: win10有什么厉害之处？为何被微软称为最好的windows
-[答案]: 以前的太差了吧。。要是倒退，那还有人用？
-
- 
-
- 
-
-[问题]:win7和Mac OS 各有哪些优劣？
-
-[答案]: 苹果对用户界面进行过友好设计；微软并没有。
+<br>**问题**: win10有什么厉害之处？为何被微软称为最好的windows
+**答案**: 以前的太差了吧。。要是倒退，那还有人用？
 
  
 
  
+<br>**问题**:win7和Mac OS 各有哪些优劣？
 
-[问题]:Win8 是否应用了 WPF 技术？
-
-[答案]: 我还以为是wtf技术。。
-
- 
-
- 
-
-[问题]:Windows 10 的免费会对 Linux 桌面发行版和 OS X 操作系统产生怎样的影响？
-
-[答案]: 一个长得丑的丑男倒贴对帅哥有什么影响？
+**答案**: 苹果对用户界面进行过友好设计；微软并没有。
 
  
 
  
+<br>**问题**:Win8 是否应用了 WPF 技术？
 
-[问题]:Windows 10 给 Linux 子系统写显卡驱动的是一个人吗，是谁呢？
+**答案**: 我还以为是wtf技术。。
 
-[答案]: 我不是撕。我是对微软公司驱动界一个人写驱动这件事表示惊叹。写DirectX给200款显卡适配驱动，一个人写完这也是屌。当然可能这个directX“驱动”并不是我们理解的驱动。
+ 
+
+ 
+<br>**问题**:Windows 10 的免费会对 Linux 桌面发行版和 OS X 操作系统产生怎样的影响？
+
+**答案**: 一个长得丑的丑男倒贴对帅哥有什么影响？
+
+ 
+
+ 
+<br>**问题**:Windows 10 给 Linux 子系统写显卡驱动的是一个人吗，是谁呢？
+
+**答案**: 我不是撕。我是对微软公司驱动界一个人写驱动这件事表示惊叹。写DirectX给200款显卡适配驱动，一个人写完这也是屌。当然可能这个directX“驱动”并不是我们理解的驱动。
 
  
 
@@ -8071,46 +7813,41 @@ Parallels的虚拟机都不需要专门写驱动，都可以玩PC游戏了，而
  
 
  
+<br>**问题**:Windows 10 能挽救 Windows 手机吗？
 
-[问题]:Windows 10 能挽救 Windows 手机吗？
-
-[答案]:微软搞windows phone就是不务正业。。。。。他的主要财务收入都是来自软件，搞什么硬件？专注一点搞一个office for all
+**答案**:微软搞windows phone就是不务正业。。。。。他的主要财务收入都是来自软件，搞什么硬件？专注一点搞一个office for all
 
 platform，然后推出一个可以在ios和android上跑的win 10虚拟机就好了。。。。搞windows phone就是属于有钱没地方花。
 
  
 
  
+<br>**问题**:windows 10对高分屏的支持如何？
 
-[问题]:windows 10对高分屏的支持如何？
-
-[答案]:都已经出surface book 了，号称3000*2000。结果Windows 10
+**答案**:都已经出surface book 了，号称3000*2000。结果Windows 10
 
 自带的界面（例如控制面板），写字板输入中文，简直烂的和什么一样。我刚背叛el capitan , 现在看来必须得回去了
 
  
 
  
+<br>**问题**:Windows 7 的开机速度为什么那么慢？
 
-[问题]:Windows 7 的开机速度为什么那么慢？
-
-[答案]:打开windows的正确方法是在mac上安装parallels 虚拟机，然后打开。
-
- 
-
- 
-
-[问题]:Windows 8 关机为何这样麻烦，微软如此设计的原因是什么？
-
-[答案]:＝＝所以还是os x 系统好。
+**答案**:打开windows的正确方法是在mac上安装parallels 虚拟机，然后打开。
 
  
 
  
+<br>**问题**:Windows 8 关机为何这样麻烦，微软如此设计的原因是什么？
 
-[问题]:Windows 8 和 OS X Mountain Lion 都大量引入了移动设备的交互特性，而苹果 Mac 的硬件机型可以统一规划升级，但微软却要面对众多的计算机厂商和现有传统 PC 用户，微软如何解决这个矛盾？
+**答案**:＝＝所以还是os x 系统好。
 
-[答案]: 微软公司的定位，就不是在于服务每一个用户。他的定位就是在于用一种商业手段让自己的操作系统进入每一个人家的pc中。
+ 
+
+ 
+<br>**问题**:Windows 8 和 OS X Mountain Lion 都大量引入了移动设备的交互特性，而苹果 Mac 的硬件机型可以统一规划升级，但微软却要面对众多的计算机厂商和现有传统 PC 用户，微软如何解决这个矛盾？
+
+**答案**: 微软公司的定位，就不是在于服务每一个用户。他的定位就是在于用一种商业手段让自己的操作系统进入每一个人家的pc中。
 
 ok他做到了。 
 
@@ -8119,18 +7856,16 @@ ok他做到了。
  
 
  
+<br>**问题**:Windows Phone 7 不能升级到 Windows Phone 8，微软是怎么想的？
 
-[问题]:Windows Phone 7 不能升级到 Windows Phone 8，微软是怎么想的？
-
-[答案]: 你问一个没有脑子的公司他怎么想的？
-
- 
+**答案**: 你问一个没有脑子的公司他怎么想的？
 
  
 
-[问题]:Windows Phone 8.1 的 Files 文件管理功能有什么用？
+ 
+<br>**问题**:Windows Phone 8.1 的 Files 文件管理功能有什么用？
 
-[答案]: 这是移动端操作理念朝着桌面操作理念发展的一种返祖现象。
+**答案**: 这是移动端操作理念朝着桌面操作理念发展的一种返祖现象。
 
 某些用户的操作习惯变成没有文件夹就没法活了。某些程序的开发理念变成不能读取c:\downloads, c:\documents, c:\xxx
 
@@ -8143,44 +7878,39 @@ ok他做到了。
  
 
  
+<br>**问题**:Windows Phone的市场占有率这么低，为何手机还那么贵？
 
-[问题]:Windows Phone的市场占有率这么低，为何手机还那么贵？
-
-[答案]: 那种主页铺满屏幕的设计，我也是醉了。有一种一开机就到了互联网推荐黄页主页的感觉。
-
- 
+**答案**: 那种主页铺满屏幕的设计，我也是醉了。有一种一开机就到了互联网推荐黄页主页的感觉。
 
  
 
-[问题]:Windows 下 C++ 界面库的前景是什么？
+ 
+<br>**问题**:Windows 下 C++ 界面库的前景是什么？
 
-[答案]: 轮子哥这么厉害。。。。我要转他的粉丝。
+**答案**: 轮子哥这么厉害。。。。我要转他的粉丝。
 
 另外这真的不是轮子哥的粉丝发的帖子吗？
 
  
 
  
+<br>**问题**:Windows 为什么要设置开机音乐？
 
-[问题]:Windows 为什么要设置开机音乐？
-
-[答案]: 请某些人区分音效和音乐
-
- 
-
- 
-
-[问题]:Windows 可以全键盘操作吗，哪些操作不可以用键盘完成？
-
-[答案]: 你告诉我如何用键盘点右键吧。。
+**答案**: 请某些人区分音效和音乐
 
  
 
  
+<br>**问题**:Windows 可以全键盘操作吗，哪些操作不可以用键盘完成？
 
-[问题]:Windows 是如何击败竞争对手并统治桌面操作系统的？
+**答案**: 你告诉我如何用键盘点右键吧。。
 
-[答案]: 商业，合作，技术，人才。
+ 
+
+ 
+<br>**问题**:Windows 是如何击败竞争对手并统治桌面操作系统的？
+
+**答案**: 商业，合作，技术，人才。
 
 无他 
 
@@ -8199,26 +7929,23 @@ ok他做到了。
  
 
  
+<br>**问题**:Windows 系统为什么对高分屏支持不好？
 
-[问题]:Windows 系统为什么对高分屏支持不好？
-
-[答案]: WINDOWS需要向mac团队购买一部分成员提高自己的姿势水平。。。
-
- 
-
- 
-
-[问题]:Windows 系统笔记本到手之后需要做哪些工作？
-
-[答案]: 下载360
+**答案**: WINDOWS需要向mac团队购买一部分成员提高自己的姿势水平。。。
 
  
 
  
+<br>**问题**:Windows 系统笔记本到手之后需要做哪些工作？
 
-[问题]: Windows10由于网卡驱动或者第三方程序导致不稳定或者蓝屏，微软是否应该背锅？
+**答案**: 下载360
 
-[答案]:Mac 的 bug也很多的。我希望微软吸取教训，更多的把自己的程序员贡献给Apple。 
+ 
+
+ 
+<br>**问题**: Windows10由于网卡驱动或者第三方程序导致不稳定或者蓝屏，微软是否应该背锅？
+
+**答案**:Mac 的 bug也很多的。我希望微软吸取教训，更多的把自己的程序员贡献给Apple。 
 
 这问题问得很奇怪。微软就算背了锅，又能如何？背着锅子可以帮你收钱吗？这锅子什么牌子的啊，我也要买~ 
 
@@ -8229,31 +7956,27 @@ ok他做到了。
  
 
  
-
-[问题]: Windows好用在哪里？
-[答案]: 不要钱。。
-
- 
-
- 
-
-[问题]: windows怎么玩才不卡？
-[答案]: 使用单任务，单进程
+<br>**问题**: Windows好用在哪里？
+**答案**: 不要钱。。
 
  
 
  
+<br>**问题**: windows怎么玩才不卡？
+**答案**: 使用单任务，单进程
 
-[问题]: windows是世上最好的操作系统？
-[答案]: 大家好这个题不是我问的。谢谢。
+ 
+
+ 
+<br>**问题**: windows是世上最好的操作系统？
+**答案**: 大家好这个题不是我问的。谢谢。
 
  
 
  
+<br>**问题**:Windows没有OS X稳定吗？为什么？
 
-[问题]:Windows没有OS X稳定吗？为什么？
-
-[答案]:反正我windows 10安装在i7 6700k, 16G DDR4 3200MHz, GTX 970显卡
+**答案**:反正我windows 10安装在i7 6700k, 16G DDR4 3200MHz, GTX 970显卡
 
 的电脑上，又一次桌面freeze了，卧槽居然怎么点也没反应，但其他的窗口都是好的。我只好每次打开资源管理器去打开桌面上的文件。 
 
@@ -8268,17 +7991,15 @@ windows 10啊，你要好好学习别人。
  
 
  
+<br>**问题**: windows的自带纸牌游戏是否一定有解？
 
-[问题]: windows的自带纸牌游戏是否一定有解？
-
-[答案]:空单接龙可以证明和longest increasing sequence 这个命题等价。
-
- 
+**答案**:空单接龙可以证明和longest increasing sequence 这个命题等价。
 
  
 
-[问题]: windows系统怎么一键还原？
-[答案]: 这就是为什么360安全卫士占据绝大部分PC桌面的缘故了。
+ 
+<br>**问题**: windows系统怎么一键还原？
+**答案**: 这就是为什么360安全卫士占据绝大部分PC桌面的缘故了。
 
 Mac从来不需要这么折腾。 
 
@@ -8291,26 +8012,23 @@ Mac从来不需要这么折腾。
  
 
  
+<br>**问题**: Windows自带的微软拼音输入法为什么会占用巨大的内存？
 
-[问题]: Windows自带的微软拼音输入法为什么会占用巨大的内存？
-
-[答案]:可能你下载的版本没有garbage collection 。。。
-
- 
-
- 
-
-[问题]: Windows资源管理器统计文件夹体积的速度怎么那么慢？
-
-[答案]:mac 也很慢。估计楼主可以开发一个协处理器解决这个问题：专门储存文件夹大小
+**答案**:可能你下载的版本没有garbage collection 。。。
 
  
 
  
+<br>**问题**: Windows资源管理器统计文件夹体积的速度怎么那么慢？
 
-[问题]:Wisc CS PHD, NWU EECS(Communication) PHD, CMU INI Master如何选择？
+**答案**:mac 也很慢。估计楼主可以开发一个协处理器解决这个问题：专门储存文件夹大小
 
-[答案]: 厉害的都去当教授吧。那风花雪月
+ 
+
+ 
+<br>**问题**:Wisc CS PHD, NWU EECS(Communication) PHD, CMU INI Master如何选择？
+
+**答案**: 厉害的都去当教授吧。那风花雪月
 
 平凡的工作，就留给我们这些平凡的人就好 
 
@@ -8319,25 +8037,22 @@ Mac从来不需要这么折腾。
  
 
  
-
-[问题]: WOW魔兽世界原声音乐在当今古典音乐界到底是个什么水平？
-[答案]: 我认为超过了杨幂的《爱的供养》。
-
- 
-
- 
-
-[问题]:WPF 做游戏是否有前景？
-
-[答案]: WPF这种东西果然毫无前途
+<br>**问题**: WOW魔兽世界原声音乐在当今古典音乐界到底是个什么水平？
+**答案**: 我认为超过了杨幂的《爱的供养》。
 
  
 
  
+<br>**问题**:WPF 做游戏是否有前景？
 
-[问题]:WWDC 2014 的海报有何含义或暗示？
+**答案**: WPF这种东西果然毫无前途
 
-[答案]: 从不同方块的大小的渐变，我们可以看出苹果会推出不同尺寸的，相互协作的产品。至于这个是全新的产品线，可以佩戴的穿戴设备，还是家居设备，这个还无从得知。
+ 
+
+ 
+<br>**问题**:WWDC 2014 的海报有何含义或暗示？
+
+**答案**: 从不同方块的大小的渐变，我们可以看出苹果会推出不同尺寸的，相互协作的产品。至于这个是全新的产品线，可以佩戴的穿戴设备，还是家居设备，这个还无从得知。
 
 如果你对苹果特别乐观，你可以说苹果会发布2，3款全新的设备，这些设备的尺寸接近正方形，相互协作，掀起新潮； 
 
@@ -8358,20 +8073,18 @@ os x 叫做yosemite
  
 
  
+<br>**问题**:WWDC 2014 的首日发布会 Keynote 会有视频直播吗？
 
-[问题]:WWDC 2014 的首日发布会 Keynote 会有视频直播吗？
-
-[答案]: 一般来说，大家更会关心股价的波动。股价的涨跌基本就反映了wwdc的直播。。。
+**答案**: 一般来说，大家更会关心股价的波动。股价的涨跌基本就反映了wwdc的直播。。。
 
 去engadget 看直播吧。
 
  
 
  
+<br>**问题**:WWDC 2015 有什么值得期待的地方？
 
-[问题]:WWDC 2015 有什么值得期待的地方？
-
-[答案]:Apple 将会重组成一个新的公司，叫做beatalpha， 旗下分为：Siri inc, Mac families Corp, i co, ltd ,
+**答案**:Apple 将会重组成一个新的公司，叫做beatalpha， 旗下分为：Siri inc, Mac families Corp, i co, ltd ,
 
 以及 cars。 
 
@@ -8380,60 +8093,53 @@ os x 叫做yosemite
  
 
  
+<br>**问题**:yilin wang，藤本烈，曾博以及许多知乎用户的账号为何停用了？
 
-[问题]:yilin wang，藤本烈，曾博以及许多知乎用户的账号为何停用了？
-
-[答案]:小勃勃被封应该是因为在“一个热衷于看宫斗剧的民族有民族前途吗” 里面的回答以及回复导致的吧。 
+**答案**:小勃勃被封应该是因为在“一个热衷于看宫斗剧的民族有民族前途吗” 里面的回答以及回复导致的吧。 
 
 仔细一看的确涉及了很多政治内容
 
  
 
  
-
-[问题]: ZJU大一，大三四想申请MIT，需要什么条件？
-[答案]: 请邀请申上MIT的浙大人，有很多。当然作为成功人士他们不上知乎
-
- 
+<br>**问题**: ZJU大一，大三四想申请MIT，需要什么条件？
+**答案**: 请邀请申上MIT的浙大人，有很多。当然作为成功人士他们不上知乎
 
  
 
-[问题]:“Big Clean Problem”这种说法是从哪里来的？
+ 
+<br>**问题**:“Big Clean Problem”这种说法是从哪里来的？
 
-[答案]:Nasty little problems 翻译过来不是 clean and tidy huge blessing 么 
+**答案**:Nasty little problems 翻译过来不是 clean and tidy huge blessing 么 
 
 呵呵
 
  
 
  
-
-[问题]: “Verlinde引力理论首次被验证”，对物理学的意义有多大？
-[答案]: 看完新闻。现在只求出了最简单情况（球对称什么的）的解。是否正确还有待理论发展
-
- 
+<br>**问题**: “Verlinde引力理论首次被验证”，对物理学的意义有多大？
+**答案**: 看完新闻。现在只求出了最简单情况（球对称什么的）的解。是否正确还有待理论发展
 
  
 
-[问题]:“丑闻主角就活该被万人虐吗 ”作为普通人你怎么觉得？
+ 
+<br>**问题**:“丑闻主角就活该被万人虐吗 ”作为普通人你怎么觉得？
 
-[答案]: 我真的很好奇他们选题的那个投票或者说微博账号在哪里。。。
+**答案**: 我真的很好奇他们选题的那个投票或者说微博账号在哪里。。。
 
 每天都是什么人在投票啊。
 
  
 
  
-
-[问题]: “光速不变”和“多普勒效应”是否矛盾？
-[答案]: 请搜索：相对论性下的多普勒效应
-
- 
+<br>**问题**: “光速不变”和“多普勒效应”是否矛盾？
+**答案**: 请搜索：相对论性下的多普勒效应
 
  
 
-[问题]: “断人财路如杀人父母”的出处是哪里？这句话是否有道理？
-[答案]: 是的。
+ 
+<br>**问题**: “断人财路如杀人父母”的出处是哪里？这句话是否有道理？
+**答案**: 是的。
 
 因为在人类设计出流通货币并将它作为人类一切活动的交换衡量之后，钱的价值立即超过了一切其他社会产品的价值。作为一般等级物，钱可以调动一切资源，例如让某网站大V干任何事情。钱是便利品，它提高社会效率；但钱也是人类生产分配制度落后和失败的表现，是人类生活的癌症。因为钱，人类开始分化成失败人士和成功人士。 
 
@@ -8450,56 +8156,50 @@ os x 叫做yosemite
  
 
  
-
-[问题]: “永不承诺的承诺”到底是承诺了还是没承诺？
-[答案]: 是没承诺的承诺
-
- 
-
- 
-
-[问题]:“男友让我打十万个「对不起」，汉字标上多少遍。”这个问题用 R 如何实现？
-
-[答案]: 把男朋友割掉
+<br>**问题**: “永不承诺的承诺”到底是承诺了还是没承诺？
+**答案**: 是没承诺的承诺
 
  
 
  
+<br>**问题**:“男友让我打十万个「对不起」，汉字标上多少遍。”这个问题用 R 如何实现？
 
-[问题]: “科研留给清华北大的人去做”这种心态对不对？
+**答案**: 把男朋友割掉
 
-[答案]:说的不对。科研应该留给mit stanford harvard的人去做。
+ 
+
+ 
+<br>**问题**: “科研留给清华北大的人去做”这种心态对不对？
+
+**答案**:说的不对。科研应该留给mit stanford harvard的人去做。
 
  
 
  
+<br>**问题**: “草蛇灰线伏延千里”如何翻译成英文比较出彩？
 
-[问题]: “草蛇灰线伏延千里”如何翻译成英文比较出彩？
-
-[答案]:grass snake with grey line that extends thousands of miles long. 
+**答案**:grass snake with grey line that extends thousands of miles long. 
 
  
 
 出彩的话还不简单： 
 
-![](https://pic2.zhimg.com/6798d863cec40a1b3fc8990512d56b05_b.jpg)
+!****(https://pic2.zhimg.com/6798d863cec40a1b3fc8990512d56b05_b.jpg)
 
  
 
  
-
-[问题]: “谷歌的非正式交流”是否真实存在？
-[答案]: 假的。中国人一般讨论：印度人，创业公司，IPO，妹子，老婆，房子，孩子；
+<br>**问题**: “谷歌的非正式交流”是否真实存在？
+**答案**: 假的。中国人一般讨论：印度人，创业公司，IPO，妹子，老婆，房子，孩子；
 
 他一开始说GOOGLE我觉得察觉他又在胡说八道了，说的内容那么伟光正，细节却是那么含混不清，一定是从什么读者杂志上看来的四手消息。这些就算是真的，也是8，9年前GOOGLE开始创业的时候的故事了。现在已经完全不同。
 
  
 
  
+<br>**问题**: ”夜空中最亮的星“是一首诉说后悔的歌
 
-[问题]: ”夜空中最亮的星“是一首诉说后悔的歌
-
-[答案]:
+**答案**:
 
  
 
@@ -8874,33 +8574,29 @@ _ 能否听清那仰望的人心底的孤独和叹息 _
  
 
  
+<br>**问题**:∇•A和A•∇在运算上有什么不同 ？
 
-[问题]:∇•A和A•∇在运算上有什么不同 ？
-
-[答案]:一个是微分和，一个是weighed 微分。
-
- 
-
- 
-
-[问题]:《三傻大闹宝莱坞》（Three Idiots）是否有更好的翻译？
-
-[答案]: 人生赢家
+**答案**:一个是微分和，一个是weighed 微分。
 
  
 
  
+<br>**问题**:《三傻大闹宝莱坞》（Three Idiots）是否有更好的翻译？
 
-[问题]:《会计刺客》living robot老板为何要雇男主查账？
+**答案**: 人生赢家
 
-[答案]:因为他智商不够高，没有去berkeley念书，也不会machine learning。。也不够右，是一个典型白左。
+ 
+
+ 
+<br>**问题**:《会计刺客》living robot老板为何要雇男主查账？
+
+**答案**:因为他智商不够高，没有去berkeley念书，也不会machine learning。。也不够右，是一个典型白左。
 
  
 
  
-
-[问题]: 《圣经》故事可信吗？
-[答案]: 为什么要发生了才相信呢？
+<br>**问题**: 《圣经》故事可信吗？
+**答案**: 为什么要发生了才相信呢？
 
 如果去清华，我会过得更好。这件事并没发生，但很多人选择相信。 
 
@@ -8917,9 +8613,8 @@ _ 能否听清那仰望的人心底的孤独和叹息 _
  
 
  
-
-[问题]: 《奇葩说》辩题“长生不老究竟是不是一件好事？”？
-[答案]: 极限是一个数学概念。长生不老肯定不会是永远。宇宙的寿命是有限的。
+<br>**问题**: 《奇葩说》辩题“长生不老究竟是不是一件好事？”？
+**答案**: 极限是一个数学概念。长生不老肯定不会是永远。宇宙的寿命是有限的。
 
  
 
@@ -8946,9 +8641,8 @@ _ 能否听清那仰望的人心底的孤独和叹息 _
  
 
  
-
-[问题]: 《我爱我家》中有哪些细思恐极的细节？
-[答案]: 《在那遥远得地方》那一集，匿名电话之谜；究竟是贾志国和他的情人方小姐联合起来逼迫贾志国妻子和平离婚；
+<br>**问题**: 《我爱我家》中有哪些细思恐极的细节？
+**答案**: 《在那遥远得地方》那一集，匿名电话之谜；究竟是贾志国和他的情人方小姐联合起来逼迫贾志国妻子和平离婚；
 
 或者贾志国的妻子和平偷听到资料失窃于是设计全套玩弄自己的丈夫，并且报复他？心理学教授的分析很有道理，这一定是一个全套；否则情人方小姐那里不可能不会后院失火；而也不可能来自于政敌：因为政敌完全可以一次性把消息透露出来，也不可能每次都在和平心情转好的时候就透露消息，更不可能这么有耐心一次又一次的透露信件内容。 
 
@@ -8957,9 +8651,8 @@ _ 能否听清那仰望的人心底的孤独和叹息 _
  
 
  
-
-[问题]: 《星际穿越》中为什么需要黑洞内的数据？
-[答案]: 结局居然是大团圆。差评。
+<br>**问题**: 《星际穿越》中为什么需要黑洞内的数据？
+**答案**: 结局居然是大团圆。差评。
 
 和大刘相比，资本主义作家和社会主义作家的境界，高下立判！ 
 
@@ -8990,18 +8683,16 @@ _ 能否听清那仰望的人心底的孤独和叹息 _
  
 
  
-
-[问题]: 《星际穿越》中关于时空维度、黑洞和其它几个宇宙问题的疑问？
-[答案]: 哥哥。你洗洗睡吧。。。。。
+<br>**问题**: 《星际穿越》中关于时空维度、黑洞和其它几个宇宙问题的疑问？
+**答案**: 哥哥。你洗洗睡吧。。。。。
 
 人家导演（作者）想表现一点东西，总的表现的让人类能理解吧？给他们一点想象的自由吧。来源生活，高于生活。源于物理，超越物理。不要再纠结了。好像你可以从科幻电影和科幻小说中学到物理学一样！
 
  
 
  
-
-[问题]: 《星际穿越》海洋星球的1小时等于地球7年，我想知道人在这上面的机体反应？
-[答案]: 除非你人的一半在这个星球上，另一半在地球上。那么这么大的差距才会让你反应的措手不及。。
+<br>**问题**: 《星际穿越》海洋星球的1小时等于地球7年，我想知道人在这上面的机体反应？
+**答案**: 除非你人的一半在这个星球上，另一半在地球上。那么这么大的差距才会让你反应的措手不及。。
 
 如果你人就在星球上，你怎么知道地球上过了7年 ？ 
 
@@ -9014,46 +8705,40 @@ too yong to naifu
  
 
  
+<br>**问题**: 《计算机程序的构造和解释（SICP）》讨论的核心问题是什么？
 
-[问题]: 《计算机程序的构造和解释（SICP）》讨论的核心问题是什么？
-
-[答案]:花了2个月才看了前三章。我建议你看Berkeley 改版后的基于Python 的 SICP. 参考CS61A
-
- 
-
- 
-
-[问题]: 《走近科学》为什么会出现“飞天神棍”这种节目？
-[答案]: 因为其实这个节目是走进迷信。。
+**答案**:花了2个月才看了前三章。我建议你看Berkeley 改版后的基于Python 的 SICP. 参考CS61A
 
  
 
  
-
-[问题]: 《这个历史挺靠谱》一书所述内容有多少错误的地方？
-[答案]: 同样是网红，他的做法就很值得我们学习
-
- 
-
- 
-
-[问题]: 《陶哲轩教你学数学》这本书值得看吗？
-[答案]: 我当时怎么没看=看了就可能去清华了。诶
+<br>**问题**: 《走近科学》为什么会出现“飞天神棍”这种节目？
+**答案**: 因为其实这个节目是走进迷信。。
 
  
 
  
-
-[问题]:「I 服了 you」用英语怎么说？
-
-[答案]:i fooled you
+<br>**问题**: 《这个历史挺靠谱》一书所述内容有多少错误的地方？
+**答案**: 同样是网红，他的做法就很值得我们学习
 
  
 
  
+<br>**问题**: 《陶哲轩教你学数学》这本书值得看吗？
+**答案**: 我当时怎么没看=看了就可能去清华了。诶
 
-[问题]: 「万门大学」是一个怎样的组织？该如何评价？
-[答案]: 有人叫我来回答，我就回复一下。希望不要引起不必要得争议。
+ 
+
+ 
+<br>**问题**:「I 服了 you」用英语怎么说？
+
+**答案**:i fooled you
+
+ 
+
+ 
+<br>**问题**: 「万门大学」是一个怎样的组织？该如何评价？
+**答案**: 有人叫我来回答，我就回复一下。希望不要引起不必要得争议。
 
 原文地址： 
 
@@ -9128,10 +8813,9 @@ man是一个好学校。但这不是教育，教育更多是一个关于“学�
  
 
  
+<br>**问题**:「人手一台 Mac」「程序员都用 Mac」这是不是错觉？相关话题是否使用了不相称的图标？
 
-[问题]:「人手一台 Mac」「程序员都用 Mac」这是不是错觉？相关话题是否使用了不相称的图标？
-
-[答案]:我觉得吧。除了top 985 (211 不算）或北美top 20
+**答案**:我觉得吧。除了top 985 (211 不算）或北美top 20
 
 毕业的计算机硕士学历以上学生有资格说自己是程序员以外，其他人还是叫自己码农算了。（企业中层以上所有程序员免疫此条规则） 
 
@@ -9158,16 +8842,14 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
  
-
-[问题]: 「以大多数人的努力程度之低，根本轮不到拼天赋」这句话的意义何在？
-[答案]: 这句话的意义在于，努力多年之后最后才有资格觉悟：原来天赋上的差距再怎么努力也无法弥补啊。。。
-
- 
+<br>**问题**: 「以大多数人的努力程度之低，根本轮不到拼天赋」这句话的意义何在？
+**答案**: 这句话的意义在于，努力多年之后最后才有资格觉悟：原来天赋上的差距再怎么努力也无法弥补啊。。。
 
  
 
-[问题]: 「华五」算不算是浙科南的抱团炒作？
-[答案]: 我发现戳穿别人艰难的人生是一件上瘾的事。
+ 
+<br>**问题**: 「华五」算不算是浙科南的抱团炒作？
+**答案**: 我发现戳穿别人艰难的人生是一件上瘾的事。
 
 但也不要忘记自己本身多么艰难了。题主。 
 
@@ -9176,17 +8858,15 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
  
+<br>**问题**: 「我们的征途是星辰大海。」该怎样翻译成英语？
 
-[问题]: 「我们的征途是星辰大海。」该怎样翻译成英语？
-
-[答案]:"I will do an Astronomy PhD"
-
- 
+**答案**:"I will do an Astronomy PhD"
 
  
 
-[问题]: 「断食2天以上可以重启人体免疫系统」的观点有科学依据吗？
-[答案]: 说的不够彻底。断食7天以上可以重启整个人生
+ 
+<br>**问题**: 「断食2天以上可以重启人体免疫系统」的观点有科学依据吗？
+**答案**: 说的不够彻底。断食7天以上可以重启整个人生
 
 居然已经有人回答了。 
 
@@ -9195,9 +8875,8 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
  
-
-[问题]: 「李淼是谁」这个问题违反了知乎哪条规定导致被关闭？
-[答案]: 他才是真正的知乎签约作家，引流量的。
+<br>**问题**: 「李淼是谁」这个问题违反了知乎哪条规定导致被关闭？
+**答案**: 他才是真正的知乎签约作家，引流量的。
 
 举报他的专栏有广告内容居然说“没有违反知乎规定”。 
 
@@ -9206,18 +8885,16 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
  
-
-[问题]: 「楞次定律」与「勒夏特列原理」两者从各种角度看有什么潜在的联系与道理？
-[答案]: 物理体系不会自发对外做功而不产生损耗=
+<br>**问题**: 「楞次定律」与「勒夏特列原理」两者从各种角度看有什么潜在的联系与道理？
+**答案**: 物理体系不会自发对外做功而不产生损耗=
 
 这样系统能量就发散了
 
  
 
  
-
-[问题]: 「电子跃迁」是什么？
-[答案]: 。。。。懒得说了。
+<br>**问题**: 「电子跃迁」是什么？
+**答案**: 。。。。懒得说了。
 
  
 
@@ -9230,24 +8907,21 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
 ​    
+<br>**问题**:「知乎盐 Club 2014」邀请了多少人，标准是什么？
 
-[问题]:「知乎盐 Club 2014」邀请了多少人，标准是什么？
-
-[答案]:举办一个知乎男女泡澡大会(suit optional)，我想很多人都会去的。
-
- 
-
- 
-
-[问题]: 「码农」该如何保持面对计算机科学家时的自尊？
-[答案]: 汗。。
+**答案**:举办一个知乎男女泡澡大会(suit optional)，我想很多人都会去的。
 
  
 
  
+<br>**问题**: 「码农」该如何保持面对计算机科学家时的自尊？
+**答案**: 汗。。
 
-[问题]: 「聪明人」如何变得努力？
-[答案]: 其实我不知道韩寒，郭敬明，赵薇，黄晓明，何炅，汪涵，白客，叫兽等人成绩如何。那些赚钱小企业的老板学历都不如自己招来的本科生。
+ 
+
+ 
+<br>**问题**: 「聪明人」如何变得努力？
+**答案**: 其实我不知道韩寒，郭敬明，赵薇，黄晓明，何炅，汪涵，白客，叫兽等人成绩如何。那些赚钱小企业的老板学历都不如自己招来的本科生。
 
 如果你擅长的只有成绩那最后只可能一事无成。许多堂堂清华学子，也只能在知乎教育高中生，其影响力，价值，个人才华恐怕还不如万合天宜的编剧。你懂那些物理化学有个屁用啊 
 
@@ -9258,9 +8932,8 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
  
-
-[问题]: 「资本回报率太高，劳动回报率太低」的说法是正确的吗？为何出现这样的现象？
-[答案]: 1，资本回报需要独有的“知识”和“信息”，甚至“算法”来帮助你获得较高的回报率。你就算有钱到处乱投资看看？
+<br>**问题**: 「资本回报率太高，劳动回报率太低」的说法是正确的吗？为何出现这样的现象？
+**答案**: 1，资本回报需要独有的“知识”和“信息”，甚至“算法”来帮助你获得较高的回报率。你就算有钱到处乱投资看看？
 
 2，而劳动回报，现在的劳动都是集群式的。你会的别人也会。1本会的2本其实也会。只是学位故意增加了筛选难度，但同一级别的工作者人数还是很多的。总的来说，因为不存在知识的独有性，因此可替代性高，金融收益低，赚的少。参与人数越少，工资总体来说是越高的，但不论多少，不存在
 
@@ -9273,13 +8946,12 @@ Windows 这点都做不到，他的office 就算出到3013，我们也不会用�
  
 
  
-
-[问题]: 【光的反射】为何红光被红色涂层物体反射，而其他频率的光被吸收（部分吸收）？
-[答案]: 这样理解可能比较适合。
+<br>**问题**: 【光的反射】为何红光被红色涂层物体反射，而其他频率的光被吸收（部分吸收）？
+**答案**: 这样理解可能比较适合。
 
 maxwell方程组宏观表现为边界条件。由边界条件假定平面波入射／反射（也就是，一组傅立叶空间的本征解）时候，可以得到如下关系： 
 
-![r=\(1-n\)/\(n+1\)](https://www.zhihu.com/equation?tex=r%3D%281-n%29%2F%28n%2B1%29) 
+!**r=\(1-n\)/\(n+1\)**(https://www.zhihu.com/equation?tex=r%3D%281-n%29%2F%28n%2B1%29) 
 
 . 这里的r是反射振幅系数。 
 
@@ -9303,15 +8975,15 @@ maxwell方程组宏观表现为边界条件。由边界条件假定平面波入�
 
 从maxwell方程组我们知道，
 
-![n=\\sqrt{\\epsilon}](https://www.zhihu.com/equation?tex=n%3D%5Csqrt%7B%5Cepsilon%7D) 
+!**n=\\sqrt{\\epsilon}**(https://www.zhihu.com/equation?tex=n%3D%5Csqrt%7B%5Cepsilon%7D) 
 
 . 
 
-什么是 ![\\epsilon ](https://www.zhihu.com/equation?tex=%5Cepsilon+) 
+什么是 !**\\epsilon **(https://www.zhihu.com/equation?tex=%5Cepsilon+) 
 
-呢。 ![\\epsilon ](https://www.zhihu.com/equation?tex=%5Cepsilon+) 
+呢。 !**\\epsilon **(https://www.zhihu.com/equation?tex=%5Cepsilon+) 
 
-是电介系数。通俗地说， ![\\epsilon ](https://www.zhihu.com/equation?tex=%5Cepsilon+) 
+是电介系数。通俗地说， !**\\epsilon **(https://www.zhihu.com/equation?tex=%5Cepsilon+) 
 
 由组成物质的电子所处的晶体环境决定。把固体中的电子想象成处在一定的势阱中。在这个势阱里，电子有自己的特征振动频率（类似简单谐振）。 
 
@@ -9321,9 +8993,9 @@ maxwell方程组宏观表现为边界条件。由边界条件假定平面波入�
 
  
 
-从一定程度上说，电介系数就是电子在一定频率入射光照射下的响应程度。由此可见 ![\\epsilon
+从一定程度上说，电介系数就是电子在一定频率入射光照射下的响应程度。由此可见 !**\\epsilon
 
-](https://www.zhihu.com/equation?tex=%5Cepsilon+) 
+**(https://www.zhihu.com/equation?tex=%5Cepsilon+) 
 
 和频率有关系，是频率的函数。 
 
@@ -9334,10 +9006,9 @@ maxwell方程组宏观表现为边界条件。由边界条件假定平面波入�
  
 
  
+<br>**问题**: 一个为帮助三本同学出国读计算机的活动即将在杭州举办
 
-[问题]: 一个为帮助三本同学出国读计算机的活动即将在杭州举办
-
-[答案]:
+**答案**:
 
  
 
@@ -9379,7 +9050,7 @@ maxwell方程组宏观表现为边界条件。由边界条件假定平面波入�
 
  
 
-![](http://pic4.zhimg.com/d6aff0bb29debb22fecd4651ea0b2983_b.jpg)
+!****(http://pic4.zhimg.com/d6aff0bb29debb22fecd4651ea0b2983_b.jpg)
 
  
 
@@ -9403,7 +9074,7 @@ Hedge海聚CS留美联盟是一个计算机大类（计算机，信息安全，�
 
  
 
-** 最后附上萌照 ** ![](http://pic2.zhimg.com/fa2f811ef30c364c4fa867500de0b7d9_b.jpg)
+** 最后附上萌照 ** !****(http://pic2.zhimg.com/fa2f811ef30c364c4fa867500de0b7d9_b.jpg)
 
   
 
@@ -9426,40 +9097,35 @@ Hedge海聚CS留美联盟是一个计算机大类（计算机，信息安全，�
  
 
  
-
-[问题]: 一个人可以批评比他强的人吗？
-[答案]: 我那是批评？我是羡慕。
-
- 
+<br>**问题**: 一个人可以批评比他强的人吗？
+**答案**: 我那是批评？我是羡慕。
 
  
 
-[问题]: 一个人应该怎样去释怀自己感觉最遗憾的事？
-[答案]: 那就是自欺欺人。
+ 
+<br>**问题**: 一个人应该怎样去释怀自己感觉最遗憾的事？
+**答案**: 那就是自欺欺人。
 
 或者得到更好的
 
  
 
  
-
-[问题]: 一个人要跳到多高才可以让全世界的人们都可以看到他？
-[答案]: 你只需要和他一起脱光一起弹跳去按世界就都认识你了。不需要跳太高
-
- 
-
- 
-
-[问题]: 一个信号系统的单位脉冲响应含有虚部意味着什么
-[答案]: 看错题目了。
+<br>**问题**: 一个人要跳到多高才可以让全世界的人们都可以看到他？
+**答案**: 你只需要和他一起脱光一起弹跳去按世界就都认识你了。不需要跳太高
 
  
 
  
+<br>**问题**: 一个信号系统的单位脉冲响应含有虚部意味着什么
+**答案**: 看错题目了。
 
-[问题]: 一个只有程序员才有选举权的社会，会是什么样子的？
+ 
 
-[答案]:JavaScript 将会成为最流行和最重要的语言：因为只有用他才能去前端抢（投）票。 
+ 
+<br>**问题**: 一个只有程序员才有选举权的社会，会是什么样子的？
+
+**答案**:JavaScript 将会成为最流行和最重要的语言：因为只有用他才能去前端抢（投）票。 
 
 投票的主要内容将是：您是否愿意将我设为你的默认浏览器。 
 
@@ -9472,30 +9138,26 @@ Hedge海聚CS留美联盟是一个计算机大类（计算机，信息安全，�
  
 
  
-
-[问题]: 一个微胖一点的程序员如何打扮自己最精神？
-[答案]: 你们好坏。。就不能告诉我一个萌萌的微胖男生应该怎么穿衣服吗
-
- 
-
- 
-
-[问题]: 一个搞不懂的数学概率题？
-[答案]: 这道题可以问quant。他们面试的必考题
+<br>**问题**: 一个微胖一点的程序员如何打扮自己最精神？
+**答案**: 你们好坏。。就不能告诉我一个萌萌的微胖男生应该怎么穿衣服吗
 
  
 
  
+<br>**问题**: 一个搞不懂的数学概率题？
+**答案**: 这道题可以问quant。他们面试的必考题
 
-[问题]: 一个杯子里同时放入-100度的冰块和100度的热水会怎么样？
-[答案]: 这个杯子首先会爆掉。
+ 
+
+ 
+<br>**问题**: 一个杯子里同时放入-100度的冰块和100度的热水会怎么样？
+**答案**: 这个杯子首先会爆掉。
 
  
 
  
-
-[问题]: 一个热衷于看宫斗剧的民族有民族前途吗？
-[答案]: 我只是想问文化的发育程度对于一个国家、民族前途的影响。
+<br>**问题**: 一个热衷于看宫斗剧的民族有民族前途吗？
+**答案**: 我只是想问文化的发育程度对于一个国家、民族前途的影响。
 
  
 
@@ -9538,46 +9200,40 @@ Hedge海聚CS留美联盟是一个计算机大类（计算机，信息安全，�
  
 
  
-
-[问题]: 一个程序员会遇到多少关于数据结构与算法的需求
-[答案]: 几乎所有程序员算法水平的最高点就是在他们准面电话面试的时候。
-
- 
-
- 
-
-[问题]: 一个闪烁的发光二极管放在平面镜上，为什么能观察到灯与像的亮灭状态不同？
-[答案]: 不同波长的反射系数不同。
+<br>**问题**: 一个程序员会遇到多少关于数据结构与算法的需求
+**答案**: 几乎所有程序员算法水平的最高点就是在他们准面电话面试的时候。
 
  
 
  
-
-[问题]: 一个高中磁场问题httpwww.jyeoo.comphysics2quesdetail10c73b41-a1ef-48f1-8e39-4508feb25036？
-[答案]: 题目你不会放上来？
-
- 
-
- 
-
-[问题]:一份合理的「Apple 10 年衰亡史」可能是什么样的？
-
-[答案]: 大家开始不用手机了，而是全部投资买计算机开始炒股。互相亏损，互相赚对方的钱。没钱买手机了。于是苹果卒。
+<br>**问题**: 一个闪烁的发光二极管放在平面镜上，为什么能观察到灯与像的亮灭状态不同？
+**答案**: 不同波长的反射系数不同。
 
  
 
  
+<br>**问题**: 一个高中磁场问题httpwww.jyeoo.comphysics2quesdetail10c73b41-a1ef-48f1-8e39-4508feb25036？
+**答案**: 题目你不会放上来？
 
-[问题]: 一定水面上泡沫破裂速度为什么越来越慢？
-[答案]: 密集的泡沫会因为“拥挤”而导致周围的泡沫破裂（或者合并成大泡沫，取决于液体的表面张力所能支持的最大泡沫）。不稳定的大泡沫也先破裂了。剩下的都是稳定的，位置合适的，小泡沫。你这个故事其实说明了优胜劣汰的过程。另外，据说JJ小的人最后都会被淘汰掉，楼主你要小心
+ 
+
+ 
+<br>**问题**:一份合理的「Apple 10 年衰亡史」可能是什么样的？
+
+**答案**: 大家开始不用手机了，而是全部投资买计算机开始炒股。互相亏损，互相赚对方的钱。没钱买手机了。于是苹果卒。
 
  
 
  
+<br>**问题**: 一定水面上泡沫破裂速度为什么越来越慢？
+**答案**: 密集的泡沫会因为“拥挤”而导致周围的泡沫破裂（或者合并成大泡沫，取决于液体的表面张力所能支持的最大泡沫）。不稳定的大泡沫也先破裂了。剩下的都是稳定的，位置合适的，小泡沫。你这个故事其实说明了优胜劣汰的过程。另外，据说JJ小的人最后都会被淘汰掉，楼主你要小心
 
-[问题]:一年读完 1000 本书会收获到什么？
+ 
 
-[答案]: 所以这个社会最现实的就是比收入。你收入低你就是没能力；你收入高你就是牛逼。你去看高收入者每年读1000本书的有几个吧，然后再来和我们说读1000本书的意义。花时间解释什么是1000本书，什么书的质量大于数量，什么不要炫耀书单之类的，都还不如去微信上卖面膜。
+ 
+<br>**问题**:一年读完 1000 本书会收获到什么？
+
+**答案**: 所以这个社会最现实的就是比收入。你收入低你就是没能力；你收入高你就是牛逼。你去看高收入者每年读1000本书的有几个吧，然后再来和我们说读1000本书的意义。花时间解释什么是1000本书，什么书的质量大于数量，什么不要炫耀书单之类的，都还不如去微信上卖面膜。
 
 请计算如下概率：P(A|B), A=读1000本书／年； B=年收入超过50万。 
 
@@ -9586,9 +9242,8 @@ Hedge海聚CS留美联盟是一个计算机大类（计算机，信息安全，�
  
 
  
-
-[问题]: 一技在手，天下我有？有哪些值得一学并能以之谋生的技术？
-[答案]: 谋生？
+<br>**问题**: 一技在手，天下我有？有哪些值得一学并能以之谋生的技术？
+**答案**: 谋生？
 
 谋生是件很简单的事。你不是只要活下来吗，你不是不想做宇宙中的尘埃，想在闲暇之余还可以感觉到一点稍纵即逝的快感吗？ 
 
@@ -9607,24 +9262,21 @@ Hedge海聚CS留美联盟是一个计算机大类（计算机，信息安全，�
  
 
  
-
-[问题]: 一本大学，退学自学python自主创业
-[答案]: 可以。其实我建议你自学c++。最后可以去马云公司上班
-
- 
-
- 
-
-[问题]: 一杯水冷却的过程中，水和杯子壁的传热方式是热传导还是对流换热？
-[答案]: 都有
+<br>**问题**: 一本大学，退学自学python自主创业
+**答案**: 可以。其实我建议你自学c++。最后可以去马云公司上班
 
  
 
  
+<br>**问题**: 一杯水冷却的过程中，水和杯子壁的传热方式是热传导还是对流换热？
+**答案**: 都有
 
-[问题]: 一根通交流电的直导线，周围的磁场如何分布呢？波形是方波还是正弦波有区别吗；如果频率不高：20kHZ，那么可以看成直流电计算磁场吗。
+ 
 
-[答案]:建议用工程软件仿真计算就知道。定性的说，AC导线会辐射电磁波，任意时刻而言，可以近似认为是DC电流产生的环形磁场（但要取 retarded
+ 
+<br>**问题**: 一根通交流电的直导线，周围的磁场如何分布呢？波形是方波还是正弦波有区别吗；如果频率不高：20kHZ，那么可以看成直流电计算磁场吗。
+
+**答案**:建议用工程软件仿真计算就知道。定性的说，AC导线会辐射电磁波，任意时刻而言，可以近似认为是DC电流产生的环形磁场（但要取 retarded
 
 time，也就是光速有限，r点，
 
@@ -9637,9 +9289,8 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
  
 
  
-
-[问题]: 一点感慨（1）
-[答案]: 上周五跟一个湾区亿万富豪（你们都知道是谁）吃饭的时候，我说：墨菲定律说了，凡事可能的事就必然会发生，而且我周围的人都很讨厌希拉里，她杀人的谣言到处传。她说：英国退欧给美国人打了预防针，肯定不会重演，poll应该很可信。然后我看到了今晚的结果。。WTF。
+<br>**问题**: 一点感慨（1）
+**答案**: 上周五跟一个湾区亿万富豪（你们都知道是谁）吃饭的时候，我说：墨菲定律说了，凡事可能的事就必然会发生，而且我周围的人都很讨厌希拉里，她杀人的谣言到处传。她说：英国退欧给美国人打了预防针，肯定不会重演，poll应该很可信。然后我看到了今晚的结果。。WTF。
 
  
 
@@ -9648,17 +9299,15 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
  
 
  
-
-[问题]: 一百年后，人类社会会如何评价比尔·盖茨？
-[答案]: 码农祖宗
-
- 
+<br>**问题**: 一百年后，人类社会会如何评价比尔·盖茨？
+**答案**: 码农祖宗
 
  
 
-[问题]:一盆水泼在纱窗上，水基本上都被挡回来，但是把一盆水缓缓倒在纱窗上，基本能通过 ，为什么会出现这种现象？
+ 
+<br>**问题**:一盆水泼在纱窗上，水基本上都被挡回来，但是把一盆水缓缓倒在纱窗上，基本能通过 ，为什么会出现这种现象？
 
-[答案]: 缓缓倒入会因为重力原因漏过纱窗。
+**答案**: 缓缓倒入会因为重力原因漏过纱窗。
 
 迅速碰上会因为水分子的速度，碰撞和纱窗的反作用力导致水被弹回。 
 
@@ -9667,17 +9316,15 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
  
 
  
-
-[问题]: 一直做第一名是一种什么样的体验？
-[答案]: 你可以去清华大学问问。
-
- 
+<br>**问题**: 一直做第一名是一种什么样的体验？
+**答案**: 你可以去清华大学问问。
 
  
 
-[问题]: 一种弄坏C++的办法
+ 
+<br>**问题**: 一种弄坏C++的办法
 
-[答案]:
+**答案**:
 
  
 
@@ -9718,17 +9365,15 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
  
 
  
-
-[问题]: 一道数理统计问题！？
-[答案]: 检验有单边检验和双边检验之分
-
- 
+<br>**问题**: 一道数理统计问题！？
+**答案**: 检验有单边检验和双边检验之分
 
  
 
-[问题]:一题看懂java hidingoverriding..
+ 
+<br>**问题**:一题看懂java hidingoverriding..
 
-[答案]:
+**答案**:
 
   
 
@@ -9740,7 +9385,7 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
 
   
 
-​    public static void main(String[] args) {
+​    public static void main(String**** args) {
 
   
 
@@ -9829,9 +9474,8 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
  
 
  
-
-[问题]: 万合天宜名字有特殊意义？
-[答案]: 联合利华是什么意思？
+<br>**问题**: 万合天宜名字有特殊意义？
+**答案**: 联合利华是什么意思？
 
 他们有异曲同工之妙（unilever，unimedia）。联合利华其实是说联合起来利用中国人的意思啦。。。 
 
@@ -9844,16 +9488,14 @@ t时刻处的磁场是(t-r/c)时刻之前导线上电流的贡献。）。这样
  
 
  
-
-[问题]: 万门大学APP有高清和超清视频吗？
-[答案]: 为什么不办live？吸引力真的不如5家硅谷公司联合内推外加收费培训或者“我是处女吗？”。
-
- 
+<br>**问题**: 万门大学APP有高清和超清视频吗？
+**答案**: 为什么不办live？吸引力真的不如5家硅谷公司联合内推外加收费培训或者“我是处女吗？”。
 
  
 
-[问题]: 万门大学究竟有多大的生存空间？
-[答案]: 我只能说，现在北美最PROFITABLE的在线教育市场是属于技能教育的。技能教育的收效是最高，也是辅导角度来说最有效的，比如JAVA的培训，厨艺培训，GAME
+ 
+<br>**问题**: 万门大学究竟有多大的生存空间？
+**答案**: 我只能说，现在北美最PROFITABLE的在线教育市场是属于技能教育的。技能教育的收效是最高，也是辅导角度来说最有效的，比如JAVA的培训，厨艺培训，GAME
 
 DESIGN的培训，书法的培训，甚至音乐技巧的培训等等。不但这些培训目的明确，“老师”的技能高低一目了然，学生学成之后的回报也是直接并且可观的，这种刚性需求促进了技能教育市场的壮大。新东方为什么火？因为考试培训也属于技能教育之一。。。 
 
@@ -9872,23 +9514,20 @@ PS 从市场角度来看，现在在线教育不可说不是战火纷飞。童�
  
 
  
-
-[问题]: 三体中有哪些点子是前人提出的但是被大家误以为大刘原创？
-[答案]: 曲率飞行
-
- 
-
- 
-
-[问题]: 三句话解释为什么gravity的男主角一定要死
-[答案]: !(http://pic2.zhimg.com/69504501309153b44536b7afd914130d_b.jpg)
+<br>**问题**: 三体中有哪些点子是前人提出的但是被大家误以为大刘原创？
+**答案**: 曲率飞行
 
  
 
  
+<br>**问题**: 三句话解释为什么gravity的男主角一定要死
+**答案**: !(http://pic2.zhimg.com/69504501309153b44536b7afd914130d_b.jpg)
 
-[问题]: 三本学生没有出路吗？
-[答案]: 出路肯定有，只是不会很宽
+ 
+
+ 
+<br>**问题**: 三本学生没有出路吗？
+**答案**: 出路肯定有，只是不会很宽
 
 题主显然是想通过问这么一个问题，达到既批判“三本没有出路”这个功利主义的客观事实，又同时得到许多中彩票概率的励志故事以达鸡汤激励之目的；一石二鸟，实在是高。 
 
@@ -9903,30 +9542,26 @@ exit
  
 
  
-
-[问题]: 三矢量叉乘展开成点乘的公式如何证明？
-[答案]: !(https://pic2.zhimg.com/e12f18a311311e2e94f1bf78a3d4f5b9_b.jpg)
-
- 
-
- 
-
-[问题]: 三角波信号的频谱和单缝衍射的光强分布图为何相似？
-[答案]: 三角是两个相同矩形函数的卷积。三角fourier变换之后就是矩形函数的fourier的乘积。因此的确是相似的。如果是周期波的话还要乘以comb的fourier,其实也是一个comb。
+<br>**问题**: 三矢量叉乘展开成点乘的公式如何证明？
+**答案**: !(https://pic2.zhimg.com/e12f18a311311e2e94f1bf78a3d4f5b9_b.jpg)
 
  
 
  
+<br>**问题**: 三角波信号的频谱和单缝衍射的光强分布图为何相似？
+**答案**: 三角是两个相同矩形函数的卷积。三角fourier变换之后就是矩形函数的fourier的乘积。因此的确是相似的。如果是周期波的话还要乘以comb的fourier,其实也是一个comb。
 
-[问题]: 上大学后如何调适落差的心理？
-[答案]: 据说武汉纺织大学附近质量高的女生较多。
+ 
+
+ 
+<br>**问题**: 上大学后如何调适落差的心理？
+**答案**: 据说武汉纺织大学附近质量高的女生较多。
 
  
 
  
-
-[问题]: 上海交大和浙江大学哪个更好？
-[答案]: 我补充下排名第三的答案。
+<br>**问题**: 上海交大和浙江大学哪个更好？
+**答案**: 我补充下排名第三的答案。
 
 我只想说现在交大优势的传统ee学科已经不是出国的主力了。所以总体看来浙大去北美六大名校的人数早就长期超过了交大（据我所知起码从2010年起）。stanford,
 
@@ -9937,10 +9572,9 @@ cs浙大一直都很厉害。而且就cs的话，大家似乎都比不上华南�
  
 
  
+<br>**问题**: 上海交大物理系更名为物理与天文系，是否说明未来是天体物理的时代？
 
-[问题]: 上海交大物理系更名为物理与天文系，是否说明未来是天体物理的时代？
-
-[答案]:美国大学往往都是把天文(department of astronomy) 和物理学 (department of
+**答案**:美国大学往往都是把天文(department of astronomy) 和物理学 (department of
 
 physics)分开的，因为两者的研究内容，手段和方式都不大一样。天文学还需要自己（或者借他人）的天文台。 
 
@@ -9949,9 +9583,8 @@ physics)分开的，因为两者的研究内容，手段和方式都不大一样
  
 
  
-
-[问题]: 上海交大的学生如何看待西安交通大学这一学校？
-[答案]: 清华大学人的不是很关心国立清华大学吧。
+<br>**问题**: 上海交大的学生如何看待西安交通大学这一学校？
+**答案**: 清华大学人的不是很关心国立清华大学吧。
 
 在本国范围内，招生的能力差别明显 
 
@@ -9970,24 +9603,21 @@ physics)分开的，因为两者的研究内容，手段和方式都不大一样
  
 
  
-
-[问题]: 上海大学在211里处于什么位置？
-[答案]: 排在第9万8千5百2十1位
-
- 
-
- 
-
-[问题]: 上知乎和看书有什么区别？
-[答案]: 看书无法约炮；上知乎可以。
+<br>**问题**: 上海大学在211里处于什么位置？
+**答案**: 排在第9万8千5百2十1位
 
  
 
  
+<br>**问题**: 上知乎和看书有什么区别？
+**答案**: 看书无法约炮；上知乎可以。
 
-[问题]: 下周股市预期
+ 
 
-[答案]:
+ 
+<br>**问题**: 下周股市预期
+
+**答案**:
 
  
 
@@ -10012,16 +9642,14 @@ AMD应该会小跌之后继续涨
  
 
  
-
-[问题]: 下面宣布我彻底滚出知乎（问号必须？）
-[答案]: mua
-
- 
+<br>**问题**: 下面宣布我彻底滚出知乎（问号必须？）
+**答案**: mua
 
  
 
-[问题]: 不懂围棋也不明白人工智能，需要了解哪些入门知识才能看这场「人机大战」？
-[答案]: 需要明白这几件事，否则这件人类历史上的大事就是对牛弹琴了：
+ 
+<br>**问题**: 不懂围棋也不明白人工智能，需要了解哪些入门知识才能看这场「人机大战」？
+**答案**: 需要明白这几件事，否则这件人类历史上的大事就是对牛弹琴了：
 
  
 
@@ -10052,16 +9680,14 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
-
-[问题]: 专科应届毕业生进央企实习，很迷茫怎么办？
-[答案]: 建议你去万万没想到实习
-
- 
+<br>**问题**: 专科应届毕业生进央企实习，很迷茫怎么办？
+**答案**: 建议你去万万没想到实习
 
  
 
-[问题]: 专科生应如何以勃学指导自我奋斗的方向？
-[答案]: 首先，请做到追求自己生命中的成功，而不是他人眼中的成功。
+ 
+<br>**问题**: 专科生应如何以勃学指导自我奋斗的方向？
+**答案**: 首先，请做到追求自己生命中的成功，而不是他人眼中的成功。
 
 关于勃学概念的几个基本解释： 
 
@@ -10070,16 +9696,14 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
-
-[问题]: 世上是否存在吸收了人类所能看到的波长范围的光，并反射看不见的波长范围的光的物体？
-[答案]: 。。黑色是什么
-
- 
+<br>**问题**: 世上是否存在吸收了人类所能看到的波长范围的光，并反射看不见的波长范围的光的物体？
+**答案**: 。。黑色是什么
 
  
 
-[问题]: 世界是个方程，谁能推翻我的逻辑？
-[答案]: 世界是”决定论“的。只是不按照人的”决定论“被”决定“罢了。
+ 
+<br>**问题**: 世界是个方程，谁能推翻我的逻辑？
+**答案**: 世界是”决定论“的。只是不按照人的”决定论“被”决定“罢了。
 
 方程是人认识世界的产物。 
 
@@ -10094,10 +9718,9 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
+<br>**问题**: 两个不对易的算符其相应的本征态可以相互叠加表示么？
 
-[问题]: 两个不对易的算符其相应的本征态可以相互叠加表示么？
-
-[答案]:可以啊。如果rank(A)=n, rank(B)=n, AB-BA =/= 0. 
+**答案**:可以啊。如果rank(A)=n, rank(B)=n, AB-BA =/= 0. 
 
 可以证明A 的 eigenvector 可以表示成B 的eigenvector 
 
@@ -10108,16 +9731,14 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
-
-[问题]: 两个能预测未来的人一起玩扑克会是怎样的结果？
-[答案]: 既然能预见未来他们还会跑来一起玩牌吗？
-
- 
+<br>**问题**: 两个能预测未来的人一起玩扑克会是怎样的结果？
+**答案**: 既然能预见未来他们还会跑来一起玩牌吗？
 
  
 
-[问题]: 两电容器直接用无电阻导线相连，能量去哪了？
-[答案]: 两电容器？
+ 
+<br>**问题**: 两电容器直接用无电阻导线相连，能量去哪了？
+**答案**: 两电容器？
 
 一个电容器就有两个板子了。 
 
@@ -10126,110 +9747,96 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
-
-[问题]: 两电容器连接到同一电路中，电压是如何达到相等的？
-[答案]: 移动到两电容器之间电势相等时，两电容器电势差为0
-
- 
-
- 
-
-[问题]: 严肃的讨论，曾博如果现在准备高考，200天能到什么水平？
-[答案]: 能达到山东大学的水平
+<br>**问题**: 两电容器连接到同一电路中，电压是如何达到相等的？
+**答案**: 移动到两电容器之间电势相等时，两电容器电势差为0
 
  
 
  
+<br>**问题**: 严肃的讨论，曾博如果现在准备高考，200天能到什么水平？
+**答案**: 能达到山东大学的水平
 
-[问题]: 个人总资产4000万左右，年净收入300万，今年47岁，男，请问买什么价格区间，品牌的车好？
-[答案]: 能做到这一步很不容易啊
+ 
+
+ 
+<br>**问题**: 个人总资产4000万左右，年净收入300万，今年47岁，男，请问买什么价格区间，品牌的车好？
+**答案**: 能做到这一步很不容易啊
 
  
 
  
-
-[问题]: 中国2049年达到中等发达国家水平的目标能实现吗？
-[答案]: 很多人现在已经超越美帝了
+<br>**问题**: 中国2049年达到中等发达国家水平的目标能实现吗？
+**答案**: 很多人现在已经超越美帝了
 
 而许多人永远也不会
 
  
 
  
-
-[问题]: 中国为什么无法成就像google、微软这种以技术为导向的公司？
-[答案]: 因为普通程序员赚不到100w美元，都去国外了。
-
- 
-
- 
-
-[问题]: 中国人大多数认为考上大学了，这辈子就差不多了，这是价值观的问题还是体制的问题？
-[答案]: 教育资源匮乏，管理制度落后，科技水平低下，贫穷的第三世界国家的人民都是这么想的
+<br>**问题**: 中国为什么无法成就像google、微软这种以技术为导向的公司？
+**答案**: 因为普通程序员赚不到100w美元，都去国外了。
 
  
 
  
+<br>**问题**: 中国人大多数认为考上大学了，这辈子就差不多了，这是价值观的问题还是体制的问题？
+**答案**: 教育资源匮乏，管理制度落后，科技水平低下，贫穷的第三世界国家的人民都是这么想的
 
-[问题]: 中国人观念里普遍看不起程序员吗？
-[答案]: 高学历，高工资，高产出。很好的职业之一。在好也就是主治医师，律师，投资合伙人了。之所以社会觉得没地位，主要是因为上一代大陆人民的教育都是董存瑞炸碉堡，张继光埋草地，陈景润数学家，鲁迅文学家。在他们眼中，现代社会和科技进步的产物都太超前了。程序员=网吧网管；歌手=KTV小姐。这群人本身水平不高，靠着大陆20年前大学生少，升级高位，颐指气使，赚了点钱。现在就来胡说八道，稀里扯淡。美国程序员比他们不知道高哪里去了。这群人最后还不是想肉身翻墙？
+ 
+
+ 
+<br>**问题**: 中国人观念里普遍看不起程序员吗？
+**答案**: 高学历，高工资，高产出。很好的职业之一。在好也就是主治医师，律师，投资合伙人了。之所以社会觉得没地位，主要是因为上一代大陆人民的教育都是董存瑞炸碉堡，张继光埋草地，陈景润数学家，鲁迅文学家。在他们眼中，现代社会和科技进步的产物都太超前了。程序员=网吧网管；歌手=KTV小姐。这群人本身水平不高，靠着大陆20年前大学生少，升级高位，颐指气使，赚了点钱。现在就来胡说八道，稀里扯淡。美国程序员比他们不知道高哪里去了。这群人最后还不是想肉身翻墙？
 
 新一代年轻人有点见识的都不会认为程序员地位低。他们是有点担心其他工程师和科学家的地位
 
  
 
  
-
-[问题]: 中国什么时候才能在自然科学方面拿到诺贝尔奖呢？
-[答案]: 等到中国的大学有10余所百家争鸣的时候。。
-
- 
-
- 
-
-[问题]:中国国际基金（China International Fund）与中国政府有着怎样的联系？
-
-[答案]:话说你们什么时候决定去哪个学校，也是4.15 么。。你是不是还在等待Harvard , MIT
+<br>**问题**: 中国什么时候才能在自然科学方面拿到诺贝尔奖呢？
+**答案**: 等到中国的大学有10余所百家争鸣的时候。。
 
  
 
  
+<br>**问题**:中国国际基金（China International Fund）与中国政府有着怎样的联系？
 
-[问题]: 中国在国际奥数比赛中，近些年几乎是压倒性的优势，可是为什么至今没有人获得菲尔兹奖？
-[答案]: 这些人绝大部分已经从清华北大大一转学去mit然后读个phd最后去华尔街拿到高薪的工作了。幸福的生活在地球上，为什么还要操心数学？
+**答案**:话说你们什么时候决定去哪个学校，也是4.15 么。。你是不是还在等待Harvard , MIT
+
+ 
+
+ 
+<br>**问题**: 中国在国际奥数比赛中，近些年几乎是压倒性的优势，可是为什么至今没有人获得菲尔兹奖？
+**答案**: 这些人绝大部分已经从清华北大大一转学去mit然后读个phd最后去华尔街拿到高薪的工作了。幸福的生活在地球上，为什么还要操心数学？
 
 除非他是真的热爱上帝，热爱上帝创造的数学。
 
  
 
  
-
-[问题]: 中国教育的哪一科目最失败？
-[答案]: 学什么什么最失败。从楼上各位的答案就能看出端倪。。
-
- 
-
- 
-
-[问题]:中国有哪些独立 iOS 开发者？他们的生存状况如何？
-
-[答案]: 没有微软开发者牛逼，但是比微软开发者有钱。
+<br>**问题**: 中国教育的哪一科目最失败？
+**答案**: 学什么什么最失败。从楼上各位的答案就能看出端倪。。
 
  
 
  
+<br>**问题**:中国有哪些独立 iOS 开发者？他们的生存状况如何？
 
-[问题]: 中国民间传说里面为何很少出现「王子」和「公主」？
-[答案]: 中国是“阿哥”和“格格”。
+**答案**: 没有微软开发者牛逼，但是比微软开发者有钱。
+
+ 
+
+ 
+<br>**问题**: 中国民间传说里面为何很少出现「王子」和「公主」？
+**答案**: 中国是“阿哥”和“格格”。
 
 还珠格格不是传说么！
 
  
 
  
-
-[问题]: 中国现在的军力和国防工业实力整体上和美帝多少年前相当？
-[答案]: 军事问题太敏感了，无法讨论，
+<br>**问题**: 中国现在的军力和国防工业实力整体上和美帝多少年前相当？
+**答案**: 军事问题太敏感了，无法讨论，
 
 就说民用科技吧。 
 
@@ -10260,9 +9867,8 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
-
-[问题]: 中国真正一流的学生是什么样子的？
-[答案]: 这种帖子意义何在。
+<br>**问题**: 中国真正一流的学生是什么样子的？
+**答案**: 这种帖子意义何在。
 
 一流的学生就意味着一流的人才？ 
 
@@ -10325,17 +9931,15 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
+<br>**问题**: 中性微子和中微子是一种物质吗？
 
-[问题]: 中性微子和中微子是一种物质吗？
-
-[答案]:http:// GOOGLE.com _ _
-
- 
+**答案**:http:// GOOGLE.com _ _
 
  
 
-[问题]: 中科大是几流大学？
-[答案]: 每个学校都有那么几张安静的书桌。问题是整个学校只有安静的书桌，那也太迂腐了。
+ 
+<br>**问题**: 中科大是几流大学？
+**答案**: 每个学校都有那么几张安静的书桌。问题是整个学校只有安静的书桌，那也太迂腐了。
 
 但我不觉得这是正确的现状。考虑到90后遍布全国，科大早就（和全国其他学校一样），被b站和a站以及腐文化沁染了。所谓小规模招生维护学校学风的纯洁，这实在是鬼话。。 
 
@@ -10348,17 +9952,15 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
-
-[问题]: 中科大，大一上GPA2.5，想出国交流，可能吗，怎么做
-[答案]: 其他学校难说，中科大声望好，应该可以。具体解释下为什么不高，并附上实验室的经历吧
-
- 
+<br>**问题**: 中科大，大一上GPA2.5，想出国交流，可能吗，怎么做
+**答案**: 其他学校难说，中科大声望好，应该可以。具体解释下为什么不高，并附上实验室的经历吧
 
  
 
-[问题]:丰田普锐斯（Toyota Prius）这车到底怎么样？
+ 
+<br>**问题**:丰田普锐斯（Toyota Prius）这车到底怎么样？
 
-[答案]: 最近租车开过一个。问题有几个：
+**答案**: 最近租车开过一个。问题有几个：
 
 1，车门太薄。中空，目测是塑料片黏贴起来的； 
 
@@ -10377,42 +9979,37 @@ IN。我认为90%概率赢并且大涨10%，当然，对于散户来说，其实
  
 
  
+<br>**问题**:为 Facebook 每天带来 4000万美元收入的 News Feed 到底是一种什么样的广告形式？
 
-[问题]:为 Facebook 每天带来 4000万美元收入的 News Feed 到底是一种什么样的广告形式？
-
-[答案]: 也想学习，折叠我吧
-
- 
-
- 
-
-[问题]:为什么 2010 年来很多海外留学的中国人已经拿到绿卡了却又纷纷回中国发展？
-
-[答案]: 不论如何，主要是因为找不到工作＋找不到妹子。
+**答案**: 也想学习，折叠我吧
 
  
 
  
+<br>**问题**:为什么 2010 年来很多海外留学的中国人已经拿到绿卡了却又纷纷回中国发展？
 
-[问题]:为什么 Android 作为一个新操作系统，要把它设计成在 App 崩溃的时候随机结束几个程序呢？
-
-[答案]: 哈哈哈哈看来微软的确是没有什么前途了。
-
- 
-
- 
-
-[问题]:为什么 Apple Watch 在香港遇冷？
-
-[答案]: 香港一共才几个人有钱。。脚趾头都能数得过来
+**答案**: 不论如何，主要是因为找不到工作＋找不到妹子。
 
  
 
  
+<br>**问题**:为什么 Android 作为一个新操作系统，要把它设计成在 App 崩溃的时候随机结束几个程序呢？
 
-[问题]:为什么 Apple 从来不发布概念性产品？
+**答案**: 哈哈哈哈看来微软的确是没有什么前途了。
 
-[答案]: 因为苹果打算在发布会现场直接吓到你。。
+ 
+
+ 
+<br>**问题**:为什么 Apple Watch 在香港遇冷？
+
+**答案**: 香港一共才几个人有钱。。脚趾头都能数得过来
+
+ 
+
+ 
+<br>**问题**:为什么 Apple 从来不发布概念性产品？
+
+**答案**: 因为苹果打算在发布会现场直接吓到你。。
 
 概念性的产品其实有。 Siri beta , iWork for web beta . iOS in the car （carplay),
 
@@ -10431,46 +10028,41 @@ jobs 最开始发布Mac OS X 的时候，其实就是一款概念性产品。 jo
  
 
  
+<br>**问题**:为什么 Chrome 开启 QUIC 之后能够快速顺畅访问 Google 和 Gmail？
 
-[问题]:为什么 Chrome 开启 QUIC 之后能够快速顺畅访问 Google 和 Gmail？
-
-[答案]:来自微软的回答：这玩意没啥意思，很快就会挂。还是来我大bing 吧。。。怎么。。怎么没人来！你们这群不争气的东西！
-
- 
-
- 
-
-[问题]:为什么 Google X Labs 限制进行项目为 8 个，毕业的标准又是什么？
-
-[答案]: 这个是绝对不能说的。我也不知道。地位太低
+**答案**:来自微软的回答：这玩意没啥意思，很快就会挂。还是来我大bing 吧。。。怎么。。怎么没人来！你们这群不争气的东西！
 
  
 
  
+<br>**问题**:为什么 Google X Labs 限制进行项目为 8 个，毕业的标准又是什么？
 
-[问题]:为什么 iOS 8 和 iOS 9 首发时有很多 Bug？
+**答案**: 这个是绝对不能说的。我也不知道。地位太低
 
-[答案]: 苹果需要提高程序员的待遇到起吗dropbox或uber的级别，再来谈软件质量。。
+ 
+
+ 
+<br>**问题**:为什么 iOS 8 和 iOS 9 首发时有很多 Bug？
+
+**答案**: 苹果需要提高程序员的待遇到起吗dropbox或uber的级别，再来谈软件质量。。
 
 苹果设计师的待遇已经超过对冲基金和投资银行了。。
 
  
 
  
+<br>**问题**:为什么 iOS 8 的 AirPlay 可以直接 Wi-Fi 点对点传输？
 
-[问题]:为什么 iOS 8 的 AirPlay 可以直接 Wi-Fi 点对点传输？
-
-[答案]: 大哥下次提问能不能翻译一下不要直接复制粘贴好吗？
+**答案**: 大哥下次提问能不能翻译一下不要直接复制粘贴好吗？
 
 知乎果然是可以后台操作的。题主作为运营人员，点一下就能折叠了。好腻害！
 
  
 
  
+<br>**问题**:为什么 iOS 不像 MIUI 那样设计一些方便用户的小细节？
 
-[问题]:为什么 iOS 不像 MIUI 那样设计一些方便用户的小细节？
-
-[答案]: 这个比较犯了几个根本性的错误。
+**答案**: 这个比较犯了几个根本性的错误。
 
 小米是基于android 的 mod , 因此你应该问为什么安卓官方版不提供这些conveniences 
 
@@ -10507,10 +10099,9 @@ jobs 最开始发布Mac OS X 的时候，其实就是一款概念性产品。 jo
  
 
  
+<br>**问题**:为什么 iPhone 一般要将「返回」和「发布」键放在屏幕的左上角和右上角而不是在下面？我右手握着大拇指都按不到啊！
 
-[问题]:为什么 iPhone 一般要将「返回」和「发布」键放在屏幕的左上角和右上角而不是在下面？我右手握着大拇指都按不到啊！
-
-[答案]: 皇帝放了个屁；一群人急着争论这个屁多香，放的多合理：巧夺天工。其实只是利用这个屁，在其他人面前展现自己学识渊博罢了。
+**答案**: 皇帝放了个屁；一群人急着争论这个屁多香，放的多合理：巧夺天工。其实只是利用这个屁，在其他人面前展现自己学识渊博罢了。
 
 这个问题除了Apple 设计师能够回答以外，其他人的揣测都只是在拍马屁。。 
 
@@ -10519,94 +10110,83 @@ jobs 最开始发布Mac OS X 的时候，其实就是一款概念性产品。 jo
  
 
  
+<br>**问题**:为什么 Linux 在桌面会失败？
 
-[问题]:为什么 Linux 在桌面会失败？
-
-[答案]: 应该是缺乏游戏导致的。没有DIRECTX，新生代最想玩的游戏不在UNIX上，那么桌面操作系统的意义基本就降低了9成；
+**答案**: 应该是缺乏游戏导致的。没有DIRECTX，新生代最想玩的游戏不在UNIX上，那么桌面操作系统的意义基本就降低了9成；
 
 如果10年前所有的盗版软件都只能在UNIX上安装，而在WINDOWS上安装会自动烧主板，那么我相信今天大陆的用户数量和生态将是天翻地覆的。首先，支付宝和淘宝第一推出的肯定会是UNIX版。。。
 
  
 
  
+<br>**问题**:为什么 LR 模型要使用 sigmoid 函数，背后的数学原理是什么？
 
-[问题]:为什么 LR 模型要使用 sigmoid 函数，背后的数学原理是什么？
-
-[答案]:参考ng的讲义。。stanford machine learning
-
- 
+**答案**:参考ng的讲义。。stanford machine learning
 
  
 
-[问题]:为什么 Mac 垃圾桶废纸篓不提供单独删除文件功能？
+ 
+<br>**问题**:为什么 Mac 垃圾桶废纸篓不提供单独删除文件功能？
 
-[答案]: 原来你们家倒进垃圾桶的垃圾，不是一起倒掉，而是，一个一个捡起来然后一次次倒掉啊。。。。。。。。。。
+**答案**: 原来你们家倒进垃圾桶的垃圾，不是一起倒掉，而是，一个一个捡起来然后一次次倒掉啊。。。。。。。。。。
 
 ps：倒进垃圾桶的时候如果错了可以put back。
 
  
 
  
+<br>**问题**:为什么 Mac 适合编程？
 
-[问题]:为什么 Mac 适合编程？
-
-[答案]: 我对温兆伦对此问题避而不答出采取闷声发大财的态度表示愤慨
-
- 
-
- 
-
-[问题]:为什么 Moto X 销量惨淡？
-
-[答案]:主要原因是那些用着iphone 5的人根本不需要去理会其他手机就能过的很好。而用其他手机的人还得进行特别复杂的相互比较。
+**答案**: 我对温兆伦对此问题避而不答出采取闷声发大财的态度表示愤慨
 
  
 
  
+<br>**问题**:为什么 Moto X 销量惨淡？
 
-[问题]:为什么 Office for iPad 编辑需要订阅收费，这样做是否明智？
-
-[答案]:google内部机密工作也是通过google drive完成的，而且还有广告。。。真不知道google是怎么想的，真是自己打自己的脸啊！！！。。。
-
- 
-
- 
-
-[问题]:为什么 OS X 在普及规模上被 Windows 完爆？
-
-[答案]: 为什么美国高端收入人数被中国三农人口完爆？
+**答案**:主要原因是那些用着iphone 5的人根本不需要去理会其他手机就能过的很好。而用其他手机的人还得进行特别复杂的相互比较。
 
  
 
  
+<br>**问题**:为什么 Office for iPad 编辑需要订阅收费，这样做是否明智？
 
-[问题]:为什么 Python 里面的 range 不包含上界？
-
-[答案]:轮子哥拿到20w 刀年薪才开始盛气凌人。。。轮子你学过计算机关于数组的高级理论就欺负人！
-
- 
-
- 
-
-[问题]:为什么 Sparrow 团队被 Google 收购后，做 Inbox by Gmail 花了两年之久？
-
-[答案]:google 待遇比较好，年薪20w，大家都很开心跑去sf玩了一整年。
+**答案**:google内部机密工作也是通过google drive完成的，而且还有广告。。。真不知道google是怎么想的，真是自己打自己的脸啊！！！。。。
 
  
 
  
+<br>**问题**:为什么 OS X 在普及规模上被 Windows 完爆？
 
-[问题]:为什么 ThinkPad 的配置不是最顶级的，但价格却很高？
+**答案**: 为什么美国高端收入人数被中国三农人口完爆？
 
-[答案]: ...还不如买mac。真的。说真的。
+ 
+
+ 
+<br>**问题**:为什么 Python 里面的 range 不包含上界？
+
+**答案**:轮子哥拿到20w 刀年薪才开始盛气凌人。。。轮子你学过计算机关于数组的高级理论就欺负人！
 
  
 
  
+<br>**问题**:为什么 Sparrow 团队被 Google 收购后，做 Inbox by Gmail 花了两年之久？
 
-[问题]:为什么 Windows 10 发布会上台下记者手中 MacBook 比 Windows 的笔记本多？
+**答案**:google 待遇比较好，年薪20w，大家都很开心跑去sf玩了一整年。
 
-[答案]: 不论如何，微软才是最伟大的企业。
+ 
+
+ 
+<br>**问题**:为什么 ThinkPad 的配置不是最顶级的，但价格却很高？
+
+**答案**: ...还不如买mac。真的。说真的。
+
+ 
+
+ 
+<br>**问题**:为什么 Windows 10 发布会上台下记者手中 MacBook 比 Windows 的笔记本多？
+
+**答案**: 不论如何，微软才是最伟大的企业。
 
 我都能感到内心的热血在燃烧。 
 
@@ -10621,18 +10201,16 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
+<br>**问题**:为什么 Windows 10 计算器应用中含开方计算结果不准确？
 
-[问题]:为什么 Windows 10 计算器应用中含开方计算结果不准确？
-
-[答案]: 微软最有价值专家到底有几个。。
-
- 
+**答案**: 微软最有价值专家到底有几个。。
 
  
 
-[问题]:为什么 Windows 95 推出后占据了绝大多数市场份额？
+ 
+<br>**问题**:为什么 Windows 95 推出后占据了绝大多数市场份额？
 
-[答案]: 对于排名第一的答案我已经无法吐槽了。
+**答案**: 对于排名第一的答案我已经无法吐槽了。
 
  
 
@@ -10656,7 +10234,7 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
 
  
 
-![](https://pic1.zhimg.com/f14dad8d6bc0a245508c97c81764c83c_b.jpg)
+!****(https://pic1.zhimg.com/f14dad8d6bc0a245508c97c81764c83c_b.jpg)
 
  
 
@@ -10683,20 +10261,18 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
+<br>**问题**:为什么 Windows Live战略会失败？
 
-[问题]:为什么 Windows Live战略会失败？
-
-[答案]: 类似微软的MSN。微软的操作系统和开发技术可能很厉害，但公司太大无法在消费者市场上和更小巧更灵活的公司抗衡，因此在互联网消费者产品上几乎都是失败了。
+**答案**: 类似微软的MSN。微软的操作系统和开发技术可能很厉害，但公司太大无法在消费者市场上和更小巧更灵活的公司抗衡，因此在互联网消费者产品上几乎都是失败了。
 
 一个无所不能的公司，却不会在所有另一成功。这是真理。许多产品不需要无所不能，而是需要定位，宣传，改良，设计和魅力
 
  
 
  
+<br>**问题**:为什么 Windows 中有一些看似很有用却很蛋疼的提示？
 
-[问题]:为什么 Windows 中有一些看似很有用却很蛋疼的提示？
-
-[答案]: windows的确是臃肿冗余的东西太多了。很多东西是可有可无的，缩减或者隐藏起来了并不会影响使用。但是无奈微软的人都是技术出身，没办法转过这个弯。“这是什么”，“遇到未知错误”，“请联系硬件提供商”，“正在关闭xx程序”，“正在联系微软解决问题”（结果都是无法解决），都按下ctl+delete＋shift了还问你“是否需要强制退出”，“灰屏的用户权限提示”等在设计的时候想当然，没有调研实际效能，浪费码农时间写无数行代码来实现的毫无意义，又让用户迷惑的提示。真正懂技术的会去查log的（我不知道windwos有没有类linux一样的系统log）。
+**答案**: windows的确是臃肿冗余的东西太多了。很多东西是可有可无的，缩减或者隐藏起来了并不会影响使用。但是无奈微软的人都是技术出身，没办法转过这个弯。“这是什么”，“遇到未知错误”，“请联系硬件提供商”，“正在关闭xx程序”，“正在联系微软解决问题”（结果都是无法解决），都按下ctl+delete＋shift了还问你“是否需要强制退出”，“灰屏的用户权限提示”等在设计的时候想当然，没有调研实际效能，浪费码农时间写无数行代码来实现的毫无意义，又让用户迷惑的提示。真正懂技术的会去查log的（我不知道windwos有没有类linux一样的系统log）。
 
 这也是微软庞大臃肿的官僚式管理层次带来的后果吧。拍脑袋－》想当然－》苦了程序员－》对用户又无效。 
 
@@ -10705,53 +10281,47 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
+<br>**问题**:为什么 WPS 2012 安装包那么小，Office 2010 那么大？
 
-[问题]:为什么 WPS 2012 安装包那么小，Office 2010 那么大？
-
-[答案]: ..为什么某答案又被折叠了。。。说得很好的啊！
-
- 
+**答案**: ..为什么某答案又被折叠了。。。说得很好的啊！
 
  
 
-[问题]: 为什么985名校浙江大学总是被称为「浙江大三本」，这是谦虚还是讽刺？
-[答案]: 对浙工大同学来说这是谦虚
+ 
+<br>**问题**: 为什么985名校浙江大学总是被称为「浙江大三本」，这是谦虚还是讽刺？
+**答案**: 对浙工大同学来说这是谦虚
 
 对清华来说这是讽刺
 
  
 
  
+<br>**问题**:为什么Chrome 浏览器就是不出 64 bit 版本呢？
 
-[问题]:为什么Chrome 浏览器就是不出 64 bit 版本呢？
-
-[答案]:现在windows 10下 chrome的版本仍然是32 bit。 
+**答案**:现在windows 10下 chrome的版本仍然是32 bit。 
 
 看来google 决心让我们都放弃windows。
 
  
 
  
+<br>**问题**: 为什么Facebook在游戏研发和发行领域全面落后于腾讯？
 
-[问题]: 为什么Facebook在游戏研发和发行领域全面落后于腾讯？
-
-[答案]:Video games 不是 Web games 吧
-
- 
+**答案**:Video games 不是 Web games 吧
 
  
 
-[问题]: 为什么Facebook这样服务态度恶劣不尊重用户的公司反而能够赚大钱？
-[答案]: 赚钱和用户体验无关。。。
+ 
+<br>**问题**: 为什么Facebook这样服务态度恶劣不尊重用户的公司反而能够赚大钱？
+**答案**: 赚钱和用户体验无关。。。
 
 微软赚的钱不够多？
 
  
 
  
-
-[问题]: 为什么Google也会错过Bhuztez这样的人？
-[答案]: 因为他
+<br>**问题**: 为什么Google也会错过Bhuztez这样的人？
+**答案**: 因为他
 
 1：没有微信，或者没有一台可以用微信的现代智能手机 
 
@@ -10762,9 +10332,8 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
-
-[问题]: 为什么Google在Android上提供的数据备份功能只备份系统数据和极少数自家的应用数据？
-[答案]: google根本不懂得怎么做生态系统，怎么做软件，怎么做手机。这种关怀消费者的事，相信我，还是去买apple吧。
+<br>**问题**: 为什么Google在Android上提供的数据备份功能只备份系统数据和极少数自家的应用数据？
+**答案**: google根本不懂得怎么做生态系统，怎么做软件，怎么做手机。这种关怀消费者的事，相信我，还是去买apple吧。
 
 你的人生会得到改变。 
 
@@ -10773,9 +10342,8 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
-
-[问题]: 为什么handle会被翻译成句柄？
-[答案]: 汉字是一种组合语言，单个字的表意能力极其有限因此必须添加形容词。
+<br>**问题**: 为什么handle会被翻译成句柄？
+**答案**: 汉字是一种组合语言，单个字的表意能力极其有限因此必须添加形容词。
 
 例如，"frozen”，就必须翻译成冰雪奇缘。去掉冰，去掉奇，都不通顺 
 
@@ -10788,23 +10356,20 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
-
-[问题]: 为什么iPhone做不到完全防盗？
-[答案]: 看着某些ＩＰＨＯＮＥ盗窃团伙的利益集团呼吁千万不要封ＩＭＥＩ，被骗ＩＤ的都是自己蠢（而不是他们团伙精心设计的陷进），还在这里装傻，呵呵。
-
- 
-
- 
-
-[问题]: 为什么iphone的移动数据叫作蜂窝移动数据？
-[答案]: 因为你们都是小蜜蜂～
+<br>**问题**: 为什么iPhone做不到完全防盗？
+**答案**: 看着某些ＩＰＨＯＮＥ盗窃团伙的利益集团呼吁千万不要封ＩＭＥＩ，被骗ＩＤ的都是自己蠢（而不是他们团伙精心设计的陷进），还在这里装傻，呵呵。
 
  
 
  
+<br>**问题**: 为什么iphone的移动数据叫作蜂窝移动数据？
+**答案**: 因为你们都是小蜜蜂～
 
-[问题]: 为什么KTV的话筒有且只有两个？
-[答案]: 大部分混响放大设备都是支持三通道的。这样加上伴奏，两个mic
+ 
+
+ 
+<br>**问题**: 为什么KTV的话筒有且只有两个？
+**答案**: 大部分混响放大设备都是支持三通道的。这样加上伴奏，两个mic
 
 声道正好。也有支持四通道的。当然应该是越多通道越贵，主要不在于通道贵（选个不同的载波频率即可，一般都是100KHz左右。按照20KHz pitch
 
@@ -10815,23 +10380,20 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
-
-[问题]: 为什么manifold的翻译是“流形”呢？
-[答案]: 因为流氓你真行！故曰流形
-
- 
-
- 
-
-[问题]: 为什么mathematica这么好破解
-[答案]: 因为写在了java虚拟机上。
+<br>**问题**: 为什么manifold的翻译是“流形”呢？
+**答案**: 因为流氓你真行！故曰流形
 
  
 
  
+<br>**问题**: 为什么mathematica这么好破解
+**答案**: 因为写在了java虚拟机上。
 
-[问题]: 为什么MOOC上以C语言为主讲授的计算机课程几乎没有？
-[答案]: 应试教育使得中国人喜欢学那些很难但是没什么卵用的东西。
+ 
+
+ 
+<br>**问题**: 为什么MOOC上以C语言为主讲授的计算机课程几乎没有？
+**答案**: 应试教育使得中国人喜欢学那些很难但是没什么卵用的东西。
 
 体现在计算机科学里就是低年级要学C，要学汇编，要学编译器操作系统。 
 
@@ -10842,10 +10404,9 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
+<br>**问题**:为什么OS X免费，但占有率却远不及价格￥888的Windows系统？
 
-[问题]:为什么OS X免费，但占有率却远不及价格￥888的Windows系统？
-
-[答案]:长期以来WINDOWS 是OEM授权的，也就是说，除非你是CEO，一般你不会花钱给自己的电脑专门买WINDOWS操作系统 
+**答案**:长期以来WINDOWS 是OEM授权的，也就是说，除非你是CEO，一般你不会花钱给自己的电脑专门买WINDOWS操作系统 
 
 其次，大部分人自己的系统都是批量授权激活版 
 
@@ -10854,10 +10415,9 @@ Windows 10 必将是最好的操作系统，提供最好的操作体验。
  
 
  
+<br>**问题**:为什么PC硬件厂商不给 OS X 开发驱动？
 
-[问题]:为什么PC硬件厂商不给 OS X 开发驱动？
-
-[答案]: 这个回答只是为了澄清，与本问题无关：
+**答案**: 这个回答只是为了澄清，与本问题无关：
 
  
 
@@ -10875,7 +10435,7 @@ that is not "Apple-branded".
 
  
 
-\> [3] _ _
+\> **3** _ _
 
  
 
@@ -10893,7 +10453,7 @@ by the Digital Millennium Copyright Act _ _ (DMCA),
 
  
 
-\> [4] _ _
+\> **4** _ _
 
  
 
@@ -10905,15 +10465,14 @@ out by end-users _ _ for personal use.
 
  
 
-\> [5] _ _
+\> **5** _ _
 
  
 
  
+<br>**问题**:为什么python 中lambda i=ii，lambda i, lambda ii ,以及lambda a=ii 他们的输出不一样？
 
-[问题]:为什么python 中lambda i=ii，lambda i, lambda ii ,以及lambda a=ii 他们的输出不一样？
-
-[答案]:实际上结论就是，如果你的lambda表达式不给定local的default input的话，他并不会记住每次你给他定义时，让他输出的所谓local
+**答案**:实际上结论就是，如果你的lambda表达式不给定local的default input的话，他并不会记住每次你给他定义时，让他输出的所谓local
 
 variable i 
 
@@ -10929,7 +10488,7 @@ a_odd
 
 def a_odd(): 
 
-f=[] 
+f=**** 
 
 for i in 'abcdefg': 
 
@@ -10951,7 +10510,7 @@ f的时候，function会检查lambda表达式中的i。如果i不是lambda的输
 
 def a_odd(): 
 
-f=[] 
+f=**** 
 
 for i in 'abcdefg': 
 
@@ -10966,16 +10525,14 @@ return f
  
 
  
-
-[问题]: 为什么scores这个数组我我调用时会报错？编译器要是加上static才能过
-[答案]: Java?
-
- 
+<br>**问题**: 为什么scores这个数组我我调用时会报错？编译器要是加上static才能过
+**答案**: Java?
 
  
 
-[问题]: 为什么steam吧A9玩家普遍瞧不起暴雪？
-[答案]: 10年了，暴雪还在以没有钱，没有时间，没有情怀等为借口，用着15年前的塑料引擎渲染着自己一次又一次燃烧的远征军团。
+ 
+<br>**问题**: 为什么steam吧A9玩家普遍瞧不起暴雪？
+**答案**: 10年了，暴雪还在以没有钱，没有时间，没有情怀等为借口，用着15年前的塑料引擎渲染着自己一次又一次燃烧的远征军团。
 
  
 
@@ -10988,17 +10545,15 @@ return f
  
 
  
-
-[问题]: 为什么Truman翻译成杜鲁门，Trump却翻译成特朗普？
-[答案]: 应该翻译成希拉普
-
- 
+<br>**问题**: 为什么Truman翻译成杜鲁门，Trump却翻译成特朗普？
+**答案**: 应该翻译成希拉普
 
  
 
-[问题]:为什么UC Berkeley综合排名那么低？
+ 
+<br>**问题**:为什么UC Berkeley综合排名那么低？
 
-[答案]: 我对这个问题很有兴趣。
+**答案**: 我对这个问题很有兴趣。
 
 综合排名低这件事要分几个方面来看： 
 
@@ -11029,26 +10584,23 @@ mit, harvard, princeton,caltech。
  
 
  
-
-[问题]: 为什么vczh技术没那么牛，知乎上却有那么多人膜拜？
-[答案]: 因为他身上很多地方很大啊
-
- 
+<br>**问题**: 为什么vczh技术没那么牛，知乎上却有那么多人膜拜？
+**答案**: 因为他身上很多地方很大啊
 
  
 
-[问题]:为什么Windows 注册表这么脆弱，Windows Defender 还不如360？
+ 
+<br>**问题**:为什么Windows 注册表这么脆弱，Windows Defender 还不如360？
 
-[答案]:下面回答一下（我现在在iOS 手机上所以还可以上知乎）： 
+**答案**:下面回答一下（我现在在iOS 手机上所以还可以上知乎）： 
 
 我是用Bing 搜一个软件。点开第一个（其实第一页都是假的），下载之后就挂了。你们有兴趣的可以试试，如果把工作机器搞挂了欢迎跟帖
 
  
 
  
-
-[问题]: 为什么「芈十四，你是处女吗」的值乎提问价值9999元？
-[答案]: 看来笑来，秦始皇等人还不是知乎底线。。你们继续赚钱吧，我以前黑错人了向你们道歉。
+<br>**问题**: 为什么「芈十四，你是处女吗」的值乎提问价值9999元？
+**答案**: 看来笑来，秦始皇等人还不是知乎底线。。你们继续赚钱吧，我以前黑错人了向你们道歉。
 
 早就说了知乎没底线。太好了。等中国大部分00后都用上了知乎，他们肯定没法和我这样的实力90后相比了。哈哈哈哈。我感谢知乎 
 
@@ -11059,10 +10611,9 @@ mit, harvard, princeton,caltech。
  
 
  
+<br>**问题**:为什么一些人很瞧不起 Java？
 
-[问题]:为什么一些人很瞧不起 Java？
-
-[答案]:因为Java 不会出现oracle documentation
+**答案**:因为Java 不会出现oracle documentation
 
 没有解释和解决的问题，也不会有故作玄虚故意让同事看不懂无法维护的代码，如果你完全按照Style
 
@@ -11075,17 +10626,15 @@ mit, harvard, princeton,caltech。
  
 
  
-
-[问题]: 为什么一些塑料制品用久了以后就会开裂？在购买时如何分辨使用寿命长的塑料制品？
-[答案]: 只能买贵的
-
- 
+<br>**问题**: 为什么一些塑料制品用久了以后就会开裂？在购买时如何分辨使用寿命长的塑料制品？
+**答案**: 只能买贵的
 
  
 
-[问题]:为什么一些知乎大 V 瞧不起《罗辑思维》，自己却不制作个节目与之竞争？
+ 
+<br>**问题**:为什么一些知乎大 V 瞧不起《罗辑思维》，自己却不制作个节目与之竞争？
 
-[答案]: 因为人家屌啊，他有一群屌人确实在一起啊。。。
+**答案**: 因为人家屌啊，他有一群屌人确实在一起啊。。。
 
 （注：这个群名字叫AI与人类未来关系研究群。。。） 
 
@@ -11096,24 +10645,21 @@ Disclaimer：这个群我不在
  
 
  
+<br>**问题**:为什么一线车厂独 Audi 没有第一批跟 Apple CarPlay 达成合作关系？
 
-[问题]:为什么一线车厂独 Audi 没有第一批跟 Apple CarPlay 达成合作关系？
-
-[答案]: 因为audi已经和google合作很久了。audi也用apple的话，那google还要活吗
-
- 
-
- 
-
-[问题]: 为什么上世纪末的高校合并潮中，武大和浙大被公认为是最成功的？
-[答案]: 因为武书连
+**答案**: 因为audi已经和google合作很久了。audi也用apple的话，那google还要活吗
 
  
 
  
+<br>**问题**: 为什么上世纪末的高校合并潮中，武大和浙大被公认为是最成功的？
+**答案**: 因为武书连
 
-[问题]: 为什么不同介质中光传播的速度不一样？
-[答案]: 因为相互作用花时间==逃
+ 
+
+ 
+<br>**问题**: 为什么不同介质中光传播的速度不一样？
+**答案**: 因为相互作用花时间==逃
 
  
 
@@ -11122,17 +10668,15 @@ Disclaimer：这个群我不在
  
 
  
+<br>**问题**: 为什么不同时期曾博的自拍照背景里都有一个大书柜？
 
-[问题]: 为什么不同时期曾博的自拍照背景里都有一个大书柜？
-
-[答案]:因为他要出柜 逃
-
- 
+**答案**:因为他要出柜 逃
 
  
 
-[问题]: 为什么不同量纲的量可以乘除不能加减？
-[答案]: 这个可以说一说：
+ 
+<br>**问题**: 为什么不同量纲的量可以乘除不能加减？
+**答案**: 这个可以说一说：
 
 物理量都具有单位，没有单位的数字没有物理意义。但物理量又应该有不变性，其 ** 物理值（注意，不是数值） ** 不会随着单位的选择而发生变化。 
 
@@ -11152,17 +10696,17 @@ contravariant量例如长度，随着距离单位增大而减少：
 
 如果不同单位可以混合加减，那么加减之后，你就无法知道，或者无法保证，随着分母或者分子上的数值（和），其各自原来的单位是什么了。那么这个物理量就丧失了covariant或者contravariant的特性，丧失了物理量不变性。在不同的单位下，其行为会非常混乱，而且无法复原。 
 
-例如我们定一个单位 [s+m], 0.5s+0.5m=1[s+m] 
+例如我们定一个单位 **s+m**, 0.5s+0.5m=1**s+m** 
 
  
 
 那么他是什么物理量呢？如果是contravariant （因为m,s都是contravariant）： 
 
-那么，我们应该有 1[s+m]=0.5s+0.5m=500.5[ms+m] 
+那么，我们应该有 1**s+m**=0.5s+0.5m=500.5**ms+m** 
 
-还是 1[s+m]=0.4s+0.6m=400.6[ms+m] 
+还是 1**s+m**=0.4s+0.6m=400.6**ms+m** 
 
-还是 1[s+m]=0.3s+0.7m=300.7[ms+m] 
+还是 1**s+m**=0.3s+0.7m=300.7**ms+m** 
 
 呢？ 
 
@@ -11174,20 +10718,19 @@ contravariant量例如长度，随着距离单位增大而减少：
 
  
 
-如果是乘／除法，那就很好办了：定义单位[m/s] ，1m/1s=1[m/s] 
+如果是乘／除法，那就很好办了：定义单位**m/s** ，1m/1s=1**m/s** 
 
  
 
-那么显然，1m/1s=1[m/s]＝60[m/min] 
+那么显然，1m/1s=1**m/s**＝60**m/min** 
 
 因为分子／分母上没有加减组合，这个转换是唯一的。
 
  
 
  
-
-[问题]: 为什么不对自费留学生征出国税？
-[答案]: 中国政府已经收了很多税了。随便一查就是贪污挪用捐款逃跑几个亿几十个亿的。他没法合理地利用税收，没法合理的用税收办好学校，迄今为止还在因为另外水平和素质不高地区的公平原因而不开放发达地区高校自主招生。这样子作死，又有什么办法呢？
+<br>**问题**: 为什么不对自费留学生征出国税？
+**答案**: 中国政府已经收了很多税了。随便一查就是贪污挪用捐款逃跑几个亿几十个亿的。他没法合理地利用税收，没法合理的用税收办好学校，迄今为止还在因为另外水平和素质不高地区的公平原因而不开放发达地区高校自主招生。这样子作死，又有什么办法呢？
 
 中国是这样，钱都进了发达地区人的口袋。而制度，却还受到最不发达地区人口素质的牵绊。这个上下限取得好啊～…治国有方！ 
 
@@ -11196,10 +10739,9 @@ contravariant量例如长度，随着距离单位增大而减少：
  
 
  
+<br>**问题**: 为什么不少程序员认为Matlab的语言设计不优雅甚至比较丑？能否举出一些例子来说明？
 
-[问题]: 为什么不少程序员认为Matlab的语言设计不优雅甚至比较丑？能否举出一些例子来说明？
-
-[答案]:我只好实名赞 @白如冰 的答案。 
+**答案**:我只好实名赞 @白如冰 的答案。 
 
 除了函数和小学生拼音缩写，或者是北欧人写的英文一样，数字字母结合，毫无规矩。这真是让我这种看到大写字母开头就知道是Class,
 
@@ -11308,25 +10850,22 @@ for，你以为是c里面的macro啊。更别说其他语言可以返回函数�
  
 
  
-
-[问题]: 为什么不把合并排序称为快速排序？
-[答案]: 你总不能要求一个叫曾硕的人不读博士吧=
-
- 
-
- 
-
-[问题]:为什么不用智能的方式lease a new car
-
-[答案]: 估计有人去闷声发大财去了。
+<br>**问题**: 为什么不把合并排序称为快速排序？
+**答案**: 你总不能要求一个叫曾硕的人不读博士吧=
 
  
 
  
+<br>**问题**:为什么不用智能的方式lease a new car
 
-[问题]:为什么东西湿了就容易粘在一起？比如纸 比如玻璃 比如硬币。他们的原理一样吗？
+**答案**: 估计有人去闷声发大财去了。
 
-[答案]: 水的表面张力（或者说，氢键）容易让东西“粘”在一起。一个可以做的试验是，如果你换一种液体，例如酒精，或者加了溶质的水，例如盐水，甚至表面活性剂等改变水的张力，再湿润这些物体，看看他们是否还会容易粘在一起。
+ 
+
+ 
+<br>**问题**:为什么东西湿了就容易粘在一起？比如纸 比如玻璃 比如硬币。他们的原理一样吗？
+
+**答案**: 水的表面张力（或者说，氢键）容易让东西“粘”在一起。一个可以做的试验是，如果你换一种液体，例如酒精，或者加了溶质的水，例如盐水，甚至表面活性剂等改变水的张力，再湿润这些物体，看看他们是否还会容易粘在一起。
 
 这里有一个类似的问题： 
 
@@ -11335,10 +10874,9 @@ Why does sugar make things sticky? _ _
  
 
  
+<br>**问题**:为什么中国 GDP 增速降到 7% 哀鸿遍野，而发达国家 GDP 增速小的多却也过得很平稳？
 
-[问题]:为什么中国 GDP 增速降到 7% 哀鸿遍野，而发达国家 GDP 增速小的多却也过得很平稳？
-
-[答案]: 不好意思因为长期发布不适宜讨论的政治内容导致我的账号被封了。现在用小号作答。
+**答案**: 不好意思因为长期发布不适宜讨论的政治内容导致我的账号被封了。现在用小号作答。
 
  
 
@@ -11355,9 +10893,8 @@ Why does sugar make things sticky? _ _
  
 
  
-
-[问题]: 为什么中国人民大学的排名并不算靠前，可是高考分数如此之高？
-[答案]: 你是中国人民吗
+<br>**问题**: 为什么中国人民大学的排名并不算靠前，可是高考分数如此之高？
+**答案**: 你是中国人民吗
 
 你要上大学吗 
 
@@ -11368,10 +10905,9 @@ Why does sugar make things sticky? _ _
  
 
  
+<br>**问题**:为什么中国的城市能在人均 GDP 较低的情况下达到较高的生活、发展水平？
 
-[问题]:为什么中国的城市能在人均 GDP 较低的情况下达到较高的生活、发展水平？
-
-[答案]: 较高的生活水平？
+**答案**: 较高的生活水平？
 
 用塑料桶子洗脸洗脚 
 
@@ -11426,9 +10962,8 @@ Why does sugar make things sticky? _ _
  
 
  
-
-[问题]: 为什么中国的很多二本、三本学校会开设基础学科专业？
-[答案]: 百花齐放，百家争鸣吧。
+<br>**问题**: 为什么中国的很多二本、三本学校会开设基础学科专业？
+**答案**: 百花齐放，百家争鸣吧。
 
  
 
@@ -11459,19 +10994,17 @@ ZHANG，如果不是他所在的那个学校——一所如果没有他则毫不
  
 
  
+<br>**问题**:为什么买或者不买 Apple Watch？
 
-[问题]:为什么买或者不买 Apple Watch？
-
-[答案]:技术尚不成熟。你买了第一代MacBook air 吗？你买了2015 all new macbook吗？你买了第一代iPhone 吗？ 
+**答案**:技术尚不成熟。你买了第一代MacBook air 吗？你买了2015 all new macbook吗？你买了第一代iPhone 吗？ 
 
 真的有钱没处花可以考虑捐给我==
 
  
 
  
-
-[问题]: 为什么人会想要自杀？如何看待自杀？
-[答案]: 我有过自杀的冲动。很多次。
+<br>**问题**: 为什么人会想要自杀？如何看待自杀？
+**答案**: 我有过自杀的冲动。很多次。
 
 我觉得心理学的分析是准确的。我有死亡的意愿，因为我认为这是唯一一种不再做生活奴隶的方式。虽然这不是一种特别好的方式，因为你死了之后，就无法享受“不再做生活奴隶”这一结果。 
 
@@ -11480,17 +11013,15 @@ ZHANG，如果不是他所在的那个学校——一所如果没有他则毫不
  
 
  
-
-[问题]: 为什么今年的诺奖没有庄小威呢？
-[答案]: ...
-
- 
+<br>**问题**: 为什么今年的诺奖没有庄小威呢？
+**答案**: ...
 
  
 
-[问题]: 为什么会产生共振？
+ 
+<br>**问题**: 为什么会产生共振？
 
-[答案]:所谓共振，是指的外加驱动不断对体系做正功的情况。想象一个振子，本身有振动频率omega 0， 外界驱动是的频率omega 1。如果omega 1
+**答案**:所谓共振，是指的外加驱动不断对体系做正功的情况。想象一个振子，本身有振动频率omega 0， 外界驱动是的频率omega 1。如果omega 1
 
 不等于omega
 
@@ -11507,9 +11038,8 @@ rule。在谐振子的响应模型中，所谓共振，数学上就是响应函�
  
 
  
-
-[问题]: 为什么会有人信仰基督教？圣经中有很多故事和描述真的就是跟神话传说一样啊？为什么有人信呢？
-[答案]: 我非常感激楼上的答案。但是我必须说出我想说的一些话：
+<br>**问题**: 为什么会有人信仰基督教？圣经中有很多故事和描述真的就是跟神话传说一样啊？为什么有人信呢？
+**答案**: 我非常感激楼上的答案。但是我必须说出我想说的一些话：
 
 基督教的本意，初衷，或者发源，的确是美好的。是来自人类本性的，是人类文明发展的一个必然阶段（宗教的起源）。各地都有宗教。宗教是来自于人的，这一点毋庸置疑。 
 
@@ -11528,10 +11058,9 @@ rule。在谐振子的响应模型中，所谓共振，数学上就是响应函�
  
 
  
+<br>**问题**:为什么会有很多人觉着 Office 2003 落后？
 
-[问题]:为什么会有很多人觉着 Office 2003 落后？
-
-[答案]: vba这种低级语言。。。。你要是说ms支持python定义脚本我也就算了。vba。。。。。。。
+**答案**: vba这种低级语言。。。。你要是说ms支持python定义脚本我也就算了。vba。。。。。。。
 
 这不就是微软在世界脚本语言还没进化完全的时候自己写的一种特别低俗的语言吗？ 
 
@@ -11540,30 +11069,26 @@ rule。在谐振子的响应模型中，所谓共振，数学上就是响应函�
  
 
  
-
-[问题]: 为什么余光看电视（crt）比正眼看要频闪的厉害
-[答案]: 频闪应该一样厉害，不过余光看crt时，人眼接受到的光强弱于垂直观看，因此对于频闪更为敏感。
-
- 
-
- 
-
-[问题]: 为什么你当初选择与计算机关系不大的专业，最终却选择了码农工作？
-[答案]: 智商一直都很低，最后只能搬砖
+<br>**问题**: 为什么余光看电视（crt）比正眼看要频闪的厉害
+**答案**: 频闪应该一样厉害，不过余光看crt时，人眼接受到的光强弱于垂直观看，因此对于频闪更为敏感。
 
  
 
  
+<br>**问题**: 为什么你当初选择与计算机关系不大的专业，最终却选择了码农工作？
+**答案**: 智商一直都很低，最后只能搬砖
 
-[问题]: 为什么光带没有普及
-[答案]: 您说的是光碟？
+ 
+
+ 
+<br>**问题**: 为什么光带没有普及
+**答案**: 您说的是光碟？
 
  
 
  
-
-[问题]: 为什么具有导电性的物质都有金属光泽？
-[答案]: 不一定啊。。人体导电可不存在金属光泽。
+<br>**问题**: 为什么具有导电性的物质都有金属光泽？
+**答案**: 不一定啊。。人体导电可不存在金属光泽。
 
 导电和金属光泽无关。金属光泽首先要求表面平滑形成镜面反射。打磨过的金属存在金属光泽。金属矿肯定没有光泽，但只要有自由电子就会导电。 
 
@@ -11572,10 +11097,9 @@ rule。在谐振子的响应模型中，所谓共振，数学上就是响应函�
  
 
  
+<br>**问题**:为什么内地 CS 名校很少借鉴（照搬）国外名牌课程？
 
-[问题]:为什么内地 CS 名校很少借鉴（照搬）国外名牌课程？
-
-[答案]: 说的我真的好伤心。
+**答案**: 说的我真的好伤心。
 
 日。 
 
@@ -11584,56 +11108,49 @@ rule。在谐振子的响应模型中，所谓共振，数学上就是响应函�
  
 
  
-
-[问题]: 为什么内存，显卡等组合在一起，通电之后可以变成画面呈现出来？一开始科学家是怎么发现的？
-[答案]: 通过玩游戏发现的
-
- 
+<br>**问题**: 为什么内存，显卡等组合在一起，通电之后可以变成画面呈现出来？一开始科学家是怎么发现的？
+**答案**: 通过玩游戏发现的
 
  
 
-[问题]: 为什么写程序的时候可以坚持很久，但是学习数学就很难保持注意力？
+ 
+<br>**问题**: 为什么写程序的时候可以坚持很久，但是学习数学就很难保持注意力？
 
-[答案]:5555 再见！ 
+**答案**:5555 再见！ 
 
 和智商有关吧。Terence Tao 每天写数学blog 一点也不疲惫
 
  
 
  
-
-[问题]: 为什么冰冰脾气那么好？
-[答案]: 因为他白
-
- 
-
- 
-
-[问题]: 为什么凌晨时分做出的决定总是非常糟糕？
-[答案]: 我做决定的时候，中国的确是凌晨啊。难怪我这么傻
+<br>**问题**: 为什么冰冰脾气那么好？
+**答案**: 因为他白
 
  
 
  
-
-[问题]: 为什么初创公司在招人这方面会如此艰难？
-
-[答案]:恰恰相反。在美帝start up 是最难进的。一般只从大公司挖人。还有就是国际学生不支持visa ...
+<br>**问题**: 为什么凌晨时分做出的决定总是非常糟糕？
+**答案**: 我做决定的时候，中国的确是凌晨啊。难怪我这么傻
 
  
 
  
+<br>**问题**: 为什么初创公司在招人这方面会如此艰难？
 
-[问题]: 为什么初高中物理电学都是用丝绸，毛皮来解释摩擦静电的？
-[答案]: 因为美国英文教材中用的就是silk和fur。国内教材都是翻译过来的。。
+**答案**:恰恰相反。在美帝start up 是最难进的。一般只从大公司挖人。还有就是国际学生不支持visa ...
+
+ 
+
+ 
+<br>**问题**: 为什么初高中物理电学都是用丝绸，毛皮来解释摩擦静电的？
+**答案**: 因为美国英文教材中用的就是silk和fur。国内教材都是翻译过来的。。
 
  
 
  
+<br>**问题**:为什么到现在还说 Windows 的稳定性不好？
 
-[问题]:为什么到现在还说 Windows 的稳定性不好？
-
-[答案]:我现在使用office word 2013 都总是会出现死掉的状况。原因是如果你在公式里面进行了批注编辑然后又打算删除它的话。。。真是无语了 
+**答案**:我现在使用office word 2013 都总是会出现死掉的状况。原因是如果你在公式里面进行了批注编辑然后又打算删除它的话。。。真是无语了 
 
 功能太多，怎么能不死呢？ 
 
@@ -11644,33 +11161,29 @@ ios也有闪退的情况，多半是程序写的太烂了。但是可能因为io
  
 
  
-
-[问题]: 为什么努力总是没有回报？
-[答案]: 你不努力分更低
+<br>**问题**: 为什么努力总是没有回报？
+**答案**: 你不努力分更低
 
 请不要随便和大神比
 
  
 
  
-
-[问题]: 为什么十岁以下童星不能代言广告？
-[答案]: 10岁以下儿童不得成精？
-
- 
-
- 
-
-[问题]: 为什么南京大学会被认为是和浙江大学、上海交通大学、复旦大学等同一档次的学校？
-[答案]: 南京大学应该独立。改名叫南北大。或北大南京分校
+<br>**问题**: 为什么十岁以下童星不能代言广告？
+**答案**: 10岁以下儿童不得成精？
 
  
 
  
+<br>**问题**: 为什么南京大学会被认为是和浙江大学、上海交通大学、复旦大学等同一档次的学校？
+**答案**: 南京大学应该独立。改名叫南北大。或北大南京分校
 
-[问题]:为什么即便是 OS X 平台，支付宝也要求浏览器安装插件？
+ 
 
-[答案]:paypal 就不需要任何插件。我只能说这是国内金融服务混乱的结果。 
+ 
+<br>**问题**:为什么即便是 OS X 平台，支付宝也要求浏览器安装插件？
+
+**答案**:paypal 就不需要任何插件。我只能说这是国内金融服务混乱的结果。 
 
 国外如果盗刷，乱刷，多刷，错刷，能查到刷卡机构并且给予严厉惩罚。用户不需要任何责任； 
 
@@ -11681,9 +11194,8 @@ ios也有闪退的情况，多半是程序写的太烂了。但是可能因为io
  
 
  
-
-[问题]: 为什么只有成功学，而没有失败学？
-[答案]: 你觉得失败需要学吗？
+<br>**问题**: 为什么只有成功学，而没有失败学？
+**答案**: 你觉得失败需要学吗？
 
 我们每个人天生都会失败。天生就是来失败的。 
 
@@ -11696,17 +11208,15 @@ ios也有闪退的情况，多半是程序写的太烂了。但是可能因为io
  
 
  
-
-[问题]: 为什么各国都似乎没考虑燃油仅剩4000公里续航能力？
-[答案]: 楼上果然长了工程师的脑子。不，是科学家的脑子。。
-
- 
+<br>**问题**: 为什么各国都似乎没考虑燃油仅剩4000公里续航能力？
+**答案**: 楼上果然长了工程师的脑子。不，是科学家的脑子。。
 
  
 
-[问题]:为什么同是电磁波 lifi 比 wifi 要快？
+ 
+<br>**问题**:为什么同是电磁波 lifi 比 wifi 要快？
 
-[答案]: 光子的载波频率高，因此调制的带宽可以大很多。
+**答案**: 光子的载波频率高，因此调制的带宽可以大很多。
 
 射频微波的载波频率低（10000-100000倍左右） 
 
@@ -11715,10 +11225,9 @@ ios也有闪退的情况，多半是程序写的太烂了。但是可能因为io
  
 
  
+<br>**问题**:为什么命令行界面（CLI）并未随着命令行操作系统（如 DOS）的淘汰而消亡？
 
-[问题]:为什么命令行界面（CLI）并未随着命令行操作系统（如 DOS）的淘汰而消亡？
-
-[答案]:cmd line 运行环境是很重要的。 
+**答案**:cmd line 运行环境是很重要的。 
 
 国际标准应该是linux，mac兼容的比如bash系（那么多sh 可看作一个系列，但反正都没dos 特别是windows
 
@@ -11779,19 +11288,17 @@ ios也有闪退的情况，多半是程序写的太烂了。但是可能因为io
  
 
  
-
-[问题]: 为什么因特尔和AMD没有成为智能手机芯片的巨头？
-[答案]: 苹果继续走下去a12处理器都可以直接用在笔记本上了。。
+<br>**问题**: 为什么因特尔和AMD没有成为智能手机芯片的巨头？
+**答案**: 苹果继续走下去a12处理器都可以直接用在笔记本上了。。
 
 该公司太牛逼简直让人无法理解
 
  
 
  
+<br>**问题**: 为什么国外本科学的第一门编程语言通常是Python或者JAVA，而我国大部分是C？
 
-[问题]: 为什么国外本科学的第一门编程语言通常是Python或者JAVA，而我国大部分是C？
-
-[答案]:你居然觉得C难写？这种连high order function 都没有的东西，连generic type
+**答案**:你居然觉得C难写？这种连high order function 都没有的东西，连generic type
 
 都没有的东西。就是几个指针转来转去。你还真以为指针比起python 的一切皆object 难以理解啊。。嵌套list ， 嵌套高阶函数，override ,
 
@@ -11814,25 +11321,22 @@ hiding 和 overload . 这些东西不比啥都没有的C 要复杂？
  
 
  
-
-[问题]: 为什么在中国，很多人靠着不道德甚至违法的方式也能很成功？
-[答案]: 这就是我们为什么要坚持提高失败人士的智商，让这些正能量赚钱者赚得难一点，竞争激烈一点，对自己的要求高一点。这对于整个社会都有好处
-
- 
+<br>**问题**: 为什么在中国，很多人靠着不道德甚至违法的方式也能很成功？
+**答案**: 这就是我们为什么要坚持提高失败人士的智商，让这些正能量赚钱者赚得难一点，竞争激烈一点，对自己的要求高一点。这对于整个社会都有好处
 
  
 
-[问题]: 为什么在功率较小的用电器上新旧电池可以混用？
-[答案]: 新电池和旧电池的区别在于电势差不同，内阻不同。如果串联，用在大功率电器上，可能会因为电流过大烧坏旧电池（内阻过大）。
+ 
+<br>**问题**: 为什么在功率较小的用电器上新旧电池可以混用？
+**答案**: 新电池和旧电池的区别在于电势差不同，内阻不同。如果串联，用在大功率电器上，可能会因为电流过大烧坏旧电池（内阻过大）。
 
 如果功率小，只需要串联之后对负载供电达到启动要求即可。
 
  
 
  
-
-[问题]: 为什么在名牌大学却觉得身边人大多自认为平庸？
-[答案]: 大家都回答的非常好，我就不抛砖引玉了。
+<br>**问题**: 为什么在名牌大学却觉得身边人大多自认为平庸？
+**答案**: 大家都回答的非常好，我就不抛砖引玉了。
 
  
 
@@ -11841,24 +11345,21 @@ hiding 和 overload . 这些东西不比啥都没有的C 要复杂？
  
 
  
-
-[问题]: 为什么在存在大量中医治疗有效案例的前提下，许多人还是不接受中医治疗是有效的？
-[答案]: 是啊。很多人也通过某几个人赚了钱得出股市赚钱的结论，他们最后都跳楼自杀了。
-
- 
-
- 
-
-[问题]: 为什么在暖气片上方的墙面会出现黑白相间的条纹？（附图片）
-[答案]: 目测的确和热气流有关。
+<br>**问题**: 为什么在存在大量中医治疗有效案例的前提下，许多人还是不接受中医治疗是有效的？
+**答案**: 是啊。很多人也通过某几个人赚了钱得出股市赚钱的结论，他们最后都跳楼自杀了。
 
  
 
  
+<br>**问题**: 为什么在暖气片上方的墙面会出现黑白相间的条纹？（附图片）
+**答案**: 目测的确和热气流有关。
 
-[问题]:为什么在知乎上搜有关硅谷精英覃超的内容时，输入“覃超”没有任何内容，输入“覃 超”就可以？
+ 
 
-[答案]: 只要花钱买通知乎的公关部门（不要不相信。互联网公关产业很大，更不要提私人关系。人类之黑暗，个别精英之猥琐，希拉里只是冰山一角）。任何关于他和他live评价的问题都会，不仅仅被关闭，而是被删掉。然而关于他这一系列live究竟在干嘛，目的何在，手段怎么样。我相信大家自有判断。
+ 
+<br>**问题**:为什么在知乎上搜有关硅谷精英覃超的内容时，输入“覃超”没有任何内容，输入“覃 超”就可以？
+
+**答案**: 只要花钱买通知乎的公关部门（不要不相信。互联网公关产业很大，更不要提私人关系。人类之黑暗，个别精英之猥琐，希拉里只是冰山一角）。任何关于他和他live评价的问题都会，不仅仅被关闭，而是被删掉。然而关于他这一系列live究竟在干嘛，目的何在，手段怎么样。我相信大家自有判断。
 
  
 
@@ -11867,17 +11368,15 @@ hiding 和 overload . 这些东西不比啥都没有的C 要复杂？
  
 
  
-
-[问题]: 为什么在知乎上这几天为股指期货说话的人这么多？
-[答案]: 绝大部分金融从业者就是靠这个赚钱的它们不洗地下岗了造反了你负责？
-
- 
+<br>**问题**: 为什么在知乎上这几天为股指期货说话的人这么多？
+**答案**: 绝大部分金融从业者就是靠这个赚钱的它们不洗地下岗了造反了你负责？
 
  
 
-[问题]: 为什么在知乎逛多了，越发觉得我们国家政策很落后，想逃避离开这里？
+ 
+<br>**问题**: 为什么在知乎逛多了，越发觉得我们国家政策很落后，想逃避离开这里？
 
-[答案]:Make a difference? .. 想多了。你会发现能有饭吃能有房子住已经是现代文明的恩惠。你怎么不想回国去改变世界？何不食肉糜？ 
+**答案**:Make a difference? .. 想多了。你会发现能有饭吃能有房子住已经是现代文明的恩惠。你怎么不想回国去改变世界？何不食肉糜？ 
 
  
 
@@ -11886,17 +11385,15 @@ hiding 和 overload . 这些东西不比啥都没有的C 要复杂？
  
 
  
+<br>**问题**: 为什么在美国的cs编程入门课大多有java和python。而在国内首先学习的语言是cc++
 
-[问题]: 为什么在美国的cs编程入门课大多有java和python。而在国内首先学习的语言是cc++
-
-[答案]:选什么都选看起来很难的开始学有利于培养学霸的自信。国内如果开Python, 那估计只有文科生去选了
-
- 
+**答案**:选什么都选看起来很难的开始学有利于培养学霸的自信。国内如果开Python, 那估计只有文科生去选了
 
  
 
-[问题]: 为什么在飞机上觉得飞的很慢？
-[答案]: 这样的。如果你醒着，无所事事，飞机很平稳，自然过得慢；
+ 
+<br>**问题**: 为什么在飞机上觉得飞的很慢？
+**答案**: 这样的。如果你醒着，无所事事，飞机很平稳，自然过得慢；
 
 如果你睡着了，过得快 
 
@@ -11905,9 +11402,8 @@ hiding 和 overload . 这些东西不比啥都没有的C 要复杂？
  
 
  
-
-[问题]: 为什么多米诺骨牌可以会持续被推倒？
-[答案]: 宽泛的说，因为phase-
+<br>**问题**: 为什么多米诺骨牌可以会持续被推倒？
+**答案**: 宽泛的说，因为phase-
 
 matching。每一次振动传递到某一点处时，都能把该点处的积累的势能（谁摆的牌？）释放出来。能量不断的叠加，最后形成很大的动能。不过传递过程中相当一部分动能通过非弹性碰撞和摩擦耗散掉了。因此最后其实多米诺骨牌的实质就是，一个波critically
 
@@ -11918,76 +11414,70 @@ damp的时候（刚好碰到下一个牌时的时候动能为0；如果牌之间
  
 
  
-
-[问题]: 为什么大学时大家都喜欢去图书馆学习而不在寝室？
-[答案]: 图书馆有好基友
-
- 
-
- 
-
-[问题]: 为什么大家要黑浙江大学？
-
-[答案]:听到浙大说自己和西溪创业园的关系就好比Stanford 和 Silicon Valley 时，我就觉得这所学校的领导层骨骼精奇，非常优秀。
+<br>**问题**: 为什么大学时大家都喜欢去图书馆学习而不在寝室？
+**答案**: 图书馆有好基友
 
  
 
  
+<br>**问题**: 为什么大家要黑浙江大学？
 
-[问题]: 为什么大气中的臭氧吸收太阳短波辐射，而水汽和二氧化碳吸收地面长波辐射？
-[答案]: 这要看组成物质的分子的能级结构。
+**答案**:听到浙大说自己和西溪创业园的关系就好比Stanford 和 Silicon Valley 时，我就觉得这所学校的领导层骨骼精奇，非常优秀。
+
+ 
+
+ 
+<br>**问题**: 为什么大气中的臭氧吸收太阳短波辐射，而水汽和二氧化碳吸收地面长波辐射？
+**答案**: 这要看组成物质的分子的能级结构。
 
 譬如说（简单）分子可以震动，可以转动，（简单）分子中原子的电子也可以跃迁。复杂分子，例如dna等还有更为复杂的扭曲折叠电流等。为了简单起见，以简单分子为例： 
 
 简单分子的振动，转动是量子化的。因此它的振动不是任意的，而是只能选择离散的一系列状态，就好比量子的谐振模型。这些离散的状态分别具有离散的能量，例如： 
 
-![\\omega\\hbar\(n+1/2\)](https://www.zhihu.com/equation?tex=%5Comega%5Chbar%28n%2B1%2F2%29) 
+!**\\omega\\hbar\(n+1/2\)**(https://www.zhihu.com/equation?tex=%5Comega%5Chbar%28n%2B1%2F2%29) 
 
 其中n代表离散状态的序数。 
 
-其中 ![\\hbar ](https://www.zhihu.com/equation?tex=%5Chbar+) 
+其中 !**\\hbar **(https://www.zhihu.com/equation?tex=%5Chbar+) 
 
-是普朗克常数， ![\\omega](https://www.zhihu.com/equation?tex=%5Comega) 
+是普朗克常数， !**\\omega**(https://www.zhihu.com/equation?tex=%5Comega) 
 
 是分子振动的本征频率，由分子中原子的质量，极性，电荷数等有关。 
 
-显然，由于 ![\\omega](https://www.zhihu.com/equation?tex=%5Comega) 
+显然，由于 !**\\omega**(https://www.zhihu.com/equation?tex=%5Comega) 
 
 不一样，不同分子从一个振动到另一个振动状态时，吸收的能量是不一样的。在我们这个世界现在的模型中，光子只能一份一份被吸收，如果分子能吸收这个波长的光子，那么它必须具备两个状态使得这两个状态的能量差恰好就是一份此光子的能量。（不考虑非线性过程） 
 
-所以，不同的分子自然会吸收不同波长的光子。而且我们可以肯定不是只有一种特定波长，而是有很多（不同的 ![\\delta
+所以，不同的分子自然会吸收不同波长的光子。而且我们可以肯定不是只有一种特定波长，而是有很多（不同的 !**\\delta
 
-n](https://www.zhihu.com/equation?tex=%5Cdelta+n) 
+n**(https://www.zhihu.com/equation?tex=%5Cdelta+n) 
 
 )波长。这些吸收波长就组成分子的吸收谱。 
 
 上面的例子是振动；转动的能量也可以算，是
 
-![j\(j+1\)\\hbar^2/m](https://www.zhihu.com/equation?tex=j%28j%2B1%29%5Chbar%5E2%2Fm) 
+!**j\(j+1\)\\hbar^2/m**(https://www.zhihu.com/equation?tex=j%28j%2B1%29%5Chbar%5E2%2Fm) 
 
 .
 
  
 
  
+<br>**问题**:为什么大自然进化不出 iPhone 却进化出了比 iPhone 复杂的多的人类？
 
-[问题]:为什么大自然进化不出 iPhone 却进化出了比 iPhone 复杂的多的人类？
-
-[答案]:当然进化不出来。直接被android 吃掉灭绝了啊。
-
- 
-
- 
-
-[问题]: 为什么大部分的汽车评测都要边开车边评测？
-[答案]: 品尝美食也是边吃边评测。
+**答案**:当然进化不出来。直接被android 吃掉灭绝了啊。
 
  
 
  
+<br>**问题**: 为什么大部分的汽车评测都要边开车边评测？
+**答案**: 品尝美食也是边吃边评测。
 
-[问题]: 为什么奇葩说第三季决赛时高晓松要郭德纲结辩而自己不结辩？
-[答案]: 他知道郭德纲的水平。我只能说黑的好。
+ 
+
+ 
+<br>**问题**: 为什么奇葩说第三季决赛时高晓松要郭德纲结辩而自己不结辩？
+**答案**: 他知道郭德纲的水平。我只能说黑的好。
 
 郭德纲全场更本就没听，被CUE之后吓了一跳，破口大骂；一开始扯费用，脑海里紧张的想该说些什么。陈铭的名字都不记得。人家名字写在胸口呢亲？ 
 
@@ -11998,27 +11488,24 @@ n](https://www.zhihu.com/equation?tex=%5Cdelta+n)
  
 
  
-
-[问题]: 为什么好多人被重置了？
-[答案]: 参数调错了吧。。
+<br>**问题**: 为什么好多人被重置了？
+**答案**: 参数调错了吧。。
 
 注意备份。。
 
  
 
  
-
-[问题]: 为什么如图的永动机不存在呢？
-[答案]: 我爱白如冰：
+<br>**问题**: 为什么如图的永动机不存在呢？
+**答案**: 我爱白如冰：
 
 这题解答是错误的把静电场能（1/2E^2）和外界带电粒子分开。带电粒子之所以可以被加速，从一个观点来看，可以说是电子的电荷受到电场力的影响。其实从场的观念看，无非是电荷自己电场和电容器电场相互作用导致的。这样的结果是，静电场能转化成动能（或者电磁辐射）。就算这个电荷最终不中止在极板上，他也一定会以这样一种方式运动（或者静止）：初始状态的动能+电场能之和，等于终止状态动能和电场能之和。实际上如果电荷不终止在极板上，或者极板不和原电容器连通，你会得到电荷集中在极板上抵消原来的电场（注意，不是白冰冰的电荷抵消），和在y方向上往复周期运动最后速度减少，y方向有些许速度的结果（但总的动能缺减少了）
 
  
 
  
-
-[问题]: 为什么妈妈总是还没做好饭就说做好了？
-[答案]: 开车去接人的时候我也总是在还没到的时候就说我就快到了。
+<br>**问题**: 为什么妈妈总是还没做好饭就说做好了？
+**答案**: 开车去接人的时候我也总是在还没到的时候就说我就快到了。
 
  
 
@@ -12027,24 +11514,21 @@ n](https://www.zhihu.com/equation?tex=%5Cdelta+n)
  
 
  
-
-[问题]: 为什么宋吉广翻译的python核心编程那么多错，还有那么多人推荐，那么多人买？
-[答案]: 不懂英文也编程。醉了
-
- 
-
- 
-
-[问题]: 为什么宜家不同款的家具差价会这么大？
-[答案]: 有的是真木头，有的是假木头，有的是塑料。
+<br>**问题**: 为什么宋吉广翻译的python核心编程那么多错，还有那么多人推荐，那么多人买？
+**答案**: 不懂英文也编程。醉了
 
  
 
  
+<br>**问题**: 为什么宜家不同款的家具差价会这么大？
+**答案**: 有的是真木头，有的是假木头，有的是塑料。
 
-[问题]:为什么将文件传输到苹果设备上必须要通过 iTunes？
+ 
 
-[答案]: 苹果认为，你打针要去医院，而不是自己随便从地板上捡一个针头就打。这样容易的艾滋病。
+ 
+<br>**问题**:为什么将文件传输到苹果设备上必须要通过 iTunes？
+
+**答案**: 苹果认为，你打针要去医院，而不是自己随便从地板上捡一个针头就打。这样容易的艾滋病。
 
  
 
@@ -12055,42 +11539,37 @@ Usb 传文件传病毒，被感染的主机读取敏感信息，拷贝图片，�
  
 
  
-
-[问题]: 为什么底面积大的船比底面积小的船浮力大？
-[答案]: 他说的是相同吃水深度下，船受到的浮力越大吧。
+<br>**问题**: 为什么底面积大的船比底面积小的船浮力大？
+**答案**: 他说的是相同吃水深度下，船受到的浮力越大吧。
 
 与其增加吃水深度，不如增加底面积。这个要问航行动力学的专家了。
 
  
 
  
-
-[问题]: 为什么开暖气的时候暖气管道会发出响声？？
-[答案]: 漏水
-
- 
-
- 
-
-[问题]: 为什么很多专业都吐槽要条条道路通CS？
-[答案]: 计算机专业毫无前途。来了就是卖身为奴，自取灭亡
+<br>**问题**: 为什么开暖气的时候暖气管道会发出响声？？
+**答案**: 漏水
 
  
 
  
+<br>**问题**: 为什么很多专业都吐槽要条条道路通CS？
+**答案**: 计算机专业毫无前途。来了就是卖身为奴，自取灭亡
 
-[问题]: 为什么很多人喜欢拿保研的生源来对一所大学评头论足？
-[答案]: 当然合理。你可以问问清华北大各个专业年级前三的人都去哪里念研究生。绝不可能是UIUC，USC，甚至CMU之流。绝壁MIT。
+ 
+
+ 
+<br>**问题**: 为什么很多人喜欢拿保研的生源来对一所大学评头论足？
+**答案**: 当然合理。你可以问问清华北大各个专业年级前三的人都去哪里念研究生。绝不可能是UIUC，USC，甚至CMU之流。绝壁MIT。
 
 然后你们再去看看你们最喜欢的US news排名
 
  
 
  
+<br>**问题**:为什么很多人对微软 HoloLens 的真机效果那么有信心？
 
-[问题]:为什么很多人对微软 HoloLens 的真机效果那么有信心？
-
-[答案]: 天塌啦，地陷啦，小黄狗，不见啦！！
+**答案**: 天塌啦，地陷啦，小黄狗，不见啦！！
 
  
 
@@ -12109,23 +11588,20 @@ Usb 传文件传病毒，被感染的主机读取敏感信息，拷贝图片，�
  
 
  
-
-[问题]: 为什么很多人觉得学物理的人很酷？
-[答案]: 当然酷啦。因为最后找不到工作啊～
-
- 
-
- 
-
-[问题]: 为什么很多人都说景甜出演的必是烂片？
-[答案]: 原来你不仅仅是学霸，还有私生活。
+<br>**问题**: 为什么很多人觉得学物理的人很酷？
+**答案**: 当然酷啦。因为最后找不到工作啊～
 
  
 
  
+<br>**问题**: 为什么很多人都说景甜出演的必是烂片？
+**答案**: 原来你不仅仅是学霸，还有私生活。
 
-[问题]: 为什么很多优秀的人，虽然优秀却并不快乐？
-[答案]: 这些人显然不够优秀。
+ 
+
+ 
+<br>**问题**: 为什么很多优秀的人，虽然优秀却并不快乐？
+**答案**: 这些人显然不够优秀。
 
 别以为你这样说我就不知道你是在黑 
 
@@ -12136,17 +11612,15 @@ Usb 传文件传病毒，被感染的主机读取敏感信息，拷贝图片，�
  
 
  
-
-[问题]: 为什么很多名校生喜欢黑自己母校
-[答案]: 我觉得这些学校并不是名校。只是在第三世界国家，上的人多了，也成了名校。
-
- 
+<br>**问题**: 为什么很多名校生喜欢黑自己母校
+**答案**: 我觉得这些学校并不是名校。只是在第三世界国家，上的人多了，也成了名校。
 
  
 
-[问题]:为什么很多时候感觉国产软件不爱用 Program Files 目录？
+ 
+<br>**问题**:为什么很多时候感觉国产软件不爱用 Program Files 目录？
 
-[答案]:Mac 根本就没有这样的目录。。。 
+**答案**:Mac 根本就没有这样的目录。。。 
 
 高下立判 
 
@@ -12186,7 +11660,7 @@ WOW是 哇塞
 
  
 
-![](https://pic1.zhimg.com/e55a015109c141490831e8a4e32a77f8_b.png) 
+!****(https://pic1.zhimg.com/e55a015109c141490831e8a4e32a77f8_b.png) 
 
 人家匿名，我就不截取名字了。 
 
@@ -12201,9 +11675,8 @@ WOW是 哇塞
  
 
  
-
-[问题]: 为什么很多老师向学生灌输「人和人之间智力水平没有差别」的观念？会对学生产生什么影响？
-[答案]: 人与人的差别是相当大的。有人从小就对抽象思维感兴趣，那么他大学就会把数学／物理学得特别好。你知道吗，一个花很大力气才能学好物理，和一个人稍微了解一下思想就可以学好物理的人，他们未来的出路，差距，成就，地位，是完全不一样的。
+<br>**问题**: 为什么很多老师向学生灌输「人和人之间智力水平没有差别」的观念？会对学生产生什么影响？
+**答案**: 人与人的差别是相当大的。有人从小就对抽象思维感兴趣，那么他大学就会把数学／物理学得特别好。你知道吗，一个花很大力气才能学好物理，和一个人稍微了解一下思想就可以学好物理的人，他们未来的出路，差距，成就，地位，是完全不一样的。
 
 前者会是一个转行做码农的人，后者一定是一个科学家，教授，甚至诺贝尔奖得主。 
 
@@ -12234,38 +11707,34 @@ WOW是 哇塞
  
 
  
+<br>**问题**:为什么微软不给 Surface Pro 3 提供全球联保？
 
-[问题]:为什么微软不给 Surface Pro 3 提供全球联保？
-
-[答案]: 轮子哥，可可苏玛和一大波微软高级工程师正在赶来救场的途中。。。
+**答案**: 轮子哥，可可苏玛和一大波微软高级工程师正在赶来救场的途中。。。
 
 所以说，一款产品，并不是配置最重要=
 
  
 
  
-
-[问题]: 为什么微软不让IE支持第三方插件或扩展程序？
-[答案]: 其实你应该问的问题是为什么不把activeX开源化，或者跨平台。你知道因为他的存在因为大陆企业这么喜欢activeX导致现在很多移动浏览器，modern
+<br>**问题**: 为什么微软不让IE支持第三方插件或扩展程序？
+**答案**: 其实你应该问的问题是为什么不把activeX开源化，或者跨平台。你知道因为他的存在因为大陆企业这么喜欢activeX导致现在很多移动浏览器，modern
 
 浏览器很多不便吗？这是一个无法面向未来的技术。
 
  
 
  
+<br>**问题**:为什么微软会跳过 Windows 9 直接发布 Windows 10？
 
-[问题]:为什么微软会跳过 Windows 9 直接发布 Windows 10？
+**答案**: 来源：互联网
 
-[答案]: 来源：互联网
-
-![](https://pic3.zhimg.com/566ff655b1300aceaad36f21cacb4f2e_b.jpg)
-
- 
+!****(https://pic3.zhimg.com/566ff655b1300aceaad36f21cacb4f2e_b.jpg)
 
  
 
-[问题]: 为什么微软已经做出来的很多功能，当苹果再拿出来的时候大家还会惊奇？
-[答案]: 微软推出新功能的时候：1%的微软产品使用者大呼惊奇；
+ 
+<br>**问题**: 为什么微软已经做出来的很多功能，当苹果再拿出来的时候大家还会惊奇？
+**答案**: 微软推出新功能的时候：1%的微软产品使用者大呼惊奇；
 
 苹果推出新功能的时候：90%的媒体奔走相告，第一手测评，大呼惊奇； 
 
@@ -12290,10 +11759,9 @@ touch牛逼的吓得华为都出，哦不，下柜了。此外iphone的摄像机
  
 
  
+<br>**问题**:为什么微软要在 Windows 10 中使用全新的 Edge 浏览器？Edge 和 IE 有何不同？
 
-[问题]:为什么微软要在 Windows 10 中使用全新的 Edge 浏览器？Edge 和 IE 有何不同？
-
-[答案]:这下没人说iOS 8丑了吧 
+**答案**:这下没人说iOS 8丑了吧 
 
  
 
@@ -12302,17 +11770,15 @@ touch牛逼的吓得华为都出，哦不，下柜了。此外iphone的摄像机
  
 
  
-
-[问题]: 为什么快子可以超光速？
-[答案]: 这个问题没有学过场论的人建议不要轻易回答。可以引用wiki的外链
-
- 
+<br>**问题**: 为什么快子可以超光速？
+**答案**: 这个问题没有学过场论的人建议不要轻易回答。可以引用wiki的外链
 
  
 
-[问题]:为什么总是无法通过举例来说明Mac OS X 比 Windows优秀，或者反过来？
+ 
+<br>**问题**:为什么总是无法通过举例来说明Mac OS X 比 Windows优秀，或者反过来？
 
-[答案]: 我个人认为这类问题无解，而且举例不论多少都仅仅是在反应举例者自己的偏见。这种例子都毫无参考价值。
+**答案**: 我个人认为这类问题无解，而且举例不论多少都仅仅是在反应举例者自己的偏见。这种例子都毫无参考价值。
 
 上面这几个论证prius先进的例证我相信不论是windows脑残粉还是mac脑残粉，都认同都是非常片面的。但回到os的问题上，很多人就大脑发黑停止工作了。不幸的是，因为大多数人都对windows抱有感情，相当多书稍有水平的windows技术人员都采用了同样的错误的论证逻辑。往往就通过支离破碎，片面的例证来得到完全无关的错误的结论。销量当然和价格有关，可靠和技术先进并无直接关系，越老的技术越可靠。适用范围，适用人群等也和技术无关。因此，是否我们总是无法通过举例开说明这类问题的答案呢？ 
 
@@ -12323,38 +11789,33 @@ touch牛逼的吓得华为都出，哦不，下柜了。此外iphone的摄像机
  
 
  
-
-[问题]: 为什么总有人说女生学不好物理？
-[答案]: 就算你是男生也是一样。。
-
- 
-
- 
-
-[问题]: 为什么我们从小被教育要好好学习
-[答案]: 蠢人有蠢人的活法，例如，好好学习
+<br>**问题**: 为什么总有人说女生学不好物理？
+**答案**: 就算你是男生也是一样。。
 
  
 
  
-
-[问题]: 为什么我们公司的程序员那么拽？
-[答案]: 轮子哥，你太寂寞了。。看来陈萌萌果然是你自己
-
- 
-
- 
-
-[问题]: 为什么我们看到的时空局部看起来足够光滑呢？
-[答案]: 我们太小了
+<br>**问题**: 为什么我们从小被教育要好好学习
+**答案**: 蠢人有蠢人的活法，例如，好好学习
 
  
 
  
+<br>**问题**: 为什么我们公司的程序员那么拽？
+**答案**: 轮子哥，你太寂寞了。。看来陈萌萌果然是你自己
 
-[问题]:为什么我们说 fu 吹出的是凉气，说 ha 吹出的是热气？
+ 
 
-[答案]: 补充1：呼吸道排出的气体的湿润来自于湿润的上呼吸道。口腔的包围（fu）会阻挡湿润气体的流动，吸附气体中的水分。而张开口腔（ha）则不会。这一点可以对着玻璃片吹气看起雾效果。
+ 
+<br>**问题**: 为什么我们看到的时空局部看起来足够光滑呢？
+**答案**: 我们太小了
+
+ 
+
+ 
+<br>**问题**:为什么我们说 fu 吹出的是凉气，说 ha 吹出的是热气？
+
+**答案**: 补充1：呼吸道排出的气体的湿润来自于湿润的上呼吸道。口腔的包围（fu）会阻挡湿润气体的流动，吸附气体中的水分。而张开口腔（ha）则不会。这一点可以对着玻璃片吹气看起雾效果。
 
 补充2：对着玻璃片吹气的效果就能告诉你，湿度是主要原因（起雾是放热过程），而和气体速度无关（玻璃片表面没有水让你蒸发）。此外，你用左手扇风对右手，也能证明这一点：即便很小的速度，也能让你感觉清凉。所谓吹气速度的影响其实不在我们讨论的主要原因之内。 
 
@@ -12383,19 +11844,17 @@ touch牛逼的吓得华为都出，哦不，下柜了。此外iphone的摄像机
  
 
  
-
-[问题]: 为什么我头顶上方从大气层顶端到我头顶这个区域的空气没有把我压死？
-[答案]: 气压并不小。如果你把一个玻璃瓶抽真空他是会爆炸的。
+<br>**问题**: 为什么我头顶上方从大气层顶端到我头顶这个区域的空气没有把我压死？
+**答案**: 气压并不小。如果你把一个玻璃瓶抽真空他是会爆炸的。
 
 你没感觉到只是因为你适应了而已。
 
  
 
  
+<br>**问题**:为什么我感觉很多人对于新版的 Windows 系统都很反感？
 
-[问题]:为什么我感觉很多人对于新版的 Windows 系统都很反感？
-
-[答案]: 因为当年的脑残粉都已经长大了；除了还在微软工作的那批。
+**答案**: 因为当年的脑残粉都已经长大了；除了还在微软工作的那批。
 
  
 
@@ -12422,66 +11881,58 @@ windows的主要特性就是玩游戏；那么除非windows
  
 
  
-
-[问题]: 为什么我成不了大V？
-[答案]: 因为你的圈子\气质\形象都太屌丝
+<br>**问题**: 为什么我成不了大V？
+**答案**: 因为你的圈子\气质\形象都太屌丝
 
 等你去了STANFORD可以来圈粉
 
  
 
  
+<br>**问题**:为什么我把家里面台式机装了windows 8以后屏幕还是不能触屏？
 
-[问题]:为什么我把家里面台式机装了windows 8以后屏幕还是不能触屏？
-
-[答案]: 为什么我穿了胸罩还不是女的
-
- 
+**答案**: 为什么我穿了胸罩还不是女的
 
  
 
-[问题]: 为什么我理解不了光的全反射？
-[答案]: 赶个晚集。
+ 
+<br>**问题**: 为什么我理解不了光的全反射？
+**答案**: 赶个晚集。
 
 S的方向平行于界面，因此不存在能量不守恒的问题。
 
  
 
  
+<br>**问题**: 为什么我的外带硬盘只能读取？如何更改权限？
 
-[问题]: 为什么我的外带硬盘只能读取？如何更改权限？
-
-[答案]:NTFS 不支持写入。如果要写入请下载软件
-
- 
-
- 
-
-[问题]: 为什么我的阿里运营专员笔试未通过？
-[答案]: 您是哪个学校毕业的？阿里不是淘宝，谁都可以去啊
+**答案**:NTFS 不支持写入。如果要写入请下载软件
 
  
 
  
+<br>**问题**: 为什么我的阿里运营专员笔试未通过？
+**答案**: 您是哪个学校毕业的？阿里不是淘宝，谁都可以去啊
 
-[问题]: 为什么所有问题到了知乎上都要牵扯出大道理？
-[答案]: 你这个问题不正是。。。
+ 
+
+ 
+<br>**问题**: 为什么所有问题到了知乎上都要牵扯出大道理？
+**答案**: 你这个问题不正是。。。
 
  
 
  
-
-[问题]: 为什么所谓的「1%」（WP用户）存在感这么强？
-[答案]: 人数越少存在感越强。这不是很正常的规律么？
+<br>**问题**: 为什么所谓的「1%」（WP用户）存在感这么强？
+**答案**: 人数越少存在感越强。这不是很正常的规律么？
 
 物以稀为贵。
 
  
 
  
-
-[问题]: 为什么搞物理竞赛出身的万门大学校长童哲，后来回国创业？
-[答案]: 我也是省一。我也很差啊。
+<br>**问题**: 为什么搞物理竞赛出身的万门大学校长童哲，后来回国创业？
+**答案**: 我也是省一。我也很差啊。
 
 我还认识世界金牌呢。现在也有做码农的。 
 
@@ -12494,10 +11945,9 @@ S的方向平行于界面，因此不存在能量不守恒的问题。
  
 
  
+<br>**问题**: 为什么新加坡国立大学、南洋理工大学今年在QS的排名可以排到12名13名，超越耶鲁等学校？
 
-[问题]: 为什么新加坡国立大学、南洋理工大学今年在QS的排名可以排到12名13名，超越耶鲁等学校？
-
-[答案]:你不知道清华大学已经超过uc berkeley了吗？ 
+**答案**:你不知道清华大学已经超过uc berkeley了吗？ 
 
 相比之下，这种小事算什么。根据上升速度来extrapolation，我预计，不出3年，清华就世界前十了。当然，这个前十里面还会有很多我们听都没听过的英国学校。。 
 
@@ -12508,16 +11958,14 @@ is the normalization）
  
 
  
-
-[问题]: 为什么时间随着速度加快而减慢，而不是随着温度降低而减慢？
-[答案]: 如果时间暂停了，你怎么知道到底是停止运动了，还是你按了暂停？
-
- 
+<br>**问题**: 为什么时间随着速度加快而减慢，而不是随着温度降低而减慢？
+**答案**: 如果时间暂停了，你怎么知道到底是停止运动了，还是你按了暂停？
 
  
 
-[问题]: 为什么明知道你的命运该靠学习改变，但却还是拿不起那本书？
-[答案]: 改变命运的从来不是学习。
+ 
+<br>**问题**: 为什么明知道你的命运该靠学习改变，但却还是拿不起那本书？
+**答案**: 改变命运的从来不是学习。
 
 毫无才华的人需要成绩和文凭证明自己。 
 
@@ -12528,20 +11976,18 @@ is the normalization）
  
 
  
+<br>**问题**:为什么春节英文名又叫Lunar New Year而非Lunisolar New Year
 
-[问题]:为什么春节英文名又叫Lunar New Year而非Lunisolar New Year
-
-[答案]:历史原因吧。实际上纯粹的lunar calendar 是不可能告诉你现在是年初还是年末的。春夏秋冬一定是要和solar calendar
+**答案**:历史原因吧。实际上纯粹的lunar calendar 是不可能告诉你现在是年初还是年末的。春夏秋冬一定是要和solar calendar
 
 结合起来。我不知道如何看月相可以确定月份。请指教
 
  
 
  
+<br>**问题**: 为什么曾博不像当年他赞同的回答一样。攒积了太多的负面情绪就写下来向前走？
 
-[问题]: 为什么曾博不像当年他赞同的回答一样。攒积了太多的负面情绪就写下来向前走？
-
-[答案]:毕竟他是yuandong tian . 
+**答案**:毕竟他是yuandong tian . 
 
 所以说，人是否成功决定于对负面情绪的操纵吗？ 
 
@@ -12554,16 +12000,14 @@ is the normalization）
  
 
  
-
-[问题]: 为什么曾博先生经常被称为“曾老师，是因为他曾经从事过教育类职业，热衷于好为人师，又还是有其他缘由嘛？
-[答案]: 因为我单身而且没有去uber
-
- 
+<br>**问题**: 为什么曾博先生经常被称为“曾老师，是因为他曾经从事过教育类职业，热衷于好为人师，又还是有其他缘由嘛？
+**答案**: 因为我单身而且没有去uber
 
  
 
-[问题]: 为什么曾老师从不分享自己的成功经历？
-[答案]: 真幼稚
+ 
+<br>**问题**: 为什么曾老师从不分享自己的成功经历？
+**答案**: 真幼稚
 
 等到我被开除了，自然会回来宣传如何走出大山考上全国第一的大学去到全美最好的公立学校从世界排名第一的专业毕业到了硅谷最牛逼的互联网企业做最前沿的人工智能的研究的。 
 
@@ -12580,10 +12024,9 @@ is the normalization）
  
 
  
+<br>**问题**:为什么曾老师没有和andrew shen一样，一直坚持回答物理问题直到最后？
 
-[问题]:为什么曾老师没有和andrew shen一样，一直坚持回答物理问题直到最后？
-
-[答案]:Andrew Shen 比我还早退出知乎。。。 
+**答案**:Andrew Shen 比我还早退出知乎。。。 
 
  
 
@@ -12592,17 +12035,15 @@ is the normalization）
  
 
  
-
-[问题]: 为什么曾老师的提问让人有一种莫名的烦躁感？
-[答案]: 因为很多人以为愚蠢的活下去是一种幸福。
-
- 
+<br>**问题**: 为什么曾老师的提问让人有一种莫名的烦躁感？
+**答案**: 因为很多人以为愚蠢的活下去是一种幸福。
 
  
 
-[问题]:为什么有些人知道刮奖券的时候看到第一个谢字就停下来 ，但看到公车已经关门了还要追？
+ 
+<br>**问题**:为什么有些人知道刮奖券的时候看到第一个谢字就停下来 ，但看到公车已经关门了还要追？
 
-[答案]: 刮奖券的成本太低。如果你花100W刮一次，那你一定会就算看“谢”也会反反复复把纸刮烂的，并且意淫出“谢谢你中奖了”这件事。
+**答案**: 刮奖券的成本太低。如果你花100W刮一次，那你一定会就算看“谢”也会反反复复把纸刮烂的，并且意淫出“谢谢你中奖了”这件事。
 
 赶公交车这件事，要是每一班间隔1分钟，你也不会去赶了。 
 
@@ -12615,9 +12056,8 @@ is the normalization）
  
 
  
-
-[问题]: 为什么有些公司的招聘信息写在公司官网上而不提交到各种招聘网站上？
-[答案]: 公司如果自己知名度足够高，it技术足够强，就不需要linkedin这样的第三方外包。因为大部分求职者会直接去例如apple这样的公司寻求职位，填写消息和简历，信息会直接上传到公司内部的数据库进行筛选，然后给面试信息。一气呵成不需要第三方插足。也能更好的保护隐私。。
+<br>**问题**: 为什么有些公司的招聘信息写在公司官网上而不提交到各种招聘网站上？
+**答案**: 公司如果自己知名度足够高，it技术足够强，就不需要linkedin这样的第三方外包。因为大部分求职者会直接去例如apple这样的公司寻求职位，填写消息和简历，信息会直接上传到公司内部的数据库进行筛选，然后给面试信息。一气呵成不需要第三方插足。也能更好的保护隐私。。
 
 其次大公司都会去学校进行校招。 
 
@@ -12626,9 +12066,8 @@ is the normalization）
  
 
  
-
-[问题]: 为什么有些安卓机配置比苹果高，但用起来仍然不如苹果？有些人喜欢用苹果，苹果到底好在哪呢？
-[答案]: 苹果好在他所有的硬件，软件设计工程师都是北美顶尖院校的本科生，研究生，博士生。采用的软件设计和硬件配置不能说最好，也是第一梯队的。其内部的设计虽然说不能去turning拿奖，但其智商比起国内这群总是想要去指点江山的精英们来说，也是不知道高到哪里去了。加上可以说世界最好的工业设计和制造技术，成就了一款看上去简单肤浅但内涵却极其复杂精致的现代电子设备。
+<br>**问题**: 为什么有些安卓机配置比苹果高，但用起来仍然不如苹果？有些人喜欢用苹果，苹果到底好在哪呢？
+**答案**: 苹果好在他所有的硬件，软件设计工程师都是北美顶尖院校的本科生，研究生，博士生。采用的软件设计和硬件配置不能说最好，也是第一梯队的。其内部的设计虽然说不能去turning拿奖，但其智商比起国内这群总是想要去指点江山的精英们来说，也是不知道高到哪里去了。加上可以说世界最好的工业设计和制造技术，成就了一款看上去简单肤浅但内涵却极其复杂精致的现代电子设备。
 
  
 
@@ -12655,10 +12094,9 @@ noise等等是一样的。一般人真听不懂。
  
 
  
+<br>**问题**: 为什么有人“觉得”谷歌远超微软？
 
-[问题]: 为什么有人“觉得”谷歌远超微软？
-
-[答案]:因为google 待遇太高，导致轮子哥的妹子也来了。这还不能说明问题？ 
+**答案**:因为google 待遇太高，导致轮子哥的妹子也来了。这还不能说明问题？ 
 
 我自觉学的还可以，但google 的门槛对我来说还是太高。这还不能说明问题？ 
 
@@ -12669,9 +12107,8 @@ noise等等是一样的。一般人真听不懂。
  
 
  
-
-[问题]: 为什么有人总拿名校毕业找不到工作说事？
-[答案]: 就是看能力，智商，练习，性格，专业。
+<br>**问题**: 为什么有人总拿名校毕业找不到工作说事？
+**答案**: 就是看能力，智商，练习，性格，专业。
 
 有拿图灵奖诺贝尔奖的 
 
@@ -12692,17 +12129,15 @@ noise等等是一样的。一般人真听不懂。
  
 
  
-
-[问题]: 为什么有人读了Ph.D.还黑一个本科生？
-[答案]: 因为这个本科生自称出身的时候紫微星下凡
-
- 
+<br>**问题**: 为什么有人读了Ph.D.还黑一个本科生？
+**答案**: 因为这个本科生自称出身的时候紫微星下凡
 
  
 
-[问题]: 为什么有很多人不用IDE还大喊方便？
+ 
+<br>**问题**: 为什么有很多人不用IDE还大喊方便？
 
-[答案]:我校Java 课 不需要用IDE。他是推荐了eclipse. 但我觉得他那种每次更新作业要求了（加了几个库啦）都要把配置环境变量的做法，真心不如bash
+**答案**:我校Java 课 不需要用IDE。他是推荐了eclipse. 但我觉得他那种每次更新作业要求了（加了几个库啦）都要把配置环境变量的做法，真心不如bash
 
 环境配置好用。走进文件夹Javac 之后，不管是什么package ,
 
@@ -12715,9 +12150,8 @@ IDE 可以javac *.java 吗？ 可以up arrow 选择最近的命令吗？。。�
  
 
  
-
-[问题]: 为什么有很多人选择在三十岁自杀？
-[答案]: 从什么时候开始失败，就从什么时候开始自杀
+<br>**问题**: 为什么有很多人选择在三十岁自杀？
+**答案**: 从什么时候开始失败，就从什么时候开始自杀
 
  
 
@@ -12726,16 +12160,14 @@ IDE 可以javac *.java 吗？ 可以up arrow 选择最近的命令吗？。。�
  
 
  
-
-[问题]: 为什么有时候会觉得眼前发生的事情曾经也发生过，而且事情的结果好像也一样？自然科学可以解释吗
-[答案]: 我觉得你这个问题似乎也曾经有人问过也
-
- 
+<br>**问题**: 为什么有时候会觉得眼前发生的事情曾经也发生过，而且事情的结果好像也一样？自然科学可以解释吗
+**答案**: 我觉得你这个问题似乎也曾经有人问过也
 
  
 
-[问题]: 为什么有的同学家境不是很好，还不用功读书？
-[答案]: 因为安于平庸。周围的人都平庸，自己也没有什么动力进步了。不要说他们，你、我，都是。而许多时候，人的潜力是需要被激发的。你有类似金星她姐姐那样的姐姐吗？你有类似丁肇中兄弟那样的兄弟吗？你有高晓松的爸妈吗？你有bill
+ 
+<br>**问题**: 为什么有的同学家境不是很好，还不用功读书？
+**答案**: 因为安于平庸。周围的人都平庸，自己也没有什么动力进步了。不要说他们，你、我，都是。而许多时候，人的潜力是需要被激发的。你有类似金星她姐姐那样的姐姐吗？你有类似丁肇中兄弟那样的兄弟吗？你有高晓松的爸妈吗？你有bill
 
 gates的亲戚吗？你有jobs家的车库吗？ 
 
@@ -12762,10 +12194,9 @@ gates的亲戚吗？你有jobs家的车库吗？
  
 
  
+<br>**问题**: 为什么有的电脑配了i7卖的比i5的还便宜很多？
 
-[问题]: 为什么有的电脑配了i7卖的比i5的还便宜很多？
-
-[答案]:英特尔 Core i 系列处理器现在为止已经出了6代了（Skylake
+**答案**:英特尔 Core i 系列处理器现在为止已经出了6代了（Skylake
 
 为最新代号）。1代之内，处理器之间的差别或许不大（往往是功耗，核心显卡的差异）；而2，3代之间的差别就会非常大。建议题主去搜寻一下具体的CPU参数。如果型号前面带着U，那就是低压本，性能接近the
 
@@ -12780,54 +12211,52 @@ CPU之间的差别会有多大呢？主频率当然是一个因素，更重要�
  
 
  
+<br>**问题**:为什么标普给了特斯拉汽车 B- 评级？
 
-[问题]:为什么标普给了特斯拉汽车 B- 评级？
-
-[答案]: 因为tesla现在的市值已经和gm差不多了，但是gm的日销售额超过了tesla一年的销售额。现在的股价显然是疯了。
-
- 
+**答案**: 因为tesla现在的市值已经和gm差不多了，但是gm的日销售额超过了tesla一年的销售额。现在的股价显然是疯了。
 
  
 
-[问题]: 为什么欧姆定律里电阻是一个定值？
+ 
+<br>**问题**: 为什么欧姆定律里电阻是一个定值？
 
-[答案]:![J=\\sigma E](https://www.zhihu.com/equation?tex=J%3D%5Csigma+E) 
+**答案**:!**J=\\sigma E**(https://www.zhihu.com/equation?tex=J%3D%5Csigma+E) 
 
 Integrate on both side: 
 
-![I=\\Omega^{-1}V](https://www.zhihu.com/equation?tex=I%3D%5COmega%5E%7B-1%7DV) 
+!**I=\\Omega^{-1}V**(https://www.zhihu.com/equation?tex=I%3D%5COmega%5E%7B-1%7DV) 
 
 where 
 
-![\\Omega^{-1}=\\sigma
+!**\\Omega^{-1}=\\sigma
 
-A/L](https://www.zhihu.com/equation?tex=%5COmega%5E%7B-1%7D%3D%5Csigma+A%2FL) 
+A/L**(https://www.zhihu.com/equation?tex=%5COmega%5E%7B-1%7D%3D%5Csigma+A%2FL) 
 
-![\\sigma](https://www.zhihu.com/equation?tex=%5Csigma) 
+!**\\sigma**(https://www.zhihu.com/equation?tex=%5Csigma) 
 
 is conductivity (measured or calculated using solid state electronics theory ) 
 
-![J](https://www.zhihu.com/equation?tex=J) 
+!**J**(https://www.zhihu.com/equation?tex=J) 
 
 is current density 
 
-![I](https://www.zhihu.com/equation?tex=I) 
+!**I**(https://www.zhihu.com/equation?tex=I) 
 
 is current 
 
-![E](https://www.zhihu.com/equation?tex=E) 
+!**E**(https://www.zhihu.com/equation?tex=E) 
 
 is electric field 
 
-![V](https://www.zhihu.com/equation?tex=V) 
+!**V**(https://www.zhihu.com/equation?tex=V) 
 
 is voltage 
 
-![L](https://www.zhihu.com/equation?tex=L) 
+!**L**(https://www.zhihu.com/equation?tex=L) 
 
 is length of the conductor 
 
-![A](https://www.zhihu.com/equation?tex=A) 
+!**A**(https://www.zhihu.com/equation?tex=A) 
 
 is its cross section area 
 
@@ -12842,9 +12271,8 @@ Area
  
 
  
-
-[问题]: 为什么欧美国家很多十几岁的少年已经可以独立开发软件或创建实业了
-[答案]: 虽然身在ds学校，我已经听说过不下5个自己创业被收购不到25岁就有百万身价的例子了。
+<br>**问题**: 为什么欧美国家很多十几岁的少年已经可以独立开发软件或创建实业了
+**答案**: 虽然身在ds学校，我已经听说过不下5个自己创业被收购不到25岁就有百万身价的例子了。
 
 Klout，可能没听过吧。被几百万美金收购了。 
 
@@ -12881,9 +12309,8 @@ Klout，可能没听过吧。被几百万美金收购了。
  
 
  
-
-[问题]: 为什么武汉大学会被认为是和浙江大学、上海交通大学、复旦大学等同一档次的学校？
-[答案]: 我觉得只有清华北大培养的属于人才，世界级的人才。这是事实。我认识的有徐老师，他的事迹我都不想讲。。。
+<br>**问题**: 为什么武汉大学会被认为是和浙江大学、上海交通大学、复旦大学等同一档次的学校？
+**答案**: 我觉得只有清华北大培养的属于人才，世界级的人才。这是事实。我认识的有徐老师，他的事迹我都不想讲。。。
 
 希望大牛不在乎我口无遮拦。 
 
@@ -12910,61 +12337,53 @@ Klout，可能没听过吧。被几百万美金收购了。
  
 
  
+<br>**问题**: 为什么每次我修改了OSX的有线或者WIFI的DNS之后每次启动后又恢复了默认设置？
 
-[问题]: 为什么每次我修改了OSX的有线或者WIFI的DNS之后每次启动后又恢复了默认设置？
-
-[答案]:一般来说dhcp 都会覆盖你给的dns吧。如果dhcp server 广播dns server的话。
-
- 
-
- 
-
-[问题]: 为什么民科总是反相对论
-[答案]: 因为爱因斯坦把他们的名声都抢光了。。
+**答案**:一般来说dhcp 都会覆盖你给的dns吧。如果dhcp server 广播dns server的话。
 
  
 
  
+<br>**问题**: 为什么民科总是反相对论
+**答案**: 因为爱因斯坦把他们的名声都抢光了。。
 
-[问题]: 为什么水流急的地方往往风也比较大？
-[答案]: 跑得快，热。要吹点风降温
+ 
+
+ 
+<br>**问题**: 为什么水流急的地方往往风也比较大？
+**答案**: 跑得快，热。要吹点风降温
 
  
 
  
-
-[问题]: 为什么江苏人放着那么多省外的985都不去上，非要去挤省内的南航、南理工等211学校？
-[答案]: 浙江省则恰恰相反，省内唯一一所985的分数线比省外211还低===
+<br>**问题**: 为什么江苏人放着那么多省外的985都不去上，非要去挤省内的南航、南理工等211学校？
+**答案**: 浙江省则恰恰相反，省内唯一一所985的分数线比省外211还低===
 
 我猜想还是江苏人竞争意识强烈吧，毕竟去国首都啊。
 
  
 
  
-
-[问题]: 为什么汽车广播在行驶速度较快时较清晰？
-[答案]: 个人经验，只有在经过隧道或者停车场等大型建筑下时，广播才会有杂音。汽车行驶后杂音消除，与其说是外部信号变好，倒不如是说你汽车电池在马达发动后能持续充电，给你的rf电路更好的dc电源驱动。减少了电源噪音，因此广播的杂音也就少了。
-
- 
-
- 
-
-[问题]: 为什么汽车这个行业在售卖过程中还是特别注重隐藏价格呢？
-[答案]: 因为汽车是大件，基本是买几个宰几个，宰几个活几个月。
+<br>**问题**: 为什么汽车广播在行驶速度较快时较清晰？
+**答案**: 个人经验，只有在经过隧道或者停车场等大型建筑下时，广播才会有杂音。汽车行驶后杂音消除，与其说是外部信号变好，倒不如是说你汽车电池在马达发动后能持续充电，给你的rf电路更好的dc电源驱动。减少了电源噪音，因此广播的杂音也就少了。
 
  
 
  
+<br>**问题**: 为什么汽车这个行业在售卖过程中还是特别注重隐藏价格呢？
+**答案**: 因为汽车是大件，基本是买几个宰几个，宰几个活几个月。
 
-[问题]: 为什么洗衣服的时候总是丢袜子，而且就只丢一只？
-[答案]: 洗衣服丢袜子。不洗衣服丢妹子
+ 
+
+ 
+<br>**问题**: 为什么洗衣服的时候总是丢袜子，而且就只丢一只？
+**答案**: 洗衣服丢袜子。不洗衣服丢妹子
 
  
 
  
-
-[问题]: 为什么清华北大不接受转学学生？
-[答案]: 其实就是教委的利益大于学生利益。。。说了这么多，这些回答者们你们辛苦了。
+<br>**问题**: 为什么清华北大不接受转学学生？
+**答案**: 其实就是教委的利益大于学生利益。。。说了这么多，这些回答者们你们辛苦了。
 
  
 
@@ -12973,9 +12392,8 @@ Klout，可能没听过吧。被几百万美金收购了。
  
 
  
-
-[问题]: 为什么清华有那么多优秀的程序员却连一个新版网络学堂都做不好？
-[答案]: 并非如此
+<br>**问题**: 为什么清华有那么多优秀的程序员却连一个新版网络学堂都做不好？
+**答案**: 并非如此
 
 清华大学有很多厉害的学生 
 
@@ -13016,25 +12434,22 @@ Klout，可能没听过吧。被几百万美金收购了。
  
 
  
+<br>**问题**: 为什么温兆伦里曾老师最喜欢黑轮子，而不是看起来更会装x的赵劼？
 
-[问题]: 为什么温兆伦里曾老师最喜欢黑轮子，而不是看起来更会装x的赵劼？
-
-[答案]:还有些人不敢黑啊。比如某世界华人最厉害，超过yuandong tian 和 yangqing jia 和一票cmu大神的计算机phd。
-
- 
-
- 
-
-[问题]: 为什么漂浮的两个或多个水泡在聚合前会突然加速？
-[答案]: 因为聚合前他们即将接触部分的气泡曲率发生变化，液体张力使得气泡加速运动。
+**答案**:还有些人不敢黑啊。比如某世界华人最厉害，超过yuandong tian 和 yangqing jia 和一票cmu大神的计算机phd。
 
  
 
  
+<br>**问题**: 为什么漂浮的两个或多个水泡在聚合前会突然加速？
+**答案**: 因为聚合前他们即将接触部分的气泡曲率发生变化，液体张力使得气泡加速运动。
 
-[问题]: 为什么爱因斯坦宣布世界的一切事物都是以光速在时空中运动？
+ 
 
-[答案]:因为maxwell 方程组并没有限定参考系的相对速度。这也就是说，不论你在哪里，看到的光速都满足此方程，也就是需要满足光速。 
+ 
+<br>**问题**: 为什么爱因斯坦宣布世界的一切事物都是以光速在时空中运动？
+
+**答案**:因为maxwell 方程组并没有限定参考系的相对速度。这也就是说，不论你在哪里，看到的光速都满足此方程，也就是需要满足光速。 
 
 后来有人研究了参考系变换下，maxwell
 
@@ -13043,16 +12458,14 @@ Klout，可能没听过吧。被几百万美金收购了。
  
 
  
-
-[问题]: 为什么物理上的改变（电子跃迁）都是层级的？是否与我们传统意识上的事物都是渐变的存在冲突？
-[答案]: 从哲学角度来说，人所能认识的都不是事实，人的感受都是幻觉。人所能理解的东西，只对人本身有意义。人和动物没有本质区别，无非就是多了一个“自我意识”来思考，甚至自己的“意识”。上帝所以笑了
-
- 
+<br>**问题**: 为什么物理上的改变（电子跃迁）都是层级的？是否与我们传统意识上的事物都是渐变的存在冲突？
+**答案**: 从哲学角度来说，人所能认识的都不是事实，人的感受都是幻觉。人所能理解的东西，只对人本身有意义。人和动物没有本质区别，无非就是多了一个“自我意识”来思考，甚至自己的“意识”。上帝所以笑了
 
  
 
-[问题]: 为什么物理学家往往比数学家更有人格魅力？
-[答案]: 因为数学是自慰
+ 
+<br>**问题**: 为什么物理学家往往比数学家更有人格魅力？
+**答案**: 因为数学是自慰
 
 物理学是做爱（费曼） 
 
@@ -13065,42 +12478,37 @@ Klout，可能没听过吧。被几百万美金收购了。
  
 
  
+<br>**问题**:为什么特斯拉的Model 3广受欢迎，而同样主打性价比的iPhone SE被骂的很惨？
 
-[问题]:为什么特斯拉的Model 3广受欢迎，而同样主打性价比的iPhone SE被骂的很惨？
-
-[答案]: 苹果并没有创新
+**答案**: 苹果并没有创新
 
 Tesla 都是创新
 
  
 
  
-
-[问题]: 为什么现在世界主流国家里没有无产阶级革命了？
-[答案]: 你的目光太短浅了。不需要无产阶级革命，只需要无产阶级自杀。立党说的对，技术财力的垄断导致人民无法和国家机器对抗。那么自杀还是可以的。每个无产阶级都自杀，这样你看资产阶级还去剥削谁去。全部集体自杀，让他们一夜回到奴隶社会。看他们满意不满意？
+<br>**问题**: 为什么现在世界主流国家里没有无产阶级革命了？
+**答案**: 你的目光太短浅了。不需要无产阶级革命，只需要无产阶级自杀。立党说的对，技术财力的垄断导致人民无法和国家机器对抗。那么自杀还是可以的。每个无产阶级都自杀，这样你看资产阶级还去剥削谁去。全部集体自杀，让他们一夜回到奴隶社会。看他们满意不满意？
 
 说到底，不能集体自杀，不敢用自杀做筹码倒逼资产阶级改革。这样的无产阶级觉悟不高，没有前途。
 
  
 
  
-
-[问题]: 为什么现在很多年轻人愿意到发达国家工作或移民，即使过得平淡，远离亲友，仍然义无反顾？
-[答案]: 如果不这样的话硅谷400万的房子又是如何卖出去的呢？
-
- 
-
- 
-
-[问题]: 为什么理论物理总是瞧不起应用物理？
-[答案]: 做实验的人从来不会听做理论的人胡说八道，他们连“什么可以做”，“做出来的结果是什么样子”，“如何理解这个结果”，这三个内容一个都不知道。指导个毛？什么叫做纸上谈兵？等实验物理学家设计好复杂精致的实验，把实验数据处理完，错误数据排除掉，挂掉的样品全部都丢掉，按照理论学家可以理解的单位和格式画出来，他们这时候就可以指导一下了。。“嗯，和我说的差不多嘛！”。要是给他们看原始数据，我估计做理论的要自杀。
+<br>**问题**: 为什么现在很多年轻人愿意到发达国家工作或移民，即使过得平淡，远离亲友，仍然义无反顾？
+**答案**: 如果不这样的话硅谷400万的房子又是如何卖出去的呢？
 
  
 
  
+<br>**问题**: 为什么理论物理总是瞧不起应用物理？
+**答案**: 做实验的人从来不会听做理论的人胡说八道，他们连“什么可以做”，“做出来的结果是什么样子”，“如何理解这个结果”，这三个内容一个都不知道。指导个毛？什么叫做纸上谈兵？等实验物理学家设计好复杂精致的实验，把实验数据处理完，错误数据排除掉，挂掉的样品全部都丢掉，按照理论学家可以理解的单位和格式画出来，他们这时候就可以指导一下了。。“嗯，和我说的差不多嘛！”。要是给他们看原始数据，我估计做理论的要自杀。
 
-[问题]: 为什么生物期刊的IF都特别高？
-[答案]: 研究同行多的领域if都很高，也要看这个话题热不热。
+ 
+
+ 
+<br>**问题**: 为什么生物期刊的IF都特别高？
+**答案**: 研究同行多的领域if都很高，也要看这个话题热不热。
 
  
 
@@ -13111,47 +12519,41 @@ Tesla 都是创新
  
 
  
+<br>**问题**:为什么用for语句循环计算1100 + 199 + ... + 13 + 12 + 1 比 1 + 12 + 13 + … + 1100 效率高？
 
-[问题]:为什么用for语句循环计算1100 + 199 + ... + 13 + 12 + 1 比 1 + 12 + 13 + … + 1100 效率高？
-
-[答案]: 不说语言就说效率？
-
- 
-
- 
-
-[问题]: 为什么用钢笔吸墨水时，多吸几次，就能吸得更多？
-[答案]: 因为你每次挤压的时候不能把空气完全排尽，因此必须多排／吸几次才能达到吸满墨水的效果。
+**答案**: 不说语言就说效率？
 
  
 
  
-
-[问题]: 为什么电磁波谱是连续的，没有中断？
-[答案]: 究其原因，是因为时间是连续的。
-
- 
-
- 
-
-[问题]: 为什么电脑已经发展了几十年，按照摩尔定律，性能已经翻了N翻，但是仅仅执行简单的办公仍然还是会卡顿？
-[答案]: ..问题是你为什么用神舟。如果配置高体验就好的话，其他品牌的电脑还怎么活。。
+<br>**问题**: 为什么用钢笔吸墨水时，多吸几次，就能吸得更多？
+**答案**: 因为你每次挤压的时候不能把空气完全排尽，因此必须多排／吸几次才能达到吸满墨水的效果。
 
  
 
  
+<br>**问题**: 为什么电磁波谱是连续的，没有中断？
+**答案**: 究其原因，是因为时间是连续的。
 
-[问题]: 为什么白如冰让人觉得什么都懂？
-[答案]: 首先，他叫白冰冰；
+ 
+
+ 
+<br>**问题**: 为什么电脑已经发展了几十年，按照摩尔定律，性能已经翻了N翻，但是仅仅执行简单的办公仍然还是会卡顿？
+**答案**: ..问题是你为什么用神舟。如果配置高体验就好的话，其他品牌的电脑还怎么活。。
+
+ 
+
+ 
+<br>**问题**: 为什么白如冰让人觉得什么都懂？
+**答案**: 首先，他叫白冰冰；
 
 其次， 和谐家庭铸英才 _ _ (CREDIT TO COMMENTER)
 
  
 
  
-
-[问题]: 为什么目前我们了解到的原子结构会像太阳系结构？
-[答案]: 我想作者提问的原因是行星轨道和电子轨道都具有一定的对称性，也就是所谓的中心力场下的旋转对称性吧（例如圆形或者椭圆轨道）。从根本上说，这是由引力和电磁力都是距离的（平方）反比关系决定的。因而系统的能量都保有旋转对称性。此外，电磁和引力都可以用波来描述，都存在一个质量为零的波色子作为力的传递媒介，变速运动都能释放波等等，不否认引力也可能被量子化的事实。
+<br>**问题**: 为什么目前我们了解到的原子结构会像太阳系结构？
+**答案**: 我想作者提问的原因是行星轨道和电子轨道都具有一定的对称性，也就是所谓的中心力场下的旋转对称性吧（例如圆形或者椭圆轨道）。从根本上说，这是由引力和电磁力都是距离的（平方）反比关系决定的。因而系统的能量都保有旋转对称性。此外，电磁和引力都可以用波来描述，都存在一个质量为零的波色子作为力的传递媒介，变速运动都能释放波等等，不否认引力也可能被量子化的事实。
 
 但另一方面，行星的轨道和电子轨道差别也是很大的。电子除了能级以外，还有角动量数，磁量子数等不同。例如电子的轨道可以是圆形的，也可以是纺锤形的，棉花糖形的，取决于电子的角动量数。电子和原子核的相互作用，除了静电力以外
 
@@ -13160,20 +12562,18 @@ Tesla 都是创新
  
 
  
+<br>**问题**:为什么相比于其他办公套件, Microsoft Office 卖得这么贵？
 
-[问题]:为什么相比于其他办公套件, Microsoft Office 卖得这么贵？
-
-[答案]:ibm现在和apple合作了。坐等以后企业用ios全部放弃office以及vs 开发程序没人用的那一天到来。 
+**答案**:ibm现在和apple合作了。坐等以后企业用ios全部放弃office以及vs 开发程序没人用的那一天到来。 
 
 我建议微软程序员们现在好好学习objc 否则未来如何吃饭？
 
  
 
  
+<br>**问题**:为什么看起来 Facebook 还在上升期，而国内的开心网、人人网却在逐步没落，被微博盖去了锋芒，国内“山寨”的生命力缘何如此脆弱？
 
-[问题]:为什么看起来 Facebook 还在上升期，而国内的开心网、人人网却在逐步没落，被微博盖去了锋芒，国内“山寨”的生命力缘何如此脆弱？
-
-[答案]:Zuckberg 今天决定捐出自己价值450亿的股票支持人类公平事业。 
+**答案**:Zuckberg 今天决定捐出自己价值450亿的股票支持人类公平事业。 
 
 。。 
 
@@ -13182,10 +12582,9 @@ Tesla 都是创新
  
 
  
+<br>**问题**:为什么知乎上 winter、赵劼、vczh三人常常被相提并论？
 
-[问题]:为什么知乎上 winter、赵劼、vczh三人常常被相提并论？
-
-[答案]: 微软是我见过最好的公司。微软产品的前瞻性，创造性，指导性迄今为止没有一家公司可以比较。
+**答案**: 微软是我见过最好的公司。微软产品的前瞻性，创造性，指导性迄今为止没有一家公司可以比较。
 
 微软公司的主打产品：windows和office是我用过的最好的软件工程产品。 
 
@@ -13200,10 +12599,9 @@ Tesla 都是创新
  
 
  
+<br>**问题**:为什么知乎上很少看到美国CS PhD找大学教职的？
 
-[问题]:为什么知乎上很少看到美国CS PhD找大学教职的？
-
-[答案]:知乎的存在主要是让失败人士寻找安全感和成功人士圈粉的。CS 教授和他们并不在一个次元。 
+**答案**:知乎的存在主要是让失败人士寻找安全感和成功人士圈粉的。CS 教授和他们并不在一个次元。 
 
  
 
@@ -13228,9 +12626,8 @@ Tesla 都是创新
  
 
  
-
-[问题]: 为什么知乎上有一些人对《罗辑思维》的评价很低？
-[答案]: 从他对专业知识的介绍（例如人工智能）我们很容易看出来他真的什么都不知道，但是比较善于找亮点，做联系，说结论。“诶，有意思的事就来了”，“你说他怎么这样呢”，“这就到了考验我们观众朋友们的时候了”，“你看，这就是为什么他这么有趣了”。这思维很适合在上海搞传销。
+<br>**问题**: 为什么知乎上有一些人对《罗辑思维》的评价很低？
+**答案**: 从他对专业知识的介绍（例如人工智能）我们很容易看出来他真的什么都不知道，但是比较善于找亮点，做联系，说结论。“诶，有意思的事就来了”，“你说他怎么这样呢”，“这就到了考验我们观众朋友们的时候了”，“你看，这就是为什么他这么有趣了”。这思维很适合在上海搞传销。
 
  
 
@@ -13255,10 +12652,9 @@ function。这玩意你不需要知道太深，只需要知道，我们打个比
  
 
  
+<br>**问题**:为什么知乎上有一部分人瞧不起Apple Inc？
 
-[问题]:为什么知乎上有一部分人瞧不起Apple Inc？
-
-[答案]: 我也瞧不起那些年薪百万的，比如什么兆伦。
+**答案**: 我也瞧不起那些年薪百万的，比如什么兆伦。
 
 我觉得他们没什么本事啊 
 
@@ -13299,9 +12695,8 @@ function。这玩意你不需要知道太深，只需要知道，我们打个比
  
 
  
-
-[问题]: 为什么知乎上这么多人捧微软？
-[答案]: 啦啦啦，啦啦啦，我是黑软的小行家～
+<br>**问题**: 为什么知乎上这么多人捧微软？
+**答案**: 啦啦啦，啦啦啦，我是黑软的小行家～
 
 不愁吃来不愁穿，每天就是黑微软～ 
 
@@ -13312,9 +12707,8 @@ function。这玩意你不需要知道太深，只需要知道，我们打个比
  
 
  
-
-[问题]: 为什么知乎无法创建“失败人士”这一话题？是因为不符合知乎的主流价值观吗？
-[答案]: 毕竟去外面联系各领域红人邀请他们来知乎开live，开班，给专有live封面和目录，专有打包下载才是知乎的正事。
+<br>**问题**: 为什么知乎无法创建“失败人士”这一话题？是因为不符合知乎的主流价值观吗？
+**答案**: 毕竟去外面联系各领域红人邀请他们来知乎开live，开班，给专有live封面和目录，专有打包下载才是知乎的正事。
 
 若大家都认识到自己失败，甚至认识到被他们销售部门拉来的主讲人也是失败的，那可怎么好？ 
 
@@ -13327,16 +12721,14 @@ function。这玩意你不需要知道太深，只需要知道，我们打个比
  
 
  
-
-[问题]: 为什么知乎的话题关系是一个有根DAG图而不是一颗树？
-[答案]: 其实一棵树也是有根DAG啊。有什么证据证明一个话题有多个父话题呢？既然说通过“父子关系”，那么一个儿子有多个父亲的话也是醉了
-
- 
+<br>**问题**: 为什么知乎的话题关系是一个有根DAG图而不是一颗树？
+**答案**: 其实一棵树也是有根DAG啊。有什么证据证明一个话题有多个父话题呢？既然说通过“父子关系”，那么一个儿子有多个父亲的话也是醉了
 
  
 
-[问题]: 为什么石墨烯处理器能够达到1THz
-[答案]: 你一辈子也不可能看到石墨烯处理器的。信不信由你。你还是好好学计算机赚钱吧，等到（假设）石墨烯开始卖了，你的财产估计都1个t了。。
+ 
+<br>**问题**: 为什么石墨烯处理器能够达到1THz
+**答案**: 你一辈子也不可能看到石墨烯处理器的。信不信由你。你还是好好学计算机赚钱吧，等到（假设）石墨烯开始卖了，你的财产估计都1个t了。。
 
 。 。。。。intel 因为上当受骗请了很多人去当graphene 的 staff scientist （我认识几个），后来都被辞退了。 
 
@@ -13351,18 +12743,16 @@ impurity等影响，特别是substrate的糟糕特性（不平整，），graphe
  
 
  
-
-[问题]: 为什么科技创业者喜欢在北京创建公司？
-[答案]: 因为除了北京有投资人以外，小地方没有投资人啊。。
+<br>**问题**: 为什么科技创业者喜欢在北京创建公司？
+**答案**: 因为除了北京有投资人以外，小地方没有投资人啊。。
 
 你去太原创业试试？
 
  
 
  
-
-[问题]: 为什么程序员现在这么受欢迎？
-[答案]: 你真是大大的错了
+<br>**问题**: 为什么程序员现在这么受欢迎？
+**答案**: 你真是大大的错了
 
 为什么程序员受欢迎？ 
 
@@ -13397,46 +12787,40 @@ impurity等影响，特别是substrate的糟糕特性（不平整，），graphe
  
 
  
-
-[问题]: 为什么程序员薪水这么高？很多工业比如石油能源等行业薪水都偏低？
-[答案]: 金融从业人员为什么更高？
-
- 
-
- 
-
-[问题]:为什么算法中会出现magic number
-
-[答案]:据说理论物理有大量参数都是Magic number .. 参见场论
+<br>**问题**: 为什么程序员薪水这么高？很多工业比如石油能源等行业薪水都偏低？
+**答案**: 金融从业人员为什么更高？
 
  
 
  
+<br>**问题**:为什么算法中会出现magic number
 
-[问题]: 为什么经过光心的光线传播方向不变？
-[答案]: 过光心的射线因为存在镜像对称，出光心之后必须也沿着原射线继续前进。
-
- 
-
- 
-
-[问题]: 为什么给电脑安装操作系统做不到一键就OK呢？
-[答案]: 可以。预装就是这么做的
+**答案**:据说理论物理有大量参数都是Magic number .. 参见场论
 
  
 
  
+<br>**问题**: 为什么经过光心的光线传播方向不变？
+**答案**: 过光心的射线因为存在镜像对称，出光心之后必须也沿着原射线继续前进。
 
-[问题]: 为什么美国名校的中国本科生普遍不愿意加入中国学生会(CSSA)？
-[答案]: CSSA主要是国内来的访问学者，博士后，成分复杂，流动频繁，共同语言少。本科甚至研究生本来就可以享受学校的各种信息服务，社团服务。更何况他们立志于加入美国，成为美国人，成天还和一群回国评职称，未来毫无交集，不写作业不上课的中老年中国大陆人混，你以为是去了中国科学院大学啊
+ 
+
+ 
+<br>**问题**: 为什么给电脑安装操作系统做不到一键就OK呢？
+**答案**: 可以。预装就是这么做的
 
  
 
  
+<br>**问题**: 为什么美国名校的中国本科生普遍不愿意加入中国学生会(CSSA)？
+**答案**: CSSA主要是国内来的访问学者，博士后，成分复杂，流动频繁，共同语言少。本科甚至研究生本来就可以享受学校的各种信息服务，社团服务。更何况他们立志于加入美国，成为美国人，成天还和一群回国评职称，未来毫无交集，不写作业不上课的中老年中国大陆人混，你以为是去了中国科学院大学啊
 
-[问题]:为什么美国有发达的小费文化，他们的社交产品 Twitter 和 Facebook 却没有「打赏」功能？
+ 
 
-[答案]: 美国打赏也要算收入所得税
+ 
+<br>**问题**:为什么美国有发达的小费文化，他们的社交产品 Twitter 和 Facebook 却没有「打赏」功能？
+
+**答案**: 美国打赏也要算收入所得税
 
 中国不需要也没人管 
 
@@ -13445,18 +12829,16 @@ impurity等影响，特别是substrate的糟糕特性（不平整，），graphe
  
 
  
+<br>**问题**:为什么翻唱 Uptown Funk 的都是小孩儿？
 
-[问题]:为什么翻唱 Uptown Funk 的都是小孩儿？
-
-[答案]:我很好奇，uptown funk you up 是什么意思。
-
- 
+**答案**:我很好奇，uptown funk you up 是什么意思。
 
  
 
-[问题]: 为什么老板大都很喜欢给员工画饼？
+ 
+<br>**问题**: 为什么老板大都很喜欢给员工画饼？
 
-[答案]:
+**答案**:
 
  
 
@@ -13541,41 +12923,36 @@ impurity等影响，特别是substrate的糟糕特性（不平整，），graphe
  
 
  
-
-[问题]: 为什么能摩擦起电的一般都是绝缘体，金属会出现摩擦起电的现象吗？
-[答案]: 如果使用两种不同化学势的金属，把它们接触，使用绝缘的手套将他们分开，两个金属球必然带电。广义上说这就是摩擦起电的现象。具体可以参考SAT
+<br>**问题**: 为什么能摩擦起电的一般都是绝缘体，金属会出现摩擦起电的现象吗？
+**答案**: 如果使用两种不同化学势的金属，把它们接触，使用绝缘的手套将他们分开，两个金属球必然带电。广义上说这就是摩擦起电的现象。具体可以参考SAT
 
 Physics的考题
 
  
 
  
+<br>**问题**:为什么苹果不把 Mac OS 做成支持触控的操作系统？
 
-[问题]:为什么苹果不把 Mac OS 做成支持触控的操作系统？
-
-[答案]:等到surface book 大卖了，苹果自然会加的
-
- 
-
- 
-
-[问题]: 为什么苹果公司不会把不成熟的技术放出来，而微软经常拿用户当小白鼠？
-[答案]: 我猜你说的不是软件，而是硬件吧。那么你这个问题问反了：是微软的用户甘愿当小白鼠。小白鼠生长周期短，价格便宜，顽强不屈。
+**答案**:等到surface book 大卖了，苹果自然会加的
 
  
 
  
+<br>**问题**: 为什么苹果公司不会把不成熟的技术放出来，而微软经常拿用户当小白鼠？
+**答案**: 我猜你说的不是软件，而是硬件吧。那么你这个问题问反了：是微软的用户甘愿当小白鼠。小白鼠生长周期短，价格便宜，顽强不屈。
 
-[问题]: 为什么苹果的软件质量在下降？
-[答案]: 和微软比，苹果的软件实力简直就是。。。
+ 
+
+ 
+<br>**问题**: 为什么苹果的软件质量在下降？
+**答案**: 和微软比，苹果的软件实力简直就是。。。
 
  
 
  
+<br>**问题**:为什么苹果美国工厂的 iMac 上运行的是 Windows 系统？
 
-[问题]:为什么苹果美国工厂的 iMac 上运行的是 Windows 系统？
-
-[答案]: 如果很多人知道python是c写出来的，按照本题的逻辑，岂不是python也要掉价了。
+**答案**: 如果很多人知道python是c写出来的，按照本题的逻辑，岂不是python也要掉价了。
 
  
 
@@ -13598,16 +12975,14 @@ Physics的考题
  
 
  
-
-[问题]: 为什么苹果能用并不出众的技术强压谷歌和微软呢？
-[答案]: 谷歌的技能树点到了火星，微软的技能树点到了河南省，苹果的技能树点在了加利福利亚，库彭提诺，欧洲，苏黎世，北京，上海，点到了我们每个人的心里
-
- 
+<br>**问题**: 为什么苹果能用并不出众的技术强压谷歌和微软呢？
+**答案**: 谷歌的技能树点到了火星，微软的技能树点到了河南省，苹果的技能树点在了加利福利亚，库彭提诺，欧洲，苏黎世，北京，上海，点到了我们每个人的心里
 
  
 
-[问题]: 为什么苹果这么多人用？哪里好？
-[答案]: 你说的这些人大部分是这样的转变：
+ 
+<br>**问题**: 为什么苹果这么多人用？哪里好？
+**答案**: 你说的这些人大部分是这样的转变：
 
 买之前 
 
@@ -13626,33 +13001,29 @@ Physics的考题
  
 
  
-
-[问题]: 为什么落魄时候连狗都欺负你？
-[答案]: 因为落魄的时候，狗欺负你你会记忆特别深刻。
+<br>**问题**: 为什么落魄时候连狗都欺负你？
+**答案**: 因为落魄的时候，狗欺负你你会记忆特别深刻。
 
 飞黄腾达的时候，狗欺负你你一笑而过
 
  
 
  
+<br>**问题**: 为什么著名的方程大多很简洁？
 
-[问题]: 为什么著名的方程大多很简洁？
-
-[答案]:对，欧拉等式很简洁。但是你可能没有把pi 的十进制数完整的写出来。。
-
- 
-
- 
-
-[问题]: 为什么血在血管里流动这么快细胞却能都得到足够的营养？
-[答案]: 毛细血管
+**答案**:对，欧拉等式很简洁。但是你可能没有把pi 的十进制数完整的写出来。。
 
  
 
  
+<br>**问题**: 为什么血在血管里流动这么快细胞却能都得到足够的营养？
+**答案**: 毛细血管
 
-[问题]: 为什么血是红色的而胳膊上的血管看起来是青色的？
-[答案]: 虽然我不懂医学，特别是没有解剖过人体，不清楚毛细血管分布的密度，动脉的尺寸，深度，皮肤结构和透光性等等，但作为一个光学出身的人，我实在对楼上所引用的答案表示按耐不住了。
+ 
+
+ 
+<br>**问题**: 为什么血是红色的而胳膊上的血管看起来是青色的？
+**答案**: 虽然我不懂医学，特别是没有解剖过人体，不清楚毛细血管分布的密度，动脉的尺寸，深度，皮肤结构和透光性等等，但作为一个光学出身的人，我实在对楼上所引用的答案表示按耐不住了。
 
 楼上所引用的，关于血管呈现蓝绿色的解释，明显是错误的。原因在于它在解释红色和蓝色时采取了不一致的双重依据： 
 
@@ -13728,7 +13099,7 @@ Physics的考题
 
 ** ** ** 
 
-![](https://pic4.zhimg.com/884dee23540f7956c6b1390ef361cb7b_b.jpg) 
+!****(https://pic4.zhimg.com/884dee23540f7956c6b1390ef361cb7b_b.jpg) 
 
 **  
 
@@ -13745,9 +13116,8 @@ Physics的考题
  
 
  
-
-[问题]: 为什么要移民？
-[答案]: 因为发展不均衡。发展的好的人一少数人当然无法容忍自己停留在一个被绝大多数欠发展地区和人民决定的国家。这些人移民是最好的选择。然后国内的欠发达地区和人民可以逐渐再慢慢发展，这样冲突也少点。
+<br>**问题**: 为什么要移民？
+**答案**: 因为发展不均衡。发展的好的人一少数人当然无法容忍自己停留在一个被绝大多数欠发展地区和人民决定的国家。这些人移民是最好的选择。然后国内的欠发达地区和人民可以逐渐再慢慢发展，这样冲突也少点。
 
 从这个角度出发，清北复交各专业top20的学生留美不回其实是最好的解。 
 
@@ -13756,71 +13126,62 @@ Physics的考题
  
 
  
-
-[问题]: 为什么觉得知乎没有之前有趣了？
-[答案]: 我走了，不是吗？
-
- 
-
- 
-
-[问题]:为什么计算机专业的学生要学习使用 Linux 系统？
-
-[答案]:ssh scp 都不会不要交作业啦＝＝
+<br>**问题**: 为什么觉得知乎没有之前有趣了？
+**答案**: 我走了，不是吗？
 
  
 
  
+<br>**问题**:为什么计算机专业的学生要学习使用 Linux 系统？
 
-[问题]: 为什么计算机科学中的神经网络模型得出来的结果被认为是科学的，而中医诊断却不被认为是科学的？
-[答案]: 其实说不定中医就是人类历史上最早的最大规模的神经网络训练学习。。。。
+**答案**:ssh scp 都不会不要交作业啦＝＝
+
+ 
+
+ 
+<br>**问题**: 为什么计算机科学中的神经网络模型得出来的结果被认为是科学的，而中医诊断却不被认为是科学的？
+**答案**: 其实说不定中医就是人类历史上最早的最大规模的神经网络训练学习。。。。
 
 你看他把分类的都么好。上火了！
 
  
 
  
+<br>**问题**:为什么讨论 OS X 和 Windows 在工作效率上的优劣时，往往忽略机械、化工、电子、自动化、建筑等行业？
 
-[问题]:为什么讨论 OS X 和 Windows 在工作效率上的优劣时，往往忽略机械、化工、电子、自动化、建筑等行业？
-
-[答案]: 你难道还不明白这个世界是属于码农的么？。。。。
-
- 
-
- 
-
-[问题]:为什么说 zsh 是 shell 中的极品？
-
-[答案]: 就我一个人看成了轮子吗？
+**答案**: 你难道还不明白这个世界是属于码农的么？。。。。
 
  
 
  
+<br>**问题**:为什么说 zsh 是 shell 中的极品？
 
-[问题]: 为什么说任意随机抽样的统计值落在总体参数正负1.65个标准误之间的概率是90%
-[答案]: 因为随机抽样（近似）满足正态分布。。
-
- 
-
- 
-
-[问题]: 为什么说牛顿第一定律不是牛顿第二定律在物体受力为零时的特例？
-[答案]: 牛顿物理的运动方程就是F=ma外加反对称条件（Fab=-Fba）。在绝对时空观点下，通过运动方程的确能推导出牛顿第一定律。我认为第一定律就是第二定律的一个重要结论，但不仅仅是“特例”。因为第一定律还包含了绝对的时空观。
+**答案**: 就我一个人看成了轮子吗？
 
  
 
  
-
-[问题]:为什么谷歌要将 Chrome OS 和 Android 整合？多平台共享同一系统的好处是什么？
-
-[答案]: 苹果，你再晚就没救了
+<br>**问题**: 为什么说任意随机抽样的统计值落在总体参数正负1.65个标准误之间的概率是90%
+**答案**: 因为随机抽样（近似）满足正态分布。。
 
  
 
  
+<br>**问题**: 为什么说牛顿第一定律不是牛顿第二定律在物体受力为零时的特例？
+**答案**: 牛顿物理的运动方程就是F=ma外加反对称条件（Fab=-Fba）。在绝对时空观点下，通过运动方程的确能推导出牛顿第一定律。我认为第一定律就是第二定律的一个重要结论，但不仅仅是“特例”。因为第一定律还包含了绝对的时空观。
 
-[问题]: 为什么赵冬毓把我屏蔽了？
-[答案]: 知乎太可怕了，好伤心5555
+ 
+
+ 
+<br>**问题**:为什么谷歌要将 Chrome OS 和 Android 整合？多平台共享同一系统的好处是什么？
+
+**答案**: 苹果，你再晚就没救了
+
+ 
+
+ 
+<br>**问题**: 为什么赵冬毓把我屏蔽了？
+**答案**: 知乎太可怕了，好伤心5555
 
 搞你妹啊。。。 
 
@@ -13829,19 +13190,17 @@ Physics的考题
  
 
  
-
-[问题]: 为什么过情人节的组合基本都是男女、女女（大都是两只狗），其他男的（单身直男）哪里去了？
-[答案]: 如果没有女生谁会想去逛街。。。
+<br>**问题**: 为什么过情人节的组合基本都是男女、女女（大都是两只狗），其他男的（单身直男）哪里去了？
+**答案**: 如果没有女生谁会想去逛街。。。
 
 男男要过也是在家写代码，上网买衣服，电话订外卖，手机看视频。比如我这些年来和立党老师，冰冰，徐老师做的那样
 
  
 
  
+<br>**问题**:为什么近 20 年科技发展的特别快，完全是爆炸式的飞跃？
 
-[问题]:为什么近 20 年科技发展的特别快，完全是爆炸式的飞跃？
-
-[答案]: 人类科技不会增长太久了。因为人类之前对科学的系统研究几乎是0，所以才发现原来存在电子，硅片这种可以做到的东西，那些科技上俯拾即是的东西，产生了所谓的“大爆发”。到未来无法做到的技术出现了（例如星际旅行等），人类文明的进步也就停止了。
+**答案**: 人类科技不会增长太久了。因为人类之前对科学的系统研究几乎是0，所以才发现原来存在电子，硅片这种可以做到的东西，那些科技上俯拾即是的东西，产生了所谓的“大爆发”。到未来无法做到的技术出现了（例如星际旅行等），人类文明的进步也就停止了。
 
 你觉得技术发展可以让我们1小时之内从地球一处飞到另一处吗？ 
 
@@ -13852,18 +13211,16 @@ Physics的考题
  
 
  
-
-[问题]: 为什么这个函数的名字是reduce？
-[答案]: ....
+<br>**问题**: 为什么这个函数的名字是reduce？
+**答案**: ....
 
 reduce 很多项成一项啊。这个很难理解么？
 
  
 
  
-
-[问题]: 为什么这个算法误差的看起来这么小？
-[答案]: 什么叫做精度高？误差和精度不是一回事。
+<br>**问题**: 为什么这个算法误差的看起来这么小？
+**答案**: 什么叫做精度高？误差和精度不是一回事。
 
 误差系统的存在于O(1/n) 中，只是第一种方法画出来，震荡少一点罢了。但是误差是存在的。 
 
@@ -13874,13 +13231,12 @@ reduce 很多项成一项啊。这个很难理解么？
  
 
  
-
-[问题]: 为什么通过搜索引擎搜索「莆田系」，会出现根据相关法律法规和政策，部分结果未显示？
-[答案]: 百度结果不知道，但是谷歌的结果是这样的：
+<br>**问题**: 为什么通过搜索引擎搜索「莆田系」，会出现根据相关法律法规和政策，部分结果未显示？
+**答案**: 百度结果不知道，但是谷歌的结果是这样的：
 
  
 
-![](https://pic4.zhimg.com/74d669c25578fb6c9d59332f63ba54df_b.png) 
+!****(https://pic4.zhimg.com/74d669c25578fb6c9d59332f63ba54df_b.png) 
 
  
 
@@ -13895,17 +13251,15 @@ REGRESSION模型和分布式GPU计算中心。但我现在有充分的理由相�
  
 
  
-
-[问题]: 为什么速度是相对的，但加速度是绝对的？
-[答案]: 加速度也是相对的
-
- 
+<br>**问题**: 为什么速度是相对的，但加速度是绝对的？
+**答案**: 加速度也是相对的
 
  
 
-[问题]:为什么那么多人用 MacBook 装 Windows 系统？
+ 
+<br>**问题**:为什么那么多人用 MacBook 装 Windows 系统？
 
-[答案]: 苹果是PC品牌？！
+**答案**: 苹果是PC品牌？！
 
 。。 
 
@@ -13916,20 +13270,18 @@ REGRESSION模型和分布式GPU计算中心。但我现在有充分的理由相�
  
 
  
+<br>**问题**: 为什么邮件中下载图片就会危害你的隐私？
 
-[问题]: 为什么邮件中下载图片就会危害你的隐私？
-
-[答案]:很奇特的事是，WIN 10自带的MAIL APP却能够自动打开下载的IMG。 
+**答案**:很奇特的事是，WIN 10自带的MAIL APP却能够自动打开下载的IMG。 
 
 如何解释?
 
  
 
  
+<br>**问题**:为什么部分果粉每次被提及 OS X 国内份额 1% 的时候都会去贴全球份额 7% 的图？
 
-[问题]:为什么部分果粉每次被提及 OS X 国内份额 1% 的时候都会去贴全球份额 7% 的图？
-
-[答案]: 敢问你就读的大学排名世界百分之几？收入呢？
+**答案**: 敢问你就读的大学排名世界百分之几？收入呢？
 
 居然敢用百分之几来分高下，看来还是生活经历太少了。 
 
@@ -13938,10 +13290,9 @@ REGRESSION模型和分布式GPU计算中心。但我现在有充分的理由相�
  
 
  
+<br>**问题**:为什么采用先进架构的 WPF 没能火起来，采用落后架构的 Cocoa 反而火起来了？
 
-[问题]:为什么采用先进架构的 WPF 没能火起来，采用落后架构的 Cocoa 反而火起来了？
-
-[答案]:说实话，我从来就没觉得基于windows API 的技术先进过。例如office 的 VB, 给Windows
+**答案**:说实话，我从来就没觉得基于windows API 的技术先进过。例如office 的 VB, 给Windows
 
 开发程序的VC以及VC一系列技术。一直到后来的.NET 等。Windows
 
@@ -13956,9 +13307,8 @@ REGRESSION模型和分布式GPU计算中心。但我现在有充分的理由相�
  
 
  
-
-[问题]: 为什么采铜等人在知乎上会有这么多粉丝？
-[答案]: 名字起的好。人家采花她采铜。
+<br>**问题**: 为什么采铜等人在知乎上会有这么多粉丝？
+**答案**: 名字起的好。人家采花她采铜。
 
  
 
@@ -13971,18 +13321,16 @@ REGRESSION模型和分布式GPU计算中心。但我现在有充分的理由相�
  
 
  
-
-[问题]: 为什么野心勃勃的勃勃最终只能当个生气勃勃的大勃勃，却没有成为一个勃学多才的曾勃勃？
-[答案]: 因为所有让人记住的经典，一定是一个悲剧。
+<br>**问题**: 为什么野心勃勃的勃勃最终只能当个生气勃勃的大勃勃，却没有成为一个勃学多才的曾勃勃？
+**答案**: 因为所有让人记住的经典，一定是一个悲剧。
 
 而人生往往就是一场悲剧；许多人不愿意从中醒来罢了。
 
  
 
  
-
-[问题]: 为什么金融、IT工程师年薪比资深土木工程师高很多？
-[答案]: 你应该问问为什么现在大家都缺钱。这个社会怎么了？
+<br>**问题**: 为什么金融、IT工程师年薪比资深土木工程师高很多？
+**答案**: 你应该问问为什么现在大家都缺钱。这个社会怎么了？
 
 不论赚多少钱，每天想的都是如何在股市上不劳而获。 
 
@@ -14003,18 +13351,16 @@ REGRESSION模型和分布式GPU计算中心。但我现在有充分的理由相�
  
 
  
-
-[问题]: 为什么镜子里能看到景深？
-[答案]: 因为镜子成的是虚像，点光源还是点光源，发散的光线还是发散。
+<br>**问题**: 为什么镜子里能看到景深？
+**答案**: 因为镜子成的是虚像，点光源还是点光源，发散的光线还是发散。
 
 而相片里不存在“发散”的光源，本身是漫反射。因此你不肯能在相片里看到虚像。你不可能通过旋转脑袋，移动眼睛发现相片里面的“物体”，也就是景深
 
  
 
  
-
-[问题]: 为什么长方形的烤盘容易烤糊四个角及边缘而圆形的烤盘受热更均匀，不容易烤糊边缘？
-[答案]: 从对称性我们可以对这个问题做一个初步的定性解答：
+<br>**问题**: 为什么长方形的烤盘容易烤糊四个角及边缘而圆形的烤盘受热更均匀，不容易烤糊边缘？
+**答案**: 从对称性我们可以对这个问题做一个初步的定性解答：
 
 如果盘子是正方形，那么他的四个角显然破坏了对称性（也就是说，一个正方形的盘，只具有点群对称c4，每旋转90度，才能回到自己） 
 
@@ -14037,9 +13383,8 @@ analysis . Laplace 方程和热传导都是线性方程，求解的时候边界�
  
 
  
-
-[问题]: 为什么陈仲伟医生的事件在知乎没有得到广泛关注？
-[答案]: 每天都有新闻。看来新闻就是当代史啊。
+<br>**问题**: 为什么陈仲伟医生的事件在知乎没有得到广泛关注？
+**答案**: 每天都有新闻。看来新闻就是当代史啊。
 
 数目太多了观众的内存有点溢出了。 
 
@@ -14058,25 +13403,22 @@ analysis . Laplace 方程和热传导都是线性方程，求解的时候边界�
  
 
  
+<br>**问题**:为什么陈梓瀚（轮子）和龚敏敏（叛逆者）这样很普通的senior engineer在知乎得到如此的追捧？(1)
 
-[问题]:为什么陈梓瀚（轮子）和龚敏敏（叛逆者）这样很普通的senior engineer在知乎得到如此的追捧？(1)
-
-[答案]: 我不管。我也要去微软
-
- 
-
- 
-
-[问题]:为什么陈梓瀚（轮子）和龚敏敏（叛逆者）这样很普通的senior engineer在知乎得到如此的追捧？
-
-[答案]: 他们并不普通。他们是华人的骄傲
+**答案**: 我不管。我也要去微软
 
  
 
  
+<br>**问题**:为什么陈梓瀚（轮子）和龚敏敏（叛逆者）这样很普通的senior engineer在知乎得到如此的追捧？
 
-[问题]: 为什么非科班这么难进数据挖掘这一行？
-[答案]: 。。。。不是说现在码农随便找工作么？打脸了吧？
+**答案**: 他们并不普通。他们是华人的骄傲
+
+ 
+
+ 
+<br>**问题**: 为什么非科班这么难进数据挖掘这一行？
+**答案**: 。。。。不是说现在码农随便找工作么？打脸了吧？
 
 诶。 
 
@@ -14087,27 +13429,24 @@ analysis . Laplace 方程和热传导都是线性方程，求解的时候边界�
  
 
  
-
-[问题]: 为什么风力发电机的扇叶那么窄？不会很多风能被漏掉？
-[答案]: 本来你也没有收集100%的风能，绝大多数风能都在你头顶漏掉了。
+<br>**问题**: 为什么风力发电机的扇叶那么窄？不会很多风能被漏掉？
+**答案**: 本来你也没有收集100%的风能，绝大多数风能都在你头顶漏掉了。
 
 设计的十分之小主要是考虑到风扇本身的重量和推动电机的效率吧。
 
  
 
  
-
-[问题]: 为什么高考会涂错卡？
-[答案]: 更多的是投错胎吧。。
+<br>**问题**: 为什么高考会涂错卡？
+**答案**: 更多的是投错胎吧。。
 
 这都不可避免。
 
  
 
  
-
-[问题]: 为什么高考填志愿的时候，计算机专业远不如电子工程类专业热门？
-[答案]: 国外都是EECS的叫，两大专业是合并在一起的。CS也会学一点EE的课，EE也不是什么CS都不懂。通常认为，EE是技术要求高、经验要求深、可以吃老年饭、并且结合物理；而CS被认为是一种技术，就好像英语一样。你去报考英语专业不是有病么。
+<br>**问题**: 为什么高考填志愿的时候，计算机专业远不如电子工程类专业热门？
+**答案**: 国外都是EECS的叫，两大专业是合并在一起的。CS也会学一点EE的课，EE也不是什么CS都不懂。通常认为，EE是技术要求高、经验要求深、可以吃老年饭、并且结合物理；而CS被认为是一种技术，就好像英语一样。你去报考英语专业不是有病么。
 
  
 
@@ -14124,10 +13463,9 @@ analysis . Laplace 方程和热传导都是线性方程，求解的时候边界�
  
 
  
+<br>**问题**:为何 MacBook Air 迟迟不做出大的更新？
 
-[问题]:为何 MacBook Air 迟迟不做出大的更新？
-
-[答案]: 把mba
+**答案**: 把mba
 
 想象成一个实验班。在当时的环境下，我们需要这个实验班，来试探市场，引领竞争对手，吸引消费者的眼球。但实际上，消费者购买的主流产品是越来越轻薄的mbp，以及其他用到了通过mba日益精湛的铝合金一体成型技术的产品。 
 
@@ -14138,27 +13476,24 @@ analysis . Laplace 方程和热传导都是线性方程，求解的时候边界�
  
 
  
+<br>**问题**:为何 Surface Pro 3 边框上的 Win徽标电容按键 没和屏幕内Charms Bar的 Win徽标 对齐？
 
-[问题]:为何 Surface Pro 3 边框上的 Win徽标电容按键 没和屏幕内Charms Bar的 Win徽标 对齐？
-
-[答案]:![](https://pic2.zhimg.com/0a94c5ec0ee4256642ed7fc711565245_b.jpg) @赵冬毓
-
- 
+**答案**:!****(https://pic2.zhimg.com/0a94c5ec0ee4256642ed7fc711565245_b.jpg) @赵冬毓
 
  
 
-[问题]:为何Mac OS一开始没有像Windows一样流行起来？
+ 
+<br>**问题**:为何Mac OS一开始没有像Windows一样流行起来？
 
-[答案]: 微软在西雅图。地方比较冷。程序员往往哪个都进化成胸汝肥大样。冬天的时候没法烤火就撸代码撸出了火花。
+**答案**: 微软在西雅图。地方比较冷。程序员往往哪个都进化成胸汝肥大样。冬天的时候没法烤火就撸代码撸出了火花。
 
 而苹果的工程师一开始其实不大懂技术。微软挖来了几个编译器大牛，就牛逼了。
 
  
 
  
-
-[问题]: 为何windows系统没有订阅模式
-[答案]: 微软管理层的智商并不高。。。这不是早就被历史证明过的么？
+<br>**问题**: 为何windows系统没有订阅模式
+**答案**: 微软管理层的智商并不高。。。这不是早就被历史证明过的么？
 
 这种创造性的模式一些积重难返的大公司是没办法通过审议的。 
 
@@ -14187,24 +13522,21 @@ company。他的云服务可以保留，其他可以都裁撤，开源。这样�
  
 
  
-
-[问题]: 为何光投射到书页上会出现这种情况(请看图)？
-[答案]: 主要是灯。
-
- 
-
- 
-
-[问题]: 为何国内IT培训班收费都上万了，轮子哥只收费600却被喷呢？
-[答案]: 嗯。轮子哥已经赢了。
+<br>**问题**: 为何光投射到书页上会出现这种情况(请看图)？
+**答案**: 主要是灯。
 
  
 
  
+<br>**问题**: 为何国内IT培训班收费都上万了，轮子哥只收费600却被喷呢？
+**答案**: 嗯。轮子哥已经赢了。
 
-[问题]:为何巴西人能做出 Lua 这种出彩的东西？
+ 
 
-[答案]: 这和穷不穷没关系吧。。你硬要买房子那里不穷呢？你要是没兴趣千万富翁你也不会去开发软件。实际上程序员的想法往往是一旦我有钱了我他妈的就再也不写代码了。你们这些程序员的小心思我还不知道吗？。。。
+ 
+<br>**问题**:为何巴西人能做出 Lua 这种出彩的东西？
+
+**答案**: 这和穷不穷没关系吧。。你硬要买房子那里不穷呢？你要是没兴趣千万富翁你也不会去开发软件。实际上程序员的想法往往是一旦我有钱了我他妈的就再也不写代码了。你们这些程序员的小心思我还不知道吗？。。。
 
 真心献身计算事业的人，不会把钱放在第一位。美帝教授工资不算高，人家生活充实丰满着呢。你看人家MIT，没事干就自己搞scheme
 
@@ -14231,17 +13563,15 @@ company。他的云服务可以保留，其他可以都裁撤，开源。这样�
  
 
  
-
-[问题]: 为何很少见到非常丑的男同性恋？
-[答案]: 这和为什么av中女人的胸一般都比较大一样。不大的就不会去av了。赞同gs
-
- 
+<br>**问题**: 为何很少见到非常丑的男同性恋？
+**答案**: 这和为什么av中女人的胸一般都比较大一样。不大的就不会去av了。赞同gs
 
  
 
-[问题]:为何微软不把 Windows 的默认字符集设置成 Unicode ？
+ 
+<br>**问题**:为何微软不把 Windows 的默认字符集设置成 Unicode ？
 
-[答案]: ...；1楼又胡说了。。
+**答案**: ...；1楼又胡说了。。
 
 首先，请拿出法律条文，出处，不要道听途说，不要听学长乱说。 
 
@@ -14250,42 +13580,37 @@ company。他的云服务可以保留，其他可以都裁撤，开源。这样�
  
 
  
-
-[问题]: 为何感觉知乎上那些CS专业的都那么牛逼？
-[答案]: 首先看看他们是不是都来自于CMU
-
- 
+<br>**问题**: 为何感觉知乎上那些CS专业的都那么牛逼？
+**答案**: 首先看看他们是不是都来自于CMU
 
  
 
-[问题]: 为何滑雪，游泳都可以开live？
-[答案]: 期待出洗澡live
+ 
+<br>**问题**: 为何滑雪，游泳都可以开live？
+**答案**: 期待出洗澡live
 
 反正看不到
 
  
 
  
+<br>**问题**:为何知乎比 Quora 的金融内容多那么多？
 
-[问题]:为何知乎比 Quora 的金融内容多那么多？
-
-[答案]:国外搞金融的都是富家子弟资本家或者quant 没时间上Quora 这种幼儿百科。国内是个大学生都在搞金融大学生平台知乎自然多
-
- 
+**答案**:国外搞金融的都是富家子弟资本家或者quant 没时间上Quora 这种幼儿百科。国内是个大学生都在搞金融大学生平台知乎自然多
 
  
 
-[问题]: 为何立党会成为曾博女朋友？
-[答案]: 立党是我摸过的有腹肌没有肥肚子的唯二男生，另外一个是我自己
+ 
+<br>**问题**: 为何立党会成为曾博女朋友？
+**答案**: 立党是我摸过的有腹肌没有肥肚子的唯二男生，另外一个是我自己
 
 肚子最肥的是轮子
 
  
 
  
-
-[问题]: 为何自iOS8起的iOS系统升级对内部存储的需求提升比起Windows而言明显有更多的人抱怨
-[答案]: 居然用iOS和windows比。。。
+<br>**问题**: 为何自iOS8起的iOS系统升级对内部存储的需求提升比起Windows而言明显有更多的人抱怨
+**答案**: 居然用iOS和windows比。。。
 
 怎么不敢用ios 和windows phone 比。。 
 
@@ -14300,28 +13625,25 @@ phone比。。。
  
 
  
+<br>**问题**:为何苹果会以Apple ID凌驾于硬件？这样做符合中国国情吗？
 
-[问题]:为何苹果会以Apple ID凌驾于硬件？这样做符合中国国情吗？
-
-[答案]: 这个时候你应该找到偷盗你的盗贼，给他发一个虚假邮件，把他的密码骗来。
+**答案**: 这个时候你应该找到偷盗你的盗贼，给他发一个虚假邮件，把他的密码骗来。
 
 实在不行的话也可以把自己的硬件拆掉卖给别人
 
  
 
  
-
-[问题]: 为何苹果公司的产品设计如此愚蠢，却又广受欢迎？
-[答案]: 难道你不觉得作为消费者，其平均智商远低于苹果高管吗。你意识到这一点之后，难道不惭愧？
+<br>**问题**: 为何苹果公司的产品设计如此愚蠢，却又广受欢迎？
+**答案**: 难道你不觉得作为消费者，其平均智商远低于苹果高管吗。你意识到这一点之后，难道不惭愧？
 
 有本事自己做
 
  
 
  
-
-[问题]: 为何苹果已经刻意缩小Logo了，仍然有很多人讽刺苹果就是卖Logo的？
-[答案]: 因为我上不了MIT，于是我一直觉得他们的校徽就是故意炫耀的。
+<br>**问题**: 为何苹果已经刻意缩小Logo了，仍然有很多人讽刺苹果就是卖Logo的？
+**答案**: 因为我上不了MIT，于是我一直觉得他们的校徽就是故意炫耀的。
 
 你知道有段时间他们的校服（或者纪念衫）后面还故意写上字谜吗 
 
@@ -14332,10 +13654,9 @@ phone比。。。
  
 
  
+<br>**问题**: 为何行星绕行恒星会与电子绕行原子这般巧合？
 
-[问题]: 为何行星绕行恒星会与电子绕行原子这般巧合？
-
-[答案]:都是三维空间下 ** _ 球对称 _ ， ** 点源势能函数的运动方程，就算再不同，你能让他们不同到哪里去？ 
+**答案**:都是三维空间下 ** _ 球对称 _ ， ** 点源势能函数的运动方程，就算再不同，你能让他们不同到哪里去？ 
 
 在人类可观测的SO(3) 运动空间中，只能长这个样。他们可能长得很不一样 
 
@@ -14344,9 +13665,8 @@ phone比。。。
  
 
  
-
-[问题]: 为何许多知乎上的成功人士每日沉迷于“失败学”，“自杀学”，“勃学”？
-[答案]: 人在最后终于正面现实的那一刻，那一瞬间，不管这个现实多么残酷，可怕，那人总是能获得一些安慰的。
+<br>**问题**: 为何许多知乎上的成功人士每日沉迷于“失败学”，“自杀学”，“勃学”？
+**答案**: 人在最后终于正面现实的那一刻，那一瞬间，不管这个现实多么残酷，可怕，那人总是能获得一些安慰的。
 
  
 
@@ -14361,45 +13681,40 @@ phone比。。。
  
 
  
-
-[问题]: 为何过半中国留学生选择学习商科？这个数据准确吗？
-[答案]: 因为中国学生出国的目的大部分是为了“不落伍”，“赶时髦”。他们中的绝大部分是要回国的（谢天谢地）。那么现阶段最“时髦”的本科专业显然是商科。虽然学完商科他们和自然科学，工程科学也就无缘了，而且商科的就业机会其实并不多。本科，在打好任何基础之前，在了解工程和自然科学之前，就读商科莫非是不打算念graduate
+<br>**问题**: 为何过半中国留学生选择学习商科？这个数据准确吗？
+**答案**: 因为中国学生出国的目的大部分是为了“不落伍”，“赶时髦”。他们中的绝大部分是要回国的（谢天谢地）。那么现阶段最“时髦”的本科专业显然是商科。虽然学完商科他们和自然科学，工程科学也就无缘了，而且商科的就业机会其实并不多。本科，在打好任何基础之前，在了解工程和自然科学之前，就读商科莫非是不打算念graduate
 
 了。
 
  
 
  
-
-[问题]: 为何青年男女在确定关系后第一件事基本是害羞的亲一下对方？
-[答案]: 亲吻可以有效提高双方的性激素水平，为抽插和怀孕做好准备。
-
- 
+<br>**问题**: 为何青年男女在确定关系后第一件事基本是害羞的亲一下对方？
+**答案**: 亲吻可以有效提高双方的性激素水平，为抽插和怀孕做好准备。
 
  
 
-[问题]: 为投行的交易员写程序，大概需要哪方面的技术？
-[答案]: 生活的压力
+ 
+<br>**问题**: 为投行的交易员写程序，大概需要哪方面的技术？
+**答案**: 生活的压力
 
 生活的光鲜。
 
  
 
  
+<br>**问题**: 主要用于平面设计，兼顾外观和散热，有哪些好的笔记本电脑推荐？
 
-[问题]: 主要用于平面设计，兼顾外观和散热，有哪些好的笔记本电脑推荐？
-
-[答案]:其实我很想推荐你使用微软的surface pro 3。价格虽然高，但是把他当作一款笔记本来看，价格就不高了。当然价格高还有微软无法掌控硬件供应链有关系。 
+**答案**:其实我很想推荐你使用微软的surface pro 3。价格虽然高，但是把他当作一款笔记本来看，价格就不高了。当然价格高还有微软无法掌控硬件供应链有关系。 
 
 然后如果你实在觉得surface pro 还不成熟，可以去考虑已经成熟到随手就秒杀对手几条街的macbook air。价格低，质量好，设计成熟。
 
  
 
  
+<br>**问题**:乔布斯说「除了搜索引擎，谷歌的产品，包括安卓和 Google Docs，都是狗屎」，这句话有道理么？
 
-[问题]:乔布斯说「除了搜索引擎，谷歌的产品，包括安卓和 Google Docs，都是狗屎」，这句话有道理么？
-
-[答案]:每次开会之前，都会有人来说一句：oh, google doc is shit。但是无奈通用的部件就是google doc。我怀疑google
+**答案**:每次开会之前，都会有人来说一句：oh, google doc is shit。但是无奈通用的部件就是google doc。我怀疑google
 
 doc的开发团队是把它当作一个hobby而不是product来开发的。 
 
@@ -14409,22 +13724,20 @@ ps 某宣传大家删除office的小广告
 
  
 
-![](https://pic4.zhimg.com/46a3c12dd4433286d8e76f0eaf51e007_b.jpg)
+!****(https://pic4.zhimg.com/46a3c12dd4433286d8e76f0eaf51e007_b.jpg)
 
  
 
  
+<br>**问题**:买了 Mac 你后悔了吗
 
-[问题]:买了 Mac 你后悔了吗
-
-[答案]:我后悔我第一台mac 是大三才买的。我真后悔我没早点买
-
- 
+**答案**:我后悔我第一台mac 是大三才买的。我真后悔我没早点买
 
  
 
-[问题]: 买电脑需要注意哪些问题？
-[答案]: 如果不是搞科学计算，就不需要超强的性能。
+ 
+<br>**问题**: 买电脑需要注意哪些问题？
+**答案**: 如果不是搞科学计算，就不需要超强的性能。
 
 如果不需要超强的性能，macbook pro解决你一切需求。 
 
@@ -14439,25 +13752,22 @@ ps 某宣传大家删除office的小广告
  
 
  
-
-[问题]: 了解量子论和相对论对你的人生观有什么影响？
-[答案]: 让我认识到我还是去干实事比较好。否则我死了算了？
-
- 
+<br>**问题**: 了解量子论和相对论对你的人生观有什么影响？
+**答案**: 让我认识到我还是去干实事比较好。否则我死了算了？
 
  
 
-[问题]: 二三流学校和一流学校的差距在哪里？
-[答案]: 浙大是三流学校。mit是一流学校。差别在于，浙大的人死也要去mit，mit的人一辈子没听过浙大。
+ 
+<br>**问题**: 二三流学校和一流学校的差距在哪里？
+**答案**: 浙大是三流学校。mit是一流学校。差别在于，浙大的人死也要去mit，mit的人一辈子没听过浙大。
 
 除此之外，都是人，你尽点心干点别的，也会混的好好的。
 
  
 
  
-
-[问题]: 二十岁自杀和九十岁自杀有什么不同？
-[答案]: 并无区别。前者你的回收速度更快一些。
+<br>**问题**: 二十岁自杀和九十岁自杀有什么不同？
+**答案**: 并无区别。前者你的回收速度更快一些。
 
 醒来之后发现自己是个人造人呢； 
 
@@ -14490,30 +13800,26 @@ Ps：其实，按照投胎学的理论，就算你自杀了，也会几乎瞬间
  
 
  
-
-[问题]: 二氧化碳激光器（100W）从上电到全功率输出需要多长时间？
-[答案]: 起码要20分钟吧。主要不是电流的问题，主要是激光腔体要预热稳定。这20多分钟的价值是让激光器内部的温度达到稳定值，这样腔长不会因温度而变化，激光器能稳定工作。
-
- 
-
- 
-
-[问题]: 二进制中如何判断一个数整除另一个数？
-[答案]: 不知道
+<br>**问题**: 二氧化碳激光器（100W）从上电到全功率输出需要多长时间？
+**答案**: 起码要20分钟吧。主要不是电流的问题，主要是激光腔体要预热稳定。这20多分钟的价值是让激光器内部的温度达到稳定值，这样腔长不会因温度而变化，激光器能稳定工作。
 
  
 
  
+<br>**问题**: 二进制中如何判断一个数整除另一个数？
+**答案**: 不知道
 
-[问题]: 互联网公司在面试数据分析师的工作时具体会被问什么样的问题？
-[答案]: 主要会问：你认识邹神吗？
+ 
+
+ 
+<br>**问题**: 互联网公司在面试数据分析师的工作时具体会被问什么样的问题？
+**答案**: 主要会问：你认识邹神吗？
 
  
 
  
-
-[问题]: 互联网的庸众
-[答案]: 我想，在互联网诞生之初，网络上是没有庸众的。
+<br>**问题**: 互联网的庸众
+**答案**: 我想，在互联网诞生之初，网络上是没有庸众的。
 
 那么在互联网之末，也应该没有。 
 
@@ -14588,9 +13894,8 @@ Bo
  
 
  
-
-[问题]: 互联网行业会被培训机构毁掉吗？
-[答案]: 不会。正如高考培训机构也没有把清华北大毁掉啊。
+<br>**问题**: 互联网行业会被培训机构毁掉吗？
+**答案**: 不会。正如高考培训机构也没有把清华北大毁掉啊。
 
 中国的世界金牌培训机构也没有把美国的华尔街毁掉啊。 
 
@@ -14623,16 +13928,14 @@ Bo
  
 
  
-
-[问题]: 五胡乱华时胡人为什么都是汉姓？
-[答案]: 现在中印韩非越等国的刁民乱美的时候，不也给自己取英文名么？
-
- 
+<br>**问题**: 五胡乱华时胡人为什么都是汉姓？
+**答案**: 现在中印韩非越等国的刁民乱美的时候，不也给自己取英文名么？
 
  
 
-[问题]: 交换生出国和留在国内搞竞赛哪个好？
-[答案]: 纯粹来膜拜。。
+ 
+<br>**问题**: 交换生出国和留在国内搞竞赛哪个好？
+**答案**: 纯粹来膜拜。。
 
 高一就能直接保送了，那么高二还有啥可干的。 
 
@@ -14649,24 +13952,21 @@ Bo
  
 
  
-
-[问题]: 交流输电相比直流的优势有哪些？
-[答案]: 金属在dc下的损耗系数是最大的；50hz虽然也算不上什么高频，但是损耗可以远小于dc，而且可以使用传输线来传输。因而在损耗上，交流电优于直流电。
-
- 
-
- 
-
-[问题]: 产品经理面试题——人人网的？
-[答案]: 如果产品经理都面试这个题的话，那么奶茶妹妹的概率论一定很好。
+<br>**问题**: 交流输电相比直流的优势有哪些？
+**答案**: 金属在dc下的损耗系数是最大的；50hz虽然也算不上什么高频，但是损耗可以远小于dc，而且可以使用传输线来传输。因而在损耗上，交流电优于直流电。
 
  
 
  
+<br>**问题**: 产品经理面试题——人人网的？
+**答案**: 如果产品经理都面试这个题的话，那么奶茶妹妹的概率论一定很好。
 
-[问题]: 京东的购物体验为何比淘宝差那么多？
+ 
 
-[答案]:羊毛出在羊身上。变相搞低价促销只能让你们在进货渠道品质和售后服务上痛下杀手。。。你看人家Apple 就从不促销。 
+ 
+<br>**问题**: 京东的购物体验为何比淘宝差那么多？
+
+**答案**:羊毛出在羊身上。变相搞低价促销只能让你们在进货渠道品质和售后服务上痛下杀手。。。你看人家Apple 就从不促销。 
 
 而且这种强迫消费者抢购的活动，就是在恶化消费者的消费体验。哪个国家的消费者必须夜不能寐才能买到东西？我觉得以后可以推出消费者上传自己裸照一张即可获得优惠券的活动，看看为了小便宜人的底线是什么。这把人当猴耍的。看来人类已经成为大企业的工具了，接下来离成为机器人的玩具不远了。 
 
@@ -14679,10 +13979,9 @@ Bo
  
 
  
+<br>**问题**: 人为什么会不快乐？
 
-[问题]: 人为什么会不快乐？
-
-[答案]:综合黑色笔记本和gayscript 的答案。并结合我找不到工作的事。我觉得原因其实是： 
+**答案**:综合黑色笔记本和gayscript 的答案。并结合我找不到工作的事。我觉得原因其实是： 
 
  
 
@@ -14715,10 +14014,9 @@ Bo
  
 
  
+<br>**问题**: 人为什么要睡觉？
 
-[问题]: 人为什么要睡觉？
-
-[答案]:
+**答案**:
 
  
 
@@ -14747,9 +14045,8 @@ Bo
  
 
  
-
-[问题]: 人会被高压电「吸」过去吗？
-[答案]: 谢邀。让我想了一下这个平时都不会怎么关心问题。
+<br>**问题**: 人会被高压电「吸」过去吗？
+**答案**: 谢邀。让我想了一下这个平时都不会怎么关心问题。
 
 @林怡通 所说的肌肉收缩能解释大部分情况，特别是低压下触电人无法摆脱电极的事实。 
 
@@ -14767,7 +14064,7 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
 
 。因此你要想拉开极板，必须对电场做功，这个功对距离的微分，就是你要施加的力；由力的相互作用，体现为电场对你的吸引力。 
 
-这个力可以如下求解： ![](https://pic3.zhimg.com/417298766376f58968d9c9dfb871359a_b.jpg) 
+这个力可以如下求解： !****(https://pic3.zhimg.com/417298766376f58968d9c9dfb871359a_b.jpg) 
 
 -号代表吸引力。  
 
@@ -14775,7 +14072,7 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
 
 。其中人和地之间存在较大电阻，因此可认为人这一端电极和外界的断开；手掌受到高压电极上电荷的感应，产生感应电荷；所受吸引力由上式子给出（假定手感应部分面积是10平方厘米）：
 
-![](https://pic4.zhimg.com/12bd6b2dcbe1d1195949d25c538d23b3_b.jpg) 
+!****(https://pic4.zhimg.com/12bd6b2dcbe1d1195949d25c538d23b3_b.jpg) 
 
 由此可见，即便人和电极尚有一定距离，只感应出了10^-6 库伦的电荷，人也能感受到100牛顿的力。（大体相当于10千克的重物）。 
 
@@ -14788,51 +14085,44 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
  
 
  
-
-[问题]: 人在美国，J1签证，想到湾区找工作，可行性如何？
-[答案]: 项目多，又是CS专业。。愁什么=
-
- 
-
- 
-
-[问题]: 人在美国，如何成为中产阶级，成为中产阶级之后如何理财？
-[答案]: 这个问题开个live一定可以赚20万。然后就可以思考理财了
+<br>**问题**: 人在美国，J1签证，想到湾区找工作，可行性如何？
+**答案**: 项目多，又是CS专业。。愁什么=
 
  
 
  
-
-[问题]: 人工呼吸的原理是什么？
-[答案]: hahahahahahha围观机械大牛。
-
- 
-
- 
-
-[问题]: 人工智能最终会代替数学家或理论物理学家吗？
-[答案]: 不会的。应用数学家，计算机科学家和工程师怎么会取代你们数学物理学家呢？你们写的公式符号记号和理论不是你们自己内部都看不懂，不赞同，不知道有没有用，搞不拎清么=
+<br>**问题**: 人在美国，如何成为中产阶级，成为中产阶级之后如何理财？
+**答案**: 这个问题开个live一定可以赚20万。然后就可以思考理财了
 
  
 
  
-
-[问题]: 人是不是就是一滩烂肉？
-[答案]: 如果真是的话你无法解释为什么赵叔叔的c++知识比你不知道高到哪里去了。
-
- 
-
- 
-
-[问题]: 人是通过调整身体重心停下脚步的吗？
-[答案]: 人主要还是靠地面的摩擦力停下脚步的。一个简单的例子是，如果你在光滑的平面上穿着溜冰鞋溜冰，你是不可能本能的通过”调整重心高低“来停下脚步的。
+<br>**问题**: 人工呼吸的原理是什么？
+**答案**: hahahahahahha围观机械大牛。
 
  
 
  
+<br>**问题**: 人工智能最终会代替数学家或理论物理学家吗？
+**答案**: 不会的。应用数学家，计算机科学家和工程师怎么会取代你们数学物理学家呢？你们写的公式符号记号和理论不是你们自己内部都看不懂，不赞同，不知道有没有用，搞不拎清么=
 
-[问题]: 人有没有自杀的权利？
-[答案]: 当然有。
+ 
+
+ 
+<br>**问题**: 人是不是就是一滩烂肉？
+**答案**: 如果真是的话你无法解释为什么赵叔叔的c++知识比你不知道高到哪里去了。
+
+ 
+
+ 
+<br>**问题**: 人是通过调整身体重心停下脚步的吗？
+**答案**: 人主要还是靠地面的摩擦力停下脚步的。一个简单的例子是，如果你在光滑的平面上穿着溜冰鞋溜冰，你是不可能本能的通过”调整重心高低“来停下脚步的。
+
+ 
+
+ 
+<br>**问题**: 人有没有自杀的权利？
+**答案**: 当然有。
 
 自我否定是人造人觉醒的开始。 
 
@@ -14863,10 +14153,9 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
  
 
  
+<br>**问题**: 人生之无聊
 
-[问题]: 人生之无聊
-
-[答案]:
+**答案**:
 
  
 
@@ -15127,53 +14416,47 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
  
 
  
-
-[问题]: 人生宇宙学
-[答案]: 作为我潜心研究2个月，得到的人生宇宙学的最新研究成果如下：
+<br>**问题**: 人生宇宙学
+**答案**: 作为我潜心研究2个月，得到的人生宇宙学的最新研究成果如下：
 
  
 
 转发请注明出处。 
 
-![](http://pic4.zhimg.com/d757605365669709cc88a09beacb9b37_b.jpg)
+!****(http://pic4.zhimg.com/d757605365669709cc88a09beacb9b37_b.jpg)
 
  
 
  
-
-[问题]: 人生最失意的时候是什么给了你动力？
-[答案]: 事实上，我们人生最失意的时候，还在前方
-
- 
+<br>**问题**: 人生最失意的时候是什么给了你动力？
+**答案**: 事实上，我们人生最失意的时候，还在前方
 
  
 
-[问题]: 人生的第一辆车，预算五十万左右买什么好？
-[答案]: 所以你应该是把房子买了老婆娶好了就差孩子了？
+ 
+<br>**问题**: 人生的第一辆车，预算五十万左右买什么好？
+**答案**: 所以你应该是把房子买了老婆娶好了就差孩子了？
 
 这样话为什么还要工作。。改变世界为人类做贡献吧亲
 
  
 
  
-
-[问题]: 人眼被强光射到会失明，那么如果被可见光谱外的强光射到会不会失明呢？
-[答案]: 会。否则红外、远红外激光器也不会有严格的激光分级和安全管理制度了。实际上越是红外越危险，直接把你眼睛煮熟
-
- 
-
- 
-
-[问题]: 人类为什么只对东南西北四个方向有感知，而不会是三个方向或六个方向？
-
-[答案]:简单的说，人是具有2*2=4 重对称性的：左右对称，前后对称（忽略面和背）。因此人自然地对前后，左右方位敏感。这样就衍生出东西南北的2个直角坐标。
+<br>**问题**: 人眼被强光射到会失明，那么如果被可见光谱外的强光射到会不会失明呢？
+**答案**: 会。否则红外、远红外激光器也不会有严格的激光分级和安全管理制度了。实际上越是红外越危险，直接把你眼睛煮熟
 
  
 
  
+<br>**问题**: 人类为什么只对东南西北四个方向有感知，而不会是三个方向或六个方向？
 
-[问题]: 人类为什么需要超道德价值，比如宗教与中国文化里所谓的提高心灵境界？
-[答案]: 其实主要是失败之后的心理寄托。
+**答案**:简单的说，人是具有2*2=4 重对称性的：左右对称，前后对称（忽略面和背）。因此人自然地对前后，左右方位敏感。这样就衍生出东西南北的2个直角坐标。
+
+ 
+
+ 
+<br>**问题**: 人类为什么需要超道德价值，比如宗教与中国文化里所谓的提高心灵境界？
+**答案**: 其实主要是失败之后的心理寄托。
 
 如果你有充实的商业行为的话你才没空提升心灵境界呢。往往都是在思考我怎么才能把今年许诺的50场live开完。又或者是到处奔走联系培训机构一起开班，又或者是想着如何跑营销卖广告。 
 
@@ -15184,9 +14467,8 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
  
 
  
-
-[问题]: 人类有可能能进化为5维人类的存在吗？
-[答案]: 不可以。因为5维人类的进化要求人人都献出一份爱。
+<br>**问题**: 人类有可能能进化为5维人类的存在吗？
+**答案**: 不可以。因为5维人类的进化要求人人都献出一份爱。
 
 现在人类的爱的能量还不够大。 
 
@@ -15219,31 +14501,27 @@ Q^2/C。其中C是电容,Q是极板电荷；当你断开电容和电源的连接
  
 
  
-
-[问题]: 人能直观想象四维空间吗？
-[答案]: 不能。不愿意再解释。你只能想象高维空间在3D的投影，例如取一个维度的矢量为定值等，或者把N个变量用隐函数定理化成3个变量。这就和3维空间的一个曲面（2D）或者一个曲线(1D)方程的隐函数定理是一样的。利用黎曼几何你可以学习如何表示高维空间的点和曲面，以及高维空间的流形，计算曲率，LIE括号和微分等。4维版本被广泛用于广义相对论中。有兴趣的话可以去看看广义相对论的书，当然，系统而严密的学习对自己有好处，可是却比随便在ZHIHU上抛出一个问题，要困难的多了。
-
- 
-
- 
-
-[问题]: 人脑神经信号传递速度达到3x10^8次每秒的话，会发生与达光速而“时间”静止的情况吗？会有什么事不一样？
-[答案]: ＝＝＝
+<br>**问题**: 人能直观想象四维空间吗？
+**答案**: 不能。不愿意再解释。你只能想象高维空间在3D的投影，例如取一个维度的矢量为定值等，或者把N个变量用隐函数定理化成3个变量。这就和3维空间的一个曲面（2D）或者一个曲线(1D)方程的隐函数定理是一样的。利用黎曼几何你可以学习如何表示高维空间的点和曲面，以及高维空间的流形，计算曲率，LIE括号和微分等。4维版本被广泛用于广义相对论中。有兴趣的话可以去看看广义相对论的书，当然，系统而严密的学习对自己有好处，可是却比随便在ZHIHU上抛出一个问题，要困难的多了。
 
  
 
  
+<br>**问题**: 人脑神经信号传递速度达到3x10^8次每秒的话，会发生与达光速而“时间”静止的情况吗？会有什么事不一样？
+**答案**: ＝＝＝
 
-[问题]: 人被电死、电伤的原理是什么？
-[答案]: 电伤是因为电流经过肉体烧伤；电死是因为电流经过心脏引起心脏骤停而致。心脏的振动依赖心细胞瓣膜的离子泵，电流经过严重扰乱离子泵的工作，更别提大电流时，烧坏心脏瓣膜。因此人因心脏停止，全身缺氧而死。当然在这之前，肌肉烧伤，神经系统麻痹等，使得你在缺氧死亡之前就失去知觉和动力了。
+ 
+
+ 
+<br>**问题**: 人被电死、电伤的原理是什么？
+**答案**: 电伤是因为电流经过肉体烧伤；电死是因为电流经过心脏引起心脏骤停而致。心脏的振动依赖心细胞瓣膜的离子泵，电流经过严重扰乱离子泵的工作，更别提大电流时，烧坏心脏瓣膜。因此人因心脏停止，全身缺氧而死。当然在这之前，肌肉烧伤，神经系统麻痹等，使得你在缺氧死亡之前就失去知觉和动力了。
 
  
 
  
+<br>**问题**:什么叫 dynamics？什么叫 kinetics？中文怎么译？
 
-[问题]:什么叫 dynamics？什么叫 kinetics？中文怎么译？
-
-[答案]: 如果是kinetics的话，其含义和dynamics相近，应当是一个意思（在化学中用的比较多）；
+**答案**: 如果是kinetics的话，其含义和dynamics相近，应当是一个意思（在化学中用的比较多）；
 
 如果是kinematics的话 
 
@@ -15272,27 +14550,24 @@ kinematics是描述运动状态的，是运动学（又译作动理学）。
  
 
  
+<br>**问题**:什么方法可以同步 iPhone 照片到云端，并且可以在电脑上用浏览器查看？
 
-[问题]:什么方法可以同步 iPhone 照片到云端，并且可以在电脑上用浏览器查看？
-
-[答案]:iOS 8 and Mac OS Yosemite
-
- 
+**答案**:iOS 8 and Mac OS Yosemite
 
  
 
-[问题]: 什么时候应该使用宏定义？
+ 
+<br>**问题**: 什么时候应该使用宏定义？
 
-[答案]:这么多专业的从C通例出发的好答案却不如某一个常年给自己打广告（靠star 数字升职移民么=）且特例化又不明就里的答案得到的赞多。 
+**答案**:这么多专业的从C通例出发的好答案却不如某一个常年给自己打广告（靠star 数字升职移民么=）且特例化又不明就里的答案得到的赞多。 
 
 知乎让人大开眼界啊。。难怪某些程序员特别喜欢知乎，说到底是为了自己的前途和江湖。这也难怪他们这么在乎地位和争吵了。万幸的是现在也只看到2，3个。
 
  
 
  
-
-[问题]: 什么是「苹果式中文」？
-[答案]: 开发者的大事、大快所有人心的大好事
+<br>**问题**: 什么是「苹果式中文」？
+**答案**: 开发者的大事、大快所有人心的大好事
 
 让妈妈开心的礼物，开了又开 
 
@@ -15301,26 +14576,23 @@ kinematics是描述运动状态的，是运动学（又译作动理学）。
  
 
  
-
-[问题]: 什么是传感器的带宽？
-[答案]: 如果不是另有规定的话，带宽指的就是传感器输出响应下降到其最大相应的根号二分之一（或者，功率的一半）的信号范围。也就是说传感器对外界信号的响应范围的指标是他的带宽，例如50HZ。可以认为这个传感器对0HZ到50HZ内调制的信号都是有响应的。
-
- 
-
- 
-
-[问题]:什么是你希望你 25 岁时有过来人告诉你的话？
-
-[答案]: 明年你就26岁啦
+<br>**问题**: 什么是传感器的带宽？
+**答案**: 如果不是另有规定的话，带宽指的就是传感器输出响应下降到其最大相应的根号二分之一（或者，功率的一半）的信号范围。也就是说传感器对外界信号的响应范围的指标是他的带宽，例如50HZ。可以认为这个传感器对0HZ到50HZ内调制的信号都是有响应的。
 
  
 
  
+<br>**问题**:什么是你希望你 25 岁时有过来人告诉你的话？
 
-[问题]: 什么是光的轨道角动量？
-[答案]: 角动量实际是场的对称性质。在计算光的角动量时候，人们会发现两项，一项是和r有关的，一项是和r无关的。无关的那一项是光子的自旋角动量（对应于偏振），和r有关的是光子的轨道角动量，也就是一般意义上的角动量：一个沿着直线运动的小球没有角动量，一个绕着z轴旋转的小球有角动量。因此，一个平面波中的光子是没有轨道角动量的，一个具有螺旋波前波中的光子是有轨道角动量的，某些波导中的模式就有这样的轨道角动量。
+**答案**: 明年你就26岁啦
 
-![](https://pic3.zhimg.com/71bd234637e6cecb0daed468b75f4ea2_b.jpg) 
+ 
+
+ 
+<br>**问题**: 什么是光的轨道角动量？
+**答案**: 角动量实际是场的对称性质。在计算光的角动量时候，人们会发现两项，一项是和r有关的，一项是和r无关的。无关的那一项是光子的自旋角动量（对应于偏振），和r有关的是光子的轨道角动量，也就是一般意义上的角动量：一个沿着直线运动的小球没有角动量，一个绕着z轴旋转的小球有角动量。因此，一个平面波中的光子是没有轨道角动量的，一个具有螺旋波前波中的光子是有轨道角动量的，某些波导中的模式就有这样的轨道角动量。
+
+!****(https://pic3.zhimg.com/71bd234637e6cecb0daed468b75f4ea2_b.jpg) 
 
 光子的轨道角动量和自旋角动量对角动量的贡献是一样的，很多场合难以分开。 
 
@@ -15333,33 +14605,29 @@ http:// en.wikipedia.org/wiki/O rbital_angular_momentum_of_light _ _
  
 
  
-
-[问题]: 什么是本心？
-[答案]: 本心就是在你在幼儿教育学会说话识字可以自我思考之后，高考结束认识到社会运行原理与阶层分裂真正狡诈之前，心中所拥有的那一片夕阳下奔跑校服妹子清纯考试考完好爽洗个澡也能硬的，中二天空。
+<br>**问题**: 什么是本心？
+**答案**: 本心就是在你在幼儿教育学会说话识字可以自我思考之后，高考结束认识到社会运行原理与阶层分裂真正狡诈之前，心中所拥有的那一片夕阳下奔跑校服妹子清纯考试考完好爽洗个澡也能硬的，中二天空。
 
 简单来说，就是原始人和社会人之间的那层过渡。
 
  
 
  
+<br>**问题**:什么是稀疏特征(Sparse Features)
 
-[问题]:什么是稀疏特征(Sparse Features)
-
-[答案]:feature index is much larger than the actual number of non zero features.
-
- 
-
- 
-
-[问题]: 什么样的工作适合像白如冰这样的大神？
-[答案]: 中国信息安全局，GFW研究处主任。
+**答案**:feature index is much larger than the actual number of non zero features.
 
  
 
  
+<br>**问题**: 什么样的工作适合像白如冰这样的大神？
+**答案**: 中国信息安全局，GFW研究处主任。
 
-[问题]: 什么词可以代替「哦」？
-[答案]: 哦=口我=发音：O
+ 
+
+ 
+<br>**问题**: 什么词可以代替「哦」？
+**答案**: 哦=口我=发音：O
 
 口你=发音：YI 
 
@@ -15370,9 +14638,8 @@ http:// en.wikipedia.org/wiki/O rbital_angular_momentum_of_light _ _
  
 
  
-
-[问题]: 仅通过分享专业知识（如理工类）的普通用户，从零到成为大V的可能性大吗？
-[答案]: 其实一个人如果还真的严肃的对待自己的粉丝，自己的关注数，自己在虚拟社区上的宣传效果的话，那么这个人
+<br>**问题**: 仅通过分享专业知识（如理工类）的普通用户，从零到成为大V的可能性大吗？
+**答案**: 其实一个人如果还真的严肃的对待自己的粉丝，自己的关注数，自己在虚拟社区上的宣传效果的话，那么这个人
 
 1，真的是特别的热爱，特别的热爱所从事的专业，对互联网上“安静打字，热烈获赞”的感受依依不舍，而觉得自己实际生活中的那些不明白自己的人是那么愚蠢，愚钝和让人不安。 
 
@@ -15397,35 +14664,31 @@ shen，然而我看到他这么严肃的整理他人给自己的回复，那么�
  
 
  
-
-[问题]: 今天偶然在iPhone充电器上看到仅限在海拔2000米以下安全使用，充电器为什么还有这要求？
-[答案]: 海拔2000米以上不知道会出现什么（低温，低于零下15度；湿度；气压等）。。怕把充电器和手机烧掉了。具体参考充电器电子元件的工作范围。还有，电池这些化学产品，一不小心就过热爆炸或者充不上电了。
-
- 
+<br>**问题**: 今天偶然在iPhone充电器上看到仅限在海拔2000米以下安全使用，充电器为什么还有这要求？
+**答案**: 海拔2000米以上不知道会出现什么（低温，低于零下15度；湿度；气压等）。。怕把充电器和手机烧掉了。具体参考充电器电子元件的工作范围。还有，电池这些化学产品，一不小心就过热爆炸或者充不上电了。
 
  
 
-[问题]: 今天面试hr问的一个问题，关于销售的。很好奇解决方法。
-[答案]: ....难道不是让你把客户的需求从自己没有的转化成自己有的么。虽然你没有榔头，但是你有家庭万用工具箱啊。。。。可以分分钟组装一个榔头，只卖229哦~
+ 
+<br>**问题**: 今天面试hr问的一个问题，关于销售的。很好奇解决方法。
+**答案**: ....难道不是让你把客户的需求从自己没有的转化成自己有的么。虽然你没有榔头，但是你有家庭万用工具箱啊。。。。可以分分钟组装一个榔头，只卖229哦~
 
 面试就这道题？我也去面。
 
  
 
  
+<br>**问题**: 今年的形势下，国内的计算机应届生可以直接申请国外的公司（肉翻的机会）？
 
-[问题]: 今年的形势下，国内的计算机应届生可以直接申请国外的公司（肉翻的机会）？
-
-[答案]:Uber , 年薪一百万不是梦。 
+**答案**:Uber , 年薪一百万不是梦。 
 
 Airbnb 招的少
 
  
 
  
-
-[问题]: 今年考上的211学生该不该复读？
-[答案]: 有一部分中国人胆怯，怕吃苦怕累，没有梦想，精神懦夫，所以他们才会用：
+<br>**问题**: 今年考上的211学生该不该复读？
+**答案**: 有一部分中国人胆怯，怕吃苦怕累，没有梦想，精神懦夫，所以他们才会用：
 
 “你复读就能考上吗？” 
 
@@ -15484,17 +14747,15 @@ Airbnb 招的少
  
 
  
+<br>**问题**:从2499 到现在1799 都是最低配，为什么5k iMac 降价降的这么多？
 
-[问题]:从2499 到现在1799 都是最低配，为什么5k iMac 降价降的这么多？
-
-[答案]: 现在5K不稀奇
-
- 
+**答案**: 现在5K不稀奇
 
  
 
-[问题]: 从出国质量来看，交大浙大与清华的差距为何会这么大？
-[答案]: 没考上清华北大的人，他（我）们的智商已经告别牛逼了
+ 
+<br>**问题**: 从出国质量来看，交大浙大与清华的差距为何会这么大？
+**答案**: 没考上清华北大的人，他（我）们的智商已经告别牛逼了
 
 于是只能改变人生目标 
 
@@ -15519,19 +14780,17 @@ Airbnb 招的少
  
 
  
+<br>**问题**:从围棋角度看李世石与 AlphaGo 的第二局比赛有哪些关键之处？
 
-[问题]:从围棋角度看李世石与 AlphaGo 的第二局比赛有哪些关键之处？
-
-[答案]: 关键之处？
+**答案**: 关键之处？
 
 当时就不应该装逼迎战。。
 
  
 
  
-
-[问题]: 从洛杉矶沿着加州一号公路开车到旧金山，如何开车安排行程？
-[答案]: 大家好我是小勃勃。。
+<br>**问题**: 从洛杉矶沿着加州一号公路开车到旧金山，如何开车安排行程？
+**答案**: 大家好我是小勃勃。。
 
  
 
@@ -15552,71 +14811,62 @@ angeles。
  
 
  
-
-[问题]: 从理论上讲，能够解决通过镜子观察到对方却让对方观察不到自己吗？
-[答案]: 他能看到你你看不到他的办法只有一个：破坏时间反演对称性
-
- 
+<br>**问题**: 从理论上讲，能够解决通过镜子观察到对方却让对方观察不到自己吗？
+**答案**: 他能看到你你看不到他的办法只有一个：破坏时间反演对称性
 
  
 
-[问题]:从程序员的角度看，Windows 有哪些先进的地方？
+ 
+<br>**问题**:从程序员的角度看，Windows 有哪些先进的地方？
 
-[答案]:Windows 先不先进不知道 
+**答案**:Windows 先不先进不知道 
 
 用windows的程序员都很先进的样子
 
  
 
  
-
-[问题]: 从股市挣到钱并且花掉是什么体验？
-[答案]: 不说也罢。
-
- 
+<br>**问题**: 从股市挣到钱并且花掉是什么体验？
+**答案**: 不说也罢。
 
  
 
-[问题]: 从金钱投入上看留学是否不划算？为什么要留学？
-[答案]: 只要不买房，一切都便宜。
+ 
+<br>**问题**: 从金钱投入上看留学是否不划算？为什么要留学？
+**答案**: 只要不买房，一切都便宜。
 
 当然了，也不能买车和结婚。
 
  
 
  
-
-[问题]: 以“我有一个硬邦邦”为开头，能写出什么样的故事？
-[答案]: 对，你是一个大勃勃
-
- 
-
- 
-
-[问题]: 以现在的科技水平，测量长度能精确到什么程度？
-[答案]: 啊。难道不是找个神童把几千万位全部背下来更靠谱吗
+<br>**问题**: 以“我有一个硬邦邦”为开头，能写出什么样的故事？
+**答案**: 对，你是一个大勃勃
 
  
 
  
-
-[问题]: 休斯顿哪里有好吃的螺狮粉？
-[答案]: 德州
-
- 
-
- 
-
-[问题]: 众所周知，“百度知道止于答案，而知乎始于答案”。造成这两种问答平台有如此大差别的原因在于什么？
-[答案]: 百度知道是真的为了答案。知乎是为了回答后的炮，呼呼
+<br>**问题**: 以现在的科技水平，测量长度能精确到什么程度？
+**答案**: 啊。难道不是找个神童把几千万位全部背下来更靠谱吗
 
  
 
  
+<br>**问题**: 休斯顿哪里有好吃的螺狮粉？
+**答案**: 德州
 
-[问题]:会不会有投机者借 AlphaGo 与李世石的胜负来赌谷歌的股价？谷歌的股价会因此如何变动？
+ 
 
-[答案]: 会的。而且如果一旦战胜，就会引起华尔街市场恐慌。
+ 
+<br>**问题**: 众所周知，“百度知道止于答案，而知乎始于答案”。造成这两种问答平台有如此大差别的原因在于什么？
+**答案**: 百度知道是真的为了答案。知乎是为了回答后的炮，呼呼
+
+ 
+
+ 
+<br>**问题**:会不会有投机者借 AlphaGo 与李世石的胜负来赌谷歌的股价？谷歌的股价会因此如何变动？
+
+**答案**: 会的。而且如果一旦战胜，就会引起华尔街市场恐慌。
 
  
 
@@ -15625,9 +14875,8 @@ angeles。
  
 
  
-
-[问题]: 佐治亚州立大学计算机博士（为了？
-[答案]: 佐治亚
+<br>**问题**: 佐治亚州立大学计算机博士（为了？
+**答案**: 佐治亚
 
 哦看错了，还以为是佐治亚理工。 
 
@@ -15636,24 +14885,21 @@ angeles。
  
 
  
-
-[问题]: 佛学是怎样看待时间和空间的？
-[答案]: 佛对于空间和时间的看法是无限可分的。因此这一点比较接近现代物理学的观点。
-
- 
-
- 
-
-[问题]:作为 Android 用户，你会因为仅售 3288RMB 的 iPhone SE 转入苹果阵营吗？
-
-[答案]: 会的。苹果好可爱
+<br>**问题**: 佛学是怎样看待时间和空间的？
+**答案**: 佛对于空间和时间的看法是无限可分的。因此这一点比较接近现代物理学的观点。
 
  
 
  
+<br>**问题**:作为 Android 用户，你会因为仅售 3288RMB 的 iPhone SE 转入苹果阵营吗？
 
-[问题]: 作为一个大一学生，怎么从现在开始为保研清华做准备？
-[答案]: 如果你是985的话，我建议你现在开始为出国读研究生做准备。你会超过绝大部分清华本科和研究生的
+**答案**: 会的。苹果好可爱
+
+ 
+
+ 
+<br>**问题**: 作为一个大一学生，怎么从现在开始为保研清华做准备？
+**答案**: 如果你是985的话，我建议你现在开始为出国读研究生做准备。你会超过绝大部分清华本科和研究生的
 
  
 
@@ -15662,26 +14908,23 @@ angeles。
  
 
  
+<br>**问题**:作为一个大一时c语言程序75分稳过期末考试的学生能在知乎开live 吗？
 
-[问题]:作为一个大一时c语言程序75分稳过期末考试的学生能在知乎开live 吗？
-
-[答案]: 能。而且你可以一次性卖4年，把你每一节课都live出来和大家一起学。直播哦。
+**答案**: 能。而且你可以一次性卖4年，把你每一节课都live出来和大家一起学。直播哦。
 
 注意请不要对号入座
 
  
 
  
-
-[问题]: 作为一个大二的计算机系弱渣应该怎样提高自己的编程能力？
-[答案]: 以轮子哥为榜样，多学一些编译原理。
-
- 
+<br>**问题**: 作为一个大二的计算机系弱渣应该怎样提高自己的编程能力？
+**答案**: 以轮子哥为榜样，多学一些编译原理。
 
  
 
-[问题]: 作为一个比较蠢的普通人是否注定要被精英们剥削？
-[答案]: 你也可以选择不啊。
+ 
+<br>**问题**: 作为一个比较蠢的普通人是否注定要被精英们剥削？
+**答案**: 你也可以选择不啊。
 
 出家 
 
@@ -15692,9 +14935,8 @@ angeles。
  
 
  
-
-[问题]: 作为一名程序员（广义上说是IT从业者），你怎么规划你的职业路径？
-[答案]: 好问题！
+<br>**问题**: 作为一名程序员（广义上说是IT从业者），你怎么规划你的职业路径？
+**答案**: 好问题！
 
 可惜我还没有一步一步往上走。 
 
@@ -15705,17 +14947,15 @@ angeles。
  
 
  
+<br>**问题**: 作为一名计算机专业的研究生，你是否有过退学的经历或者想退学的经历？
 
-[问题]: 作为一名计算机专业的研究生，你是否有过退学的经历或者想退学的经历？
-
-[答案]:这样吧。。除非你要做的是hardware engineer。否则一个cs master一定比cs bs 好很多的。
-
- 
+**答案**:这样吧。。除非你要做的是hardware engineer。否则一个cs master一定比cs bs 好很多的。
 
  
 
-[问题]: 作为一名高三学生，在不久后人生的十字路口该如何选择？
-[答案]: 首先，你长得如何，这决定了你未来走得多远
+ 
+<br>**问题**: 作为一名高三学生，在不久后人生的十字路口该如何选择？
+**答案**: 首先，你长得如何，这决定了你未来走得多远
 
 其次，你家有多少钱，这决定了你未来走得多久 
 
@@ -15740,24 +14980,21 @@ angeles。
  
 
  
-
-[问题]: 作为大一的学生，学自动化以后怎么能像计算机那样赚钱？
-[答案]: 好好去微软。
-
- 
-
- 
-
-[问题]: 作为性工作者，名牌大学毕业是否会享受更高的溢价？
-[答案]: 研究生北大有什么溢价。应该是本科省前十啊。这样招生办的人就会把自己当作性工作者倒贴你了。
+<br>**问题**: 作为大一的学生，学自动化以后怎么能像计算机那样赚钱？
+**答案**: 好好去微软。
 
  
 
  
+<br>**问题**: 作为性工作者，名牌大学毕业是否会享受更高的溢价？
+**答案**: 研究生北大有什么溢价。应该是本科省前十啊。这样招生办的人就会把自己当作性工作者倒贴你了。
 
-[问题]:作为想从事金融行业的高三学生，纽约大学的 Stern 商学院怎么样？
+ 
 
-[答案]: 我理解为什么lz说“不要来打击我了”。
+ 
+<br>**问题**:作为想从事金融行业的高三学生，纽约大学的 Stern 商学院怎么样？
+
+**答案**: 我理解为什么lz说“不要来打击我了”。
 
 把自己的成绩如此坦诚的暴露出来又提出一个特别“简单”的问题（譬如事先也没有准备，调查的），自然会得到一些人的“抨击”。这些抨击可以一笑而过吧。 
 
@@ -15796,17 +15033,15 @@ google apple也不会鸟你。
  
 
  
+<br>**问题**:作为普通人，如何理解德拉吉在 2014 年 6 月初的欧洲央行会议上推出的一揽子货币政策？
 
-[问题]:作为普通人，如何理解德拉吉在 2014 年 6 月初的欧洲央行会议上推出的一揽子货币政策？
-
-[答案]: 作为普通人，如何翻译“一揽子”政策到英文中去？。。。
-
- 
+**答案**: 作为普通人，如何翻译“一揽子”政策到英文中去？。。。
 
  
 
-[问题]: 作为计算机专业学生，最应该学习的课程前五位是什么？
-[答案]: 1，如何说服你的朋友也来学习计算机
+ 
+<br>**问题**: 作为计算机专业学生，最应该学习的课程前五位是什么？
+**答案**: 1，如何说服你的朋友也来学习计算机
 
 2，如何摆脱码农—这一低等技术活蔑称的帽子 
 
@@ -15819,23 +15054,20 @@ google apple也不会鸟你。
  
 
  
-
-[问题]: 作为青年千人计划的一员回国之后是怎样的体验？
-[答案]: 这高知社区要求也太高了吧
-
- 
-
- 
-
-[问题]: 佟大为通过冷凝管加液体错在哪里了？
-[答案]: 一群做实验的屌丝在批评人家高帅富在财务资本势力集团用几百万人民币交换下的一个摆拍，而摆拍的目的就是让更多的人看。这正是一个愿打，一个愿挨。
+<br>**问题**: 作为青年千人计划的一员回国之后是怎样的体验？
+**答案**: 这高知社区要求也太高了吧
 
  
 
  
+<br>**问题**: 佟大为通过冷凝管加液体错在哪里了？
+**答案**: 一群做实验的屌丝在批评人家高帅富在财务资本势力集团用几百万人民币交换下的一个摆拍，而摆拍的目的就是让更多的人看。这正是一个愿打，一个愿挨。
 
-[问题]: 你为什么不喜欢微软公司的产品？
-[答案]: 下面我举出10点例子，是我个人不喜欢微软产品的原因（主要是windows）。微软粉请散开。。：
+ 
+
+ 
+<br>**问题**: 你为什么不喜欢微软公司的产品？
+**答案**: 下面我举出10点例子，是我个人不喜欢微软产品的原因（主要是windows）。微软粉请散开。。：
 
  
 
@@ -15916,56 +15148,49 @@ ui的紫色色调实在是太难看。颜色太深。而且那么些tile的行�
  
 
  
-
-[问题]: 你为什么推荐他人报考华南理工大学？
-[答案]: 如果考不起更好的学校只能这样推荐。
-
- 
-
- 
-
-[问题]: 你为什么最终没有留在天津？
-[答案]: 因为我妹妹不在天津
+<br>**问题**: 你为什么推荐他人报考华南理工大学？
+**答案**: 如果考不起更好的学校只能这样推荐。
 
  
 
  
-
-[问题]:你为什么选择 20.9 % 的 OS X ？
-
-[答案]: 你只做到1%的话，连浙大都上不去
+<br>**问题**: 你为什么最终没有留在天津？
+**答案**: 因为我妹妹不在天津
 
  
 
  
+<br>**问题**:你为什么选择 20.9 % 的 OS X ？
 
-[问题]:你买了iPad pro 吗？
-
-[答案]: 我买了。嗯。
-
-![](https://pic3.zhimg.com/e25680e3b2f65d75df85c46b42a3070e_b.png)
+**答案**: 你只做到1%的话，连浙大都上不去
 
  
 
  
+<br>**问题**:你买了iPad pro 吗？
 
-[问题]: 你们在手机里都把她（他）存成了什么爱称？
-[答案]: 轮轮
+**答案**: 我买了。嗯。
 
- 
-
- 
-
-[问题]: 你会在知乎上收钱写软文广告吗？
-[答案]: 是啊。某个三本欠了我很多钱。
+!****(https://pic3.zhimg.com/e25680e3b2f65d75df85c46b42a3070e_b.png)
 
  
 
  
+<br>**问题**: 你们在手机里都把她（他）存成了什么爱称？
+**答案**: 轮轮
 
-[问题]: 你会如何翻译《三体》的英文名？
+ 
 
-[答案]:A woman who destroyed our world , our race and our entirety 
+ 
+<br>**问题**: 你会在知乎上收钱写软文广告吗？
+**答案**: 是啊。某个三本欠了我很多钱。
+
+ 
+
+ 
+<br>**问题**: 你会如何翻译《三体》的英文名？
+
+**答案**:A woman who destroyed our world , our race and our entirety 
 
  
 
@@ -15994,17 +15219,15 @@ Three Body Di Guo
  
 
  
+<br>**问题**: 你做的最大的可以编译的项目是什么？
 
-[问题]: 你做的最大的可以编译的项目是什么？
-
-[答案]:嗯。我就静静着看着这个问题逐渐变成“谁雇主的代码库更大”。 并且最后进化成“代码库越大越屌”，以及“这些代码都是我写的”的大代码膜拜专题。
-
- 
+**答案**:嗯。我就静静着看着这个问题逐渐变成“谁雇主的代码库更大”。 并且最后进化成“代码库越大越屌”，以及“这些代码都是我写的”的大代码膜拜专题。
 
  
 
-[问题]: 你做过哪些神奇有意思的梦？
-[答案]: 梦见派去外星球执行作战任务；死了之后还有复活时间。
+ 
+<br>**问题**: 你做过哪些神奇有意思的梦？
+**答案**: 梦见派去外星球执行作战任务；死了之后还有复活时间。
 
 果然是以前游戏打多了。但是很逼真。。。。。 
 
@@ -16013,9 +15236,8 @@ Three Body Di Guo
  
 
  
-
-[问题]: 你在听知乎live时，怎样做笔记？
-[答案]: 把笔记分享出来吧。然后可以发在微信公众号上，二次收费。知乎和微信，看谁更流氓，这才是毅种循环。
+<br>**问题**: 你在听知乎live时，怎样做笔记？
+**答案**: 把笔记分享出来吧。然后可以发在微信公众号上，二次收费。知乎和微信，看谁更流氓，这才是毅种循环。
 
  
 
@@ -16036,9 +15258,8 @@ Three Body Di Guo
  
 
  
-
-[问题]: 你对米未传媒马东与奇葩说大牛们（黄执中、马薇薇、胡渐彪、邱晨等）一起创办的《好好说话》怎么看？
-[答案]: 充分的市场竞争下产生新的经济价值挺好。。
+<br>**问题**: 你对米未传媒马东与奇葩说大牛们（黄执中、马薇薇、胡渐彪、邱晨等）一起创办的《好好说话》怎么看？
+**答案**: 充分的市场竞争下产生新的经济价值挺好。。
 
 只是有一点，马东和米发生了什么？ 
 
@@ -16055,30 +15276,26 @@ Three Body Di Guo
  
 
  
-
-[问题]: 你干过最羞耻的事是什么？
-[答案]: 我上台写题发现原来我不会。
-
- 
-
- 
-
-[问题]: 你当年为什么关注曾博？对现在的曾博你想说什么？
-[答案]: 长得再帅一点就好了。虽然本人很萌的
+<br>**问题**: 你干过最羞耻的事是什么？
+**答案**: 我上台写题发现原来我不会。
 
  
 
  
+<br>**问题**: 你当年为什么关注曾博？对现在的曾博你想说什么？
+**答案**: 长得再帅一点就好了。虽然本人很萌的
 
-[问题]: 你心仪的公司拒绝你是怎样的一种体验？
-[答案]: 心如死灰，转世为人
+ 
+
+ 
+<br>**问题**: 你心仪的公司拒绝你是怎样的一种体验？
+**答案**: 心如死灰，转世为人
 
  
 
  
-
-[问题]: 你怎么看待QQ今晚刷新抢红包这件事？
-[答案]: QQ应该这样吧，看广告，抢Q币。Q币兑换现金。
+<br>**问题**: 你怎么看待QQ今晚刷新抢红包这件事？
+**答案**: QQ应该这样吧，看广告，抢Q币。Q币兑换现金。
 
 这样到了春节，没人看春晚，只有人看广告。光广告费就几十亿。此乃互联网的未来。 
 
@@ -16113,27 +15330,24 @@ ____集团，和祖国同庆5_周年
  
 
  
+<br>**问题**:你想对 2016 年说什么？
 
-[问题]:你想对 2016 年说什么？
-
-[答案]: 希望我在新的一年里能够达到和清华毕业生一样的实力和水平，好好学习努力进步。
+**答案**: 希望我在新的一年里能够达到和清华毕业生一样的实力和水平，好好学习努力进步。
 
 虽然名已经没有了，但是希望贵司仔细考虑我的实际水平和长相，不要立即丢掉我的简历。谢谢！
 
  
 
  
+<br>**问题**:你所在的 Trading Floor 是怎样的？
 
-[问题]:你所在的 Trading Floor 是怎样的？
-
-[答案]: 这辈子都无法去trading了。不是数学系的。求折叠
-
- 
+**答案**: 这辈子都无法去trading了。不是数学系的。求折叠
 
  
 
-[问题]: 你是如何发现自己愿意付出10000小时去努力的事情的？
-[答案]: 一件事努力了10000小时居然还没有什么变化，没有变成更有挑战的事情；方法没有升级，升级成更有效率的方法；环境没有变迁，没有让你去更好的地方看到更多机会，转移兴趣，这也是醉了。
+ 
+<br>**问题**: 你是如何发现自己愿意付出10000小时去努力的事情的？
+**答案**: 一件事努力了10000小时居然还没有什么变化，没有变成更有挑战的事情；方法没有升级，升级成更有效率的方法；环境没有变迁，没有让你去更好的地方看到更多机会，转移兴趣，这也是醉了。
 
 或许小学的练书法算是一个吧。 
 
@@ -16142,9 +15356,8 @@ ____集团，和祖国同庆5_周年
  
 
  
-
-[问题]: 你是如何申请上世界名校的？
-[答案]: 1：成为一个一流的程序学生
+<br>**问题**: 你是如何申请上世界名校的？
+**答案**: 1：成为一个一流的程序学生
 
 2：成为一个一流的程序爱好者 
 
@@ -16187,48 +15400,42 @@ gates家。
  
 
  
-
-[问题]: 你是怎样一步一步走向失败的？
-[答案]: 智商这东西确实是出身决定的。在受精卵结合那一瞬间就失败了。
-
- 
-
- 
-
-[问题]: 你最喜欢的化学元素是什么？
-[答案]: 是鸡吧
+<br>**问题**: 你是怎样一步一步走向失败的？
+**答案**: 智商这东西确实是出身决定的。在受精卵结合那一瞬间就失败了。
 
  
 
  
+<br>**问题**: 你最喜欢的化学元素是什么？
+**答案**: 是鸡吧
 
-[问题]: 你最希望知乎增加的功能是什么？
-[答案]: 学习一下stackexchange。让提问者选择最佳答案。另外能否实现积分功能。
+ 
+
+ 
+<br>**问题**: 你最希望知乎增加的功能是什么？
+**答案**: 学习一下stackexchange。让提问者选择最佳答案。另外能否实现积分功能。
 
  
 
  
-
-[问题]: 你最瞧不起哪种人？
-[答案]: 长得丑但是有妹子；
+<br>**问题**: 你最瞧不起哪种人？
+**答案**: 长得丑但是有妹子；
 
 学历低但是工资高
 
  
 
  
-
-[问题]: 你有哪些想想都想去死的经历？
-[答案]: 主要看你自己的觉悟。脸皮厚，智商低，都不会想到死。
+<br>**问题**: 你有哪些想想都想去死的经历？
+**答案**: 主要看你自己的觉悟。脸皮厚，智商低，都不会想到死。
 
 “想死”是圣贤的活动，对自己和自己，自己和他人，自己和世界关系的反思。不是无药可救者的楚楚可怜。因此才有：只有讨论自杀的哲学才是深刻的哲学 这句名言。
 
  
 
  
-
-[问题]: 你的一模考成绩和高考成绩的差距有多少？
-[答案]: 啊。差了70分。
+<br>**问题**: 你的一模考成绩和高考成绩的差距有多少？
+**答案**: 啊。差了70分。
 
 一摸699包括四大名校在内全省第一 
 
@@ -16245,47 +15452,41 @@ gates家。
  
 
  
-
-[问题]: 你的行业领域外行最难理解的概念是什么？
-[答案]: 是真找不到工作
-
- 
+<br>**问题**: 你的行业领域外行最难理解的概念是什么？
+**答案**: 是真找不到工作
 
  
 
-[问题]: 你经历过哪些相声、曲艺、京剧的车祸现场？
+ 
+<br>**问题**: 你经历过哪些相声、曲艺、京剧的车祸现场？
 
-[答案]:我经历过。上次在家乡天津陪 @立党
+**答案**:我经历过。上次在家乡天津陪 @立党
 
 听相声，和一群天津大学的南开大学的山东大学的211朋友泡着澡，嗑着瓜子，团坐在炕上。突然一辆75式吉普车冲进来，把浴池周围的大麻布扯掉了，把男女分开遮羞的大玻璃盖子撞塌了，把二楼场戏的顶梁柱子都撞歪了，司机也不省人事了，车头看起来还挂着几个衣衫褴褛步履维艰的人体。说相声的纷纷跳进澡池子里来，我们不由分说是袜子也没穿就跑了出去。车祸挺严重的，110，120，119都赶了过来，确认伤者身份，联系伤者家属
 
  
 
  
-
-[问题]: 你考名校是为了什么？
-[答案]: 为了接下来更努力才能去清华北大。
-
- 
-
- 
-
-[问题]: 你见过令人愉悦的最高级秀恩爱方式是什么样的？
-[答案]: 是迪迪哥哥和狗在一起的照片，最愉悦。
+<br>**问题**: 你考名校是为了什么？
+**答案**: 为了接下来更努力才能去清华北大。
 
  
 
  
+<br>**问题**: 你见过令人愉悦的最高级秀恩爱方式是什么样的？
+**答案**: 是迪迪哥哥和狗在一起的照片，最愉悦。
 
-[问题]: 你觉得哪家互联网公司的运营是最烂的？
-[答案]: 别的我不知道，知乎的移动客户端卡得一逼
+ 
+
+ 
+<br>**问题**: 你觉得哪家互联网公司的运营是最烂的？
+**答案**: 别的我不知道，知乎的移动客户端卡得一逼
 
  
 
  
-
-[问题]: 你认为四大力学哪个最难学？
-[答案]: 统计力学。
+<br>**问题**: 你认为四大力学哪个最难学？
+**答案**: 统计力学。
 
 太抽象，是真的抽象 
 
@@ -16300,19 +15501,17 @@ gates家。
  
 
  
-
-[问题]: 你身边考上北大、清华的人有哪些特质？
-[答案]: 算了。我真的很伤心
+<br>**问题**: 你身边考上北大、清华的人有哪些特质？
+**答案**: 算了。我真的很伤心
 
 88
 
  
 
  
+<br>**问题**:你通过李笑来的知乎 Live《一小时建立终生受用的阅读操作系统》都收获了哪些有价值信息？
 
-[问题]:你通过李笑来的知乎 Live《一小时建立终生受用的阅读操作系统》都收获了哪些有价值信息？
-
-[答案]: 想法整理在本账号最新的文章中了。
+**答案**: 想法整理在本账号最新的文章中了。
 
  
 
@@ -16363,33 +15562,29 @@ live就是这个理念的最佳实践。
  
 
  
-
-[问题]: 你钓过怎样的鱼？
-[答案]: 大大的鱼。。。
-
- 
-
- 
-
-[问题]: 使用C++的痛苦来自哪里？
-
-[答案]:在学会Java 之前你学不会C++
+<br>**问题**: 你钓过怎样的鱼？
+**答案**: 大大的鱼。。。
 
  
 
  
+<br>**问题**: 使用C++的痛苦来自哪里？
 
-[问题]:使用iPad Pro创作是一种怎样的体验？
+**答案**:在学会Java 之前你学不会C++
 
-[答案]:我的iPad pro到了笔却没有到。iPad pro可以即时预购2天送到，apple pencil却需要1－2周。－－
+ 
+
+ 
+<br>**问题**:使用iPad Pro创作是一种怎样的体验？
+
+**答案**:我的iPad pro到了笔却没有到。iPad pro可以即时预购2天送到，apple pencil却需要1－2周。－－
 
  
 
  
+<br>**问题**:使用OS X开发的优劣势是什么？
 
-[问题]:使用OS X开发的优劣势是什么？
-
-[答案]:优势是可以藐视使用VS开发的C++或者C#程序员。可以和全世界其他（除windows 程序员外）的所有开发者使用各种BSD软件和环境配置，共享互联盛世 
+**答案**:优势是可以藐视使用VS开发的C++或者C#程序员。可以和全世界其他（除windows 程序员外）的所有开发者使用各种BSD软件和环境配置，共享互联盛世 
 
  
 
@@ -16400,16 +15595,14 @@ live就是这个理念的最佳实践。
  
 
  
-
-[问题]: 假如以后人类有超越光速的旅行方法，有没可能从遥远的地方观察到从前的地球？
-[答案]: 为什么要观察到从前的地球。。。你现在不能“观察”到从前的地球吗？发生的事情的信息你都知道，因此即便你飞出去观察到从前的地球，并没有获得任何新的信息啊。。
-
- 
+<br>**问题**: 假如以后人类有超越光速的旅行方法，有没可能从遥远的地方观察到从前的地球？
+**答案**: 为什么要观察到从前的地球。。。你现在不能“观察”到从前的地球吗？发生的事情的信息你都知道，因此即便你飞出去观察到从前的地球，并没有获得任何新的信息啊。。
 
  
 
-[问题]: 假如在某些特殊介质中声速相当快，此时需要考虑相对论效应吗？对于频率很高的声波，需要考虑量子效应吗？
-[答案]: 声音的传播速度快，不代表每个原子的运动很快。。每个原子只需要在本地附近做往复运动。您说的那是声波的相位速度。
+ 
+<br>**问题**: 假如在某些特殊介质中声速相当快，此时需要考虑相对论效应吗？对于频率很高的声波，需要考虑量子效应吗？
+**答案**: 声音的传播速度快，不代表每个原子的运动很快。。每个原子只需要在本地附近做往复运动。您说的那是声波的相位速度。
 
 一个绝对刚体，他的声速可以无穷大。这时候，这个刚体里面的每一个原子基本上根本就没动呢。。 
 
@@ -16418,17 +15611,15 @@ live就是这个理念的最佳实践。
  
 
  
+<br>**问题**: 假如宇宙是个程序，那是否会存在BUG漏洞？
 
-[问题]: 假如宇宙是个程序，那是否会存在BUG漏洞？
-
-[答案]:据说有的bug 呆久了，就是feature
-
- 
+**答案**:据说有的bug 呆久了，就是feature
 
  
 
-[问题]: 假如生命不存在，意识也不存在，宇宙存在的意义／目的是什么？
-[答案]: 宇宙物质的复杂度有很多层次：
+ 
+<br>**问题**: 假如生命不存在，意识也不存在，宇宙存在的意义／目的是什么？
+**答案**: 宇宙物质的复杂度有很多层次：
 
 电子，质子 
 
@@ -16461,55 +15652,48 @@ live就是这个理念的最佳实践。
  
 
  
-
-[问题]: 假如自杀变得极为容易也没有痛苦，世界将会变成什么样？
-[答案]: 我第一个去死啊
-
- 
-
- 
-
-[问题]:假如苹果在 iOS 9.2 封杀非常规手段增加 Storage 的 iPhone，这是侵害权利么？
-
-[答案]: 这是苹果的合法权利。
+<br>**问题**: 假如自杀变得极为容易也没有痛苦，世界将会变成什么样？
+**答案**: 我第一个去死啊
 
  
 
  
+<br>**问题**:假如苹果在 iOS 9.2 封杀非常规手段增加 Storage 的 iPhone，这是侵害权利么？
 
-[问题]: 假如金庸在《鹿鼎记》后继续往下写会怎么写？
-[答案]: 你知道武林外传么。。
-
- 
-
- 
-
-[问题]: 假如高压电线落在水管上，会不会让全城正使用水的人触电？
-[答案]: 可以这样说，如果高压电线碰到了水管，因为水管表面接地，也就是说高压电线碰到了大地；大地是一个无穷大的电容器，因此此刻，高压电线短路，电流流向大地，电流很大以至于高压电线的供电端被烧毁。。。而地球以及地球上的生物（除短路点附近外）都没事
+**答案**: 这是苹果的合法权利。
 
  
 
  
+<br>**问题**: 假如金庸在《鹿鼎记》后继续往下写会怎么写？
+**答案**: 你知道武林外传么。。
 
-[问题]: 假设人的速度和子弹一样，徒手能否抓住子弹？
-[答案]: 实际上放在地球上静止的子弹，就已经和人的速度一样快了（参考地球自转＋公转＋太阳公转＋迎银河系漂移的速度）。
+ 
+
+ 
+<br>**问题**: 假如高压电线落在水管上，会不会让全城正使用水的人触电？
+**答案**: 可以这样说，如果高压电线碰到了水管，因为水管表面接地，也就是说高压电线碰到了大地；大地是一个无穷大的电容器，因此此刻，高压电线短路，电流流向大地，电流很大以至于高压电线的供电端被烧毁。。。而地球以及地球上的生物（除短路点附近外）都没事
+
+ 
+
+ 
+<br>**问题**: 假设人的速度和子弹一样，徒手能否抓住子弹？
+**答案**: 实际上放在地球上静止的子弹，就已经和人的速度一样快了（参考地球自转＋公转＋太阳公转＋迎银河系漂移的速度）。
 
 速度都是相对的。如果子弹速度和人速度一样，那么就是子弹不动。人自然能抓住。当然如果空气朝着子弹和人吹来，吹大风。那么人和子弹都会发热。。
 
  
 
  
-
-[问题]: 假设在我的身上绑一根长度足够长，刚度与强度足够坚韧的绳子，然后我进黑洞，是否有可能在黑洞外的一端能通过拉绳子把我从黑洞中解放出来？
-[答案]: 你怎么不问如果我的JB无限长，能否永远也不被黑洞吸过去？。。。。你在玩全ZHIHU上稍微有点物理背景的人吗。。。
-
- 
+<br>**问题**: 假设在我的身上绑一根长度足够长，刚度与强度足够坚韧的绳子，然后我进黑洞，是否有可能在黑洞外的一端能通过拉绳子把我从黑洞中解放出来？
+**答案**: 你怎么不问如果我的JB无限长，能否永远也不被黑洞吸过去？。。。。你在玩全ZHIHU上稍微有点物理背景的人吗。。。
 
  
 
-[问题]: 假设曾博也和轮子哥开设一样的课程，那么曾博的课程价值多少？
+ 
+<br>**问题**: 假设曾博也和轮子哥开设一样的课程，那么曾博的课程价值多少？
 
-[答案]:这门大纲和c++ primer几乎完全一样的由一个微软非高级工程师（SDE
+**答案**:这门大纲和c++ primer几乎完全一样的由一个微软非高级工程师（SDE
 
 II）网红的入门C++课，能开发到7000+原价的价值。我相信硅谷任何一个高级工程师网红（例如cat chen，邹昕等），至少可以价值2万人民币。 
 
@@ -16532,16 +15716,14 @@ Cat chen等上吧，既然不懂英语的羊肉这么多，学习也要亲手送
  
 
  
-
-[问题]: 假设有一节220V的干电池，手触碰正极会触电吗？
-[答案]: 取决于电池的负极是否接地。
-
- 
+<br>**问题**: 假设有一节220V的干电池，手触碰正极会触电吗？
+**答案**: 取决于电池的负极是否接地。
 
  
 
-[问题]: 做一个性欲强的萌妹子（或其伴侣）是什么体验？
-[答案]: 我不知道。但我要爆料。
+ 
+<br>**问题**: 做一个性欲强的萌妹子（或其伴侣）是什么体验？
+**答案**: 我不知道。但我要爆料。
 
 前室友和一个UIUC来的化学系女博士后结婚了。她很萌很可爱，前室友也很帅很壮，堪称郭靖黄蓉。但。 
 
@@ -16564,16 +15746,14 @@ Cat chen等上吧，既然不懂英语的羊肉这么多，学习也要亲手送
  
 
  
-
-[问题]: 做一件事到底如何判断有没有卵用？
-[答案]: 摸摸自己的卵
-
- 
+<br>**问题**: 做一件事到底如何判断有没有卵用？
+**答案**: 摸摸自己的卵
 
  
 
-[问题]: 健身房有哪些内幕，如何规避？
-[答案]: 和莆田治狐臭治脚臭的游医一样。任何一个可以在全国各地遍地开花的（加盟连锁）行业，其利润不是一般的高，水不是一般的深。
+ 
+<br>**问题**: 健身房有哪些内幕，如何规避？
+**答案**: 和莆田治狐臭治脚臭的游医一样。任何一个可以在全国各地遍地开花的（加盟连锁）行业，其利润不是一般的高，水不是一般的深。
 
  
 
@@ -16590,101 +15770,89 @@ Cat chen等上吧，既然不懂英语的羊肉这么多，学习也要亲手送
  
 
  
-
-[问题]: 傅里叶变换到底是什么意思？
-[答案]: 每年都有大批新生开始新的旅程。。
+<br>**问题**: 傅里叶变换到底是什么意思？
+**答案**: 每年都有大批新生开始新的旅程。。
 
 这些人真是执着
 
  
 
  
+<br>**问题**:像Nginx Node.js 开发者经费从哪来
 
-[问题]:像Nginx Node.js 开发者经费从哪来
-
-[答案]: 微软吧。还有年薪100w的微软富豪们。。。
-
- 
-
- 
-
-[问题]: 像曾老师这样的成功人士，在相亲时和对方都谈什么话题？
-[答案]: 撕轮倍泄是什么意思
+**答案**: 微软吧。还有年薪100w的微软富豪们。。。
 
  
 
  
-
-[问题]: 像此类问题牵扯到什么数学原理？
-[答案]: !(https://pic3.zhimg.com/2c76ecb2643f12b41e6fa303156528ee_b.jpg)
-
-![](https://pic2.zhimg.com/a1796783feb429371d7d0943c38cab9d_b.jpg) 
-
-![](https://pic4.zhimg.com/62733e287ccf950e650c47c5c8e971fb_b.jpg)
+<br>**问题**: 像曾老师这样的成功人士，在相亲时和对方都谈什么话题？
+**答案**: 撕轮倍泄是什么意思
 
  
 
  
+<br>**问题**: 像此类问题牵扯到什么数学原理？
+**答案**: !(https://pic3.zhimg.com/2c76ecb2643f12b41e6fa303156528ee_b.jpg)
 
-[问题]: 像清北复交这样的中国顶级大学比一般的985强在哪？
-[答案]: 强在拥有中国大陆最好的学生。。
+!****(https://pic2.zhimg.com/a1796783feb429371d7d0943c38cab9d_b.jpg) 
+
+!****(https://pic4.zhimg.com/62733e287ccf950e650c47c5c8e971fb_b.jpg)
+
+ 
+
+ 
+<br>**问题**: 像清北复交这样的中国顶级大学比一般的985强在哪？
+**答案**: 强在拥有中国大陆最好的学生。。
 
 我们下辈子再努力，也可以的
 
  
 
  
+<br>**问题**:像老赵或 vczh 这样的牛人，为什么出不了一款像 AngularJS、jQuery 之类的牛逼项目？
 
-[问题]:像老赵或 vczh 这样的牛人，为什么出不了一款像 AngularJS、jQuery 之类的牛逼项目？
-
-[答案]: 大隐隐于世
-
- 
+**答案**: 大隐隐于世
 
  
 
-[问题]: 光为什么会传播热量？
-[答案]: 热有三种传递方式：
+ 
+<br>**问题**: 光为什么会传播热量？
+**答案**: 热有三种传递方式：
 
 对流，传导，和？
 
  
 
  
-
-[问题]: 光为什么总以用时最短的路径传播？
-[答案]: 因为对于光子来说，他看不到其他更慢的路径。
+<br>**问题**: 光为什么总以用时最短的路径传播？
+**答案**: 因为对于光子来说，他看不到其他更慢的路径。
 
 its wave can not sense constructively in other paths.
 
  
 
  
+<br>**问题**: 光入射为什么同时发生折射和反射，而不是只发生其中一种？
 
-[问题]: 光入射为什么同时发生折射和反射，而不是只发生其中一种？
-
-[答案]:补充一个：但满足Brewster 角时，某一种偏振的光子只有折射而没有反射。具体原因和楼上所说的电磁微观谐振子偶计散射理论有关
-
- 
-
- 
-
-[问题]: 光在发生折射和反射时为什么会形成和入射光与界面有关的角度？
-[答案]: 因为在平行界面的所谓“方向”上，电磁场方程具有空间平移不变性。这种平移不变性决定了动量守恒。这种动量守恒决定了光子弹出去和穿透之后的角度。
+**答案**:补充一个：但满足Brewster 角时，某一种偏振的光子只有折射而没有反射。具体原因和楼上所说的电磁微观谐振子偶计散射理论有关
 
  
 
  
+<br>**问题**: 光在发生折射和反射时为什么会形成和入射光与界面有关的角度？
+**答案**: 因为在平行界面的所谓“方向”上，电磁场方程具有空间平移不变性。这种平移不变性决定了动量守恒。这种动量守恒决定了光子弹出去和穿透之后的角度。
 
-[问题]: 光在折射的过程中是否有能量损失？
-[答案]: 有可能有，有可能没有
+ 
+
+ 
+<br>**问题**: 光在折射的过程中是否有能量损失？
+**答案**: 有可能有，有可能没有
 
  
 
  
-
-[问题]: 光子有能量，无质量，无电荷，有自旋，自旋量子数为什么为1？
-[答案]: 自旋量子数可以从经典理论算出来，一个很简单的模型，请参考本人所写：
+<br>**问题**: 光子有能量，无质量，无电荷，有自旋，自旋量子数为什么为1？
+**答案**: 自旋量子数可以从经典理论算出来，一个很简单的模型，请参考本人所写：
 
 SOME PHYSICS _ _ 里的第一篇文章On the linear and spin angular momentum of light  
 
@@ -16693,9 +15861,8 @@ SOME PHYSICS _ _ 里的第一篇文章On the linear and spin angular momentum of
  
 
  
-
-[问题]: 光子这一概念的物理图像如何描述？
-[答案]: 的确很难描述，因为不确定原理，你无法描述一个具有确定频率（波长）的光子在空间中的形态；
+<br>**问题**: 光子这一概念的物理图像如何描述？
+**答案**: 的确很难描述，因为不确定原理，你无法描述一个具有确定频率（波长）的光子在空间中的形态；
 
 总的来说，光都是以波包的形式发射出来的，这个波包在空间上的延展是有限的，因此也叫波列；在空间上的延展也是有限的，因此可以叫做脉冲； **
 
@@ -16710,17 +15877,15 @@ SOME PHYSICS _ _ 里的第一篇文章On the linear and spin angular momentum of
  
 
  
-
-[问题]: 光学信号的空间频谱与空间滤波？
-[答案]: 答案：略
-
- 
+<br>**问题**: 光学信号的空间频谱与空间滤波？
+**答案**: 答案：略
 
  
 
-[问题]:光学工程研究生用 Surface Pro 3 做主力机合适吗
+ 
+<br>**问题**:光学工程研究生用 Surface Pro 3 做主力机合适吗
 
-[答案]: 你想多了。。。。你每天要跑的计算基本应该在你们实验室的服务器上。
+**答案**: 你想多了。。。。你每天要跑的计算基本应该在你们实验室的服务器上。
 
 如果你走在路上还在用平板进行“通信”的话，我觉得你可以换一个手机了。 
 
@@ -16739,16 +15904,14 @@ SOME PHYSICS _ _ 里的第一篇文章On the linear and spin angular momentum of
  
 
  
-
-[问题]: 光学领域有什么常见的常识性错误？
-[答案]: 实验室里面用到的光无一例外都是高斯光束而不是平面波。。
-
- 
+<br>**问题**: 光学领域有什么常见的常识性错误？
+**答案**: 实验室里面用到的光无一例外都是高斯光束而不是平面波。。
 
  
 
-[问题]: 光是如何知道哪条路线最快的，费马原理是不是违背常理呢？
-[答案]: 用拟人的手段解释自然界的事实和物理定律是最有趣但是也最无济于事的办法了。
+ 
+<br>**问题**: 光是如何知道哪条路线最快的，费马原理是不是违背常理呢？
+**答案**: 用拟人的手段解释自然界的事实和物理定律是最有趣但是也最无济于事的办法了。
 
 本来就算不存在人类，宇宙万物也按照自己的规律运转着；那时候谁来测量是不是最短呢？ 
 
@@ -16757,43 +15920,38 @@ SOME PHYSICS _ _ 里的第一篇文章On the linear and spin angular momentum of
  
 
  
-
-[问题]: 光有没有惯性？
-[答案]: 光有惯性。因为他有波长。但是引力似乎也会因此光惯性的变化（引力红移）。
-
- 
+<br>**问题**: 光有没有惯性？
+**答案**: 光有惯性。因为他有波长。但是引力似乎也会因此光惯性的变化（引力红移）。
 
  
 
-[问题]: 光束能否超越膨胀中的宇宙边界
-[答案]: 其实我觉得更值得一问的问题是，光速在宇宙边界和在宇宙中心，因为膨胀本身，是不是本来就不一样＝＝
+ 
+<br>**问题**: 光束能否超越膨胀中的宇宙边界
+**答案**: 其实我觉得更值得一问的问题是，光速在宇宙边界和在宇宙中心，因为膨胀本身，是不是本来就不一样＝＝
 
 期待达人解答
 
  
 
  
-
-[问题]: 光波可以滤掉电场和磁场负半部分吗？
-[答案]: 你说的这个叫做rectification。其本质并没有把负数部分滤掉，而是改变了频域的分量，使得负数部分抵消了。
+<br>**问题**: 光波可以滤掉电场和磁场负半部分吗？
+**答案**: 你说的这个叫做rectification。其本质并没有把负数部分滤掉，而是改变了频域的分量，使得负数部分抵消了。
 
 总的来说，这个没有负数部分的电磁波，已经不是一个单频单色电磁波了。他将会是一系列电磁波的合。要想对光做到这一点，应该要用到自由电子，非线性材料等等。ac也是电磁波，无非是频率低了一点。因此做光频的rectification理论上可以，但是你要知道光频有多高吗。。
 
  
 
  
-
-[问题]: 光电专业各个分支的研究生在美国就业情况怎么样？
-[答案]: 基本无法就业吧=
+<br>**问题**: 光电专业各个分支的研究生在美国就业情况怎么样？
+**答案**: 基本无法就业吧=
 
 当然也有成像做得好的去了oculus / Apple . 不过毕竟是少数精英才能去的地方。大部分人只能写代码
 
  
 
  
-
-[问题]: 光电信息科学与工程专业，觉得课很难，学不好，怎么办？
-[答案]: 本专业是某组织生吞活剥，生搬硬造出来的。它只存在于某些国家（例如苏联）。哈哈哈哈欢迎这辈子被毁。
+<br>**问题**: 光电信息科学与工程专业，觉得课很难，学不好，怎么办？
+**答案**: 本专业是某组织生吞活剥，生搬硬造出来的。它只存在于某些国家（例如苏联）。哈哈哈哈欢迎这辈子被毁。
 
 市场化的国家里，本科只会开设电子电气（EE），生物电子（BioE）和计算机电气（CS，ECE）三门电气课程。 
 
@@ -16808,44 +15966,38 @@ SOME PHYSICS _ _ 里的第一篇文章On the linear and spin angular momentum of
  
 
  
-
-[问题]: 光电探测器的暗电流危害是什么？
-[答案]: 危害是在暗中把你电死。
-
- 
-
- 
-
-[问题]: 光的双缝干涉实验证明光具有波的属性，在这个实验中光波的传播介质是什么呢？
-[答案]: 光波的传播介质可以认为是时空结构本身。因而不论在任何一个参考系中，光速都是一定的（因为参考系的变换协同地改变了时空结构，改变之后的时间，空间坐标带入maxwell方程求解可以得到波速不变的结论）。当然不用这样理解结论不变，这纯粹是物理学家的个人信仰。。
+<br>**问题**: 光电探测器的暗电流危害是什么？
+**答案**: 危害是在暗中把你电死。
 
  
 
  
-
-[问题]: 光的速度为什么那么快？如何超越光速？
-[答案]: 请先搜索已经回答过的问题。
-
- 
-
- 
-
-[问题]: 光能微电脑治疗仪的原理是怎样的？
-[答案]: 利用上世纪10-20年代的量子物理学名词生造商标，捏造功效，天花乱坠地欺骗消费者，最终达到让消费者自觉掏钱的心理治疗之结果。
+<br>**问题**: 光的双缝干涉实验证明光具有波的属性，在这个实验中光波的传播介质是什么呢？
+**答案**: 光波的传播介质可以认为是时空结构本身。因而不论在任何一个参考系中，光速都是一定的（因为参考系的变换协同地改变了时空结构，改变之后的时间，空间坐标带入maxwell方程求解可以得到波速不变的结论）。当然不用这样理解结论不变，这纯粹是物理学家的个人信仰。。
 
  
 
  
+<br>**问题**: 光的速度为什么那么快？如何超越光速？
+**答案**: 请先搜索已经回答过的问题。
 
-[问题]: 光通信方向与光学设计光向，哪个前景更好？
-[答案]: 叫你去浙大。活该。
+ 
+
+ 
+<br>**问题**: 光能微电脑治疗仪的原理是怎样的？
+**答案**: 利用上世纪10-20年代的量子物理学名词生造商标，捏造功效，天花乱坠地欺骗消费者，最终达到让消费者自觉掏钱的心理治疗之结果。
 
  
 
  
+<br>**问题**: 光通信方向与光学设计光向，哪个前景更好？
+**答案**: 叫你去浙大。活该。
 
-[问题]: 光通过很薄的介质的时候，有没有「漏网之鱼」？
-[答案]: 你所说的“
+ 
+
+ 
+<br>**问题**: 光通过很薄的介质的时候，有没有「漏网之鱼」？
+**答案**: 你所说的“
 
 表观速度”本来就是光子波函数的概率描述。在这个描述下，我们无法分析单个光子的行为；但你当然可以利用测不准定理，也就是光子的相位速度和光子的位置之间的测不准定理。如果十分薄，那么dx～thickness，
 
@@ -16858,32 +16010,28 @@ EQUATIONS就会失效；这时候你的等效dielectric constant =1 ，那就是
  
 
  
+<br>**问题**:光速 c 是不是矢量？
 
-[问题]:光速 c 是不是矢量？
-
-[答案]: 在我们现在的物理流形中，光速不是矢量，因为随着参考系的变化，光速不变。在这个意义下，光速是一个标量。
-
- 
-
- 
-
-[问题]: 入门级富二代的职业选择？
-[答案]: 你们要求真高。。。看完此帖，我越发坚定自杀的信念了。我们来生再见。
+**答案**: 在我们现在的物理流形中，光速不是矢量，因为随着参考系的变化，光速不变。在这个意义下，光速是一个标量。
 
  
 
  
+<br>**问题**: 入门级富二代的职业选择？
+**答案**: 你们要求真高。。。看完此帖，我越发坚定自杀的信念了。我们来生再见。
 
-[问题]: 全人类都不再为吃饭工作后，会出现什么情况？
-[答案]: 会出现大家集体用身体上的皮肤交换听live的情况。。
+ 
+
+ 
+<br>**问题**: 全人类都不再为吃饭工作后，会出现什么情况？
+**答案**: 会出现大家集体用身体上的皮肤交换听live的情况。。
 
  
 
  
+<br>**问题**: 全反射的本质是什么？
 
-[问题]: 全反射的本质是什么？
-
-[答案]:andrew shen 
+**答案**:andrew shen 
 
  
 
@@ -16891,43 +16039,43 @@ EQUATIONS就会失效；这时候你的等效dielectric constant =1 ，那就是
 
 mode）。究其原因，就是k波数在平行界面的方向上，两个介质的模式必须相等，才能处处满足边界条件；而在垂直于平行界面的方向上，光密介质中的总k数比较大，因此分解之后，此方向上的k依然是实数；光疏介质中的总k数比较小，分解之后，此方向上的k就是虚数了。一个例子可以说明问题： 
 
-假定真空中，平面波的波数是 ![k_0](https://www.zhihu.com/equation?tex=k_0) 
+假定真空中，平面波的波数是 !**k_0**(https://www.zhihu.com/equation?tex=k_0) 
 
-; 现在有两个介质，介质1的折射率是 ![n_1=3.5](https://www.zhihu.com/equation?tex=n_1%3D3.5) 
+; 现在有两个介质，介质1的折射率是 !**n_1=3.5**(https://www.zhihu.com/equation?tex=n_1%3D3.5) 
 
-, 介质2是 ![n_2=1.5](https://www.zhihu.com/equation?tex=n_2%3D1.5) 
+, 介质2是 !**n_2=1.5**(https://www.zhihu.com/equation?tex=n_2%3D1.5) 
 
 . 现在，此平面波从介质1中以
 
-![\\theta=30](https://www.zhihu.com/equation?tex=%5Ctheta%3D30) 
+!**\\theta=30**(https://www.zhihu.com/equation?tex=%5Ctheta%3D30) 
 
 度的斜入射进入介质2: 
 
 我们可以知道，介质1中，此波平行于界面的波数分量是： 
 
-![k_\\updownarrow =n_1k_0sin\(\\theta\)
+!**k_\\updownarrow =n_1k_0sin\(\\theta\)
 
-=1.75k_0](https://www.zhihu.com/equation?tex=k_%5Cupdownarrow+%3Dn_1k_0sin%28%5Ctheta%29+%3D1.75k_0) 
+=1.75k_0**(https://www.zhihu.com/equation?tex=k_%5Cupdownarrow+%3Dn_1k_0sin%28%5Ctheta%29+%3D1.75k_0) 
 
 介质2中，首激的本征模必须在平行界面拥有相同的波数。那么在垂直界面的方向上，其波数就是： 
 
-![k_\\bot =\\sqrt{\(n_2k_0\)^2-\(1.75k_0\)^2}=0.901388I k_0
+!**k_\\bot =\\sqrt{\(n_2k_0\)^2-\(1.75k_0\)^2}=0.901388I k_0
 
-](https://www.zhihu.com/equation?tex=k_%5Cbot+%3D%5Csqrt%7B%28n_2k_0%29%5E2-%281.75k_0%29%5E2%7D%3D0.901388I+k_0+) 
+**(https://www.zhihu.com/equation?tex=k_%5Cbot+%3D%5Csqrt%7B%28n_2k_0%29%5E2-%281.75k_0%29%5E2%7D%3D0.901388I+k_0+) 
 
 是一个虚数。 
 
 这中模式的含义就是倏逝波，不沿着垂直界面的方向传播（可以理解为不沿着远离界面的方向传播，也就是不传播）。 
 
-容易计算，发生此类模激发的条件，就是当 ![k_\\bot](https://www.zhihu.com/equation?tex=k_%5Cbot) 
+容易计算，发生此类模激发的条件，就是当 !**k_\\bot**(https://www.zhihu.com/equation?tex=k_%5Cbot) 
 
 恰好成为虚数的时候，也就是： 
 
-![k_\\updownarrow=n_2k_0](https://www.zhihu.com/equation?tex=k_%5Cupdownarrow%3Dn_2k_0) 
+!**k_\\updownarrow=n_2k_0**(https://www.zhihu.com/equation?tex=k_%5Cupdownarrow%3Dn_2k_0) 
 
 因此有： 
 
-![\\theta_c=arcsin\(n_2/n_1\)](https://www.zhihu.com/equation?tex=%5Ctheta_c%3Darcsin%28n_2%2Fn_1%29) 
+!**\\theta_c=arcsin\(n_2/n_1\)**(https://www.zhihu.com/equation?tex=%5Ctheta_c%3Darcsin%28n_2%2Fn_1%29) 
 
 . 
 
@@ -16946,18 +16094,16 @@ see also：
  
 
  
-
-[问题]: 全宇宙最高的物体是什么？它是由什么构成的？
-[答案]: ...........
+<br>**问题**: 全宇宙最高的物体是什么？它是由什么构成的？
+**答案**: ...........
 
 呼呼。
 
  
 
  
-
-[问题]: 八十年代改革后，我国腐败现象严重，经济增长率却远高于世界平均水平。别国腐败都经济衰退，为什么中国不同？
-[答案]: 在一个国家，腐败是经济增长的润滑剂
+<br>**问题**: 八十年代改革后，我国腐败现象严重，经济增长率却远高于世界平均水平。别国腐败都经济衰退，为什么中国不同？
+**答案**: 在一个国家，腐败是经济增长的润滑剂
 
  
 
@@ -16966,16 +16112,15 @@ see also：
  
 
  
+<br>**问题**:公司内部可以完全使用 Mac 吗？
 
-[问题]:公司内部可以完全使用 Mac 吗？
-
-[答案]: 这个问题讨论真是激烈。现排名第二的赵董的答案无视了Macintosh同时指代系统硬件和软件两方面这个事实，给出的结论也含有一些谣言，夸大和有些不能自已的主观特性，会对题主进行误导。
+**答案**: 这个问题讨论真是激烈。现排名第二的赵董的答案无视了Macintosh同时指代系统硬件和软件两方面这个事实，给出的结论也含有一些谣言，夸大和有些不能自已的主观特性，会对题主进行误导。
 
  
 
 看过排名第二答案的人，可以看且仅看他写下来的这个自然段： 
 
-![](https://pic3.zhimg.com/6898d31c0278215aea93823f9f8694e6_b.jpg) 
+!****(https://pic3.zhimg.com/6898d31c0278215aea93823f9f8694e6_b.jpg) 
 
 这就是所谓“正经的回答”。 
 
@@ -17037,11 +16182,11 @@ OS X 的格式。因此这种被刻意夸大的差别，实在让人感到很担
 
  
 
-![](https://pic2.zhimg.com/5ebc5f5b0aa03d9ae0c34fd77b7165c1_b.jpg) 
+!****(https://pic2.zhimg.com/5ebc5f5b0aa03d9ae0c34fd77b7165c1_b.jpg) 
 
 打开“customize encoding list”，你可以只勾选iso标准的unicode，这样你以后保存的都是默认被世界人民所支持的国际标准了： 
 
-![](https://pic2.zhimg.com/c8d9508e9d9d51aeb4e06cd966c2a659_b.jpg) 
+!****(https://pic2.zhimg.com/c8d9508e9d9d51aeb4e06cd966c2a659_b.jpg) 
 
 Mac OS X对于不同标准的兼容和支持实际上比基本闭源的windows做的还要好。对答主百忙之中得知一条谣言之后特别激动把这一条提出来，我表示无话可说。 
 
@@ -17049,11 +16194,11 @@ Mac OS X对于不同标准的兼容和支持实际上比基本闭源的windows�
 
 下图是windows 8的“兼容性” 
 
-![](https://pic1.zhimg.com/24da0c57b265d1f43c95b029b74d0dc8_b.jpg) 
+!****(https://pic1.zhimg.com/24da0c57b265d1f43c95b029b74d0dc8_b.jpg) 
 
 如果要看到更多的选择可能需要你去excel里面了，（@李柯 通过安装新的语言包）： 
 
-![](https://pic1.zhimg.com/9cdc037692ff39a665e033c8e3fe094c_b.jpg) 
+!****(https://pic1.zhimg.com/9cdc037692ff39a665e033c8e3fe094c_b.jpg) 
 
 结论 ： _ 谣言 _ ， ** _ 你完全可以放心使用mac发布国标，行标文件。 _ ** 
 
@@ -17083,15 +16228,15 @@ site的嵌入式机器。那么你可以使用Mac。公司内部可以完全使�
 
 ** _ 1，极度轻巧，价格便宜，核心现代，让用户用起来爽的Macbook Air： _ **  
 
-![](https://pic3.zhimg.com/0c2a700891121b58f2e0bd49b84be666_b.jpg) ** _
+!****(https://pic3.zhimg.com/0c2a700891121b58f2e0bd49b84be666_b.jpg) ** _
 
 2，Retina Display，性能强劲，全固态设计的Macbook pro _ **
 
-![](https://pic4.zhimg.com/4094b80a203ed323ab2de064d26a934f_b.jpg) 
+!****(https://pic4.zhimg.com/4094b80a203ed323ab2de064d26a934f_b.jpg) 
 
 ** _ 3，体积逆天（1/8所有市面上在卖的pc 工作站体积），Intel Xeon，工作站级性能和稳定的Mac Pro _ **  
 
-![](https://pic1.zhimg.com/26f70d86452c134558683b18b4d93434_b.jpg) 
+!****(https://pic1.zhimg.com/26f70d86452c134558683b18b4d93434_b.jpg) 
 
 我放出上面三张图，目的是为了辟谣。 
 
@@ -17242,18 +16387,16 @@ _ 但你仍然可以通过remote desktop for mac远程登录pc机。因此，你
  
 
  
+<br>**问题**:关于 Hierarchical Model 的很多定义都是矛盾的，如何理解？
 
-[问题]:关于 Hierarchical Model 的很多定义都是矛盾的，如何理解？
-
-[答案]: 都年收入千万英镑了何必还在知乎问。。
-
- 
+**答案**: 都年收入千万英镑了何必还在知乎问。。
 
  
 
-[问题]: 关于python递归的逻辑困惑？
+ 
+<br>**问题**: 关于python递归的逻辑困惑？
 
-[答案]:当然是先定义完成(Static syntax checking) 再来run
+**答案**:当然是先定义完成(Static syntax checking) 再来run
 
 time啊。。。你要是用java就更明白了。在运行之前，没有人知道你的程序运行顺序是什么，递归啊，顺序啊，都不重要。函数是否定义完成，是在compile的时候会检查的。不仅仅函数是否定义完整，就连type是否匹配，是否初始化，if,
 
@@ -17266,16 +16409,14 @@ time，才出现你这个，运行到一半就跳出去又递归运行自己的�
  
 
  
-
-[问题]: 关于“学霸怎么看待和自己差距较大的学渣”曾博老师的回答哪里可以看到？
-[答案]: 我修改一下就好啊＝＝
-
- 
+<br>**问题**: 关于“学霸怎么看待和自己差距较大的学渣”曾博老师的回答哪里可以看到？
+**答案**: 我修改一下就好啊＝＝
 
  
 
-[问题]: 关于「波函数坍缩」，有没有通俗点的解释？
-[答案]: 波动方程解的物理解释一直以来都是一个哲学问题。
+ 
+<br>**问题**: 关于「波函数坍缩」，有没有通俗点的解释？
+**答案**: 波动方程解的物理解释一直以来都是一个哲学问题。
 
 看起来概率波的表示符合我们所观测的现象。实际上每次观测，你只可能观察到一个唯一的结果，而不是一种模棱两可的结果（因为世界既是波又是物质）。这种观测结果唯一化的过程叫做所谓坍缩。坍缩的意思就是一个原本很多种可能的空间变成了一个只有更少可能的空间。坍塌，缩小的意思。 
 
@@ -17288,10 +16429,9 @@ time，才出现你这个，运行到一半就跳出去又递归运行自己的�
  
 
  
+<br>**问题**: 关于傅里叶变换和冲击函数δ(t)
 
-[问题]: 关于傅里叶变换和冲击函数δ(t)
-
-[答案]:这个比较专业了。不好意思 不知道怎么具体外链小站的内容，但这里应该能解释楼主de问题： 
+**答案**:这个比较专业了。不好意思 不知道怎么具体外链小站的内容，但这里应该能解释楼主de问题： 
 
 量子场论 - 人人小站 _ _ 
 
@@ -17302,16 +16442,14 @@ Dirac and Related Functions. 1
  
 
  
-
-[问题]: 关于共振现象，关于做功的MAX值？
-[答案]: 是的。请搜索共振问题。
-
- 
+<br>**问题**: 关于共振现象，关于做功的MAX值？
+**答案**: 是的。请搜索共振问题。
 
  
 
-[问题]: 关于叫兽易小星、万合天宜：商业化与艺术矛盾吗？
-[答案]: 要知道多少80后同龄人最后只能在外资企业给人打工，叫兽取得的成就已经让人高山仰止。
+ 
+<br>**问题**: 关于叫兽易小星、万合天宜：商业化与艺术矛盾吗？
+**答案**: 要知道多少80后同龄人最后只能在外资企业给人打工，叫兽取得的成就已经让人高山仰止。
 
 如果拍好电影，就可以变成艺术家。这是无数人一辈子也达不到的高度。让这些人作为他的观众，我觉得是适合的。 
 
@@ -17322,10 +16460,9 @@ Dirac and Related Functions. 1
  
 
  
+<br>**问题**: 关于固体理论，有哪些书可以推荐？
 
-[问题]: 关于固体理论，有哪些书可以推荐？
-
-[答案]:对于一个不是做凝聚态理论或者计算的，物理其他专业或者其他学科的同学来说，比较好的教材是ashcroft &
+**答案**:对于一个不是做凝聚态理论或者计算的，物理其他专业或者其他学科的同学来说，比较好的教材是ashcroft &
 
 mermin。这是我见过说得最好的教材；但深度不够； 
 
@@ -17338,9 +16475,8 @@ MIT Physics 6.732 M.S.Dresselhaus
  
 
  
-
-[问题]: 关于正式离开知乎的决定
-[答案]: 大家好，我是大勃勃。也就是小勃勃的小号。
+<br>**问题**: 关于正式离开知乎的决定
+**答案**: 大家好，我是大勃勃。也就是小勃勃的小号。
 
  
 
@@ -17377,16 +16513,14 @@ MIT Physics 6.732 M.S.Dresselhaus
  
 
  
-
-[问题]: 具体如何做gpa才能保持4.0
-[答案]: 去MIT把它们的课全部选完
-
- 
+<br>**问题**: 具体如何做gpa才能保持4.0
+**答案**: 去MIT把它们的课全部选完
 
  
 
-[问题]: 几个解释
-[答案]: 近日来，作为哲学的一个分支，在和伪成功人士作斗争并且取得一些实用理论（称【应用勃学】）可喜进展的同时，我们解决几个勃学基本问题的需求也日益高涨了。
+ 
+<br>**问题**: 几个解释
+**答案**: 近日来，作为哲学的一个分支，在和伪成功人士作斗争并且取得一些实用理论（称【应用勃学】）可喜进展的同时，我们解决几个勃学基本问题的需求也日益高涨了。
 
  
 
@@ -17485,40 +16619,35 @@ MIT Physics 6.732 M.S.Dresselhaus
  
 
  
+<br>**问题**:几成 PhD 最终会成为科研人员？
 
-[问题]:几成 PhD 最终会成为科研人员？
-
-[答案]: 可惜？干点对社会有用的事才是不可惜。。
-
- 
-
- 
-
-[问题]: 出国本科读物理，有哪些可以提前准备，或者提前学习的东西？
-[答案]: 建议你自学一些必要的计算机知识。
+**答案**: 可惜？干点对社会有用的事才是不可惜。。
 
  
 
  
+<br>**问题**: 出国本科读物理，有哪些可以提前准备，或者提前学习的东西？
+**答案**: 建议你自学一些必要的计算机知识。
 
-[问题]: 分部积分是什么？
-[答案]: 真可怕。
+ 
+
+ 
+<br>**问题**: 分部积分是什么？
+**答案**: 真可怕。
 
 这鱼长得
 
  
 
  
-
-[问题]: 刚在美国参加工作，应当如何理财？
-[答案]: 送给我吧。我帮你理人
-
- 
+<br>**问题**: 刚在美国参加工作，应当如何理财？
+**答案**: 送给我吧。我帮你理人
 
  
 
-[问题]: 到底是选择重要还是努力重要？
-[答案]: 他父母不努力，他也无法有钱去加州社区读书。可见，你父母不努力，没出息。没出息，还生出了你。我建议你把他们抓过来质问，为什么你们这么穷。这么穷还生了你。如果我是你，如果我的一生都被父母的能力所限制，我现在就去出家。
+ 
+<br>**问题**: 到底是选择重要还是努力重要？
+**答案**: 他父母不努力，他也无法有钱去加州社区读书。可见，你父母不努力，没出息。没出息，还生出了你。我建议你把他们抓过来质问，为什么你们这么穷。这么穷还生了你。如果我是你，如果我的一生都被父母的能力所限制，我现在就去出家。
 
 俗话说，龙生龙，凤生凤，老鼠的孩子会打洞。既然父母没财力，没眼界，没见地，孩子没办法去念硕士也是合情合理的。 
 
@@ -17531,9 +16660,8 @@ mit念）。在这个时候，根本不是选择的问题，而是你无法和�
  
 
  
-
-[问题]: 刷leetcode对去北美找工作面试真的帮助很大吗？对面试国内的公司比如bat有没有帮助？
-[答案]: 你反反复复刷3次，并且把算法书，教材看一次。最好你是CS专业的把课内容复习一次。基本算法这个内容过了。
+<br>**问题**: 刷leetcode对去北美找工作面试真的帮助很大吗？对面试国内的公司比如bat有没有帮助？
+**答案**: 你反反复复刷3次，并且把算法书，教材看一次。最好你是CS专业的把课内容复习一次。基本算法这个内容过了。
 
 但没有公司只面试算法TT。当然算法是底线。 
 
@@ -17542,41 +16670,36 @@ mit念）。在这个时候，根本不是选择的问题，而是你无法和�
  
 
  
-
-[问题]: 前端程序员，游戏程序员，深度学习程序员三者相比谁更有前景？
-[答案]: 评价下这几首诗吧=
-
- 
+<br>**问题**: 前端程序员，游戏程序员，深度学习程序员三者相比谁更有前景？
+**答案**: 评价下这几首诗吧=
 
  
 
-[问题]: 剑桥大学物理系的教授能不能研究一下人体发出的声波能在空中传播多远？？？
-[答案]: 我己经举报了。
+ 
+<br>**问题**: 剑桥大学物理系的教授能不能研究一下人体发出的声波能在空中传播多远？？？
+**答案**: 我己经举报了。
 
 我是说这个用户。这么低俗的问题，拉低了我们的形象。
 
  
 
  
+<br>**问题**: 力的分解这一思想是如何被提出来的？
 
-[问题]: 力的分解这一思想是如何被提出来的？
-
-[答案]:这一思想来自于推导NEWTON’S LAW的矢量分解，线性代数和拓扑学。总的来说都是数学。
-
- 
-
- 
-
-[问题]: 办学水平要多高才能枪毙别的专业呢？
-[答案]: 你还是去和轮子哥玩吧
+**答案**:这一思想来自于推导NEWTON’S LAW的矢量分解，线性代数和拓扑学。总的来说都是数学。
 
  
 
  
+<br>**问题**: 办学水平要多高才能枪毙别的专业呢？
+**答案**: 你还是去和轮子哥玩吧
 
-[问题]: 加州大学伯克利分校有哪些不宜推荐的餐馆？
+ 
 
-[答案]:北门的 TC garden :
+ 
+<br>**问题**: 加州大学伯克利分校有哪些不宜推荐的餐馆？
+
+**答案**:北门的 TC garden :
 
 世界最大过期腐败的肉类集散地。去吃饭的中国人只能说是饥不择食。某些中餐馆的特点就是肉给的多但都是烂肉。而菜，根本就没有炒过。味道主要靠最后的勾芡。一肚子味精酱油。 
 
@@ -17611,18 +16734,16 @@ express。这些都是新移民办的新式中餐，比文革前的港式中餐�
  
 
  
+<br>**问题**:加州大学伯克利分校的summer school怎么样
 
-[问题]:加州大学伯克利分校的summer school怎么样
-
-[答案]: 可以去选CS61C。学完后可以教我
-
- 
+**答案**: 可以去选CS61C。学完后可以教我
 
  
 
-[问题]:加州靠近太平洋 海滩有这么多 为什么会发生干旱？
+ 
+<br>**问题**:加州靠近太平洋 海滩有这么多 为什么会发生干旱？
 
-[答案]: 干旱主要是说降雨少，淡水湖少，淡水河少。
+**答案**: 干旱主要是说降雨少，淡水湖少，淡水河少。
 
 你在太平洋中央也是会渴死的。那么重的盐，简直就是液态沙漠。 
 
@@ -17631,10 +16752,9 @@ express。这些都是新移民办的新式中餐，比文革前的港式中餐�
  
 
  
+<br>**问题**: 动量守恒与能量守恒相矛盾吗？
 
-[问题]: 动量守恒与能量守恒相矛盾吗？
-
-[答案]:_ 看到有如此多人关注，未免有所疏漏而误人子弟，我决心把回答做的更完善些： _ 
+**答案**:_ 看到有如此多人关注，未免有所疏漏而误人子弟，我决心把回答做的更完善些： _ 
 
  
 
@@ -17671,9 +16791,8 @@ d，位移和时间平移不变都不存在的系统，能量和动量都不守�
  
 
  
-
-[问题]: 勃勃为什么没有关注号称勃学的领军人物的徐老师呢？是因为徐老师是私立二本的学生的原因吗？
-[答案]: 关注了。
+<br>**问题**: 勃勃为什么没有关注号称勃学的领军人物的徐老师呢？是因为徐老师是私立二本的学生的原因吗？
+**答案**: 关注了。
 
 不好意思平时接触太多都忘记还需要关注知乎账号了。 
 
@@ -17684,9 +16803,8 @@ d，位移和时间平移不变都不存在的系统，能量和动量都不守�
  
 
  
-
-[问题]: 勃勃每天就黑轮子哥，为什么不发篇paper或者写个开源证明自己比轮子哥屌呢？
-[答案]: 找到工作和工程师的级别也可以说明问题的吧。
+<br>**问题**: 勃勃每天就黑轮子哥，为什么不发篇paper或者写个开源证明自己比轮子哥屌呢？
+**答案**: 找到工作和工程师的级别也可以说明问题的吧。
 
 SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。。 
 
@@ -17695,40 +16813,35 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 勃勃的经济学是什么水平？
-[答案]: 勃学还没开经济学课程
-
- 
-
- 
-
-[问题]: 勃失败、琴超都是曾博的小号吗？
-[答案]: 不
+<br>**问题**: 勃勃的经济学是什么水平？
+**答案**: 勃学还没开经济学课程
 
  
 
  
+<br>**问题**: 勃失败、琴超都是曾博的小号吗？
+**答案**: 不
 
-[问题]: 勃学与屌丝文化有何异同？
-[答案]: 或请参看：
+ 
+
+ 
+<br>**问题**: 勃学与屌丝文化有何异同？
+**答案**: 或请参看：
 
 知乎专栏
 
  
 
  
+<br>**问题**: 勃学家群体智商学历都高于轮教徒，但是为何勃学家总是自称失败人士而轮教徒自诩为成功人士？
 
-[问题]: 勃学家群体智商学历都高于轮教徒，但是为何勃学家总是自称失败人士而轮教徒自诩为成功人士？
-
-[答案]:Stay foolish, stay hungry , stay Boism
-
- 
+**答案**:Stay foolish, stay hungry , stay Boism
 
  
 
-[问题]: 勃学是什么？
-[答案]: 勃学是哲学的一个分支。
+ 
+<br>**问题**: 勃学是什么？
+**答案**: 勃学是哲学的一个分支。
 
  
 
@@ -17745,9 +16858,8 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 勃学有可能遭到知乎官方的打压吗，如果有可能的话勃学家们该如何应对呢？
-[答案]: 勃学家门首先应该从生活中，经验里，知乎live上总结提炼抽取一些有价值的，生命力强的勃学思维，整理成册。现在勃学最主要的矛盾是日新月异的成功人士面貌、成功人士道路和落后的勃学理论之间的矛盾。
+<br>**问题**: 勃学有可能遭到知乎官方的打压吗，如果有可能的话勃学家们该如何应对呢？
+**答案**: 勃学家门首先应该从生活中，经验里，知乎live上总结提炼抽取一些有价值的，生命力强的勃学思维，整理成册。现在勃学最主要的矛盾是日新月异的成功人士面貌、成功人士道路和落后的勃学理论之间的矛盾。
 
 勃学的核心理论亟需一批水平高的富农，见过西方那一套的理论家总结。如果没有这一套核心理论作为法宝，勃学也只能沦为地摊笑话。 
 
@@ -17756,16 +16868,14 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 勃学本身就是一种精英主义？
-[答案]: 等我自杀那一天你就不会这么觉得了
-
- 
+<br>**问题**: 勃学本身就是一种精英主义？
+**答案**: 等我自杀那一天你就不会这么觉得了
 
  
 
-[问题]: 勃学的live观点：行动纲领草案
-[答案]: 背景：
+ 
+<br>**问题**: 勃学的live观点：行动纲领草案
+**答案**: 背景：
 
  
 
@@ -17812,33 +16922,29 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 北京人和上海人都曾经被全国鄙视，但为什么现在上海人的口碑越来越好，而北京人的名声越来越更坏？
-[答案]: 可能上海越来越开放，发达，与国际接轨；
+<br>**问题**: 北京人和上海人都曾经被全国鄙视，但为什么现在上海人的口碑越来越好，而北京人的名声越来越更坏？
+**答案**: 可能上海越来越开放，发达，与国际接轨；
 
 而北京越来越封闭，禁锢，每天都是xx蓝。
 
  
 
  
+<br>**问题**:北京外国语大学、外交学院 和南京大学 浙大选哪个？
 
-[问题]:北京外国语大学、外交学院 和南京大学 浙大选哪个？
-
-[答案]: 反正不要去上海＝
-
- 
-
- 
-
-[问题]: 北大清华每年会收多少IMO，IPhO获奖者？
-[答案]: 国际金牌体现智商
+**答案**: 反正不要去上海＝
 
  
 
  
+<br>**问题**: 北大清华每年会收多少IMO，IPhO获奖者？
+**答案**: 国际金牌体现智商
 
-[问题]: 北清复交是中国最好的四所大学吗？
-[答案]: 问学校的排名呢，就和问你老板的工资一样
+ 
+
+ 
+<br>**问题**: 北清复交是中国最好的四所大学吗？
+**答案**: 问学校的排名呢，就和问你老板的工资一样
 
 你找死呢？ 
 
@@ -17863,24 +16969,21 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 北清非金融专业VS复交金融专业，哪个更容易进投行？
-[答案]: 复旦。
-
- 
-
- 
-
-[问题]: 北美理论物理博士毕业以后的前景要远好于实验物理（主要是凝聚态和光学）博士的吗（包括转行和不转行）？
-[答案]: 做理论的跟着大牛导师的都觉得自己很屌。觉得自己屌到不行，找工作自然不在话下啦
+<br>**问题**: 北清非金融专业VS复交金融专业，哪个更容易进投行？
+**答案**: 复旦。
 
  
 
  
+<br>**问题**: 北美理论物理博士毕业以后的前景要远好于实验物理（主要是凝聚态和光学）博士的吗（包括转行和不转行）？
+**答案**: 做理论的跟着大牛导师的都觉得自己很屌。觉得自己屌到不行，找工作自然不在话下啦
 
-[问题]:十五言这样赤裸裸地抄袭 Medium，能被人们接受么？
+ 
 
-[答案]: 搞科学，喜欢知识的人，会去看果壳？
+ 
+<br>**问题**:十五言这样赤裸裸地抄袭 Medium，能被人们接受么？
+
+**答案**: 搞科学，喜欢知识的人，会去看果壳？
 
  
 
@@ -17893,17 +16996,15 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
+<br>**问题**: 十六进制的ascii码怎么转成十六进制呢？（python）
 
-[问题]: 十六进制的ascii码怎么转成十六进制呢？（python）
-
-[答案]:Split , 读元素 算int , 组合
-
- 
+**答案**:Split , 读元素 算int , 组合
 
  
 
-[问题]: 十年前的这个夏秋之交，曾博是如何考虑自己未来的？
-[答案]: 那个春夏之秋？
+ 
+<br>**问题**: 十年前的这个夏秋之交，曾博是如何考虑自己未来的？
+**答案**: 那个春夏之秋？
 
 我已经注定了失败的未来。 
 
@@ -17912,24 +17013,21 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 华东五校的差生的生活和前途是怎样的
-[答案]: 我不知道。我只知道只要你努力，就可以去微软。另外，一定要把java学得好好的。
-
- 
-
- 
-
-[问题]: 华南理工大学就读给你带来的成长是什么？
-[答案]: 带来了c＋＋，带来了c＃，带来了轮子。带来了小轮子。
+<br>**问题**: 华东五校的差生的生活和前途是怎样的
+**答案**: 我不知道。我只知道只要你努力，就可以去微软。另外，一定要把java学得好好的。
 
  
 
  
+<br>**问题**: 华南理工大学就读给你带来的成长是什么？
+**答案**: 带来了c＋＋，带来了c＃，带来了轮子。带来了小轮子。
 
-[问题]: 单体生育是不是人类进化最后一个需要解决的问题？
+ 
 
-[答案]:性和生育完全分离后，人类社会将发生哪些剧变？ - 婚姻 
+ 
+<br>**问题**: 单体生育是不是人类进化最后一个需要解决的问题？
+
+**答案**:性和生育完全分离后，人类社会将发生哪些剧变？ - 婚姻 
 
  
 
@@ -17938,10 +17036,9 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
+<br>**问题**: 单纯从经济来的角度看，办奥运会到底是亏还是赚？
 
-[问题]: 单纯从经济来的角度看，办奥运会到底是亏还是赚？
-
-[答案]:我觉得利大于弊。有助于提高中国底层人民的素质。这样以后方便google facebook 入华，让中共的统治合法性得到提升。 
+**答案**:我觉得利大于弊。有助于提高中国底层人民的素质。这样以后方便google facebook 入华，让中共的统治合法性得到提升。 
 
 要知道正因为中国还有相当于美国人口总数的傻子因此才有那极少数人坑蒙拐骗的发家致富。也正因为有这么一群人极低的收入需求，才有了那极少数人偏安一隅自由潇洒。 
 
@@ -17958,9 +17055,8 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 南方人听得懂北方相声吗？
-[答案]: 奇志大兵。冯巩葛优。作为一个南方人，我听的很清楚，很懂。
+<br>**问题**: 南方人听得懂北方相声吗？
+**答案**: 奇志大兵。冯巩葛优。作为一个南方人，我听的很清楚，很懂。
 
  
 
@@ -17969,9 +17065,8 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 南方这么多年没供暖都熬过来了，为什么这两年供暖的呼声突然涨高？
-[答案]: 也只有中国这个纬度跨度如此大的国家存在这么统一的四季分明了。
+<br>**问题**: 南方这么多年没供暖都熬过来了，为什么这两年供暖的呼声突然涨高？
+**答案**: 也只有中国这个纬度跨度如此大的国家存在这么统一的四季分明了。
 
  
 
@@ -17984,16 +17079,14 @@ SDEII同等或更高级别的程序员在湾区有上万人我不是乱说的。
  
 
  
-
-[问题]: 历史上谁是最不幸的物理学家？为什么？
-[答案]: 我，因为我还在知乎上回答问题
-
- 
+<br>**问题**: 历史上谁是最不幸的物理学家？为什么？
+**答案**: 我，因为我还在知乎上回答问题
 
  
 
-[问题]: 厕所奇遇记
-[答案]: 不行，我还是得叙述的清楚一点。
+ 
+<br>**问题**: 厕所奇遇记
+**答案**: 不行，我还是得叙述的清楚一点。
 
  
 
@@ -18020,9 +17113,8 @@ shirt可是还是长得比我帅的扎克伯格。他迷一样的自信，打开
  
 
  
-
-[问题]: 原初引力波的发现在科学上有多大的意义？
-[答案]: 没有什么实际意义。主要是理论上的意义。我们再次庆祝了爱因斯坦。
+<br>**问题**: 原初引力波的发现在科学上有多大的意义？
+**答案**: 没有什么实际意义。主要是理论上的意义。我们再次庆祝了爱因斯坦。
 
  
 
@@ -18039,10 +17131,9 @@ shirt可是还是长得比我帅的扎克伯格。他迷一样的自信，打开
  
 
  
+<br>**问题**: 原子是由等量的质子与电子构成的，电子与质子总有相对位置，为什么原子总是呈电中性？
 
-[问题]: 原子是由等量的质子与电子构成的，电子与质子总有相对位置，为什么原子总是呈电中性？
-
-[答案]:电中性说的是1阶monopole 的（或者0阶）。当然原子核有dipole, quadrupole . 这都是电荷分布不均匀导致的。 
+**答案**:电中性说的是1阶monopole 的（或者0阶）。当然原子核有dipole, quadrupole . 这都是电荷分布不均匀导致的。 
 
  
 
@@ -18051,10 +17142,9 @@ shirt可是还是长得比我帅的扎克伯格。他迷一样的自信，打开
  
 
  
+<br>**问题**: 原子跃迁的秘密
 
-[问题]: 原子跃迁的秘密
-
-[答案]:
+**答案**:
 
  
 
@@ -18096,7 +17186,7 @@ _ 原子见到光，便会了跃迁 _
 
  
 
-![](https://pic2.zhimg.com/a0b147c466e711b7a50ecc1ef314dedd_b.jpg) 
+!****(https://pic2.zhimg.com/a0b147c466e711b7a50ecc1ef314dedd_b.jpg) 
 
  
 
@@ -18168,7 +17258,7 @@ _ 原子见到光，便会了跃迁 _
 
  
 
-![](https://pic1.zhimg.com/dd76c4a32edc9e7a77a8322d6beeb0d4_b.jpg) 
+!****(https://pic1.zhimg.com/dd76c4a32edc9e7a77a8322d6beeb0d4_b.jpg) 
 
  
 
@@ -18182,7 +17272,7 @@ _ **
 
  
 
-![](https://pic4.zhimg.com/e190b4e2d52c8b8826cad77172a474f3_b.jpg) 
+!****(https://pic4.zhimg.com/e190b4e2d52c8b8826cad77172a474f3_b.jpg) 
 
  
 
@@ -18200,7 +17290,7 @@ _ ** 3.1 L=0, ml=0: ** _
 
  
 
-![](https://pic2.zhimg.com/04be314ab49298a0e567714fac63c941_b.jpg)
+!****(https://pic2.zhimg.com/04be314ab49298a0e567714fac63c941_b.jpg)
 
  
 
@@ -18216,7 +17306,7 @@ _ ** 3.1 L=0, ml=0: ** _
 
  
 
-![](https://pic2.zhimg.com/1cc199aeeff56d9c85f939c8a377a741_b.jpg) 
+!****(https://pic2.zhimg.com/1cc199aeeff56d9c85f939c8a377a741_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18228,7 +17318,7 @@ _ ** 3.3 L=1, ml=1: ** _
 
  
 
-![](https://pic4.zhimg.com/0c262cb5d4b7a694b8ee40d2ee0ff0f3_b.jpg) 
+!****(https://pic4.zhimg.com/0c262cb5d4b7a694b8ee40d2ee0ff0f3_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18238,7 +17328,7 @@ _ ** 3.3 L=1, ml=1: ** _
 
  
 
-![](https://pic3.zhimg.com/af137a868a168c09c4f85f278c48890a_b.jpg) 
+!****(https://pic3.zhimg.com/af137a868a168c09c4f85f278c48890a_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18248,7 +17338,7 @@ _ ** 3.3 L=1, ml=1: ** _
 
  
 
-![](https://pic4.zhimg.com/39fc2c6de48f833574249ce5651c3c8b_b.jpg) 
+!****(https://pic4.zhimg.com/39fc2c6de48f833574249ce5651c3c8b_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18258,7 +17348,7 @@ _ ** 3.6 L=2, ml=1: ** _
 
  
 
-![](https://pic1.zhimg.com/8a46499386ea55ef81aa1fb11fc5a580_b.jpg) 
+!****(https://pic1.zhimg.com/8a46499386ea55ef81aa1fb11fc5a580_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18268,7 +17358,7 @@ _ ** 3.7 L=2, ml=2: ** _
 
  
 
-![](https://pic4.zhimg.com/6e836ee3b78dbfcbe834366b06a775e7_b.jpg) 
+!****(https://pic4.zhimg.com/6e836ee3b78dbfcbe834366b06a775e7_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18278,7 +17368,7 @@ _ ** 3.7 L=2, ml=2: ** _
 
  
 
-![](https://pic2.zhimg.com/d79bba85053598df8068eef4c60e24a1_b.jpg) 
+!****(https://pic2.zhimg.com/d79bba85053598df8068eef4c60e24a1_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18288,7 +17378,7 @@ _ ** 3.9 L=3, ml=1: ** _
 
  
 
-![](https://pic2.zhimg.com/e03eafd470f53e080a4da2d9d38d2789_b.jpg) 
+!****(https://pic2.zhimg.com/e03eafd470f53e080a4da2d9d38d2789_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18298,7 +17388,7 @@ _ ** 3.9 L=3, ml=1: ** _
 
  
 
-![](https://pic1.zhimg.com/57b9a826e3fb655b3c5c122a2b9710b8_b.jpg) 
+!****(https://pic1.zhimg.com/57b9a826e3fb655b3c5c122a2b9710b8_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18308,7 +17398,7 @@ _ ** 3.9 L=3, ml=1: ** _
 
  
 
-![](https://pic1.zhimg.com/7d9917a24180bae8d4995003eb64ff50_b.jpg) 
+!****(https://pic1.zhimg.com/7d9917a24180bae8d4995003eb64ff50_b.jpg) 
 
 点击查看 gif _ _ 
 
@@ -18328,7 +17418,7 @@ _ ** 3.9 L=3, ml=1: ** _
 
  
 
-![](https://pic1.zhimg.com/e6ad2801b2024675c07eb6d82b62e324_b.jpg) gif _ _ 
+!****(https://pic1.zhimg.com/e6ad2801b2024675c07eb6d82b62e324_b.jpg) gif _ _ 
 
  
 
@@ -18346,7 +17436,7 @@ _ ** 3.9 L=3, ml=1: ** _
 
  
 
-![](https://pic1.zhimg.com/11e1f707588a8afd0a7e4f595a69b9a8_b.jpg) 
+!****(https://pic1.zhimg.com/11e1f707588a8afd0a7e4f595a69b9a8_b.jpg) 
 
 gif _ _ 
 
@@ -18360,7 +17450,7 @@ gif _ _
 
  
 
-![](https://pic2.zhimg.com/d86338b97fa4a7af3a71891454bf3399_b.jpg) 
+!****(https://pic2.zhimg.com/d86338b97fa4a7af3a71891454bf3399_b.jpg) 
 
 gif _ _ 
 
@@ -18380,7 +17470,7 @@ gif _ _
 
  
 
-![](https://pic1.zhimg.com/f08280dd8b3bee52a299dfd7caf02ecc_b.jpg) gif _ _ 
+!****(https://pic1.zhimg.com/f08280dd8b3bee52a299dfd7caf02ecc_b.jpg) gif _ _ 
 
  
 
@@ -18400,7 +17490,7 @@ gif _ _
 
  
 
-![](https://pic1.zhimg.com/19bac974eb68365910c3222f7db633d0_b.jpg) gif _ _ 
+!****(https://pic1.zhimg.com/19bac974eb68365910c3222f7db633d0_b.jpg) gif _ _ 
 
  
 
@@ -18408,7 +17498,7 @@ _ ** （ml=2） ** _
 
  
 
-![](https://pic3.zhimg.com/000bea734fe70e8ed3b67bbcdf2aa262_b.jpg) gif _ _ 
+!****(https://pic3.zhimg.com/000bea734fe70e8ed3b67bbcdf2aa262_b.jpg) gif _ _ 
 
  
 
@@ -18430,7 +17520,7 @@ _ ** （ml=2） ** _
 
  
 
-![](https://pic1.zhimg.com/5988bbc571ea987c1ac07216361c3814_b.jpg) gif _ _ 
+!****(https://pic1.zhimg.com/5988bbc571ea987c1ac07216361c3814_b.jpg) gif _ _ 
 
  
 
@@ -18442,9 +17532,9 @@ _ ** （ml=2） ** _
 
  
 
-![](https://pic1.zhimg.com/3a33765eec9d7ac77da30fa0edad46bc_b.jpg) gif _ _ 
+!****(https://pic1.zhimg.com/3a33765eec9d7ac77da30fa0edad46bc_b.jpg) gif _ _ 
 
-![](https://pic3.zhimg.com/1cebcceaeebb5b6e45b479b09d26d9a2_b.jpg) gif _ _ 
+!****(https://pic3.zhimg.com/1cebcceaeebb5b6e45b479b09d26d9a2_b.jpg) gif _ _ 
 
  
 
@@ -18462,7 +17552,7 @@ _ ** （ml=2） ** _
 
  
 
-![](https://pic2.zhimg.com/d4050425978f69f58de3eee23f7f33cd_b.jpg) 
+!****(https://pic2.zhimg.com/d4050425978f69f58de3eee23f7f33cd_b.jpg) 
 
  
 
@@ -18484,7 +17574,7 @@ _ ** （ml=2） ** _
 
  
 
-![](https://pic1.zhimg.com/fe6aff9d2220b3fd45527dfd3a9f0a80_b.jpg) 
+!****(https://pic1.zhimg.com/fe6aff9d2220b3fd45527dfd3a9f0a80_b.jpg) 
 
  
 
@@ -18528,7 +17618,7 @@ time。这些结论都和爱因斯坦的公式完全吻合［2］。
 
  
 
-![](https://pic1.zhimg.com/43ef0620fd656fca5c0c315185aaf3c8_b.jpg) 
+!****(https://pic1.zhimg.com/43ef0620fd656fca5c0c315185aaf3c8_b.jpg) 
 
  
 
@@ -18561,9 +17651,8 @@ Bo Zeng
  
 
  
-
-[问题]: 原子轨道是原子的波函数，还是电子的波函数？
-[答案]: 你所说的原子轨道指的是原子静止下，电子量子化轨道产生的原子能级。
+<br>**问题**: 原子轨道是原子的波函数，还是电子的波函数？
+**答案**: 你所说的原子轨道指的是原子静止下，电子量子化轨道产生的原子能级。
 
 多电子原子（比如双电子），其能级必须用两个电子的组合来表示。之所以可以这样表示，因为多电子的波函数空间是组成他的各个单电子函数hilbert空间的张量量积。这一点（张量乘积）可从多电子体系的薛定锷方程看出。基态可以用variational
 
@@ -18578,13 +17667,12 @@ method
  
 
  
-
-[问题]: 原来读后感也可以开live
-[答案]: 今天我看到了这样一个live：
+<br>**问题**: 原来读后感也可以开live
+**答案**: 今天我看到了这样一个live：
 
  
 
-![](http://pic1.zhimg.com/v2-83cc08f5d242a38febd064229e90775c_b.png) 
+!****(http://pic1.zhimg.com/v2-83cc08f5d242a38febd064229e90775c_b.png) 
 
 如果说，“我会给出一个系统的解释”还属于这位Musk传读者无视人外有人之个性发挥的话，“解放了古希腊的 ** 先贤 ** ，成为跨界之 ** 神 **
 
@@ -18655,48 +17743,42 @@ musk在什么时候说过他成功的秘诀是第一性原理；他是什么时�
  
 
  
+<br>**问题**:去苹果公司 (Apple) 总部面试应该如何着装？
 
-[问题]:去苹果公司 (Apple) 总部面试应该如何着装？
-
-[答案]: 求问是什么硬件职位。。
-
- 
-
- 
-
-[问题]: 参与阿里巴巴集团新员工的破冰是一种什么样的体验？
-[答案]: 我觉得很好啊。既不像美国兄弟会那样裸奔洗澡打飞机，又不是日本变态狂那样吃鸟吞蛋射一脸。一些个别员工就觉得受不了了？你们怎么和人的动物性接轨
+**答案**: 求问是什么硬件职位。。
 
  
 
  
-
-[问题]: 参加「知乎斯坦福宣讲会」是怎样一种体验？
-[答案]: 这回总算也是到了硅谷了。其他学校都不鸟。。／
-
- 
-
- 
-
-[问题]: 参加了323场知乎Live是一种什么样的体验？
-[答案]: 我觉得我获得了重生
+<br>**问题**: 参与阿里巴巴集团新员工的破冰是一种什么样的体验？
+**答案**: 我觉得很好啊。既不像美国兄弟会那样裸奔洗澡打飞机，又不是日本变态狂那样吃鸟吞蛋射一脸。一些个别员工就觉得受不了了？你们怎么和人的动物性接轨
 
  
 
  
+<br>**问题**: 参加「知乎斯坦福宣讲会」是怎样一种体验？
+**答案**: 这回总算也是到了硅谷了。其他学校都不鸟。。／
 
-[问题]: 双曲DHT的工作原理是怎么样的？
-[答案]: 什么是DHT？
+ 
+
+ 
+<br>**问题**: 参加了323场知乎Live是一种什么样的体验？
+**答案**: 我觉得我获得了重生
+
+ 
+
+ 
+<br>**问题**: 双曲DHT的工作原理是怎么样的？
+**答案**: 什么是DHT？
 
 有论文自己不去看？
 
  
 
  
+<br>**问题**: 反射折射时的相位变化是怎么得出的？
 
-[问题]: 反射折射时的相位变化是怎么得出的？
-
-[答案]:根据fresnel equation 
+**答案**:根据fresnel equation 
 
  
 
@@ -18711,10 +17793,9 @@ When n<1\. r>0. In the complex plane, phase is 0
  
 
  
+<br>**问题**: 反歧视
 
-[问题]: 反歧视
-
-[答案]:
+**答案**:
 
  
 
@@ -18725,17 +17806,15 @@ When n<1\. r>0. In the complex plane, phase is 0
  
 
  
-
-[问题]: 发光体在发光时，是在激发周围物质发出光子还是消耗自身材料？
-[答案]: 消耗的是电子的能量。
-
- 
+<br>**问题**: 发光体在发光时，是在激发周围物质发出光子还是消耗自身材料？
+**答案**: 消耗的是电子的能量。
 
  
 
-[问题]: 发明量子力学算符有何意义？
+ 
+<br>**问题**: 发明量子力学算符有何意义？
 
-[答案]:
+**答案**:
 
  
 
@@ -18780,17 +17859,15 @@ eigenvalues.
  
 
  
+<br>**问题**: 取消985.211有什么积极影响？
 
-[问题]: 取消985.211有什么积极影响？
-
-[答案]:以后就直接记学校名字而不看你是不是985 211了。例如最后人类只知道北大清华和复旦三所大学。
-
- 
+**答案**:以后就直接记学校名字而不看你是不是985 211了。例如最后人类只知道北大清华和复旦三所大学。
 
  
 
-[问题]: 变量命名长的程序会不会比变量命名短的程序运行速度慢一些？
-[答案]: 当然会。
+ 
+<br>**问题**: 变量命名长的程序会不会比变量命名短的程序运行速度慢一些？
+**答案**: 当然会。
 
 不论是编译还是解释语言，首先一步就是要处理语法。 
 
@@ -18801,79 +17878,74 @@ eigenvalues.
  
 
  
+<br>**问题**: 古代人如何表达「加油」这个鼓励意思？「加油」这个词又是从何而来的呢？
 
-[问题]: 古代人如何表达「加油」这个鼓励意思？「加油」这个词又是从何而来的呢？
-
-[答案]:古人会说：hurry up!
-
- 
-
- 
-
-[问题]: 只有可见光这种电磁波不可以穿透一般物体么，玻璃又是怎么回事，镜子只能反射可见光吗？
-
-[答案]:荒淫楼主来我校暑期课程学习physics 7A, 7B, 7C
+**答案**:古人会说：hurry up!
 
  
 
  
+<br>**问题**: 只有可见光这种电磁波不可以穿透一般物体么，玻璃又是怎么回事，镜子只能反射可见光吗？
 
-[问题]: 只有门是不完全隔音的一门一窗房间，窗的开关怎样影响门外人听到的声音？
-[答案]: ［［窗－－》－－》。。。。。。。。。。。。－－》－－》门］－－》－－》门外人］
+**答案**:荒淫楼主来我校暑期课程学习physics 7A, 7B, 7C
+
+ 
+
+ 
+<br>**问题**: 只有门是不完全隔音的一门一窗房间，窗的开关怎样影响门外人听到的声音？
+**答案**: ［［窗－－》－－》。。。。。。。。。。。。－－》－－》门］－－》－－》门外人］
 
  
 
  
-
-[问题]: 可以用通俗的讲法解释数值孔径NA，焦比以及他们之前的关系么？
-[答案]: !NA(https://www.zhihu.com/equation?tex=NA)
+<br>**问题**: 可以用通俗的讲法解释数值孔径NA，焦比以及他们之前的关系么？
+**答案**: !NA(https://www.zhihu.com/equation?tex=NA)
 
 就是光具(例如镜片)可收集到的光源精细程度的度量。光源在焦点点处的最大的角度（
 
-![k_x,k_y](https://www.zhihu.com/equation?tex=k_x%2Ck_y) 
+!**k_x,k_y**(https://www.zhihu.com/equation?tex=k_x%2Ck_y) 
 
-，假定光轴是 ![z](https://www.zhihu.com/equation?tex=z) 
+，假定光轴是 !**z**(https://www.zhihu.com/equation?tex=z) 
 
-)。由波动性可知， ![k_x,k_y](https://www.zhihu.com/equation?tex=k_x%2Ck_y) 
+)。由波动性可知， !**k_x,k_y**(https://www.zhihu.com/equation?tex=k_x%2Ck_y) 
 
-越大， ![\\Delta x,\\Delta
+越大， !**\\Delta x,\\Delta
 
-y](https://www.zhihu.com/equation?tex=%5CDelta+x%2C%5CDelta+y) 
+y**(https://www.zhihu.com/equation?tex=%5CDelta+x%2C%5CDelta+y) 
 
 越小，光具成像的分辨率越大。 
 
-![f_{number}](https://www.zhihu.com/equation?tex=f_%7Bnumber%7D) 
+!**f_{number}**(https://www.zhihu.com/equation?tex=f_%7Bnumber%7D) 
 
-是焦距和光圈大小的比。光圈大小当然会决定 ![NA](https://www.zhihu.com/equation?tex=NA) 
+是焦距和光圈大小的比。光圈大小当然会决定 !**NA**(https://www.zhihu.com/equation?tex=NA) 
 
-，越大的光圈，光具的分辨率越高。但是 ![NA](https://www.zhihu.com/equation?tex=NA) 
+，越大的光圈，光具的分辨率越高。但是 !**NA**(https://www.zhihu.com/equation?tex=NA) 
 
-还和 ![f](https://www.zhihu.com/equation?tex=f) 
+还和 !**f**(https://www.zhihu.com/equation?tex=f) 
 
-有关，基本上是 ![NA\\approx D/2f
+有关，基本上是 !**NA\\approx D/2f
 
-](https://www.zhihu.com/equation?tex=NA%5Capprox+D%2F2f+) 
+**(https://www.zhihu.com/equation?tex=NA%5Capprox+D%2F2f+) 
 
-, ![f_{number}=f/D](https://www.zhihu.com/equation?tex=f_%7Bnumber%7D%3Df%2FD) 
+, !**f_{number}=f/D**(https://www.zhihu.com/equation?tex=f_%7Bnumber%7D%3Df%2FD) 
 
 （空气中）. 
 
-也就是可以这么说， ![f_{number}=1/\(2\\times
+也就是可以这么说， !**f_{number}=1/\(2\\times
 
-NA\)](https://www.zhihu.com/equation?tex=f_%7Bnumber%7D%3D1%2F%282%5Ctimes+NA%29) 
+NA\)**(https://www.zhihu.com/equation?tex=f_%7Bnumber%7D%3D1%2F%282%5Ctimes+NA%29) 
 
 . 
 
-![f_{number}](https://www.zhihu.com/equation?tex=f_%7Bnumber%7D) 
+!**f_{number}**(https://www.zhihu.com/equation?tex=f_%7Bnumber%7D) 
 
 越大，表明光圈越小。此时景深越大。
 
  
 
  
-
-[问题]: 可否通俗的解释一下为什么相机在曝光时间足够长的情况下照片中的行人会消失？
-[答案]: 假设由行人在位置（x,y）处曝光的量与行人经过此处的时间成正比。你曝光了10分钟（底片假设没有过曝），行人在运动，因此暂留时间只有5秒。请问此处底片上来自行人的信号占静止背景信号的比例是多少？
+<br>**问题**: 可否通俗的解释一下为什么相机在曝光时间足够长的情况下照片中的行人会消失？
+**答案**: 假设由行人在位置（x,y）处曝光的量与行人经过此处的时间成正比。你曝光了10分钟（底片假设没有过曝），行人在运动，因此暂留时间只有5秒。请问此处底片上来自行人的信号占静止背景信号的比例是多少？
 
 5/600~1%. 
 
@@ -18884,9 +17956,8 @@ NA\)](https://www.zhihu.com/equation?tex=f_%7Bnumber%7D%3D1%2F%282%5Ctimes+NA%29
  
 
  
-
-[问题]: 史上有哪些曾风靡一时或被大量使用后被证明是有严重危害的东西？
-[答案]: 我就说两个：
+<br>**问题**: 史上有哪些曾风靡一时或被大量使用后被证明是有严重危害的东西？
+**答案**: 我就说两个：
 
 1，转基因。现在主流科学界认为无害；100年后：荣登本问题知乎日报榜首； 
 
@@ -18901,31 +17972,27 @@ NA\)](https://www.zhihu.com/equation?tex=f_%7Bnumber%7D%3D1%2F%282%5Ctimes+NA%29
  
 
  
-
-[问题]: 各位有时间简单参与一下职业生涯人物访谈吗？
-[答案]: 你帮知乎找到了新的起点
-
- 
-
- 
-
-[问题]: 各家的网络短信能融合吗？难点是什么？
-[答案]: 服务器不一样，加密算法不一样（就算一样，秘钥也不一样）。所以没办法
+<br>**问题**: 各位有时间简单参与一下职业生涯人物访谈吗？
+**答案**: 你帮知乎找到了新的起点
 
  
 
  
-
-[问题]: 各项参数几乎相同的i7和xeon差别在哪呢？
-
-[答案]:do they have the same L3 cache?
+<br>**问题**: 各家的网络短信能融合吗？难点是什么？
+**答案**: 服务器不一样，加密算法不一样（就算一样，秘钥也不一样）。所以没办法
 
  
 
  
+<br>**问题**: 各项参数几乎相同的i7和xeon差别在哪呢？
 
-[问题]: 同性恋怎么跟基督徒相处？
-[答案]: 楼主可能没听过这首歌？
+**答案**:do they have the same L3 cache?
+
+ 
+
+ 
+<br>**问题**: 同性恋怎么跟基督徒相处？
+**答案**: 楼主可能没听过这首歌？
 
  
 
@@ -19116,30 +18183,26 @@ Good God, let me give you my life
  
 
  
-
-[问题]: 同性恋是非正常性关系吗？
-[答案]: 演的确实不好啊。床戏都删掉了。演员也是假的。异性恋是真异性恋演的，同性恋也找异性恋来演。哪里正常？这件事我完全支持我党。扫除一切虚假电视剧
-
- 
-
- 
-
-[问题]: 同时作为上海交大，西安交大，南京大学，东南大学的校友是什么感觉？
-[答案]: 这些学校的排名加起来还不如浙大！
+<br>**问题**: 同性恋是非正常性关系吗？
+**答案**: 演的确实不好啊。床戏都删掉了。演员也是假的。异性恋是真异性恋演的，同性恋也找异性恋来演。哪里正常？这件事我完全支持我党。扫除一切虚假电视剧
 
  
 
  
+<br>**问题**: 同时作为上海交大，西安交大，南京大学，东南大学的校友是什么感觉？
+**答案**: 这些学校的排名加起来还不如浙大！
 
-[问题]: 同样作为亚洲顶尖学术大学的东京大学和浙江大学，哪个更好？
-[答案]: 青出于蓝。我退隐
+ 
+
+ 
+<br>**问题**: 同样作为亚洲顶尖学术大学的东京大学和浙江大学，哪个更好？
+**答案**: 青出于蓝。我退隐
 
  
 
  
-
-[问题]: 同样是IT界大佬，为什么拉里·佩奇等没有乔布斯那么被普通民众关注？
-[答案]: 楼上有人说：“在多数人的直观感受中，做产品动动嘴皮耍耍脾气，远比做技术埋头苦干要轻松洒脱得多。这实际上反映了无知群众们好逸恶劳，趋利避害的懒惰本质。”。
+<br>**问题**: 同样是IT界大佬，为什么拉里·佩奇等没有乔布斯那么被普通民众关注？
+**答案**: 楼上有人说：“在多数人的直观感受中，做产品动动嘴皮耍耍脾气，远比做技术埋头苦干要轻松洒脱得多。这实际上反映了无知群众们好逸恶劳，趋利避害的懒惰本质。”。
 
 咋看之下似乎是在讽刺苹果只会动嘴皮子所以赢得膜拜无数。 
 
@@ -19170,9 +18233,8 @@ patrol-human-body-for-disease-1414515602 _ _ ） 。这项目前几个月还是�
  
 
  
-
-[问题]: 同样是外族裔实现美国梦的代表，马丁路德金和罗玉凤有什么区别？
-[答案]: 罗玉凤并不成功，你这个题目不符合实际已经举报了。你自己好好改改吧。
+<br>**问题**: 同样是外族裔实现美国梦的代表，马丁路德金和罗玉凤有什么区别？
+**答案**: 罗玉凤并不成功，你这个题目不符合实际已经举报了。你自己好好改改吧。
 
 罗玉凤起码应该开一个 
 
@@ -19205,20 +18267,18 @@ patrol-human-body-for-disease-1414515602 _ _ ） 。这项目前几个月还是�
  
 
  
+<br>**问题**:同样是微软大牛级别的@赵劼 赵百万和@vczh 轮子哥，年龄和技术相同，为什么前者能百万，后者只有三成？
 
-[问题]:同样是微软大牛级别的@赵劼 赵百万和@vczh 轮子哥，年龄和技术相同，为什么前者能百万，后者只有三成？
-
-[答案]:于是他们两位就是微软程序员的最终形态了。。。大boss啊。看来我们学习微软技术有奔头了oh yeah！ 
+**答案**:于是他们两位就是微软程序员的最终形态了。。。大boss啊。看来我们学习微软技术有奔头了oh yeah！ 
 
 不知道researcher scientist年薪能有老板的1%不。。。
 
  
 
  
+<br>**问题**: 名校光环在给你在找工作的时候，带来过什么方便？
 
-[问题]: 名校光环在给你在找工作的时候，带来过什么方便？
-
-[答案]:我只知道例如citadel, two sigma 这样的基金或者金融界的顶级公司只招收某些学校的学生：harvard, mit, stanford,
+**答案**:我只知道例如citadel, two sigma 这样的基金或者金融界的顶级公司只招收某些学校的学生：harvard, mit, stanford,
 
 cornell etc 
 
@@ -19255,26 +18315,23 @@ jordan的父母也默默无闻啊。你去了名校，这辈子过的好点，�
  
 
  
-
-[问题]: 名校出身却不从事本专业的毕业生们，你们是做了怎样的选择？
-[答案]: 都做了赚钱更多的选择。。
-
- 
+<br>**问题**: 名校出身却不从事本专业的毕业生们，你们是做了怎样的选择？
+**答案**: 都做了赚钱更多的选择。。
 
  
 
-[问题]: 名校硕士毕业了从事移动端开发，会不会感觉自己low,这是错觉还是真的大材小用了？
+ 
+<br>**问题**: 名校硕士毕业了从事移动端开发，会不会感觉自己low,这是错觉还是真的大材小用了？
 
-[答案]:Stanford 硕士毕业也有从事移动端开发的。公司选的好，公司进的早，现在才不后悔呢。毕竟比我们工资高了10倍。 
+**答案**:Stanford 硕士毕业也有从事移动端开发的。公司选的好，公司进的早，现在才不后悔呢。毕竟比我们工资高了10倍。 
 
 是否大材小用其实只和工资有关。完。更别说你移动端写得好的好，无数创业公司只差你
 
  
 
  
-
-[问题]: 君临是谁？
-[答案]: 我已经按照垃圾广告信息把前两个答案（好吧，现在已经不是前两个了）举报了。大家可以看看都是哪些人点的赞，淘宝哪一家接这个生意啊。
+<br>**问题**: 君临是谁？
+**答案**: 我已经按照垃圾广告信息把前两个答案（好吧，现在已经不是前两个了）举报了。大家可以看看都是哪些人点的赞，淘宝哪一家接这个生意啊。
 
  
 
@@ -19299,16 +18356,14 @@ jordan的父母也默默无闻啊。你去了名校，这辈子过的好点，�
  
 
  
-
-[问题]: 含时的坐标变换下拉格朗日方程是不变的吗？
-[答案]: 运动是相对的。
-
- 
+<br>**问题**: 含时的坐标变换下拉格朗日方程是不变的吗？
+**答案**: 运动是相对的。
 
  
 
-[问题]: 听说明年2月分谷歌要回归中国大陆市场？
-[答案]: 你确实定义了道听途说
+ 
+<br>**问题**: 听说明年2月分谷歌要回归中国大陆市场？
+**答案**: 你确实定义了道听途说
 
 一个Google App Store 开张就叫谷歌回归 
 
@@ -19325,47 +18380,41 @@ Google, Facebook 甚至 Wikipedia
  
 
  
+<br>**问题**:听说曾博在文艺复兴(renaissance technologies)呼风唤雨？ 求证
 
-[问题]:听说曾博在文艺复兴(renaissance technologies)呼风唤雨？ 求证
-
-[答案]:没有SS WANG 的20W 牛逼。都搞掉6个大V了
-
- 
-
- 
-
-[问题]: 周董《范特西》专辑里，你最喜欢哪首歌？
-[答案]: 饭不稀。泻药
+**答案**:没有SS WANG 的20W 牛逼。都搞掉6个大V了
 
  
 
  
+<br>**问题**: 周董《范特西》专辑里，你最喜欢哪首歌？
+**答案**: 饭不稀。泻药
 
-[问题]: 命运是什么？
-[答案]: 一天，强者jobs被癌症病魔杀死了，有人问他什么是命运，他说“欸～哪里有什么命运啊，我死的这么巧，难道不是努力工作和天分的成就么？命运什么的，都只是我们的谦辞罢了！”。决斗挂掉的galois，出了车祸的朗道，聋掉的贝多芬等点头称是。
+ 
+
+ 
+<br>**问题**: 命运是什么？
+**答案**: 一天，强者jobs被癌症病魔杀死了，有人问他什么是命运，他说“欸～哪里有什么命运啊，我死的这么巧，难道不是努力工作和天分的成就么？命运什么的，都只是我们的谦辞罢了！”。决斗挂掉的galois，出了车祸的朗道，聋掉的贝多芬等点头称是。
 
  
 
  
-
-[问题]: 和imac硬件架构配置同级别的电脑？
-[答案]: 要升级电脑的话，2011年到现在的确已经过去很多年了。（记住intel已经发行了2－3代core核心）。如果要提高系统速度，可以升级到最新的mbp。有钱的话可以买mac
+<br>**问题**: 和imac硬件架构配置同级别的电脑？
+**答案**: 要升级电脑的话，2011年到现在的确已经过去很多年了。（记住intel已经发行了2－3代core核心）。如果要提高系统速度，可以升级到最新的mbp。有钱的话可以买mac
 
 pro。里面的配置是最顶级的。不论你拿来跑什么都不会有问题。。
 
  
 
  
-
-[问题]: 和爸妈一起看电视，看到亲热镜头你们是怎么做的？
-[答案]: 自己玩手机。不看电视
-
- 
+<br>**问题**: 和爸妈一起看电视，看到亲热镜头你们是怎么做的？
+**答案**: 自己玩手机。不看电视
 
  
 
-[问题]: 品质因数有什么物理含义，一个阻尼振动的品质因数反应了这个振动的什么物理性质
-[答案]: 品质因素Q从广义上说，定义了一个能量在周期运动中的平均寿命（Life
+ 
+<br>**问题**: 品质因数有什么物理含义，一个阻尼振动的品质因数反应了这个振动的什么物理性质
+**答案**: 品质因素Q从广义上说，定义了一个能量在周期运动中的平均寿命（Life
 
 Time），又叫时间常数（Tau）：因为有损耗的周期系统其能量随时间的变化一定是指数衰减的。这对应着一个复的本征频率（Eigen
 
@@ -19390,23 +18439,21 @@ Frequency），而Q就和他的虚部有关，准确的说，就是实部与虚�
  
 
  
-
-[问题]: 哈代说：美是首要的试金石，丑陋的数学不可能永存。在数学家眼里，这里的“美”有什么具体含义？
-[答案]: 不美的，正确的定理往往是写的“坐标系”不对。换一种语言，换一种参考，换一种说法，写出更加简洁和清楚的表达式，可能这就是所谓的美吧。
+<br>**问题**: 哈代说：美是首要的试金石，丑陋的数学不可能永存。在数学家眼里，这里的“美”有什么具体含义？
+**答案**: 不美的，正确的定理往往是写的“坐标系”不对。换一种语言，换一种参考，换一种说法，写出更加简洁和清楚的表达式，可能这就是所谓的美吧。
 
 比如一个球面波，你写成
 
-![\\frac{e^{ikr}}{r}](https://www.zhihu.com/equation?tex=%5Cfrac%7Be%5E%7Bikr%7D%7D%7Br%7D) 
+!**\\frac{e^{ikr}}{r}**(https://www.zhihu.com/equation?tex=%5Cfrac%7Be%5E%7Bikr%7D%7D%7Br%7D) 
 
 很简洁，写成平面波的叠加？。。。
 
  
 
  
+<br>**问题**:哈佛正在被 MIT、斯坦福和伯克利赶超吗？
 
-[问题]:哈佛正在被 MIT、斯坦福和伯克利赶超吗？
-
-[答案]:吓死爹了。就说是硕士来看只有Stanford 值得一去。就本科项目来看MIT Stanford 不要太屌。就PhD而言Berkeley 的CS
+**答案**:吓死爹了。就说是硕士来看只有Stanford 值得一去。就本科项目来看MIT Stanford 不要太屌。就PhD而言Berkeley 的CS
 
 独当一面某些实验室毕业之后直接秒杀整个行业。 
 
@@ -19415,18 +18462,16 @@ Frequency），而Q就和他的虚部有关，准确的说，就是实部与虚�
  
 
  
+<br>**问题**:哥本哈根诠释中的“波函数 波函数坍缩”是一种客观存在，还是只针对某个意识而主观存在？
 
-[问题]:哥本哈根诠释中的“波函数 波函数坍缩”是一种客观存在，还是只针对某个意识而主观存在？
-
-[答案]: 我帮你邀请了4个人。。
-
- 
+**答案**: 我帮你邀请了4个人。。
 
  
 
-[问题]:哪些因素让 UCB 甩下其它美国的公立大学一个身位？
+ 
+<br>**问题**:哪些因素让 UCB 甩下其它美国的公立大学一个身位？
 
-[答案]: 一个身位？长得高算不算。
+**答案**: 一个身位？长得高算不算。
 
 加州是美国最开明的州之一。早在50年前就通过法律提高个人所得税用于公共教育，令其他州乍舌。并且设立了加州的三级高等教育制度，使得加州的教育体系独步全球。作为三级制度中美第一集团的第一所加州大学，ucb
 
@@ -19441,10 +18486,9 @@ Frequency），而Q就和他的虚部有关，准确的说，就是实部与虚�
  
 
  
+<br>**问题**:哪张照片让你不由地感叹「年轻，真好」 ？
 
-[问题]:哪张照片让你不由地感叹「年轻，真好」 ？
-
-[答案]: 萌萌哒
+**答案**: 萌萌哒
 
  
 
@@ -19456,23 +18500,21 @@ Frequency），而Q就和他的虚部有关，准确的说，就是实部与虚�
 
  
 
-![](https://pic4.zhimg.com/87a7d4ec29d221e598f45406d1f42b07_b.jpg)
+!****(https://pic4.zhimg.com/87a7d4ec29d221e598f45406d1f42b07_b.jpg)
 
  
 
  
+<br>**问题**:哪款 Surface Pro 4 适合大学学编程？
 
-[问题]:哪款 Surface Pro 4 适合大学学编程？
-
-[答案]: yoga系列不错的。写程序需要触屏吗？
-
- 
+**答案**: yoga系列不错的。写程序需要触屏吗？
 
  
 
-[问题]:哪款 Windows 笔记本的触摸板能够媲美 MacBook 系列？
+ 
+<br>**问题**:哪款 Windows 笔记本的触摸板能够媲美 MacBook 系列？
 
-[答案]: 几乎没有，因为apple的操作系统os
+**答案**: 几乎没有，因为apple的操作系统os
 
 x对于触摸操作做了处理，例如惯性加速，触底反弹（弹簧效果）等等。双指快翻然后迅速定位的效果不是thinkpad之流能比的（因为翻动的时候有惯性，页面停止的位置可以预知）。 
 
@@ -19485,25 +18527,22 @@ pro只能用来触屏，不能用他的那个板子。那个板子真的是鸡�
  
 
  
-
-[问题]: 哪种排序算法最美？
-[答案]: 人工排序。。。
-
- 
-
- 
-
-[问题]: 哪种程序员不需要学习Linux？
-
-[答案]:去微软工作的人从不接触Unix . 这也是为什么微软的产品这么渣渣
+<br>**问题**: 哪种排序算法最美？
+**答案**: 人工排序。。。
 
  
 
  
+<br>**问题**: 哪种程序员不需要学习Linux？
 
-[问题]:唐纳德·特朗普（Donald Trump）有多大可能当选美国总统？
+**答案**:去微软工作的人从不接触Unix . 这也是为什么微软的产品这么渣渣
 
-[答案]: 有可能，而且我希望他当选。
+ 
+
+ 
+<br>**问题**:唐纳德·特朗普（Donald Trump）有多大可能当选美国总统？
+
+**答案**: 有可能，而且我希望他当选。
 
 虽然作为中产阶级的底层，我们应该是更喜欢民主党的。  
 
@@ -19520,25 +18559,22 @@ pro只能用来触屏，不能用他的那个板子。那个板子真的是鸡�
  
 
  
+<br>**问题**:喜欢用 OS X 的人觉得它比 Windows 好在哪里？
 
-[问题]:喜欢用 OS X 的人觉得它比 Windows 好在哪里？
-
-[答案]: windows的控制面板是非常糟糕的。
-
- 
-
- 
-
-[问题]: 四十岁的曾老师会是什么样的？
-[答案]: 已经死了10年
+**答案**: windows的控制面板是非常糟糕的。
 
  
 
  
+<br>**问题**: 四十岁的曾老师会是什么样的？
+**答案**: 已经死了10年
 
-[问题]: 四维坐标系有几个象限？
+ 
 
-[答案]:N维正交坐标系中有2^N 个象限。 
+ 
+<br>**问题**: 四维坐标系有几个象限？
+
+**答案**:N维正交坐标系中有2^N 个象限。 
 
 因为每一个维贡献2个选择（正和负）； 
 
@@ -19547,9 +18583,8 @@ pro只能用来触屏，不能用他的那个板子。那个板子真的是鸡�
  
 
  
-
-[问题]: 因果律是不是一条基本的定律？是否存在违反因果律的事情或理论？
-[答案]: 是的，现在看来所有的理论都必须遵守因果律（或者说，信号传播速度不会超过光速；时空距离超过光速的事件互相无影响），这一点尤其体现在经典电磁理论和量子场论之中；低速下的经典力学，量子力学和统计力学却几乎不在意光速的问题（光速被视为无限大）。破坏因果律的理论是有的，但因为破坏了因果律因而被无视了。
+<br>**问题**: 因果律是不是一条基本的定律？是否存在违反因果律的事情或理论？
+**答案**: 是的，现在看来所有的理论都必须遵守因果律（或者说，信号传播速度不会超过光速；时空距离超过光速的事件互相无影响），这一点尤其体现在经典电磁理论和量子场论之中；低速下的经典力学，量子力学和统计力学却几乎不在意光速的问题（光速被视为无限大）。破坏因果律的理论是有的，但因为破坏了因果律因而被无视了。
 
 Causality (physics) _ _ 
 
@@ -19564,24 +18599,21 @@ Alternate View--Analog _ _
  
 
  
-
-[问题]: 固体物理中为什么要引入倒格矢，倒格矢的优点在哪？
-[答案]: 我该怎么说这个问题呢。。。这个问题。。。这个问题其实。。。。算了，我还是不说了罢，楼上说的很好，我觉得他说的很对，就听他的。
-
- 
-
- 
-
-[问题]: 国内在知名it公司已工作的人想直接申请FLAG如何准备？
-
-[答案]:建议你申请SNAPSHOT UBER AIRBNB感受下真正高科技企业的难度，再去试这四家。
+<br>**问题**: 固体物理中为什么要引入倒格矢，倒格矢的优点在哪？
+**答案**: 我该怎么说这个问题呢。。。这个问题。。。这个问题其实。。。。算了，我还是不说了罢，楼上说的很好，我觉得他说的很对，就听他的。
 
  
 
  
+<br>**问题**: 国内在知名it公司已工作的人想直接申请FLAG如何准备？
 
-[问题]: 国内有多少人在做量化交易？
-[答案]: 是个人都在做吧
+**答案**:建议你申请SNAPSHOT UBER AIRBNB感受下真正高科技企业的难度，再去试这四家。
+
+ 
+
+ 
+<br>**问题**: 国内有多少人在做量化交易？
+**答案**: 是个人都在做吧
 
 成功人士很大一部分都在做 
 
@@ -19592,16 +18624,14 @@ Alternate View--Analog _ _
  
 
  
-
-[问题]: 国内的985在美英日澳等发达国家处于什么水平？
-[答案]: 除了清北复中科大，其他985存在感很低
-
- 
+<br>**问题**: 国内的985在美英日澳等发达国家处于什么水平？
+**答案**: 除了清北复中科大，其他985存在感很低
 
  
 
-[问题]: 国内的微波射频领域与国外差距多大？
-[答案]: 。。。。毫无差距吧。。、
+ 
+<br>**问题**: 国内的微波射频领域与国外差距多大？
+**答案**: 。。。。毫无差距吧。。、
 
 这种微米级别的，经典波动力学里面的东西。 
 
@@ -19610,16 +18640,14 @@ Alternate View--Analog _ _
  
 
  
-
-[问题]: 国内的本科数学专业教学和国外相比有什么优劣？
-[答案]: 明显如果保证高分考生可以转学去国外知名大学读大二，这样的招生政策才有说服力。否则读了这么四年不就是把一个考试天才整成残废？
-
- 
+<br>**问题**: 国内的本科数学专业教学和国外相比有什么优劣？
+**答案**: 明显如果保证高分考生可以转学去国外知名大学读大二，这样的招生政策才有说服力。否则读了这么四年不就是把一个考试天才整成残废？
 
  
 
-[问题]: 国内的软开从业者的主流水平已经和美国大部分水平一样了？
-[答案]: 在中国取得成就的公司，不是看质量如何，是看能不能拼命
+ 
+<br>**问题**: 国内的软开从业者的主流水平已经和美国大部分水平一样了？
+**答案**: 在中国取得成就的公司，不是看质量如何，是看能不能拼命
 
 看小时代和dd打车的成功你就知道，是要拼命，是要连续一个月不睡觉，是要所有人都每周6天每天16小时工作，而不是说什么水准多领先。 
 
@@ -19630,17 +18658,15 @@ Alternate View--Analog _ _
  
 
  
-
-[问题]: 国外理科博士毕业之后做internship是什么体验？
-[答案]: 发现自己真的什么都不会。
-
- 
+<br>**问题**: 国外理科博士毕业之后做internship是什么体验？
+**答案**: 发现自己真的什么都不会。
 
  
 
-[问题]:国家电网公司总部招聘情况是怎样的？每年招的 4 人中硬性条件里除了电气牛校外「关系」是必备的吗？
+ 
+<br>**问题**:国家电网公司总部招聘情况是怎样的？每年招的 4 人中硬性条件里除了电气牛校外「关系」是必备的吗？
 
-[答案]: 总部有什么好==求指教
+**答案**: 总部有什么好==求指教
 
  
 
@@ -19649,9 +18675,8 @@ Alternate View--Analog _ _
  
 
  
-
-[问题]: 圣诞快乐
-[答案]: 祝大家圣诞节快乐。
+<br>**问题**: 圣诞快乐
+**答案**: 祝大家圣诞节快乐。
 
  
 
@@ -19660,10 +18685,9 @@ Alternate View--Analog _ _
  
 
  
+<br>**问题**:在 Apple Store 零售店遭到 Genius 的侮辱以及人身危险，如何投诉处理？
 
-[问题]:在 Apple Store 零售店遭到 Genius 的侮辱以及人身危险，如何投诉处理？
-
-[答案]: 我支持楼主告倒苹果。美帝这些企业，太不像话了。简直，把自己当什么？我们都是他的奴才吗？
+**答案**: 我支持楼主告倒苹果。美帝这些企业，太不像话了。简直，把自己当什么？我们都是他的奴才吗？
 
 苹果对这些员工负有不可逃避的领导责任。 
 
@@ -19672,10 +18696,9 @@ Alternate View--Analog _ _
  
 
  
+<br>**问题**:在 Linux 下学习 C 语言有什么好处？
 
-[问题]:在 Linux 下学习 C 语言有什么好处？
-
-[答案]:不论你是否希望坚持在linux下学c，我都建议你抛弃去windows下学习c的想法。这简直是一个灾难。我实际上建议去mac下学习obj c
+**答案**:不论你是否希望坚持在linux下学c，我都建议你抛弃去windows下学习c的想法。这简直是一个灾难。我实际上建议去mac下学习obj c
 
 的先进技术。obj c是彻底兼容c的。利用xcode的ide进行c程序的编译。 
 
@@ -19694,10 +18717,9 @@ die。一个无法让自己的工具免费，无法让自己的操作系统免�
  
 
  
+<br>**问题**:在 Surface Book 发布后，MacBook Pro 还有没有它的独有优势？(1)
 
-[问题]:在 Surface Book 发布后，MacBook Pro 还有没有它的独有优势？(1)
-
-[答案]: 除了微软世界那参差不齐DPI大小，参差不齐的UI像素，参差不齐的恶意软件，参差不齐的APP稳定性，驱动冲突以外，我的确很怀疑用户是如何做到每次把屏幕插回去的时候，还记得拿出一块布把屏幕上的油渍，指纹，汗，擦干净的。
+**答案**: 除了微软世界那参差不齐DPI大小，参差不齐的UI像素，参差不齐的恶意软件，参差不齐的APP稳定性，驱动冲突以外，我的确很怀疑用户是如何做到每次把屏幕插回去的时候，还记得拿出一块布把屏幕上的油渍，指纹，汗，擦干净的。
 
 他们再次看见插入后屏幕的时候，难道就不会注意到些什么？ 
 
@@ -19708,61 +18730,54 @@ die。一个无法让自己的工具免费，无法让自己的操作系统免�
  
 
  
+<br>**问题**:在 Surface Book 发布后，MacBook Pro 还有没有它的独有优势？
 
-[问题]:在 Surface Book 发布后，MacBook Pro 还有没有它的独有优势？
-
-[答案]:mac os x 就是最独有的优势。。。 
+**答案**:mac os x 就是最独有的优势。。。 
 
 surface pro因为卖不出去已经作为礼物送给2016 微软的intern了。这家公司如何高下立判
 
  
 
  
+<br>**问题**:在 Two Sigma 做量化研究是怎样一番体验？
 
-[问题]:在 Two Sigma 做量化研究是怎样一番体验？
-
-[答案]: =
-
- 
+**答案**: =
 
  
 
-[问题]:在 UCB 读物理是怎样的体验？
+ 
+<br>**问题**:在 UCB 读物理是怎样的体验？
 
-[答案]:你寝室里，7，8个人，全都是物理省一，国一，美洲银牌，美洲金牌。到最后你都不好意说自己了，只说自己是从community school转学来的。 
+**答案**:你寝室里，7，8个人，全都是物理省一，国一，美洲银牌，美洲金牌。到最后你都不好意说自己了，只说自己是从community school转学来的。 
 
 当然，最后你一直被操，出于兴趣学了学cs，最后去硅谷工作了。你也没后悔。
 
  
 
  
-
-[问题]: 在Ubuntu上跑一个几分钟的程序时能干什么？
-[答案]: Streamline
-
- 
-
- 
-
-[问题]:在UC Berkeley拣肥皂安全吗？
-
-[答案]: 我们可以一起洗。我电话5109444536
+<br>**问题**: 在Ubuntu上跑一个几分钟的程序时能干什么？
+**答案**: Streamline
 
  
 
  
+<br>**问题**:在UC Berkeley拣肥皂安全吗？
 
-[问题]:在UC Berkeley读Computer Science本科和在国内985有什么区别？
+**答案**: 我们可以一起洗。我电话5109444536
 
-[答案]:可以变成机器学习的大神真正征服google / facebook
+ 
+
+ 
+<br>**问题**:在UC Berkeley读Computer Science本科和在国内985有什么区别？
+
+**答案**:可以变成机器学习的大神真正征服google / facebook
 
  
 
  
+<br>**问题**: 在《别闹了，费曼先生》中费曼在观看核爆时说紫外线是穿不过玻璃的。这个结论有什么根据吗？
 
-[问题]: 在《别闹了，费曼先生》中费曼在观看核爆时说紫外线是穿不过玻璃的。这个结论有什么根据吗？
-
-[答案]:费曼先生是搞原子物理的。他的意思是玻璃sio2存在带隙，由跃迁性质可以算出玻璃吸收高能光子，例如紫外线。拿来一个sio2 的absorption
+**答案**:费曼先生是搞原子物理的。他的意思是玻璃sio2存在带隙，由跃迁性质可以算出玻璃吸收高能光子，例如紫外线。拿来一个sio2 的absorption
 
 spectrum 就知（正如楼上做的）。 
 
@@ -19783,9 +18798,8 @@ spectrum 就知（正如楼上做的）。
  
 
  
-
-[问题]: 在一个全校第一都考不上浙大的学校里，你们认为一个努力的人有可能考上浙大么？
-[答案]: 这种学校的人都来浙大吧。
+<br>**问题**: 在一个全校第一都考不上浙大的学校里，你们认为一个努力的人有可能考上浙大么？
+**答案**: 这种学校的人都来浙大吧。
 
 来多了浙大就更加三本了。 
 
@@ -19798,25 +18812,22 @@ spectrum 就知（正如楼上做的）。
  
 
  
+<br>**问题**:在中国科学技术大学 (USTC) 就读是怎样一番体验？
 
-[问题]:在中国科学技术大学 (USTC) 就读是怎样一番体验？
-
-[答案]: 科大在某些方面可说是大陆唯一一所可以笑看清北撕逼的大学了：根本不必把它们放在眼里。出来的天才太多了。当然，普通人还是没有清北那自带加成光环
-
- 
-
- 
-
-[问题]: 在你最想死的时候是什么念头让你活到了现在？
-[答案]: 因为我还没研发出全球失败者同步自杀仪；我要是死了，失败者还会继续痛苦，甚至生活在非人的遭遇里不自知。我于心不忍，所以要等待解救完大家再自杀
+**答案**: 科大在某些方面可说是大陆唯一一所可以笑看清北撕逼的大学了：根本不必把它们放在眼里。出来的天才太多了。当然，普通人还是没有清北那自带加成光环
 
  
 
  
+<br>**问题**: 在你最想死的时候是什么念头让你活到了现在？
+**答案**: 因为我还没研发出全球失败者同步自杀仪；我要是死了，失败者还会继续痛苦，甚至生活在非人的遭遇里不自知。我于心不忍，所以要等待解救完大家再自杀
 
-[问题]:在加州大学伯克利分校 (UC Berkeley) 就读是怎样一番体验？
+ 
 
-[答案]: 盲目追求名校只有一个后果，就是作死。
+ 
+<br>**问题**:在加州大学伯克利分校 (UC Berkeley) 就读是怎样一番体验？
+
+**答案**: 盲目追求名校只有一个后果，就是作死。
 
 的确，名校出高材生的比例很大。但群所谓高材生最后泯然众人的比例也很大。 
 
@@ -19849,9 +18860,8 @@ spectrum 就知（正如楼上做的）。
  
 
  
-
-[问题]: 在北美名校读书是什么体验？身边的同学到底有多聪明和勤奋？
-[答案]: 未来都是人类的领袖。除此之外还需要幻想什么？
+<br>**问题**: 在北美名校读书是什么体验？身边的同学到底有多聪明和勤奋？
+**答案**: 未来都是人类的领袖。除此之外还需要幻想什么？
 
 按照最新的上海交大学术排名，只有Harvard , Stanford & MIT 属于名校。这些学校毕业的人有以下好处： 
 
@@ -19868,9 +18878,8 @@ spectrum 就知（正如楼上做的）。
  
 
  
-
-[问题]: 在各行各业中有哪些“大魔王”？
-[答案]: 计算机行业的轮子哥
+<br>**问题**: 在各行各业中有哪些“大魔王”？
+**答案**: 计算机行业的轮子哥
 
 高帅富行业的吃猫粮的汪 
 
@@ -19897,77 +18906,67 @@ ML领域的Yuandong Tian
  
 
  
+<br>**问题**:在哈佛大学（Harvard University）就读是怎样一番体验？
 
-[问题]:在哈佛大学（Harvard University）就读是怎样一番体验？
-
-[答案]: 一个中国人关心这种问题？
-
- 
-
- 
-
-[问题]: 在家用车领域，自动驾驶的价值在哪方面？
-[答案]: 到时候NVDA的股价就到了1000刀，这还不是价值？
+**答案**: 一个中国人关心这种问题？
 
  
 
  
+<br>**问题**: 在家用车领域，自动驾驶的价值在哪方面？
+**答案**: 到时候NVDA的股价就到了1000刀，这还不是价值？
 
-[问题]: 在工程中有哪些可能用到高等數學的情況？
-[答案]: All.
+ 
+
+ 
+<br>**问题**: 在工程中有哪些可能用到高等數學的情況？
+**答案**: All.
 
  
 
  
+<br>**问题**:在微软 (Microsoft) 公司从事 iOS OS X 开发是怎样一番工作体验？
 
-[问题]:在微软 (Microsoft) 公司从事 iOS OS X 开发是怎样一番工作体验？
-
-[答案]:赚的钱可能比windows 部门更多。 
+**答案**:赚的钱可能比windows 部门更多。 
 
 另轮子哥所在的微软office 编译器部门不知和apex 有无交集呢。。不要告诉我他们就在Apex下=
 
  
 
  
+<br>**问题**:在扎克伯格手上红起来的 Quantum Physics for Babies 是一本怎样的书？
 
-[问题]:在扎克伯格手上红起来的 Quantum Physics for Babies 是一本怎样的书？
-
-[答案]: 里面画的应该都是婴儿食物
-
- 
-
- 
-
-[问题]: 在斗鱼直播写代码是一种怎样的体验？
-[答案]: .................................
+**答案**: 里面画的应该都是婴儿食物
 
  
 
  
-
-[问题]: 在比较差的大学如何提升自己？
-[答案]: 学习何炅。努力，并决定自己现在的样子。最后和名流一起玩，成为中国最知名的主持人
-
- 
-
- 
-
-[问题]: 在没有空气的地方,现有的技术可否制造出有效率的飞行器
-[答案]: 没有空气可以自己喷啊。。否则你以为火箭怎么工作的。等离子发动机喷电子气，飞得挺好。我估计会发展一些类似的核能喷气式发动机。喷原子喷电子都很好
+<br>**问题**: 在斗鱼直播写代码是一种怎样的体验？
+**答案**: .................................
 
  
 
  
+<br>**问题**: 在比较差的大学如何提升自己？
+**答案**: 学习何炅。努力，并决定自己现在的样子。最后和名流一起玩，成为中国最知名的主持人
 
-[问题]: 在浙大学习觉得很累压力很大怎么办？
-[答案]: 。。选择喜欢的专业。实在不行，就去赚钱吧。据说承包黑电台都能年收入千万。你只需要一个聪明的头脑和带你的师傅
+ 
+
+ 
+<br>**问题**: 在没有空气的地方,现有的技术可否制造出有效率的飞行器
+**答案**: 没有空气可以自己喷啊。。否则你以为火箭怎么工作的。等离子发动机喷电子气，飞得挺好。我估计会发展一些类似的核能喷气式发动机。喷原子喷电子都很好
 
  
 
  
+<br>**问题**: 在浙大学习觉得很累压力很大怎么办？
+**答案**: 。。选择喜欢的专业。实在不行，就去赚钱吧。据说承包黑电台都能年收入千万。你只需要一个聪明的头脑和带你的师傅
 
-[问题]: 在浙大就读感受怎样？
-[答案]: 夏天清晨西区环境不错，比较适合一个人早上6:30去那边走一圈背诵英文。清真食堂的早餐开的比较早，正合适。然后一天呆在东，西区里，直到晚上10-11点回宿舍。有一点不好的是东区西区某几个教室被高年级的考研、出国党长期霸占，导致气味难闻，楼道拥堵。我建议浙大既然这么有钱，专门建一栋楼给他们复习，楼内提供自动贩卖机和厨房（学一点Google好嘛），甚至厕所，浴室。这样会更好一点，也方便搅基。看见一个教室里黑压压的一群复习党，有种高三的感觉，有碍观瞻。
+ 
+
+ 
+<br>**问题**: 在浙大就读感受怎样？
+**答案**: 夏天清晨西区环境不错，比较适合一个人早上6:30去那边走一圈背诵英文。清真食堂的早餐开的比较早，正合适。然后一天呆在东，西区里，直到晚上10-11点回宿舍。有一点不好的是东区西区某几个教室被高年级的考研、出国党长期霸占，导致气味难闻，楼道拥堵。我建议浙大既然这么有钱，专门建一栋楼给他们复习，楼内提供自动贩卖机和厨房（学一点Google好嘛），甚至厕所，浴室。这样会更好一点，也方便搅基。看见一个教室里黑压压的一群复习党，有种高三的感觉，有碍观瞻。
 
  
 
@@ -19988,9 +18987,8 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在浙大当学渣是一种怎样的体验？
-[答案]: 看着一群人装逼也是蛮好玩的
+<br>**问题**: 在浙大当学渣是一种怎样的体验？
+**答案**: 看着一群人装逼也是蛮好玩的
 
  
 
@@ -20011,23 +19009,20 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在浙大当学霸是什么体验？
-[答案]: 不值一提
-
- 
-
- 
-
-[问题]: 在浙江大学就读是怎样一番体验？
-[答案]: 应该是不如北大的。
+<br>**问题**: 在浙大当学霸是什么体验？
+**答案**: 不值一提
 
  
 
  
+<br>**问题**: 在浙江大学就读是怎样一番体验？
+**答案**: 应该是不如北大的。
 
-[问题]: 在浙江大学的大类培养方案下就读是种怎样的体验？
-[答案]: 我们先把这个问题搞清楚，浙大绝对不是TOP3。除某些省份某些年份外（例如我所在省份我高考的那年），去浙大的都是去不了复旦的，甚至去不了交大。
+ 
+
+ 
+<br>**问题**: 在浙江大学的大类培养方案下就读是种怎样的体验？
+**答案**: 我们先把这个问题搞清楚，浙大绝对不是TOP3。除某些省份某些年份外（例如我所在省份我高考的那年），去浙大的都是去不了复旦的，甚至去不了交大。
 
 清华北大就不必说了。 
 
@@ -20050,17 +19045,15 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在浙江大学竺可桢学院就读是怎样一种体验？
-[答案]: 牛人辈出，都在华尔街。
-
- 
+<br>**问题**: 在浙江大学竺可桢学院就读是怎样一种体验？
+**答案**: 牛人辈出，都在华尔街。
 
  
 
-[问题]: 在清华大学当学渣是一种怎样的体验？
+ 
+<br>**问题**: 在清华大学当学渣是一种怎样的体验？
 
-[答案]:其实不在清华（北大）的都是大学渣。因此，何必苦问 ** 在清华 ** 当学渣是什么感觉呢？在清华当学渣，无非是自己的“ ** 学渣 **
+**答案**:其实不在清华（北大）的都是大学渣。因此，何必苦问 ** 在清华 ** 当学渣是什么感觉呢？在清华当学渣，无非是自己的“ ** 学渣 **
 
 ”事实被照映的清清楚楚明明白白，如最高票所说：很焦虑； 
 
@@ -20071,9 +19064,8 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在清华失去骄傲，大三一事无成。该怎么做？
-[答案]: 曾经以为自己是成功人士，所以才有骄傲；
+<br>**问题**: 在清华失去骄傲，大三一事无成。该怎么做？
+**答案**: 曾经以为自己是成功人士，所以才有骄傲；
 
 当你发现自己是失败人士之后，你放下了骄傲；这有什么问题吗？这是勃学的基本要求，我每天都在做。 
 
@@ -20088,9 +19080,8 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在物理中，关于波的相速和群速，有哪些形象的比喻？
-[答案]: 谢邀。
+<br>**问题**: 在物理中，关于波的相速和群速，有哪些形象的比喻？
+**答案**: 谢邀。
 
 你可以想象一列火车，自己在向前走；火车走的速度往往是很慢的，而且象征者真实的，能量的移动，这就是群速度。 
 
@@ -20103,48 +19094,42 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在物理学中以下是先知道了哪个在推出其他的量？
-[答案]: 诶。88
-
- 
-
- 
-
-[问题]:在现在 有那么多免费的好工具情况下，为什么很多大学还在用1997年的VC6，甚至是1989年的Turbo C教学生C语言编程？课程老师也是极力推荐学生使用VC6，而不是微软的Express版或GCC等软件？
-
-[答案]: 不会使用linux的国家的学生就只能使用这些软件。楼主有机会去国外看看吧。。
+<br>**问题**: 在物理学中以下是先知道了哪个在推出其他的量？
+**答案**: 诶。88
 
  
 
  
+<br>**问题**:在现在 有那么多免费的好工具情况下，为什么很多大学还在用1997年的VC6，甚至是1989年的Turbo C教学生C语言编程？课程老师也是极力推荐学生使用VC6，而不是微软的Express版或GCC等软件？
 
-[问题]: 在用R做决策树模型的时候发现结果变量中分类占比差距太大的情况怎么处理，是调整数据源还是修正模型呢？
+**答案**: 不会使用linux的国家的学生就只能使用这些软件。楼主有机会去国外看看吧。。
 
-[答案]:除了改变weigh ，你可否试试random forest ? 据说单个DTree 效果会无比糟糕
+ 
+
+ 
+<br>**问题**: 在用R做决策树模型的时候发现结果变量中分类占比差距太大的情况怎么处理，是调整数据源还是修正模型呢？
+
+**答案**:除了改变weigh ，你可否试试random forest ? 据说单个DTree 效果会无比糟糕
 
  
 
  
-
-[问题]: 在真空中，一个圆形物体自转，不受外力作用，能一直保持下去吗？
-[答案]: 是的。只要没有阻力等耗散力作用，角动量守恒。
+<br>**问题**: 在真空中，一个圆形物体自转，不受外力作用，能一直保持下去吗？
+**答案**: 是的。只要没有阻力等耗散力作用，角动量守恒。
 
 就算是一个带电球体。转动之后会产生电磁波，但它产生的电磁波也是携带角动量的。角动量守恒这点不变
 
  
 
  
-
-[问题]: 在知乎这个平台里，你最喜欢哪位CC++大神？
-[答案]: 当然是轮子哥啦
-
- 
+<br>**问题**: 在知乎这个平台里，你最喜欢哪位CC++大神？
+**答案**: 当然是轮子哥啦
 
  
 
-[问题]: 在科大读了一年，退学能否考上交复旦？
-[答案]: 凡是说因为风险大而不让你复读的，无非是在为自己当年没有复读找借口罢了。
+ 
+<br>**问题**: 在科大读了一年，退学能否考上交复旦？
+**答案**: 凡是说因为风险大而不让你复读的，无非是在为自己当年没有复读找借口罢了。
 
  
 
@@ -20173,9 +19158,8 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在线教育那么火，到底是做平台还是做垂直？做一个大的领域如K12市场，还是做细分的市场？
-[答案]: 在线教育火？出国留学教育才叫火。。
+<br>**问题**: 在线教育那么火，到底是做平台还是做垂直？做一个大的领域如K12市场，还是做细分的市场？
+**答案**: 在线教育火？出国留学教育才叫火。。
 
 大家现在都默认在线教育质量不行，否则补习班怎么会这么多。但是教育这件事暴利是没错了，否则也不会那么多新东方老师出来单干。 
 
@@ -20184,23 +19168,20 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在绝对光滑的地面上，人是否能够站立起来？
-[答案]: 你没有听过这句歌词吗?。在光滑的地上摩擦，摩擦。
-
- 
-
- 
-
-[问题]: 在美国为什么见不到猫？
-[答案]: 因为他们都怕徐老师的大狗狗
+<br>**问题**: 在绝对光滑的地面上，人是否能够站立起来？
+**答案**: 你没有听过这句歌词吗?。在光滑的地上摩擦，摩擦。
 
  
 
  
+<br>**问题**: 在美国为什么见不到猫？
+**答案**: 因为他们都怕徐老师的大狗狗
 
-[问题]: 在美帝的谷歌，微软或者Facebook工作的工程师，在美帝买房会很困难吗，美帝的房价是怎么一个情况？
-[答案]: 去这几家公司除非你3-6年前加入或者级别高（出类拔萃，表现突出，水平超群，项目成功，有人重用，平步青云，人帅码屌），那么买房是不可能的。
+ 
+
+ 
+<br>**问题**: 在美帝的谷歌，微软或者Facebook工作的工程师，在美帝买房会很困难吗，美帝的房价是怎么一个情况？
+**答案**: 去这几家公司除非你3-6年前加入或者级别高（出类拔萃，表现突出，水平超群，项目成功，有人重用，平步青云，人帅码屌），那么买房是不可能的。
 
 你没看这么多前FB员工这么高调的去Uber了么，这对人来说是一件“喜事”。许多牛人也已去startup
 
@@ -20213,17 +19194,15 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在自己的本科学校读硕或博士算不算一种能力倒退？
-[答案]: 是的。你说的没错。就好比一辈子都在微软工作的人一样。毫无长进。应该先去其他公司，最后再去微软，这样才算进步
-
- 
+<br>**问题**: 在自己的本科学校读硕或博士算不算一种能力倒退？
+**答案**: 是的。你说的没错。就好比一辈子都在微软工作的人一样。毫无长进。应该先去其他公司，最后再去微软，这样才算进步
 
  
 
-[问题]: 在谷歌普通员工一周平均工作多少小时？
+ 
+<br>**问题**: 在谷歌普通员工一周平均工作多少小时？
 
-[答案]:uber 每周工作140小时＋，bonus 50%，上市之后人人都是50w富翁以上（大部分非水入的都是100-200w富翁） 
+**答案**:uber 每周工作140小时＋，bonus 50%，上市之后人人都是50w富翁以上（大部分非水入的都是100-200w富翁） 
 
  
 
@@ -20232,23 +19211,20 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在跑步机上以接近光速的速度跑步，谁的时间会变慢？
-[答案]: 跑步机的时间变慢。所以你最后速度越来越慢变成静止在跑步机上了。看起来傻傻的。
-
- 
-
- 
-
-[问题]: 在这个模型中，电场力作正功也会导致电势能减少吗？
-[答案]: 边界的连续性
+<br>**问题**: 在跑步机上以接近光速的速度跑步，谁的时间会变慢？
+**答案**: 跑步机的时间变慢。所以你最后速度越来越慢变成静止在跑步机上了。看起来傻傻的。
 
  
 
  
+<br>**问题**: 在这个模型中，电场力作正功也会导致电势能减少吗？
+**答案**: 边界的连续性
 
-[问题]: 在追求成功的道路上，曾老师真的快乐吗？
-[答案]: 有的人已经注定失败，例如我。
+ 
+
+ 
+<br>**问题**: 在追求成功的道路上，曾老师真的快乐吗？
+**答案**: 有的人已经注定失败，例如我。
 
  
 
@@ -20289,27 +19265,24 @@ ML领域的Yuandong Tian
  
 
  
-
-[问题]: 在阶层固化的大环境下，在中层和底层的人如何实现上升？
-[答案]: 学习轮子哥
-
- 
+<br>**问题**: 在阶层固化的大环境下，在中层和底层的人如何实现上升？
+**答案**: 学习轮子哥
 
  
 
-[问题]: 地下核爆炸能炸出金矿吗？（地下核爆炸和火山相似啊。）？
+ 
+<br>**问题**: 地下核爆炸能炸出金矿吗？（地下核爆炸和火山相似啊。）？
 
-[答案]:看过纪录片how universe
+**答案**:看过纪录片how universe
 
 works第一季第一集，里面提到，即便是太阳那么强大的高压高温环境，其能量密度也只能通过核聚变产生铁以下的元素。等太阳内部所有的氢和氦都变成铁之后，太阳就成为白矮星了。金的核子数超过铁，因此地球也显然无法制造。地球上所有超过铁以上的重元素都是最初太阳系的超新星爆发时遗留下来的物质。。。我们要倍加珍惜啊。
 
  
 
  
+<br>**问题**: 地球上所有人全部躺下会加速地球自转吗？
 
-[问题]: 地球上所有人全部躺下会加速地球自转吗？
-
-[答案]:我们进行这样的估算吧。参考： Earth _ _ , World population _ _ 
+**答案**:我们进行这样的估算吧。参考： Earth _ _ , World population _ _ 
 
  
 
@@ -20360,61 +19333,53 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 均匀带电的球面绕着它的某一直径做匀速旋转。试求在该直径上各点的磁感应强度B？
-[答案]: 算每一个等效电流的磁感应强度然后积分。
-
- 
-
- 
-
-[问题]: 坐飞机往、返两地，飞行时间不一样，是因为地球自转？
-[答案]: 不是。因为地球自转你也没有能够不用走路就上班了啊
+<br>**问题**: 均匀带电的球面绕着它的某一直径做匀速旋转。试求在该直径上各点的磁感应强度B？
+**答案**: 算每一个等效电流的磁感应强度然后积分。
 
  
 
  
-
-[问题]: 坐飞机的时候，为什么看窗外的掠过的一坨云，明明隔的很近，运动的速度还是很慢？
-[答案]: 云很大。你在地面看到的云的大小（几米到几十厘米），考虑到云离开地面的距离（几公里到几十公里）实际上可以达几公里。因此你话几秒钟才飞过一朵云是很正常的。不是飞机慢而是云大＋人的错觉。
-
- 
-
- 
-
-[问题]: 垂直面的圆周运动，求时间与高度的关系？
-[答案]: 问物理老师？请他出来吃个饭，泡个澡，唱个歌。
+<br>**问题**: 坐飞机往、返两地，飞行时间不一样，是因为地球自转？
+**答案**: 不是。因为地球自转你也没有能够不用走路就上班了啊
 
  
 
  
+<br>**问题**: 坐飞机的时候，为什么看窗外的掠过的一坨云，明明隔的很近，运动的速度还是很慢？
+**答案**: 云很大。你在地面看到的云的大小（几米到几十厘米），考虑到云离开地面的距离（几公里到几十公里）实际上可以达几公里。因此你话几秒钟才飞过一朵云是很正常的。不是飞机慢而是云大＋人的错觉。
 
-[问题]: 基督徒都是100%相信上帝的吗，从没有质疑吗？我内心为什么有时会突然冒出质疑上帝存在的想法。
-[答案]: 基督徒如果真的相信古书，那么他们看到关于5000年前中亚文明的历史的话，又怎么会怀疑，皇帝炎帝就是中亚人，他们其实就是基督呢？
+ 
+
+ 
+<br>**问题**: 垂直面的圆周运动，求时间与高度的关系？
+**答案**: 问物理老师？请他出来吃个饭，泡个澡，唱个歌。
+
+ 
+
+ 
+<br>**问题**: 基督徒都是100%相信上帝的吗，从没有质疑吗？我内心为什么有时会突然冒出质疑上帝存在的想法。
+**答案**: 基督徒如果真的相信古书，那么他们看到关于5000年前中亚文明的历史的话，又怎么会怀疑，皇帝炎帝就是中亚人，他们其实就是基督呢？
 
 ＝＝
 
  
 
  
-
-[问题]: 增透膜的原理只是减少了反射光为什么就会增加入射光？
-[答案]: 所谓干涉，就是把相位相消处的能量转移到了相位相长处。能量是守恒的，只是在波动位置出发生了转移。因此不难理解，所谓增透膜，无非就是让反射光互相抵消，透射光相位互相增强。因此能量都转移到透过的部分去了。反射光的抵消是膜上层和下层两个界面的反射光抵消，为了达到要求只需要让膜的厚度是2分之波长或者4分之波长即可（取决于下层界面反射处有没有相位变化）
-
- 
-
- 
-
-[问题]: 复平面的历史是怎样的？
-
-[答案]:因为e^(i*theta) = cos(theta) + i*sin(theta).
+<br>**问题**: 增透膜的原理只是减少了反射光为什么就会增加入射光？
+**答案**: 所谓干涉，就是把相位相消处的能量转移到了相位相长处。能量是守恒的，只是在波动位置出发生了转移。因此不难理解，所谓增透膜，无非就是让反射光互相抵消，透射光相位互相增强。因此能量都转移到透过的部分去了。反射光的抵消是膜上层和下层两个界面的反射光抵消，为了达到要求只需要让膜的厚度是2分之波长或者4分之波长即可（取决于下层界面反射处有没有相位变化）
 
  
 
  
+<br>**问题**: 复平面的历史是怎样的？
 
-[问题]: 复旦和交大之间的关系，为何不像北大和清华之间那样惺惺相惜？(1)
-[答案]: 所以你看，清华对北大，复旦对交大，剑桥对牛津，哈佛对麻省。浙大对浙工大。
+**答案**:因为e^(i*theta) = cos(theta) + i*sin(theta).
+
+ 
+
+ 
+<br>**问题**: 复旦和交大之间的关系，为何不像北大和清华之间那样惺惺相惜？(1)
+**答案**: 所以你看，清华对北大，复旦对交大，剑桥对牛津，哈佛对麻省。浙大对浙工大。
 
  
 
@@ -20423,18 +19388,16 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 复旦和交大之间的关系，为何不像北大和清华之间那样惺惺相惜？
-[答案]: 都是世界第一，才能高处不胜寒，处处相惜；
+<br>**问题**: 复旦和交大之间的关系，为何不像北大和清华之间那样惺惺相惜？
+**答案**: 都是世界第一，才能高处不胜寒，处处相惜；
 
 都是世界第三，那见面还不急着把对方搞死，让自己再升一级？
 
  
 
  
-
-[问题]: 复旦和交大的学生基本不会提「华五」，这是为什么呢？是不是复旦和交大比浙科南的档次要高？
-[答案]: 是的。复旦交大和清华北大并称“海四”，也就是沿海发达地区四大名校。
+<br>**问题**: 复旦和交大的学生基本不会提「华五」，这是为什么呢？是不是复旦和交大比浙科南的档次要高？
+**答案**: 是的。复旦交大和清华北大并称“海四”，也就是沿海发达地区四大名校。
 
 当然清北不会说自己是“海四” 
 
@@ -20455,9 +19418,8 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 复旦大学的张安琪是怎样一个人？
-[答案]: 我大概说3点吧。两点让人嫉妒的，一点让人正常的。
+<br>**问题**: 复旦大学的张安琪是怎样一个人？
+**答案**: 我大概说3点吧。两点让人嫉妒的，一点让人正常的。
 
 先说嫉妒的： 
 
@@ -20484,9 +19446,8 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 复旦浙大和清华北大差距真的很大么
-[答案]: 不好意思我必须来回答一下这个问题，我知道我说这些“事实”对于正在浙大念书的同学来说，没有任何好处，按照浙大图形学CAD大神曹辰的学妹的说法，给你们心里添堵了，你们请快点取关我。但即便冒着这样大的风险，我也必须说出事实。对于还在念大一的你，高三的你，如果差几分去清华，请你立即复读。
+<br>**问题**: 复旦浙大和清华北大差距真的很大么
+**答案**: 不好意思我必须来回答一下这个问题，我知道我说这些“事实”对于正在浙大念书的同学来说，没有任何好处，按照浙大图形学CAD大神曹辰的学妹的说法，给你们心里添堵了，你们请快点取关我。但即便冒着这样大的风险，我也必须说出事实。对于还在念大一的你，高三的你，如果差几分去清华，请你立即复读。
 
  
 
@@ -20498,7 +19459,7 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
 
 这么说吧，一般人认为，浙大和清华大学的差距是这样的： 
 
-![](https://pic3.zhimg.com/b561e1a47cbe5a4d6319037c0764434a_b.png) 
+!****(https://pic3.zhimg.com/b561e1a47cbe5a4d6319037c0764434a_b.png) 
 
 嗯。高考时候的分数差别并不大么～～（这是按照浙大入学成绩最高分和清华入学成绩最低分相比） 
 
@@ -20506,11 +19467,11 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
 
 ** 注1 ** ）此外，清华大学各专业前三名会被MIT, Harvard, Stanford录取，但浙大的情况就差了很多（非常多，多到我都没去成）。 
 
-![](https://pic1.zhimg.com/c05f28dc36b5e5e4f24ffdd8954ba94c_b.png) 
+!****(https://pic1.zhimg.com/c05f28dc36b5e5e4f24ffdd8954ba94c_b.png) 
 
 研究生毕业之后的差距，如下图。清华大学毕业生占据顶级firm和it 公司中高层职位的绝大多数（大致比例是，清华>北大>剩下学校的和）。 
 
-![](https://pic2.zhimg.com/efaadaa193876431452ee368d2f01fe5_b.png) 
+!****(https://pic2.zhimg.com/efaadaa193876431452ee368d2f01fe5_b.png) 
 
 对于那些进入竺可桢学院就觉得自己其实没有亏的人，我只能这么说一句：眼光还是太短浅了。超级大牛不算。但我们都是平凡人。我个人认为，浙大拿专业第一的实际市场价值，不如清华大学的专业前15-10。 
 
@@ -20521,9 +19482,8 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 复读应当如何评价可行性呢（尤其是退学复读）？
-[答案]: 如果你觉得你考上今天的分数纯属运气，考场上紧张万分，考完后笔都握不稳，那么别复读，直接去学校。反正等待你的是证明你实际智商的四年（失败）。。
+<br>**问题**: 复读应当如何评价可行性呢（尤其是退学复读）？
+**答案**: 如果你觉得你考上今天的分数纯属运气，考场上紧张万分，考完后笔都握不稳，那么别复读，直接去学校。反正等待你的是证明你实际智商的四年（失败）。。
 
 如果你觉得拿到今天的分数不符合自己的实力，因为你错了不该错的题，错题的原因是自己找到的并且自己分析发现，这属于低概率偶发事件。那么我建议你复读。 
 
@@ -20542,9 +19502,8 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 复读考清华北大值得吗？
-[答案]: 我觉得要是去了复旦，那其实可以不后悔。你可以说北京雾霾大，我就喜欢魔都上海，感受五角场魅力，远离五道口喧嚣。许多大公司都可以理解，也不会过多质疑你的能力。毕竟确实有人因为个人/家庭/气候因素没有去MIT去了Stanford/Caltech的。而且复旦去金融名企，分分钟。
+<br>**问题**: 复读考清华北大值得吗？
+**答案**: 我觉得要是去了复旦，那其实可以不后悔。你可以说北京雾霾大，我就喜欢魔都上海，感受五角场魅力，远离五道口喧嚣。许多大公司都可以理解，也不会过多质疑你的能力。毕竟确实有人因为个人/家庭/气候因素没有去MIT去了Stanford/Caltech的。而且复旦去金融名企，分分钟。
 
 但要是去了浙大，你则是应该要后悔的。否则你缺少了年少轻狂时该有的那股志气。当然，后悔和去不去复读，复读了考不考得上，又是另外一回事了。人生总要有后悔，一个自认为圆满人生的人，我想象不出来他还有什么动力去进步。进步又不一定要是复读。 
 
@@ -20553,24 +19512,21 @@ works第一季第一集，里面提到，即便是太阳那么强大的高压高
  
 
  
-
-[问题]: 夏日阳光下路面为什么像有水？
-[答案]: 冷空气下沉。相比热空气，冷空气分子密度更大，折射率更高。由此会产生反射。当表面光滑时，会产生镜面反射，这就和水表面的反射类似了。
-
- 
-
- 
-
-[问题]: 外部的世界有颜色吗？
-[答案]: 我想对楼主说，我爱你。
+<br>**问题**: 夏日阳光下路面为什么像有水？
+**答案**: 冷空气下沉。相比热空气，冷空气分子密度更大，折射率更高。由此会产生反射。当表面光滑时，会产生镜面反射，这就和水表面的反射类似了。
 
  
 
  
+<br>**问题**: 外部的世界有颜色吗？
+**答案**: 我想对楼主说，我爱你。
 
-[问题]: 外面一些培训机构的计算机web知识讲的比中国大学老师好很多，为什么还要读大学？
+ 
 
-[答案]:实际上San Jose state
+ 
+<br>**问题**: 外面一些培训机构的计算机web知识讲的比中国大学老师好很多，为什么还要读大学？
+
+**答案**:实际上San Jose state
 
 university为硅谷提供了大量的优质的技术人才，看看微软，北美职员第二多的毕业院校根本不是什么名校，而是华盛顿的一个地方大学（我说的是washington
 
@@ -20583,9 +19539,8 @@ state。），远超学生享誉100%毕业就能就业的计算机综合技术�
  
 
  
-
-[问题]: 大v为何要放弃国内的优越生活来到美帝做一个平凡人？
-[答案]: 大家居然怀疑我在讽刺。。。
+<br>**问题**: 大v为何要放弃国内的优越生活来到美帝做一个平凡人？
+**答案**: 大家居然怀疑我在讽刺。。。
 
  
 
@@ -20614,9 +19569,8 @@ state。），远超学生享誉100%毕业就能就业的计算机综合技术�
  
 
  
-
-[问题]: 大二学生想进入谷歌微软一类的公司做开发工作，现在应该侧重学习哪方面？
-[答案]: 研发？
+<br>**问题**: 大二学生想进入谷歌微软一类的公司做开发工作，现在应该侧重学习哪方面？
+**答案**: 研发？
 
 你得先去CMU然后成为机器学习的大牛 
 
@@ -20643,19 +19597,17 @@ state。），远超学生享誉100%毕业就能就业的计算机综合技术�
  
 
  
-
-[问题]: 大众悬浮车视频，号称利用成都地下矿物资源驱动行驶的，求解读？
-[答案]: 能让我谦逊的说一句吗？
+<br>**问题**: 大众悬浮车视频，号称利用成都地下矿物资源驱动行驶的，求解读？
+**答案**: 能让我谦逊的说一句吗？
 
 扯个鸡巴蛋
 
  
 
  
+<br>**问题**:大学 物理学教科书的读法？如何才能读通、读透？
 
-[问题]:大学 物理学教科书的读法？如何才能读通、读透？
-
-[答案]: 第一次学习物理都会有不懂的情况，因为物理不仅仅是抽象，更是具象。具象一层，抽象一层，再具象一层，乃至再抽象一层。这期间需要反复检验自己的理解能力。要求不可谓不高。
+**答案**: 第一次学习物理都会有不懂的情况，因为物理不仅仅是抽象，更是具象。具象一层，抽象一层，再具象一层，乃至再抽象一层。这期间需要反复检验自己的理解能力。要求不可谓不高。
 
 看你学的是什么课程。基础课程的话，抽象适可而止，主要理解具象。解决具体问题，通过做题，问老师，和同学交流，自己总结，建立知识体系，建立不同角度，不同图景，不同技巧之间的联系。从几个基本假设出发，看自己能否自洽的推导或者理解出所有的性质结论和定理。从技巧上，看自己是否能够无疏漏的解决遇到的所有习题，把所有别人的方法变成自己的直觉上就能想到的自然的方法，或者被自己直觉上能想到的自然的方法取代。如果不能，则迭代并且增量的修正自己的理解。切勿孤立不同知识点的理解，或者建立一个错误的框架，日后推翻就困难了。 
 
@@ -20668,18 +19620,16 @@ state。），远超学生享誉100%毕业就能就业的计算机综合技术�
  
 
  
-
-[问题]: 大学3年立志像轮子哥写个编译器,可能吗
-[答案]: 国内计算机是只有编译器可以学了么。。难怪别人都说码农好无聊。学完了也是敲代码。
+<br>**问题**: 大学3年立志像轮子哥写个编译器,可能吗
+**答案**: 国内计算机是只有编译器可以学了么。。难怪别人都说码农好无聊。学完了也是敲代码。
 
 看到“轮子哥说”就决定人生目标了，楼主你是3本的么。。那我也说了，不做编译器也可以学到很多数据结构和算法。你现在就可以去刷leet code
 
  
 
  
-
-[问题]: 大学《普通物理》中「普通」二字有何含义？
-[答案]: 汉语是字形组合产生语意，
+<br>**问题**: 大学《普通物理》中「普通」二字有何含义？
+**答案**: 汉语是字形组合产生语意，
 
 英语是字音组合产生语意 
 
@@ -20806,27 +19756,24 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 大学学习理论物理没有动力，感觉前途一切迷茫怎么办？跪求走过这条路的人指点一二
-[答案]: A股涨了你妈都知道要买股票，都现在了还不觉悟去学计算机？
-
- 
+<br>**问题**: 大学学习理论物理没有动力，感觉前途一切迷茫怎么办？跪求走过这条路的人指点一二
+**答案**: A股涨了你妈都知道要买股票，都现在了还不觉悟去学计算机？
 
  
 
-[问题]:大学宿舍MacBook Air外接显示器？
+ 
+<br>**问题**:大学宿舍MacBook Air外接显示器？
 
-[答案]: 42寸4K显示器，等着被别人砸坏吧。。
+**答案**: 42寸4K显示器，等着被别人砸坏吧。。
 
 市场价格8000-10000RMB。
 
  
 
  
+<br>**问题**: 大学怎么转学？
 
-[问题]: 大学怎么转学？
-
-[答案]:这个和我国的户口制度是一样的。转学，在 美帝是司空见惯 
+**答案**:这个和我国的户口制度是一样的。转学，在 美帝是司空见惯 
 
 在大陆，却是禁忌。 
 
@@ -20835,9 +19782,8 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 大学排行榜是否毁了很多人？究竟要到什么时候，大家才能明白选专业的重要性？
-[答案]: 大家明白没有用。你首先得明白，如果你分数够高，你就不会纠结这样的问题：你会去最好大学的最好专业就读。
+<br>**问题**: 大学排行榜是否毁了很多人？究竟要到什么时候，大家才能明白选专业的重要性？
+**答案**: 大家明白没有用。你首先得明白，如果你分数够高，你就不会纠结这样的问题：你会去最好大学的最好专业就读。
 
  
 
@@ -20850,9 +19796,8 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 大学是否还是以学习成绩论成败，只不过没有排名那么明显？
-[答案]: 不是的。主要是看
+<br>**问题**: 大学是否还是以学习成绩论成败，只不过没有排名那么明显？
+**答案**: 不是的。主要是看
 
 谁家钱多 
 
@@ -20875,17 +19820,15 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
+<br>**问题**: 大学物理课有什么课题适合大一学生探讨？
 
-[问题]: 大学物理课有什么课题适合大一学生探讨？
-
-[答案]:探讨下人工介质（meta material）或者等离子激发子（plasmonics）吧。这属于电磁。简单，容易，大家都能说，学过rc电路的都能扯几句蛋。
-
- 
+**答案**:探讨下人工介质（meta material）或者等离子激发子（plasmonics）吧。这属于电磁。简单，容易，大家都能说，学过rc电路的都能扯几句蛋。
 
  
 
-[问题]: 大学非理化生专业的人如何继续学习理化生呢？
-[答案]: 如果你真觉得自己智商高基因好命不该绝去学文科，那你应该看完那本1000页的算法导论外加写1000道算法题外加花1000小时上完我校或者CMU的计算机课程。这样，即便你的同学们张口闭口量子场论，明里暗里基因、通婚，你在一旁可是年薪100万笑而不语。
+ 
+<br>**问题**: 大学非理化生专业的人如何继续学习理化生呢？
+**答案**: 如果你真觉得自己智商高基因好命不该绝去学文科，那你应该看完那本1000页的算法导论外加写1000道算法题外加花1000小时上完我校或者CMU的计算机课程。这样，即便你的同学们张口闭口量子场论，明里暗里基因、通婚，你在一旁可是年薪100万笑而不语。
 
 而且这丝毫没有浪费你理科的智商 
 
@@ -20896,17 +19839,15 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
+<br>**问题**: 大家在编码时左大括号{换行吗？
 
-[问题]: 大家在编码时左大括号{换行吗？
-
-[答案]:有空格，不换。否则公司reviewer 咬死你
-
- 
+**答案**:有空格，不换。否则公司reviewer 咬死你
 
  
 
-[问题]: 大家好
-[答案]: 我昨天出狱了
+ 
+<br>**问题**: 大家好
+**答案**: 我昨天出狱了
 
  
 
@@ -20931,10 +19872,9 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
+<br>**问题**: 大家好，发布一个新消息
 
-[问题]: 大家好，发布一个新消息
-
-[答案]:
+**答案**:
 
  
 
@@ -20944,7 +19884,7 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
 
 如图： 
 
-![](http://pic3.zhimg.com/v2-9eb4fb56926767eb5796da0a63351f56_b.png)
+!****(http://pic3.zhimg.com/v2-9eb4fb56926767eb5796da0a63351f56_b.png)
 
  
 
@@ -20952,29 +19892,26 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
 
  
 
-![](http://pic3.zhimg.com/v2-bf8b3cb841100da8d631cb12446b989e_b.png)
+!****(http://pic3.zhimg.com/v2-bf8b3cb841100da8d631cb12446b989e_b.png)
 
  
 
  
+<br>**问题**:大家的公司的code review都是怎么做的？遇到过什么问题么？
 
-[问题]:大家的公司的code review都是怎么做的？遇到过什么问题么？
-
-[答案]:因为Facebook 没有QA职位，quality control 是由工程师自己做的。这就是code review 的价值。
-
- 
-
- 
-
-[问题]: 大家觉得王垠对空指针的处理怎么看待？
-[答案]: 。。。。。
+**答案**:因为Facebook 没有QA职位，quality control 是由工程师自己做的。这就是code review 的价值。
 
  
 
  
+<br>**问题**: 大家觉得王垠对空指针的处理怎么看待？
+**答案**: 。。。。。
 
-[问题]: 大灾大难之后商人抬高物价，在经济学上是合理的，但是政府为什么通常要避免这种情况？
-[答案]: 政府是在为有钱人好。
+ 
+
+ 
+<br>**问题**: 大灾大难之后商人抬高物价，在经济学上是合理的，但是政府为什么通常要避免这种情况？
+**答案**: 政府是在为有钱人好。
 
 证据如下： 
 
@@ -21005,9 +19942,8 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 大牛编程用的是什么系统？什么语言？什么编译器？
-[答案]: 大牛只用windows
+<br>**问题**: 大牛编程用的是什么系统？什么语言？什么编译器？
+**答案**: 大牛只用windows
 
 编译器是轮子哥写的 
 
@@ -21022,9 +19958,8 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 天体为什么自转？可以用什么理论解释？
-[答案]: 我觉得这个问题可以问做，有没有自旋为0，甚至轨道角动量也为0的稳定存在的星体结构？
+<br>**问题**: 天体为什么自转？可以用什么理论解释？
+**答案**: 我觉得这个问题可以问做，有没有自旋为0，甚至轨道角动量也为0的稳定存在的星体结构？
 
 ** 行星的自旋可以用撞击的理论来解释 ** ，也就是，外界小行星的撞击会带来一定的角动量：想象打台球打偏心的时候。  
 
@@ -21039,16 +19974,14 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 天津大学机械学院陈焱教授最近在science发表的文章对于天大的机械这一专业意味着什么？
-[答案]: 有望超过南开。
-
- 
+<br>**问题**: 天津大学机械学院陈焱教授最近在science发表的文章对于天大的机械这一专业意味着什么？
+**答案**: 有望超过南开。
 
  
 
-[问题]: 天津大学求是学部考加州理工PhD希望有多大？
-[答案]: 这比浙江大学求是学院考入清华大学研究生难多了。比较合理的做法是去清华念本科考入专业前三名。
+ 
+<br>**问题**: 天津大学求是学部考加州理工PhD希望有多大？
+**答案**: 这比浙江大学求是学院考入清华大学研究生难多了。比较合理的做法是去清华念本科考入专业前三名。
 
 求是。。 
 
@@ -21057,32 +19990,28 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 太在意大学的世界排名，羡慕别人怎么办？
-[答案]: 我不在意世界排名。我只在意世界房价。。
-
- 
-
- 
-
-[问题]:夫妻双码农，税前年薪北京 60W+ CNY，如去硅谷 23W+ USD，小孩不到 3 岁，值得去吗？
-
-[答案]: 夫妻双码农。这件事情对我来说怎么就这么遥远
+<br>**问题**: 太在意大学的世界排名，羡慕别人怎么办？
+**答案**: 我不在意世界排名。我只在意世界房价。。
 
  
 
  
+<br>**问题**:夫妻双码农，税前年薪北京 60W+ CNY，如去硅谷 23W+ USD，小孩不到 3 岁，值得去吗？
 
-[问题]: 夫妻算不算亲戚？
-[答案]: 我知道你有很多亲戚。
+**答案**: 夫妻双码农。这件事情对我来说怎么就这么遥远
+
+ 
+
+ 
+<br>**问题**: 夫妻算不算亲戚？
+**答案**: 我知道你有很多亲戚。
 
  
 
  
+<br>**问题**:央视女主播戴 Apple Watch 出镜合理吗？
 
-[问题]:央视女主播戴 Apple Watch 出镜合理吗？
-
-[答案]: 没关系
+**答案**: 没关系
 
  
 
@@ -21099,9 +20028,8 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 失败人士应该读什么书？
-[答案]: 《勃学讲义》*
+<br>**问题**: 失败人士应该读什么书？
+**答案**: 《勃学讲义》*
 
  
 
@@ -21114,16 +20042,14 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
-
-[问题]: 奇数和偶数到底是什么？
-[答案]: ...＝＝＝＝＝＝＝＝＝＝。。。
-
- 
+<br>**问题**: 奇数和偶数到底是什么？
+**答案**: ...＝＝＝＝＝＝＝＝＝＝。。。
 
  
 
-[问题]: 奇葩说第二季第十期关于朋友是否可约的讨论被马东终止是否画地为牢
-[答案]: 我只是好奇前沿的观点就一定要和爱，性扯上关系吗？纵观他们的辩题，有几期不是和小三，上床，真爱，性别有关的
+ 
+<br>**问题**: 奇葩说第二季第十期关于朋友是否可约的讨论被马东终止是否画地为牢
+**答案**: 我只是好奇前沿的观点就一定要和爱，性扯上关系吗？纵观他们的辩题，有几期不是和小三，上床，真爱，性别有关的
 
 其实他们不是想做前沿，只是想做话题，受众。 
 
@@ -21136,56 +20062,49 @@ material？ ** 超 ** 材料么？一些很平凡、朴实的科学概念，翻�
  
 
  
+<br>**问题**:奥迪 A6 广告文案第三句的逻辑似乎与其他三句不同，为什么这样设置？
 
-[问题]:奥迪 A6 广告文案第三句的逻辑似乎与其他三句不同，为什么这样设置？
-
-[答案]: 奋斗，收获，执着：音律押韵。
-
- 
-
- 
-
-[问题]: 女人真的不适合开车吗？这是否是偏见？
-[答案]: 因为远古的时候男人外出打猎，而女性则需要去采摘野果。。。所以久而久之，两个性别在视觉方面就各有所长了。现在，男人外出当码农，需要看清屏幕上飞快闪过的字幕，而女性不同，她们不需要当码农，而是去去写代码，所以通过颜色判断哪一些是注释，哪一些是关键字。久而久之，两个性别在视觉方面就各有所长了。
+**答案**: 奋斗，收获，执着：音律押韵。
 
  
 
  
+<br>**问题**: 女人真的不适合开车吗？这是否是偏见？
+**答案**: 因为远古的时候男人外出打猎，而女性则需要去采摘野果。。。所以久而久之，两个性别在视觉方面就各有所长了。现在，男人外出当码农，需要看清屏幕上飞快闪过的字幕，而女性不同，她们不需要当码农，而是去去写代码，所以通过颜色判断哪一些是注释，哪一些是关键字。久而久之，两个性别在视觉方面就各有所长了。
 
-[问题]: 女程序员上班需要化妆吗？
-[答案]: 不需要
+ 
+
+ 
+<br>**问题**: 女程序员上班需要化妆吗？
+**答案**: 不需要
 
 只需要单身
 
  
 
  
+<br>**问题**:如何 使用不特定数量的条件 对数据库 进行筛选？
 
-[问题]:如何 使用不特定数量的条件 对数据库 进行筛选？
-
-[答案]:Python and sqlalchemy
-
- 
-
- 
-
-[问题]: 如何上北大物理学院？参加竞赛吗？
-[答案]: 你真爱物理吗
+**答案**:Python and sqlalchemy
 
  
 
  
+<br>**问题**: 如何上北大物理学院？参加竞赛吗？
+**答案**: 你真爱物理吗
 
-[问题]: 如何从上海交大到伯克利？
-[答案]: lalala
+ 
+
+ 
+<br>**问题**: 如何从上海交大到伯克利？
+**答案**: lalala
 
  
 
  
+<br>**问题**: 如何从微观角度解释光的反射和折射？
 
-[问题]: 如何从微观角度解释光的反射和折射？
-
-[答案]:http:// blog.renren.com/blog/22 3331581/862267210?bfrom=010203012 _ _ 
+**答案**:http:// blog.renren.com/blog/22 3331581/862267210?bfrom=010203012 _ _ 
 
  
 
@@ -21263,7 +20182,7 @@ p就是源处电偶极矢的积分。实际上，这个偶极子项在不论距�
 
 利用maxwell方程，由（10）我们可以计算源以外任何地方的场强：（11） 
 
-这里直接引用jackson的结论[4]：（12） 
+这里直接引用jackson的结论**4**：（12） 
 
 注意到只有分母为1/r的项才会传播到无穷远处。远场中，电场是和偶极子方向平行，而磁场是和电场垂直。近场就是静电偶极子的发出的波。但严格来说，每一项都是电磁波，只是远场和近场不同而已。 
 
@@ -21492,9 +20411,8 @@ Bo Zeng
  
 
  
-
-[问题]: 如何从心理学的角度解释黄执中进行结辩的时候说服力是那么的大？
-[答案]: 其实主要是厚黑学；把很多人生活中遇到，想到，想说却因为说了就找不到女朋友，找不到工作，找不到父母的人性黑暗面说出来。诚然这些黑暗面是存在的，但肯定不是生活得全部，否则他怎么活到了今天？
+<br>**问题**: 如何从心理学的角度解释黄执中进行结辩的时候说服力是那么的大？
+**答案**: 其实主要是厚黑学；把很多人生活中遇到，想到，想说却因为说了就找不到女朋友，找不到工作，找不到父母的人性黑暗面说出来。诚然这些黑暗面是存在的，但肯定不是生活得全部，否则他怎么活到了今天？
 
 黑暗面在社会听众的接受度是很高的，因为社会上正能量多了，负能量让人得以发泄；而且正如高票答案所说，他让你放下戒备（因为你很赞同，要么就是也很想说）。这就是为什么浙大三本论在社会各界获得广泛赞同和反响的原因。 
 
@@ -21508,7 +20426,7 @@ Bo Zeng
 
 为了佐证我的说法，我们来依次分析高票答案的演讲稿： 
 
-![](https://pic2.zhimg.com/dc8d407d176c607d57b61bc564bb2f29_b.png) 
+!****(https://pic2.zhimg.com/dc8d407d176c607d57b61bc564bb2f29_b.png) 
 
 请注意其中红线标出的那几句话。 
 
@@ -21563,66 +20481,58 @@ Bo Zeng
  
 
  
-
-[问题]: 如何从概率公理得到熵的公式？
-[答案]: 参看统计物理
+<br>**问题**: 如何从概率公理得到熵的公式？
+**答案**: 参看统计物理
 
 答案：略
 
  
 
  
-
-[问题]: 如何以曾博、立党、白如冰、bhuztez、潘安仁等勃学人士为人物写一个故事？
-[答案]: 他们本来都很勃学。看到轮子哥，玩了玩肚子，软了
-
- 
+<br>**问题**: 如何以曾博、立党、白如冰、bhuztez、潘安仁等勃学人士为人物写一个故事？
+**答案**: 他们本来都很勃学。看到轮子哥，玩了玩肚子，软了
 
  
 
-[问题]: 如何以曾博为榜样？
-[答案]: 现在都流行在提问中黑了。
+ 
+<br>**问题**: 如何以曾博为榜样？
+**答案**: 现在都流行在提问中黑了。
 
 如何问一个关于轮子的姐妹问题？
 
  
 
  
-
-[问题]: 如何优雅地使用Matlab？
-[答案]: 优雅的使用？？学习python和r，回过头再来看matlab就会发现自己比他更优雅。。
-
- 
-
- 
-
-[问题]:如何优雅地将dat, txt 或者excel 文件导入python
-
-[答案]:Learn how to use Numpy
+<br>**问题**: 如何优雅地使用Matlab？
+**答案**: 优雅的使用？？学习python和r，回过头再来看matlab就会发现自己比他更优雅。。
 
  
 
  
+<br>**问题**:如何优雅地将dat, txt 或者excel 文件导入python
 
-[问题]: 如何使Windows获得Macos的操作体验
-
-[答案]:那微软得把苹果的设计师部门买下来，并且全面重写自己的API，并且宣布和之前的win 32 程序不兼容
-
- 
-
- 
-
-[问题]:如何信达雅的翻译这句话——Bigger than bigger
-
-[答案]: 我的鸟比你大。
+**答案**:Learn how to use Numpy
 
  
 
  
+<br>**问题**: 如何使Windows获得Macos的操作体验
 
-[问题]: 如何做到完美的弹射起步，需要什么硬件要求和操作要求？
+**答案**:那微软得把苹果的设计师部门买下来，并且全面重写自己的API，并且宣布和之前的win 32 程序不兼容
 
-[答案]:你需要的其实是Tesla Model S P95D。 
+ 
+
+ 
+<br>**问题**:如何信达雅的翻译这句话——Bigger than bigger
+
+**答案**: 我的鸟比你大。
+
+ 
+
+ 
+<br>**问题**: 如何做到完美的弹射起步，需要什么硬件要求和操作要求？
+
+**答案**:你需要的其实是Tesla Model S P95D。 
 
 别说撩妹了 
 
@@ -21631,9 +20541,8 @@ Bo Zeng
  
 
  
-
-[问题]: 如何克服天赋不错带来的学习上的坏毛病？
-[答案]: 有的人会考试，但以为自己学会了知识。
+<br>**问题**: 如何克服天赋不错带来的学习上的坏毛病？
+**答案**: 有的人会考试，但以为自己学会了知识。
 
 你可能可以通过图灵测试，但你其实永远也不会汉语。 
 
@@ -21642,10 +20551,9 @@ Bo Zeng
  
 
  
+<br>**问题**:如何分析评价苹果公司 (Apple) 在市场竞争中的『隐私优势』？
 
-[问题]:如何分析评价苹果公司 (Apple) 在市场竞争中的『隐私优势』？
-
-[答案]: 请结合中国社会主义市场经济作答。本题20分。答对一点得5分，空白或者全错者，不得分。出题人：巧不死
+**答案**: 请结合中国社会主义市场经济作答。本题20分。答对一点得5分，空白或者全错者，不得分。出题人：巧不死
 
  
 
@@ -21658,24 +20566,21 @@ apple尊重隐私，所以用户可能因为这一点购买apple得产品。我�
  
 
  
+<br>**问题**: 如何判断sqrt{7}^{sqrt{8}}和sqrt{8}^{sqrt{7}}的大小？
 
-[问题]: 如何判断sqrt{7}^{sqrt{8}}和sqrt{8}^{sqrt{7}}的大小？
-
-[答案]:what a typical quant problem.
-
- 
-
- 
-
-[问题]: 如何利用抽象代数为自己的游戏（或其他创作）设计一套有趣的技能法术whatever系统？
-[答案]: 每升一级需要的经验值是下一个质数
+**答案**:what a typical quant problem.
 
  
 
  
+<br>**问题**: 如何利用抽象代数为自己的游戏（或其他创作）设计一套有趣的技能法术whatever系统？
+**答案**: 每升一级需要的经验值是下一个质数
 
-[问题]: 如何区别闷声发大财和闭门造车？
-[答案]: 你想的太多了
+ 
+
+ 
+<br>**问题**: 如何区别闷声发大财和闭门造车？
+**答案**: 你想的太多了
 
 真正的闷声发大财，也是要和业内专业人士打交道，沟通，共同进步，一起赚钱的。只是不和非专业的，级别比自己低，社会等级不如自己，或者和自己业务无关的人（例如知乎上的人）吹嘘自己的策略和实力。好比你看某些基金公司年薪300w美金的交易员们，他们都很清楚业内其他人的实力，也大概明白对手或者是敌人的手段。否则你如何发大财？
 
@@ -21692,64 +20597,56 @@ apple尊重隐私，所以用户可能因为这一点购买apple得产品。我�
  
 
  
-
-[问题]: 如何反驳「我现在学的高中数学对未来根本没用」之类的话？
-[答案]: 不学好数学你是找不到码农工作的
-
- 
+<br>**问题**: 如何反驳「我现在学的高中数学对未来根本没用」之类的话？
+**答案**: 不学好数学你是找不到码农工作的
 
  
 
-[问题]: 如何同时提升学术能力和编程能力？
-[答案]: 去CMU，我以前只是以为CMU的大神喜欢出现在知乎；现在发现是因为大部分大神都出自CMU。CMU的CS大神比斯坦福多。
+ 
+<br>**问题**: 如何同时提升学术能力和编程能力？
+**答案**: 去CMU，我以前只是以为CMU的大神喜欢出现在知乎；现在发现是因为大部分大神都出自CMU。CMU的CS大神比斯坦福多。
 
 而且他们各个都30-40万年薪，代码写的不知道比轮子溜多少
 
  
 
  
-
-[问题]: 如何向女朋友解释手机偶尔出现的问题并合理地寻求解决？
-[答案]: 买iPhone.
+<br>**问题**: 如何向女朋友解释手机偶尔出现的问题并合理地寻求解决？
+**答案**: 买iPhone.
 
 并且每天陪她睡
 
  
 
  
+<br>**问题**: 如何吸引新的曾博粉丝？
 
-[问题]: 如何吸引新的曾博粉丝？
-
-[答案]:loser 就喜欢研究 loser
-
- 
-
- 
-
-[问题]: 如何在大一开始就成为学霸？
-[答案]: 很简单：你真心看不起自己所在的这个学校＝＝
+**答案**:loser 就喜欢研究 loser
 
  
 
  
-
-[问题]: 如何在聊天中机智风趣地回复男生的“摸摸头”？
-[答案]: 哪个头。我有两个
-
- 
-
- 
-
-[问题]: 如何嫁给曾博？
-[答案]: 你就接着钓鱼吧。我们勃学是唯物主义学派，不吃你这一套。
+<br>**问题**: 如何在大一开始就成为学霸？
+**答案**: 很简单：你真心看不起自己所在的这个学校＝＝
 
  
 
  
+<br>**问题**: 如何在聊天中机智风趣地回复男生的“摸摸头”？
+**答案**: 哪个头。我有两个
 
-[问题]: 如何学好高中物理？
+ 
 
-[答案]:** 看书 ** ：一本好书也是很重要的。国内的高中教材的教学对象似乎是职业技校，看了和没看毫无区别。所以建议你一定要买一本好的参考书；问问发达地区，沿海城市的重点中学的人都在看什么书。  
+ 
+<br>**问题**: 如何嫁给曾博？
+**答案**: 你就接着钓鱼吧。我们勃学是唯物主义学派，不吃你这一套。
+
+ 
+
+ 
+<br>**问题**: 如何学好高中物理？
+
+**答案**:** 看书 ** ：一本好书也是很重要的。国内的高中教材的教学对象似乎是职业技校，看了和没看毫无区别。所以建议你一定要买一本好的参考书；问问发达地区，沿海城市的重点中学的人都在看什么书。  
 
 ** 做题 ** ：问问发达地区，沿海城市的重点中学的人都在用什么练习册。一个好的题目可以检验出你的理解有哪些漏洞，你的思维有哪里生疏，你的技巧有哪些盲区。  
 
@@ -21770,18 +20667,16 @@ apple尊重隐私，所以用户可能因为这一点购买apple得产品。我�
  
 
  
+<br>**问题**:如何实现 Call CC 或者阴阳谜题（Yin Yang Puzzle）？
 
-[问题]:如何实现 Call CC 或者阴阳谜题（Yin Yang Puzzle）？
-
-[答案]:还是functional programming language 看起来奇葩=
-
- 
+**答案**:还是functional programming language 看起来奇葩=
 
  
 
-[问题]:如何客观评价苹果 2014 年 10 月 16 日的新品发布会？
+ 
+<br>**问题**:如何客观评价苹果 2014 年 10 月 16 日的新品发布会？
 
-[答案]: 如何评价？！
+**答案**: 如何评价？！
 
  
 
@@ -21840,33 +20735,29 @@ Tesla D
  
 
  
-
-[问题]: 如何将碗里的糖和盐完全分离？
-[答案]: 盐是极性离子晶体，糖是非极性的有机碳水化合物。通过空间高电场极化盐就可以分离了。。另外质谱仪也是很好的方法。
-
- 
-
- 
-
-[问题]:如何展望 WWDC 2016？
-
-[答案]: 唯一已知的事情是：股价大跌。
+<br>**问题**: 如何将碗里的糖和盐完全分离？
+**答案**: 盐是极性离子晶体，糖是非极性的有机碳水化合物。通过空间高电场极化盐就可以分离了。。另外质谱仪也是很好的方法。
 
  
 
  
+<br>**问题**:如何展望 WWDC 2016？
 
-[问题]: 如何帮助知乎改进客户端？
+**答案**: 唯一已知的事情是：股价大跌。
 
-[答案]:ipad 用户还没有 知乎for ipad 版。与其举办这么多线下活动“盐”，还不如多举办几次ios 开发者大会。。
+ 
+
+ 
+<br>**问题**: 如何帮助知乎改进客户端？
+
+**答案**:ipad 用户还没有 知乎for ipad 版。与其举办这么多线下活动“盐”，还不如多举办几次ios 开发者大会。。
 
  
 
  
+<br>**问题**:如何应对 STEM 类 OPT 延期至二十四个月的提案被疑似反移民组织攻击的状况？
 
-[问题]:如何应对 STEM 类 OPT 延期至二十四个月的提案被疑似反移民组织攻击的状况？
-
-[答案]: 我觉得去评论一下是有用的。
+**答案**: 我觉得去评论一下是有用的。
 
 其实真正掌握美国国运的，上层社会的高级职位大家不必担心，例如华尔街quant的职位，据说每年h1b是100%中。 
 
@@ -21879,10 +20770,9 @@ Tesla D
  
 
  
+<br>**问题**:如何得到 Google 的工作机会？
 
-[问题]:如何得到 Google 的工作机会？
-
-[答案]: 做法很简单：
+**答案**: 做法很简单：
 
 0，彻底抛弃unix的传教 
 
@@ -21905,40 +20795,35 @@ Tesla D
  
 
  
+<br>**问题**:如何得到苹果公司 (Apple Corporate) 的工作机会？
 
-[问题]:如何得到苹果公司 (Apple Corporate) 的工作机会？
-
-[答案]: 能去苹果的比那些去微软的牛逼大了。。
-
- 
-
- 
-
-[问题]: 如何忘记不对的人
-[答案]: 认识更多的人。人的大脑很容易被新的信息填满。
+**答案**: 能去苹果的比那些去微软的牛逼大了。。
 
  
 
  
-
-[问题]: 如何快速准确的区分左右？
-[答案]: 心脏在左边。
-
- 
-
- 
-
-[问题]:如何成为一个年薪50万+ 的数据分析师？
-
-[答案]: 加入uber，年薪100w美金起步。
+<br>**问题**: 如何忘记不对的人
+**答案**: 认识更多的人。人的大脑很容易被新的信息填满。
 
  
 
  
+<br>**问题**: 如何快速准确的区分左右？
+**答案**: 心脏在左边。
 
-[问题]: 如何才能写出没有bug的程序？
+ 
 
-[答案]:print("hello world") 
+ 
+<br>**问题**:如何成为一个年薪50万+ 的数据分析师？
+
+**答案**: 加入uber，年薪100w美金起步。
+
+ 
+
+ 
+<br>**问题**: 如何才能写出没有bug的程序？
+
+**答案**:print("hello world") 
 
 return 
 
@@ -21949,18 +20834,16 @@ return
  
 
  
-
-[问题]: 如何才能去万合天宜制作的网剧，客串角色
-[答案]: 你只要出钱帮他拍大电影。
+<br>**问题**: 如何才能去万合天宜制作的网剧，客串角色
+**答案**: 你只要出钱帮他拍大电影。
 
 他就滚回来认你做爹。
 
  
 
  
-
-[问题]: 如何才能和曾博在一起？
-[答案]: 先来硅谷
+<br>**问题**: 如何才能和曾博在一起？
+**答案**: 先来硅谷
 
 再作为程序员 
 
@@ -21969,49 +20852,43 @@ return
  
 
  
-
-[问题]: 如何才能找到一个程序员做男朋友！？
-[答案]: 果然很多程序员都是没有女朋友的。那那个“大房子”究竟是怎么来的？
-
- 
+<br>**问题**: 如何才能找到一个程序员做男朋友！？
+**答案**: 果然很多程序员都是没有女朋友的。那那个“大房子”究竟是怎么来的？
 
  
 
-[问题]: 如何把一组数分成两组，使得每组的和为给定的值a,b
+ 
+<br>**问题**: 如何把一组数分成两组，使得每组的和为给定的值a,b
 
-[答案]:你这个是subset sum
+**答案**:你这个是subset sum
 
 问题。这个问题是NP问题。当元素数目很少的时候，可以使用穷举法。当你要求的和很小的时候，可以使用动态规划。在动态规划中，该问题可以变成半多项式时间问题。
 
  
 
  
+<br>**问题**:如何招到一个优质的 C++ 图形工程师？
 
-[问题]:如何招到一个优质的 C++ 图形工程师？
-
-[答案]: 那必须是轮子哥和叛逆者的合体啊。。。
-
- 
-
- 
-
-[问题]: 如何推广壮大勃学家协会？
-[答案]: 已举报
+**答案**: 那必须是轮子哥和叛逆者的合体啊。。。
 
  
 
  
-
-[问题]: 如何改变“自己写的论文自己都不想看”的情况？
-
-[答案]:bu yao xie lun wen .
+<br>**问题**: 如何推广壮大勃学家协会？
+**答案**: 已举报
 
  
 
  
+<br>**问题**: 如何改变“自己写的论文自己都不想看”的情况？
 
-[问题]: 如何改变「工科不如商科」的观念？
-[答案]: 你的想法非常正确。
+**答案**:bu yao xie lun wen .
+
+ 
+
+ 
+<br>**问题**: 如何改变「工科不如商科」的观念？
+**答案**: 你的想法非常正确。
 
 这个世界看起来是人类和自然作斗争，殊不知最后其实都是人和人作斗争。 
 
@@ -22046,25 +20923,23 @@ return
  
 
  
+<br>**问题**:如何旋转一个NN的矩阵，不准开辟新空间 ？
 
-[问题]:如何旋转一个NN的矩阵，不准开辟新空间 ？
-
-[答案]:why don't you check out leetcode. 
+**答案**:why don't you check out leetcode. 
 
 you won't get hired by BAT this way.
 
  
 
  
-
-[问题]: 如何构建一个表面积无限而体积有限的模型？
-[答案]: 从维度来说，体积的维度比面积高；或者面积的维度比周长高，因此找到一个高维度有限，低维度无限的东西，只需要往无穷大积分即可：
+<br>**问题**: 如何构建一个表面积无限而体积有限的模型？
+**答案**: 从维度来说，体积的维度比面积高；或者面积的维度比周长高，因此找到一个高维度有限，低维度无限的东西，只需要往无穷大积分即可：
 
  
 
-![\\int_{a}^{ \\infty } \\frac{1}{x}  dx 
+!**\\int_{a}^{ \\infty } \\frac{1}{x}  dx 
 
-](https://www.zhihu.com/equation?tex=%5Cint_%7Ba%7D%5E%7B+%5Cinfty+%7D+%5Cfrac%7B1%7D%7Bx%7D+++dx++%0A) 
+**(https://www.zhihu.com/equation?tex=%5Cint_%7Ba%7D%5E%7B+%5Cinfty+%7D+%5Cfrac%7B1%7D%7Bx%7D+++dx++%0A) 
 
 发散 
 
@@ -22072,9 +20947,9 @@ you won't get hired by BAT this way.
 
  
 
-![\\int_{a}^{\\infty} \\frac{1}{x^2}  dx 
+!**\\int_{a}^{\\infty} \\frac{1}{x^2}  dx 
 
-](https://www.zhihu.com/equation?tex=%5Cint_%7Ba%7D%5E%7B%5Cinfty%7D+%5Cfrac%7B1%7D%7Bx%5E2%7D+++dx++%0A) 
+**(https://www.zhihu.com/equation?tex=%5Cint_%7Ba%7D%5E%7B%5Cinfty%7D+%5Cfrac%7B1%7D%7Bx%5E2%7D+++dx++%0A) 
 
 收敛 
 
@@ -22085,26 +20960,23 @@ you won't get hired by BAT this way.
  
 
  
-
-[问题]: 如何构建一套完整的数学知识体系？
-[答案]: 工科精进的重点在于是否获得充足的经验处理工科的问题。数学问题你处理的再高明，也无法改变傅立叶变换的结果就是频谱的事实，也无法突破采样定理那惊为天人的简洁，也不可取代z变换最后还是要换回来，计算结果最重要的真理。当然你可以自己去研究那些抽象的内容直到你一个结果都算不出来。。。
+<br>**问题**: 如何构建一套完整的数学知识体系？
+**答案**: 工科精进的重点在于是否获得充足的经验处理工科的问题。数学问题你处理的再高明，也无法改变傅立叶变换的结果就是频谱的事实，也无法突破采样定理那惊为天人的简洁，也不可取代z变换最后还是要换回来，计算结果最重要的真理。当然你可以自己去研究那些抽象的内容直到你一个结果都算不出来。。。
 
 算出来结果首先要看是不是容易理解。不容易理解的结果你算出来也没有用。这里，工科的类比经验比数学上的吹毛求疵重要的多
 
  
 
  
-
-[问题]: 如何正确地吹嘘一个简单的程序？
-[答案]: 这个标签，excited
-
- 
+<br>**问题**: 如何正确地吹嘘一个简单的程序？
+**答案**: 这个标签，excited
 
  
 
-[问题]:如何正确获得Facebook 内推资格
+ 
+<br>**问题**:如何正确获得Facebook 内推资格
 
-[答案]: 不是把自己的简历给别人实为收费培训。而是去找facebook唯一真正具有技术实力，清华毕业的低调大神：邹昕。
+**答案**: 不是把自己的简历给别人实为收费培训。而是去找facebook唯一真正具有技术实力，清华毕业的低调大神：邹昕。
 
 知乎搜索，邹昕。远离某些离退休不爱技术四本网红的骗钱行为，回归理性。为了出国，也要吃相。 
 
@@ -22119,10 +20991,9 @@ you won't get hired by BAT this way.
  
 
  
+<br>**问题**:如何正确解读陈章良的经典名言「21 世纪是生物学的世纪」？
 
-[问题]:如何正确解读陈章良的经典名言「21 世纪是生物学的世纪」？
-
-[答案]: 当年还是物理学的世纪的时候（20世纪？），物理学家也没赚什么钱啊？
+**答案**: 当年还是物理学的世纪的时候（20世纪？），物理学家也没赚什么钱啊？
 
 这个社会，一直是名人，艺术工作者，工程师，政商金在赚钱。 
 
@@ -22137,33 +21008,29 @@ you won't get hired by BAT this way.
  
 
  
-
-[问题]: 如何浅显易懂地理解电磁辐射？
-[答案]: 电磁辐射就是光子。光子既是粒子，又是波。可以用波动方程完整描述其行为（不考虑广义相对论和电子—光子相互作用的细节）
-
- 
+<br>**问题**: 如何浅显易懂地理解电磁辐射？
+**答案**: 电磁辐射就是光子。光子既是粒子，又是波。可以用波动方程完整描述其行为（不考虑广义相对论和电子—光子相互作用的细节）
 
  
 
-[问题]: 如何理性看待哈佛【裸奔节】和华科【泼水节】
-[答案]: 中国男生不敢裸露，可能是因为这个文化暗示了一旦裸露就会发生强暴吧。。严格禁止裸露的文明往往都是落后的宗教或者农业文明。
+ 
+<br>**问题**: 如何理性看待哈佛【裸奔节】和华科【泼水节】
+**答案**: 中国男生不敢裸露，可能是因为这个文化暗示了一旦裸露就会发生强暴吧。。严格禁止裸露的文明往往都是落后的宗教或者农业文明。
 
 在美帝大家全部脱光男女在一起可以相安无事。围观者感觉到氛围也就是笑笑。从没听说裸奔导致强暴，侵犯和文化堕落的事情
 
  
 
  
+<br>**问题**:如何理解f(t)=e^(x+jt) 这样的信号在时空中的变化？
 
-[问题]:如何理解f(t)=e^(x+jt) 这样的信号在时空中的变化？
-
-[答案]:这个问题估计没人会来回答吧。x, y 哪个是时间？
-
- 
+**答案**:这个问题估计没人会来回答吧。x, y 哪个是时间？
 
  
 
-[问题]: 如何理解‘机器学习不问因果只关问相关性，只作归纳不作演绎‘？
-[答案]: 还是有的吧。RNN就可以记住实际上的因果关系=虽然他不必理解为什么，但这个关系是知道了。
+ 
+<br>**问题**: 如何理解‘机器学习不问因果只关问相关性，只作归纳不作演绎‘？
+**答案**: 还是有的吧。RNN就可以记住实际上的因果关系=虽然他不必理解为什么，但这个关系是知道了。
 
 当然题主说的可能是，机器需要自己从逻辑而不是数据上演绎归纳得出这个因果关系，还可以举一反三= 
 
@@ -22172,11 +21039,10 @@ you won't get hired by BAT this way.
  
 
  
+<br>**问题**: 如何理解《道德经》中的「道生一，一生二，二生三，三生万物」？
+**答案**: （结合@顺道的答案）注意到这一点：
 
-[问题]: 如何理解《道德经》中的「道生一，一生二，二生三，三生万物」？
-[答案]: （结合@顺道的答案）注意到这一点：
-
-![2^1=2;
+!**2^1=2;
 
  
 
@@ -22184,35 +21050,32 @@ you won't get hired by BAT this way.
 
  
 
-2^3=8](https://www.zhihu.com/equation?tex=2%5E1%3D2%3B%0A2%5E2%3D4%3B%0A2%5E3%3D8) 
+2^3=8**(https://www.zhihu.com/equation?tex=2%5E1%3D2%3B%0A2%5E2%3D4%3B%0A2%5E3%3D8) 
 
-道等于 ![2^0=1](https://www.zhihu.com/equation?tex=2%5E0%3D1)
-
- 
+道等于 !**2^0=1**(https://www.zhihu.com/equation?tex=2%5E0%3D1)
 
  
 
-[问题]: 如何理解「中国是发达国家的粉碎机」这一说法？
-[答案]: 快把发达国家粉碎掉啊。。。。
+ 
+<br>**问题**: 如何理解「中国是发达国家的粉碎机」这一说法？
+**答案**: 快把发达国家粉碎掉啊。。。。
 
 让美国成为印度人的天堂吧
 
  
 
  
-
-[问题]: 如何理解任正非说的“石墨烯时代将颠覆硅时代”？
-[答案]: 说实话，他这番话让我无法理解。
+<br>**问题**: 如何理解任正非说的“石墨烯时代将颠覆硅时代”？
+**答案**: 说实话，他这番话让我无法理解。
 
 光都没颠覆电呢
 
  
 
  
+<br>**问题**: 如何理解傅里叶变换公式？
 
-[问题]: 如何理解傅里叶变换公式？
-
-[答案]:关于时间上的－号，请看 虚数用 “i” 来表示是因为它是 imaginary 的缩写。但是，为什么有时候虚数也可以用 “j” 来表示呢？ 中我的回答。 
+**答案**:关于时间上的－号，请看 虚数用 “i” 来表示是因为它是 imaginary 的缩写。但是，为什么有时候虚数也可以用 “j” 来表示呢？ 中我的回答。 
 
 这里重复一下，在数学和物理中，或者更准确一点，数学物理方法中，把一个任意函数进行fourier变换的意义等价于把一个函数进行以平面波为基的展开。这和3维下把一个矢量按照x,y,z基展开是一样的，这一点陳先生已经说明了。 
 
@@ -22227,9 +21090,8 @@ t ，相当于你做了t->-t的 ** 时间反演 ** 变换，某些量子系统�
  
 
  
-
-[问题]: 如何理解函数正交的数学或物理含义？
-[答案]: 所谓函数正交也就是具备这样一组性质的函数序列g，他们之间两两的内积是0。
+<br>**问题**: 如何理解函数正交的数学或物理含义？
+**答案**: 所谓函数正交也就是具备这样一组性质的函数序列g，他们之间两两的内积是0。
 
 这样一来的好处就是，定义在同一域中的函数f总能表达成这一组函数序列g乘以一些系数的和，而且g每一个函数前的系数是唯一确定的。 
 
@@ -22240,9 +21102,8 @@ t ，相当于你做了t->-t的 ** 时间反演 ** 变换，某些量子系统�
  
 
  
-
-[问题]: 如何理解力学中的「力矩」与「力偶」的概念
-[答案]: 这个问题要看从什么层次来回答你。最根本也是最难的，应该从力学体系的几何来回答你，也就是，为什么存在角动量和旋转对称性，以及角动量算子，POISSON括号的运动方程。
+<br>**问题**: 如何理解力学中的「力矩」与「力偶」的概念
+**答案**: 这个问题要看从什么层次来回答你。最根本也是最难的，应该从力学体系的几何来回答你，也就是，为什么存在角动量和旋转对称性，以及角动量算子，POISSON括号的运动方程。
 
 如果你觉得完全不知道我上面在说什么，那么最简单的解释就是所谓力矩，它就是在旋转运动中和力对应的那个量，它能告诉你，物体在这个力矩作用下，旋转的加速度是多少。这时候，质量被转动惯量取代。实际上，牛顿第二定律F=MA是线性平移，空间还有旋转，那么力矩=转动惯量＊角加速度就是旋转的牛顿第二定律。两者合起来，才是牛顿力学在我们这个平直三维空间所有对称操作下的完整表述。 
 
@@ -22253,9 +21114,8 @@ t ，相当于你做了t->-t的 ** 时间反演 ** 变换，某些量子系统�
  
 
  
-
-[问题]: 如何理解希尔伯特空间？
-[答案]: 大概的说，hilbert空间是这样一个抽象的空间，其中存在向量可以被用来描述量子力学中体系的状态；这些向量都必须存在正定的内积，也就是这些状态的概率非负；这个空间存在厄米算子，其代表可观测量；这个空间存在UNITARY
+<br>**问题**: 如何理解希尔伯特空间？
+**答案**: 大概的说，hilbert空间是这样一个抽象的空间，其中存在向量可以被用来描述量子力学中体系的状态；这些向量都必须存在正定的内积，也就是这些状态的概率非负；这个空间存在厄米算子，其代表可观测量；这个空间存在UNITARY
 
 操作，对应的是3维空间中的旋转操作，表征保持状态概率不变的那些操作。 
 
@@ -22270,9 +21130,8 @@ operator和角动量的合成，还有oscillator的ladder operator的求解，�
  
 
  
-
-[问题]: 如何理解有功功率与无功功率？
-[答案]: 这个玩意很有意思。总的来说，是，咳咳。。。
+<br>**问题**: 如何理解有功功率与无功功率？
+**答案**: 这个玩意很有意思。总的来说，是，咳咳。。。
 
 如果电流的相位和电场相同，那么就是有用功。这时候电子的跃迁是实过程； 
 
@@ -22287,10 +21146,9 @@ process）。
  
 
  
+<br>**问题**: 如何理解正弦函数的傅立叶变换？
 
-[问题]: 如何理解正弦函数的傅立叶变换？
-
-[答案]:Dirac 函数不存在数学意义上的幅值。你只需要知道他的积分强度是1就可以了。 
+**答案**:Dirac 函数不存在数学意义上的幅值。你只需要知道他的积分强度是1就可以了。 
 
 他是一类函数（例如lorentian
 
@@ -22311,9 +21169,8 @@ ps／dirac是物理学家。
  
 
  
-
-[问题]: 如何理解粒子波函数虚部的物理意义？
-[答案]: 小波波～
+<br>**问题**: 如何理解粒子波函数虚部的物理意义？
+**答案**: 小波波～
 
  
 
@@ -22322,27 +21179,24 @@ ps／dirac是物理学家。
  
 
  
+<br>**问题**: 如何理解质量是惯性的度量？
 
-[问题]: 如何理解质量是惯性的度量？
-
-[答案]:因为 m*dv/dt=F 。而dv/dt 就衡量了在一定外力f 下，物体表征的惯性。因此这个系数 m，或者说dv/dt=F/m
+**答案**:因为 m*dv/dt=F 。而dv/dt 就衡量了在一定外力f 下，物体表征的惯性。因此这个系数 m，或者说dv/dt=F/m
 
 ，就是惯性的度量，如果我们把所有外力f归一为1，v为m/s t 为s 的话。实际上你知道f的单位定义就是kgm/s^2
 
  
 
  
-
-[问题]: 如何理解轮子哥关注的人里面以女性居多这一现象？
-[答案]: 看来现在，连女人都喜欢微、软的了。
-
- 
+<br>**问题**: 如何理解轮子哥关注的人里面以女性居多这一现象？
+**答案**: 看来现在，连女人都喜欢微、软的了。
 
  
 
-[问题]:如何理解量子物理或统计物理中几乎无处不在的 exp(-EkT) ？
+ 
+<br>**问题**:如何理解量子物理或统计物理中几乎无处不在的 exp(-EkT) ？
 
-[答案]: 1楼答非所问吧。。我真不是和1楼做对，听说1楼来了以后知乎民科少了很多，但一楼的答案
+**答案**: 1楼答非所问吧。。我真不是和1楼做对，听说1楼来了以后知乎民科少了很多，但一楼的答案
 
 也常有偏激，片面，主观和审题失误之处，我建议他多找几个水平相同的物理系学生互相进步（不是我，我水平太低==） 
 
@@ -22353,41 +21207,36 @@ ps／dirac是物理学家。
  
 
  
-
-[问题]: 如何理解金属介电常数为负？
-[答案]: 相位差180度就是负。还有正的呢。
-
- 
-
- 
-
-[问题]: 如何理解高晓松所说的“人生不只眼前的苟且，还有诗和远方”
-[答案]: 他说的意思是，不要老想着工作赚钱买房子，还要想着买一个爱奇艺会员，多去看他的节目
+<br>**问题**: 如何理解金属介电常数为负？
+**答案**: 相位差180度就是负。还有正的呢。
 
  
 
  
+<br>**问题**: 如何理解高晓松所说的“人生不只眼前的苟且，还有诗和远方”
+**答案**: 他说的意思是，不要老想着工作赚钱买房子，还要想着买一个爱奇艺会员，多去看他的节目
 
-[问题]: 如何理解高阶无穷小这种概念？
-[答案]: 高阶无穷小就是在除以一个低阶无穷小后，仍然是无穷小，因此可以丢掉
+ 
+
+ 
+<br>**问题**: 如何理解高阶无穷小这种概念？
+**答案**: 高阶无穷小就是在除以一个低阶无穷小后，仍然是无穷小，因此可以丢掉
 
 当然这必须在极限时讨论才有意义。
 
  
 
  
+<br>**问题**:如何用OneNote for Mac软件编辑数学公式？
 
-[问题]:如何用OneNote for Mac软件编辑数学公式？
-
-[答案]:使用ms word 或者 powerpoint 然后粘贴即可。
-
- 
+**答案**:使用ms word 或者 powerpoint 然后粘贴即可。
 
  
 
-[问题]: 如何用简单的语言解释光和时间的关系？
+ 
+<br>**问题**: 如何用简单的语言解释光和时间的关系？
 
-[答案]:光速和时间本身没有任何关系。但是光速恒定这个假说 ** 联系 **
+**答案**:光速和时间本身没有任何关系。但是光速恒定这个假说 ** 联系 **
 
 了时间和空间（因为速度就是空间／时间）。光速恒定限制了在不同的参考系下，观察者所看到的前后两个事件发生的位置之差(x2-x1；x2'-x1')和时间之差(t2-t1；t2',t1')必须满足某一个一定的协同的变换关系。这就是Lorentz变换。 
 
@@ -22408,18 +21257,16 @@ ps／dirac是物理学家。
  
 
  
+<br>**问题**: 如何用英语翻译“一图胜过千万句话”？
 
-[问题]: 如何用英语翻译“一图胜过千万句话”？
-
-[答案]:seeing is believing
-
- 
+**答案**:seeing is believing
 
  
 
-[问题]:如何申请物理PhD or Master？
+ 
+<br>**问题**:如何申请物理PhD or Master？
 
-[答案]: 孩子。我来救救您。
+**答案**: 孩子。我来救救您。
 
  
 
@@ -22450,40 +21297,35 @@ tian 的博客，或者任何一个CMU计算机博士的博客博文和媒体采
  
 
  
-
-[问题]: 如何直接跳出深层递归而不是一层一层跳出？
-[答案]: 这种递归一般都是尾递归。
-
- 
-
- 
-
-[问题]: 如何直观地证明两个人（物体）之间存在引力？
-[答案]: 太微弱了因此没有办法。
+<br>**问题**: 如何直接跳出深层递归而不是一层一层跳出？
+**答案**: 这种递归一般都是尾递归。
 
  
 
  
+<br>**问题**: 如何直观地证明两个人（物体）之间存在引力？
+**答案**: 太微弱了因此没有办法。
 
-[问题]: 如何看到某些985高校现在实施的所谓“考教分离”，甚至请外校“专家”出卷？
-[答案]: 这些985高校往往都是三本
+ 
+
+ 
+<br>**问题**: 如何看到某些985高校现在实施的所谓“考教分离”，甚至请外校“专家”出卷？
+**答案**: 这些985高校往往都是三本
 
  
 
  
-
-[问题]: 如何看到浙江大学发布的2015年就业质量年报？
-[答案]: 有本事把平均工资亮出来啊。。
+<br>**问题**: 如何看到浙江大学发布的2015年就业质量年报？
+**答案**: 有本事把平均工资亮出来啊。。
 
 某些学校啊，你的招生对象真的是内陆准三本吗？
 
  
 
  
+<br>**问题**:如何看待 2015 年 6 月 19 日的股票大跌？
 
-[问题]:如何看待 2015 年 6 月 19 日的股票大跌？
-
-[答案]: 股市可能是世界上仅存的合法的让你的奶粉钱变成空气的东西，一天之内哦。
+**答案**: 股市可能是世界上仅存的合法的让你的奶粉钱变成空气的东西，一天之内哦。
 
  
 
@@ -22516,18 +21358,16 @@ tian 的博客，或者任何一个CMU计算机博士的博客博文和媒体采
  
 
  
+<br>**问题**:如何看待 2016 年 5 月 3 日、4 日百度股价合计大跌 10%，李彦宏再次被约谈？
 
-[问题]:如何看待 2016 年 5 月 3 日、4 日百度股价合计大跌 10%，李彦宏再次被约谈？
-
-[答案]: 大跌98%也比你家有钱啊
-
- 
+**答案**: 大跌98%也比你家有钱啊
 
  
 
-[问题]:如何看待 2016 年 7 月 4 日在沙特圣城麦地那发生的恐怖袭击袭击事件？
+ 
+<br>**问题**:如何看待 2016 年 7 月 4 日在沙特圣城麦地那发生的恐怖袭击袭击事件？
 
-[答案]: 大家好，其实我是穆斯林。因为我的帽子总是绿色的。
+**答案**: 大家好，其实我是穆斯林。因为我的帽子总是绿色的。
 
  
 
@@ -22542,18 +21382,16 @@ tian 的博客，或者任何一个CMU计算机博士的博客博文和媒体采
  
 
  
+<br>**问题**:如何看待 Alex Smola 加入 Amazon？
 
-[问题]:如何看待 Alex Smola 加入 Amazon？
-
-[答案]:Buy Amazon Stock
-
- 
+**答案**:Buy Amazon Stock
 
  
 
-[问题]:如何看待 Apple Music, iTunes Movies 和 iBooks Store 入华？
+ 
+<br>**问题**:如何看待 Apple Music, iTunes Movies 和 iBooks Store 入华？
 
-[答案]:其实苹果的硬件真的很糟糕：不支持nvidia maxwell architecture， 不支持thunderbolt 3，不支持intel 第六代core
+**答案**:其实苹果的硬件真的很糟糕：不支持nvidia maxwell architecture， 不支持thunderbolt 3，不支持intel 第六代core
 
 架构skylake，不支持最新的ddr 4。 
 
@@ -22574,14 +21412,13 @@ news，其实其他都是浮云。用着2年前的硬件技术、发着湾区垫
  
 
  
+<br>**问题**:如何看待 Apple Watch 这款产品的定位？它对于未来电子产品的发展方向会有多大影响？
 
-[问题]:如何看待 Apple Watch 这款产品的定位？它对于未来电子产品的发展方向会有多大影响？
-
-[答案]: 实名赞同排名第一的答案／
+**答案**: 实名赞同排名第一的答案／
 
 作为普罗大众，我只能随波逐流了： 
 
-![](https://pic2.zhimg.com/1eec9b4180a8793360a7607551cf2b59_b.jpg) 
+!****(https://pic2.zhimg.com/1eec9b4180a8793360a7607551cf2b59_b.jpg) 
 
 其实不是随波逐流，而是人生在世，短短几年；钱乃省外之物。是钱重要，还是体验重要呢？ 
 
@@ -22592,18 +21429,16 @@ news，其实其他都是浮云。用着2年前的硬件技术、发着湾区垫
  
 
  
+<br>**问题**:如何看待 Apple 招聘 Go 语言程序员？
 
-[问题]:如何看待 Apple 招聘 Go 语言程序员？
-
-[答案]: 一个程序员都需要5+years。真可怕。。。。。。。
-
- 
+**答案**: 一个程序员都需要5+years。真可怕。。。。。。。
 
  
 
-[问题]:如何看待 Google 曝光的新 OS Fuchsia？
+ 
+<br>**问题**:如何看待 Google 曝光的新 OS Fuchsia？
 
-[答案]:all in 谷歌吧 
+**答案**:all in 谷歌吧 
 
  
 
@@ -22618,10 +21453,9 @@ python3 都敢彻底不兼容python2因而大步向前，OS X
  
 
  
+<br>**问题**:如何看待 IPN 旗下的《选·美》被大选结果打脸？
 
-[问题]:如何看待 IPN 旗下的《选·美》被大选结果打脸？
-
-[答案]: 并没有被打脸。trump的老婆的确比希拉里美。这就是选美。
+**答案**: 并没有被打脸。trump的老婆的确比希拉里美。这就是选美。
 
  
 
@@ -22648,10 +21482,9 @@ Trump代表着全新的政治气息，代表着什么都可以谈，一切皆有
  
 
  
+<br>**问题**:如何看待 LinkedIn 市值蒸发 100 亿美元？
 
-[问题]:如何看待 LinkedIn 市值蒸发 100 亿美元？
-
-[答案]:我觉得届时 Uber 大跌才能反映投资者的智商。 
+**答案**:我觉得届时 Uber 大跌才能反映投资者的智商。 
 
 并不是每一分钱反映的投资智商都是一样的。许多风头，财务手段，以及新模式可以骗过投资人与华尔街。例如2000年左右才发生的电信业大鳄并购案。 
 
@@ -22668,10 +21501,9 @@ This is life
  
 
  
+<br>**问题**:如何看待 Tesla 宣布完全开放其专利成果？这将对电动车市场有怎样的影响？
 
-[问题]:如何看待 Tesla 宣布完全开放其专利成果？这将对电动车市场有怎样的影响？
-
-[答案]: 我这样说吧。。支持者们总是会说，我靠好牛逼啊，专利都开放了，真是胸襟宽大。
+**答案**: 我这样说吧。。支持者们总是会说，我靠好牛逼啊，专利都开放了，真是胸襟宽大。
 
 哪天如果tesla出来裸奔了，这些人也会说，我考好牛逼啊，对自己好有自信 
 
@@ -22702,28 +21534,25 @@ apple或者微软等科技巨头。这些科技巨头有时间花等更久，等
  
 
  
+<br>**问题**:如何看待 TJ 宣布退出 Node.js 开发，转向 Go？
 
-[问题]:如何看待 TJ 宣布退出 Node.js 开发，转向 Go？
-
-[答案]: 都不是自己开发的东西起什么哄。。。。。。。技术这么多，大家也就是只会debug用用而已
-
- 
+**答案**: 都不是自己开发的东西起什么哄。。。。。。。技术这么多，大家也就是只会debug用用而已
 
  
 
-[问题]:如何看待 Windows 10 一周年更新版升级提示语出现古诗词？
+ 
+<br>**问题**:如何看待 Windows 10 一周年更新版升级提示语出现古诗词？
 
-[答案]: 应该是招聘一些百度来的工程师。
+**答案**: 应该是招聘一些百度来的工程师。
 
 以为这样就可以提高KPI
 
  
 
  
+<br>**问题**:如何看待 Windows 10 的用户界面设计？
 
-[问题]:如何看待 Windows 10 的用户界面设计？
-
-[答案]:我觉得windows 还是不要做UI了吧。他的代码质量这么高，应该直接给用户看源代码啊。哦，是商业软件。那就搞command line 啊，把man
+**答案**:我觉得windows 还是不要做UI了吧。他的代码质量这么高，应该直接给用户看源代码啊。哦，是商业软件。那就搞command line 啊，把man
 
 写好一点。这才能最大限度发挥微软的优势：技术牛逼。你看用户一般都用windows 干啥，不就是开机，关机，找文件，新建记事本么 
 
@@ -22734,42 +21563,37 @@ apple或者微软等科技巨头。这些科技巨头有时间花等更久，等
  
 
  
+<br>**问题**:如何看待 “2015年世界大学声誉排名：清华北大名次大跃进？”
 
-[问题]:如何看待 “2015年世界大学声誉排名：清华北大名次大跃进？”
-
-[答案]: "2015年世界大学声誉排名"
+**答案**: "2015年世界大学声誉排名"
 
 美国人从不看这个。
 
  
 
  
-
-[问题]: 如何看待2015年11月12日谷歌宣布重返中国大陆市场？
-[答案]: 全文只字未提施密特什么时候说了哪句话
-
- 
+<br>**问题**: 如何看待2015年11月12日谷歌宣布重返中国大陆市场？
+**答案**: 全文只字未提施密特什么时候说了哪句话
 
  
 
-[问题]: 如何看待2015年5月28日的大盘大跌？
-[答案]: 看懂了你就能赚？。。
+ 
+<br>**问题**: 如何看待2015年5月28日的大盘大跌？
+**答案**: 看懂了你就能赚？。。
 
 有本事你别上班专门炒股去
 
  
 
  
-
-[问题]: 如何看待2016年山东理科状元孙昊选择中国科学院大学？
-[答案]: 他这么聪明，竟然不去cmu读计算机，以后去做深度学习。我很遗憾。
-
- 
+<br>**问题**: 如何看待2016年山东理科状元孙昊选择中国科学院大学？
+**答案**: 他这么聪明，竟然不去cmu读计算机，以后去做深度学习。我很遗憾。
 
  
 
-[问题]: 如何看待7月3日股市大跌？
-[答案]: 大涨就没人评价？真是贪心不足／
+ 
+<br>**问题**: 如何看待7月3日股市大跌？
+**答案**: 大涨就没人评价？真是贪心不足／
 
 幻想赚钱的普通人都。。。不说了 
 
@@ -22778,26 +21602,23 @@ apple或者微软等科技巨头。这些科技巨头有时间花等更久，等
  
 
  
+<br>**问题**: 如何看待Google滥用品牌名称的做法？
 
-[问题]: 如何看待Google滥用品牌名称的做法？
-
-[答案]:GOOGLE IS VERY PROUD OF GOOGLE AND WANT EVERYONE TO USE GOOGLE.
-
- 
-
- 
-
-[问题]:如何看待iPad Pro一季度的销量超过了微软 Surface 总销量？
-
-[答案]: 你钓的鱼超过了微软去年一年的总和
+**答案**:GOOGLE IS VERY PROUD OF GOOGLE AND WANT EVERYONE TO USE GOOGLE.
 
  
 
  
+<br>**问题**:如何看待iPad Pro一季度的销量超过了微软 Surface 总销量？
 
-[问题]:如何看待Kevin Turner担任Citadel Securities CEO仅半年后离职？
+**答案**: 你钓的鱼超过了微软去年一年的总和
 
-[答案]: citadel工资不够高吧。
+ 
+
+ 
+<br>**问题**:如何看待Kevin Turner担任Citadel Securities CEO仅半年后离职？
+
+**答案**: citadel工资不够高吧。
 
 毕竟phd进去也就60w刀税前； 
 
@@ -22806,44 +21627,39 @@ DEShaw 100万
  
 
  
+<br>**问题**:如何看待Max Howell被Google拒后去了Apple
 
-[问题]:如何看待Max Howell被Google拒后去了Apple
-
-[答案]:Apple 各大软件的姿势水平可能会提高那么一点了。apple 一般只要具有经验的业内人士，从来也不做general hiring .
+**答案**:Apple 各大软件的姿势水平可能会提高那么一点了。apple 一般只要具有经验的业内人士，从来也不做general hiring .
 
 那么多现金流也不造福下毕业生，也是醉了。能够进apple ，说明他的业内能力是非常高的。
 
  
 
  
+<br>**问题**: 如何看待Trump连unprecedented这个词都拼错？
 
-[问题]: 如何看待Trump连unprecedented这个词都拼错？
-
-[答案]:自动纠错竟然没有充分利用上下文，一看就不是在Microsoft Word 下打完再复制到推特的。目测是iphone发的。
-
- 
-
- 
-
-[问题]:如何看待US NEWS的Engineering排名将清大列为世界第二？
-
-[答案]: 清华世界第一！
+**答案**:自动纠错竟然没有充分利用上下文，一看就不是在Microsoft Word 下打完再复制到推特的。目测是iphone发的。
 
  
 
  
+<br>**问题**:如何看待US NEWS的Engineering排名将清大列为世界第二？
 
-[问题]: 如何看待Windows将原生支持nix环境？
-[答案]: 微软股价要跌。。。
+**答案**: 清华世界第一！
+
+ 
+
+ 
+<br>**问题**: 如何看待Windows将原生支持nix环境？
+**答案**: 微软股价要跌。。。
 
 哪天TESLA开始兼容柴油机了，这绝不是什么好消息。。。
 
  
 
  
-
-[问题]: 如何看待XC90在美国大卖？
-[答案]: 你要是开过美帝奥迪Q系列SUV之后你就会发现，他也真的就只有这个水平：很一般。
+<br>**问题**: 如何看待XC90在美国大卖？
+**答案**: 你要是开过美帝奥迪Q系列SUV之后你就会发现，他也真的就只有这个水平：很一般。
 
 这应该是广大美国中产长期对奥迪宝马SUV差强人意内饰/动力表现的大反弹吧。 
 
@@ -22852,16 +21668,14 @@ DEShaw 100万
  
 
  
-
-[问题]: 如何看待《奇葩说》第二季中，柏邦妮没有进入总决赛？
-[答案]: 第二期决赛的大部分人都来自第一期（除2人外）。这的确说明大陆辩论圈也就只剩下这么8个人了，外加马东，最专业的大陆辩手
-
- 
+<br>**问题**: 如何看待《奇葩说》第二季中，柏邦妮没有进入总决赛？
+**答案**: 第二期决赛的大部分人都来自第一期（除2人外）。这的确说明大陆辩论圈也就只剩下这么8个人了，外加马东，最专业的大陆辩手
 
  
 
-[问题]: 如何看待《谷歌和百度真的如此不同？答案可能让你失望了》这篇文章？
-[答案]: 居然还有这篇文章。
+ 
+<br>**问题**: 如何看待《谷歌和百度真的如此不同？答案可能让你失望了》这篇文章？
+**答案**: 居然还有这篇文章。
 
 你怎么不说朝鲜和某国也没什么不同呢。。 
 
@@ -22916,10 +21730,9 @@ DEShaw 100万
  
 
  
+<br>**问题**:如何看待「Mathematica 只是一个高级计算器」的说法？
 
-[问题]:如何看待「Mathematica 只是一个高级计算器」的说法？
-
-[答案]: 你也只是一个高级草履虫。。。
+**答案**: 你也只是一个高级草履虫。。。
 
 Matlab
 
@@ -22956,10 +21769,9 @@ mathemathca的用户最先高度集中在数学和数学物理，其函数，格
  
 
  
+<br>**问题**:如何看待「山东疫苗案」未冷藏疫苗流入 24 省事件？
 
-[问题]:如何看待「山东疫苗案」未冷藏疫苗流入 24 省事件？
-
-[答案]: 没事。。中国梦做得好就可以啦。
+**答案**: 没事。。中国梦做得好就可以啦。
 
 起码我们的文化监管比这个有力多了。根本不需要监管部门监管，完全是自我审查呀。几十万的文化事故都没听过，更别说几个亿了。可见，这完全不是监管不到位的问题，而是看一些人多么重视，多么威胁到我们的和谐生活。。 
 
@@ -22968,9 +21780,8 @@ mathemathca的用户最先高度集中在数学和数学物理，其函数，格
  
 
  
-
-[问题]: 如何看待「清北学渣感受」这个问题中清北学生争相当「渣」的现象？
-[答案]: 记住这些人的名字
+<br>**问题**: 如何看待「清北学渣感受」这个问题中清北学生争相当「渣」的现象？
+**答案**: 记住这些人的名字
 
  
 
@@ -22987,9 +21798,8 @@ mathemathca的用户最先高度集中在数学和数学物理，其函数，格
  
 
  
-
-[问题]: 如何看待中国「双十一」线上销售额远超美国「黑色星期五」这一现象？作何解释？
-[答案]: 美国妖丸；美国没有文化；美国禁锢思想自由；美国没有未来；美国的思想家指出：电商消费是我国经济发展的重中之重。美国专心造电影造大炮写代码，消费可能就下去了吧。
+<br>**问题**: 如何看待中国「双十一」线上销售额远超美国「黑色星期五」这一现象？作何解释？
+**答案**: 美国妖丸；美国没有文化；美国禁锢思想自由；美国没有未来；美国的思想家指出：电商消费是我国经济发展的重中之重。美国专心造电影造大炮写代码，消费可能就下去了吧。
 
 大部分人还是去实体店买。 
 
@@ -23022,20 +21832,18 @@ mathemathca的用户最先高度集中在数学和数学物理，其函数，格
  
 
  
+<br>**问题**: 如何看待人民日报在Facebook上粉丝数全球报纸排第二？
 
-[问题]: 如何看待人民日报在Facebook上粉丝数全球报纸排第二？
-
-[答案]:Facebook 如果进入中国了财报不知道要翻几番。 
+**答案**:Facebook 如果进入中国了财报不知道要翻几番。 
 
 可能双方都在玩游戏吧。。。不过看起来政府对QQ空间更有信心。
 
  
 
  
+<br>**问题**:如何看待今日头条新闻CEO张一鸣炮轰艾瑞数据失实， 宣布与其终止一切合作？
 
-[问题]:如何看待今日头条新闻CEO张一鸣炮轰艾瑞数据失实， 宣布与其终止一切合作？
-
-[答案]: 我觉得报道和宣传任何行业创业者心路历程，伟大理想，未来愿景，市场估值，融资历史的媒体和媒体人，都真的很无耻。。
+**答案**: 我觉得报道和宣传任何行业创业者心路历程，伟大理想，未来愿景，市场估值，融资历史的媒体和媒体人，都真的很无耻。。
 
 就不能让他们安心的做个梦，创个业，造福一下人类？就不能让投资人静静的装逼，静静的承担风险，静静的投资？ 
 
@@ -23046,9 +21854,8 @@ mathemathca的用户最先高度集中在数学和数学物理，其函数，格
  
 
  
-
-[问题]: 如何看待刘梓晨于4月22日上传并迅速被和谐的视频？
-[答案]: 如何看待不知道
+<br>**问题**: 如何看待刘梓晨于4月22日上传并迅速被和谐的视频？
+**答案**: 如何看待不知道
 
 如何看： 
 
@@ -23057,43 +21864,38 @@ https://www. youtube.com/watch? v=wn39hKF8VXU _ _
  
 
  
-
-[问题]: 如何看待否定爱因斯坦理论的这个帖子？
-[答案]: 他说的其实很对。最初牛顿定律是在没有意识到地球并非处于平直空间中得到的结论。如果地球引力真的大到扭曲了平直空间，那么牛一定律肯定不成立。
+<br>**问题**: 如何看待否定爱因斯坦理论的这个帖子？
+**答案**: 他说的其实很对。最初牛顿定律是在没有意识到地球并非处于平直空间中得到的结论。如果地球引力真的大到扭曲了平直空间，那么牛一定律肯定不成立。
 
 但是显然，在平直空间中，牛顿关于动力学的理论是完全正确的。对于非平直空间，爱因斯坦二阶偏微分方程张量理论也给给予了解释，并且完全可以收敛到平直空间。他要求我们首先意识到时空的曲率，再来提出基本动力学，这个要求太高了。
 
  
 
  
-
-[问题]: 如何看待唐纳德·特朗普被共和党提名为2016年美国总统大选候选人？
-[答案]: 我突然觉得共和党又要挂了。。
+<br>**问题**: 如何看待唐纳德·特朗普被共和党提名为2016年美国总统大选候选人？
+**答案**: 我突然觉得共和党又要挂了。。
 
 还是希拉里厉害
 
  
 
  
-
-[问题]: 如何看待国产大飞机发C919发动机不是国产？
-[答案]: 联想电脑的CPU是国产的吗？
+<br>**问题**: 如何看待国产大飞机发C919发动机不是国产？
+**答案**: 联想电脑的CPU是国产的吗？
 
 还不是这么多人买国货==
 
  
 
  
-
-[问题]: 如何看待复旦门萨女孩张安琪的母亲出书《通往哈佛的家庭教育传奇》？
-[答案]: 我申请到了所有的世界一流大学，却依然不知道如何快乐的过完这一生——韩寒
-
- 
+<br>**问题**: 如何看待复旦门萨女孩张安琪的母亲出书《通往哈佛的家庭教育传奇》？
+**答案**: 我申请到了所有的世界一流大学，却依然不知道如何快乐的过完这一生——韩寒
 
  
 
-[问题]: 如何看待小米密码失窃和苹果手机被盗的受害者
-[答案]: 小米云端密码失窃导致银行账号被盗这件事最近在知乎上很火热；而苹果手机被盗然后被社会工程学骗取iCloud密码，最后连自己买的iPad、MacBook
+ 
+<br>**问题**: 如何看待小米密码失窃和苹果手机被盗的受害者
+**答案**: 小米云端密码失窃导致银行账号被盗这件事最近在知乎上很火热；而苹果手机被盗然后被社会工程学骗取iCloud密码，最后连自己买的iPad、MacBook
 
 Pro都被锁死变成板砖的故事也不再新鲜。这一系列事件都把我们引向一个话题：那就是信息时代到来后，各个阶层各个年龄的人都用上智能设备之后，他们的信息安全究竟如何保护？ 
 
@@ -23113,11 +21915,11 @@ Pro都被锁死变成板砖的故事也不再新鲜。这一系列事件都把�
 
 【1】 
 
-![](http://pic2.zhimg.com/7c738e9a39ba7fa2d492af9f215da6d5_b.png) 
+!****(http://pic2.zhimg.com/7c738e9a39ba7fa2d492af9f215da6d5_b.png) 
 
 【2】 
 
-![](http://pic2.zhimg.com/4df2955b92e4c71d05e6f67e40b7045d_b.png) 
+!****(http://pic2.zhimg.com/4df2955b92e4c71d05e6f67e40b7045d_b.png) 
 
  
 
@@ -23158,34 +21960,30 @@ Pro都被锁死变成板砖的故事也不再新鲜。这一系列事件都把�
  
 
  
-
-[问题]: 如何看待川普竞选成功后，硅谷的投资者们呼吁加州脱离美国？
-[答案]: 快啊。等着股票崩盘呢。今天还涨了可见爸爸们还没商量好
-
- 
-
- 
-
-[问题]: 如何看待微博大V老师木和phunter_lau对某培训班持不同态度？
-[答案]: 6万块钱3个月学会全栈工程师的班还在吗我要去报名
+<br>**问题**: 如何看待川普竞选成功后，硅谷的投资者们呼吁加州脱离美国？
+**答案**: 快啊。等着股票崩盘呢。今天还涨了可见爸爸们还没商量好
 
  
 
  
+<br>**问题**: 如何看待微博大V老师木和phunter_lau对某培训班持不同态度？
+**答案**: 6万块钱3个月学会全栈工程师的班还在吗我要去报名
 
-[问题]:如何看待微软 Microsoft 现任 COO 离职去对冲基金 Citadel 担任 CEO？
+ 
 
-[答案]: 这才是成功的选择=该公司还招程序员吗，招的话开除的快吗。
+ 
+<br>**问题**:如何看待微软 Microsoft 现任 COO 离职去对冲基金 Citadel 担任 CEO？
+
+**答案**: 这才是成功的选择=该公司还招程序员吗，招的话开除的快吗。
 
 微软的成功程序员们可以去投简历了。I am serious。你们要去了那，我死也不黑了
 
  
 
  
+<br>**问题**: 如何看待微软10.6发布会后果粉爆炸的心态？
 
-[问题]: 如何看待微软10.6发布会后果粉爆炸的心态？
-
-[答案]:我确实爆炸了。所以马上回家装了WINDOWS 10体验一下WINDOWS 10在高清屏下的表现，系统稳定性以及其自带APP的体验。 
+**答案**:我确实爆炸了。所以马上回家装了WINDOWS 10体验一下WINDOWS 10在高清屏下的表现，系统稳定性以及其自带APP的体验。 
 
 体验了一下，发现这么多年，我高估了微软的改变：MAC安装好之后一般直接可用了；WINDOWS你做好继续设置、安装组件、找驱动下载的5个小时吧；自带输入法框小的要死；老旧软件虽然说是财富，可也是高清屏下的极大负担。这些都不算什么，中间中了一个恶意软件也是我自己的不是，不了解360的必要性。后来直到我打算看一个很大的PDF，然后再看它文字渲染的效果，我的眼球就爆炸了。 
 
@@ -23204,18 +22002,16 @@ Pro都被锁死变成板砖的故事也不再新鲜。这一系列事件都把�
  
 
  
+<br>**问题**:如何看待微软LLILC，一个新的基于LLVM的CoreCLR JITCoreRT AOT编译器？
 
-[问题]:如何看待微软LLILC，一个新的基于LLVM的CoreCLR JITCoreRT AOT编译器？
-
-[答案]: 轮子哥这是你写的吗！～～^_^^_^
-
- 
+**答案**: 轮子哥这是你写的吗！～～^_^^_^
 
  
 
-[问题]:如何看待微软以 262 亿美元全现金收购 LinkedIn？
+ 
+<br>**问题**:如何看待微软以 262 亿美元全现金收购 LinkedIn？
 
-[答案]: 事实证明当年以FLAG最高薪加入LinkedIn
+**答案**: 事实证明当年以FLAG最高薪加入LinkedIn
 
 的本科生们才是硅谷的人生赢家。薪水16-17万（不包括股票），达到了硅谷待遇的顶峰，吃着最好的食物，平时也没什么事干。然后就被收购了。不对。应该是最近3个月加入linkedin的人才时机最好。 
 
@@ -23238,40 +22034,35 @@ LinkedIn 卖了
  
 
  
+<br>**问题**:如何看待微软前执行副总裁陆奇出任百度集团总裁并兼任 COO？
 
-[问题]:如何看待微软前执行副总裁陆奇出任百度集团总裁并兼任 COO？
-
-[答案]: 回国加入知乎吧。这才是底层码农正确的选择
-
- 
-
- 
-
-[问题]:如何看待微软开源的 C 语言版本——Checked C？
-
-[答案]:55555 微软果然技术领先。
+**答案**: 回国加入知乎吧。这才是底层码农正确的选择
 
  
 
  
+<br>**问题**:如何看待微软开源的 C 语言版本——Checked C？
 
-[问题]:如何看待微软强制自动将部分 Windows 78 升级到 Windows 10？
-
-[答案]:其实微软的主要收入也不在Windows . 直接放弃吧
-
- 
-
- 
-
-[问题]: 如何看待微软校招毁约口头Offer这种情况？
-[答案]: 微软毕竟是最佳雇主。轮子哥都去了，真搞不懂为什么还有程序员要去其他公司。
+**答案**:55555 微软果然技术领先。
 
  
 
  
+<br>**问题**:如何看待微软强制自动将部分 Windows 78 升级到 Windows 10？
 
-[问题]: 如何看待德国廉价超市aldi来华，定位轻奢，目标客户为中国成功人士？
-[答案]: 中国现阶段的特点是，只要沾上国外名字的五线服装，化妆品，食品，来了大陆就成为徐家汇港汇大厦一楼的超一流国际名牌，售价超过原产地5-10倍。。
+**答案**:其实微软的主要收入也不在Windows . 直接放弃吧
+
+ 
+
+ 
+<br>**问题**: 如何看待微软校招毁约口头Offer这种情况？
+**答案**: 微软毕竟是最佳雇主。轮子哥都去了，真搞不懂为什么还有程序员要去其他公司。
+
+ 
+
+ 
+<br>**问题**: 如何看待德国廉价超市aldi来华，定位轻奢，目标客户为中国成功人士？
+**答案**: 中国现阶段的特点是，只要沾上国外名字的五线服装，化妆品，食品，来了大陆就成为徐家汇港汇大厦一楼的超一流国际名牌，售价超过原产地5-10倍。。
 
 好神奇啊，到底是谁在买呢？这个泡沫不亚于IT泡沫。所以我说，ranch 99 快点入华，你也可以一甩猪圈的气味，成为年轻时尚轻奢了。 
 
@@ -23282,25 +22073,22 @@ LinkedIn 卖了
  
 
  
-
-[问题]: 如何看待曾博凭一己之力将顶尖名校浙江大学贬为「浙江大三本」？
-[答案]: 事实不需要一己之力。只是有人不爱听罢了。
-
- 
+<br>**问题**: 如何看待曾博凭一己之力将顶尖名校浙江大学贬为「浙江大三本」？
+**答案**: 事实不需要一己之力。只是有人不爱听罢了。
 
  
 
-[问题]: 如何看待曾博学习C++一个月就放弃了？
-[答案]: 什么是yp什么是gj？
+ 
+<br>**问题**: 如何看待曾博学习C++一个月就放弃了？
+**答案**: 什么是yp什么是gj？
 
 我们将进一步学习c++ object model。现在开始
 
  
 
  
-
-[问题]: 如何看待曾博小号勃失败粉丝数超过5000？
-[答案]: nvda股价在2016年涨了300%
+<br>**问题**: 如何看待曾博小号勃失败粉丝数超过5000？
+**答案**: nvda股价在2016年涨了300%
 
 轮子哥的课程马上就会涨价1100% 
 
@@ -23311,9 +22099,8 @@ LinkedIn 卖了
  
 
  
-
-[问题]: 如何看待曾博最近在知乎上黑轮子哥开课一事？
-[答案]: 更新一下。我从没觉得轮子哥利用自己的水平去赚钱有什么不妥。但考虑到市场上斯坦福博士开的c++培训课都是免费，我认为计蒜客这个价格有点，怎么说呢，筛选智商。“我都没做，你为什么做”并不适用于这个例子～。“卖一包免费空气来赚钱，还宣称是喜马拉雅山取下来的清真空气”，倒能充分说明这个班的本质。计蒜客可以邀请我去看看这门课的每一道题，我们看看有百分之多少不是抄袭自那本书或者so上的提问的。我们再来看看这门课应该值多少钱好嘛？
+<br>**问题**: 如何看待曾博最近在知乎上黑轮子哥开课一事？
+**答案**: 更新一下。我从没觉得轮子哥利用自己的水平去赚钱有什么不妥。但考虑到市场上斯坦福博士开的c++培训课都是免费，我认为计蒜客这个价格有点，怎么说呢，筛选智商。“我都没做，你为什么做”并不适用于这个例子～。“卖一包免费空气来赚钱，还宣称是喜马拉雅山取下来的清真空气”，倒能充分说明这个班的本质。计蒜客可以邀请我去看看这门课的每一道题，我们看看有百分之多少不是抄袭自那本书或者so上的提问的。我们再来看看这门课应该值多少钱好嘛？
 
  
 
@@ -23390,33 +22177,29 @@ LinkedIn 卖了
  
 
  
-
-[问题]: 如何看待曾博的《互联网的庸众》这篇文章？
-[答案]: 我觉得我的文笔比轮子哥等人还是要好的。
-
- 
-
- 
-
-[问题]: 如何看待曾博的小号勃失败粉丝数超过7000？
-[答案]: 说明你的小学数学毕业了
+<br>**问题**: 如何看待曾博的《互联网的庸众》这篇文章？
+**答案**: 我觉得我的文笔比轮子哥等人还是要好的。
 
  
 
  
+<br>**问题**: 如何看待曾博的小号勃失败粉丝数超过7000？
+**答案**: 说明你的小学数学毕业了
 
-[问题]:如何看待最新的 U.S. News 显示清华大学超越 MIT 居工程类专业第一？
+ 
 
-[答案]: 我们都超过了stanford。真是吐了一口老血
+ 
+<br>**问题**:如何看待最新的 U.S. News 显示清华大学超越 MIT 居工程类专业第一？
+
+**答案**: 我们都超过了stanford。真是吐了一口老血
 
 这年头，排行榜为了吸引关注真是什么都用得出来。下一次啊， 还是直接让us news的编辑裸奔好了，这样效果更好～
 
  
 
  
-
-[问题]: 如何看待最新的中国大学排名？
-[答案]: 礼崩乐坏，国之不国
+<br>**问题**: 如何看待最新的中国大学排名？
+**答案**: 礼崩乐坏，国之不国
 
 人多力量大 
 
@@ -23429,9 +22212,8 @@ LinkedIn 卖了
  
 
  
-
-[问题]: 如何看待本次双11支付宝把“合并付款”的英文写成“UnionPay”？
-[答案]: 从这个error信息里的语法错误我们就能看出来，阿里巴巴的系统代码水平再高，那恐怕也是抄外国人的。
+<br>**问题**: 如何看待本次双11支付宝把“合并付款”的英文写成“UnionPay”？
+**答案**: 从这个error信息里的语法错误我们就能看出来，阿里巴巴的系统代码水平再高，那恐怕也是抄外国人的。
 
  
 
@@ -23446,47 +22228,41 @@ Is error ... 机翻也不会这样啊
  
 
  
+<br>**问题**:如何看待楼天城（ACRush）离开 Quora 加入百度？
 
-[问题]:如何看待楼天城（ACRush）离开 Quora 加入百度？
-
-[答案]: 楼教主才是真正的成功网红
-
- 
-
- 
-
-[问题]: 如何看待武书连2015大学排名浙江大学排名全国第三？
-[答案]: 招生人数上看，是的
+**答案**: 楼教主才是真正的成功网红
 
  
 
  
+<br>**问题**: 如何看待武书连2015大学排名浙江大学排名全国第三？
+**答案**: 招生人数上看，是的
 
-[问题]: 如何看待武汉大学录取通知书疑似抄袭？
-[答案]: 显然是外包给公司做的。效果好的话可期待明年各二本院校都使用一样的款式。。
+ 
+
+ 
+<br>**问题**: 如何看待武汉大学录取通知书疑似抄袭？
+**答案**: 显然是外包给公司做的。效果好的话可期待明年各二本院校都使用一样的款式。。
 
 本来就是什么好用用什么，有什么错？有的国家负责创新，有的国家负责抄袭。自然规律
 
  
 
  
-
-[问题]: 如何看待毒舌婊事件后，曾博的签名从“成功人士从不上知乎”改成了“好好学习”？
-[答案]: 我没改啊。原来是题主弄错签名和个人简介了。。
-
- 
-
- 
-
-[问题]: 如何看待浙江大学在最新的USNEWS大学工科排名中世界第五？
-[答案]: 这个排名看得我好矛盾。。
+<br>**问题**: 如何看待毒舌婊事件后，曾博的签名从“成功人士从不上知乎”改成了“好好学习”？
+**答案**: 我没改啊。原来是题主弄错签名和个人简介了。。
 
  
 
  
+<br>**问题**: 如何看待浙江大学在最新的USNEWS大学工科排名中世界第五？
+**答案**: 这个排名看得我好矛盾。。
 
-[问题]: 如何看待清华大学很多人掉了学生卡发朋友圈求转发的现象？
-[答案]: 其他学校的人掉了卡也不敢发啊。被人发现学校之后岂不是暴露了自己的智商——你什么时候听过浙江工商大学的校园卡掉了敢去SNS上发的？换来的只有嘲笑。
+ 
+
+ 
+<br>**问题**: 如何看待清华大学很多人掉了学生卡发朋友圈求转发的现象？
+**答案**: 其他学校的人掉了卡也不敢发啊。被人发现学校之后岂不是暴露了自己的智商——你什么时候听过浙江工商大学的校园卡掉了敢去SNS上发的？换来的只有嘲笑。
 
  
 
@@ -23497,18 +22273,16 @@ Is error ... 机翻也不会这样啊
  
 
  
-
-[问题]: 如何看待清华大学校长推荐《平凡的世界》给新生？国内外是否有这样的先例或传统？
-[答案]: vczh
+<br>**问题**: 如何看待清华大学校长推荐《平凡的世界》给新生？国内外是否有这样的先例或传统？
+**答案**: vczh
 
 专业造轮子 …
 
  
 
  
-
-[问题]: 如何看待清华学生在招生过程中攻击北大师生的行为？
-[答案]: 招生到了这份上。也是醉了。
+<br>**问题**: 如何看待清华学生在招生过程中攻击北大师生的行为？
+**答案**: 招生到了这份上。也是醉了。
 
 第一集团的思维我们不懂，都比较务虚。 
 
@@ -23563,17 +22337,15 @@ ps：
  
 
  
+<br>**问题**:如何看待清华打算推行的tenure track制度？
 
-[问题]:如何看待清华打算推行的tenure track制度？
-
-[答案]: 围观一群海龟学术界大神
-
- 
+**答案**: 围观一群海龟学术界大神
 
  
 
-[问题]: 如何看待清华招生材料中提到的「元培计划三大硬伤」？
-[答案]: 。。这也是奇葩了。
+ 
+<br>**问题**: 如何看待清华招生材料中提到的「元培计划三大硬伤」？
+**答案**: 。。这也是奇葩了。
 
 已经是人间巅峰还要撕逼。google和facebook也没有撕成这样啊 
 
@@ -23586,17 +22358,15 @@ ps：
  
 
  
-
-[问题]: 如何看待清华教授说能考上清华核心是智商的言论？
-[答案]: 我认为清华北大的智商是真的高。真的。真的高的
-
- 
+<br>**问题**: 如何看待清华教授说能考上清华核心是智商的言论？
+**答案**: 我认为清华北大的智商是真的高。真的。真的高的
 
  
 
-[问题]: 如何看待清华的学霸吴佳俊？还有吴佳俊学霸的paper都有哪些？
+ 
+<br>**问题**: 如何看待清华的学霸吴佳俊？还有吴佳俊学霸的paper都有哪些？
 
-[答案]:算了算了。选对 ** 专业 **
+**答案**:算了算了。选对 ** 专业 **
 
 ，研究生碉堡，比什么都重要。你看我校CKC奖（研究生）不都去了SNAPCHAT吗？。。你们在这里讨论一个本科生，害臊不。像我这样找不到工作你就高兴了？ 
 
@@ -23607,9 +22377,8 @@ ps：
  
 
  
-
-[问题]: 如何看待特斯拉自动驾驶的第一起命案？
-[答案]: 投资者对特斯拉的激情并未受到本次事件影响。
+<br>**问题**: 如何看待特斯拉自动驾驶的第一起命案？
+**答案**: 投资者对特斯拉的激情并未受到本次事件影响。
 
 从6月27号以来，特斯拉已经上涨了20%有余 
 
@@ -23620,52 +22389,46 @@ ps：
  
 
  
-
-[问题]: 如何看待王健林万达年会演唱《一无所有》？
-[答案]: 唱歌是为了让听众产生共鸣
+<br>**问题**: 如何看待王健林万达年会演唱《一无所有》？
+**答案**: 唱歌是为了让听众产生共鸣
 
 不一定是演唱者的真实感情
 
  
 
  
-
-[问题]: 如何看待王垠《在三藩的两年》里对于旧金山的评价？
-[答案]: 想留美就留美，这种想法我也是跪了。
+<br>**问题**: 如何看待王垠《在三藩的两年》里对于旧金山的评价？
+**答案**: 想留美就留美，这种想法我也是跪了。
 
 能留在sf是你8辈子修来的福气。不懂得珍惜，还不如给别人。
 
  
 
  
+<br>**问题**:如何看待王垠对 tensorflow 的评价？
 
-[问题]:如何看待王垠对 tensorflow 的评价？
-
-[答案]: 他的评价再高，工资仍然是ydtian，yqjia等人的1/10。知乎live等人的1/20。人微言轻
-
- 
+**答案**: 他的评价再高，工资仍然是ydtian，yqjia等人的1/10。知乎live等人的1/20。人微言轻
 
  
 
-[问题]: 如何看待王垠最近写的《精英主义的灭亡》？
-[答案]: 勃学是专门反对和对抗精英主义（成功人士）的。
+ 
+<br>**问题**: 如何看待王垠最近写的《精英主义的灭亡》？
+**答案**: 勃学是专门反对和对抗精英主义（成功人士）的。
 
 欢迎王垠参考学习
 
  
 
  
-
-[问题]: 如何看待王垠的博文《我和权威的故事》？
-[答案]: 真让我担忧程序员未来到底有没有出路。
-
- 
+<br>**问题**: 如何看待王垠的博文《我和权威的故事》？
+**答案**: 真让我担忧程序员未来到底有没有出路。
 
  
 
-[问题]: 如何看待王垠的博文《数学和编程》？
+ 
+<br>**问题**: 如何看待王垠的博文《数学和编程》？
 
-[答案]:他只是故意提一个门槛很低的问题引起广泛要讨论然后看大家有什么新意而已。如果不是x^-1 和 f^-1 ，而是f^{ijk}g_{k}和
+**答案**:他只是故意提一个门槛很低的问题引起广泛要讨论然后看大家有什么新意而已。如果不是x^-1 和 f^-1 ，而是f^{ijk}g_{k}和
 
 f^{ij}_{k}g^{k} , 甚至f^{ijk}T^{lmn}_{jk}g_{mn} 估计就没有那么多人跳了。 
 
@@ -23684,19 +22447,17 @@ f^{ij}_{k}g^{k} , 甚至f^{ijk}T^{lmn}_{jk}g_{mn} 估计就没有那么多人跳
  
 
  
-
-[问题]: 如何看待现在的表失去了它本身的价值，反而是一种装逼的用具？
-[答案]: =不仅仅表可以变成装逼工具
+<br>**问题**: 如何看待现在的表失去了它本身的价值，反而是一种装逼的用具？
+**答案**: =不仅仅表可以变成装逼工具
 
 symlink也可以成为装逼工具
 
  
 
  
+<br>**问题**: 如何看待百度推广针对魏则西事件的回复？
 
-[问题]: 如何看待百度推广针对魏则西事件的回复？
-
-[答案]:转：对于SS Wang 凭借6年前的流言，拿着已经被剽窃过几次的文案，吃着嗟来之食诽谤造谣一事，请大家帮忙留证。法院取证时可能会有用。 
+**答案**:转：对于SS Wang 凭借6年前的流言，拿着已经被剽窃过几次的文案，吃着嗟来之食诽谤造谣一事，请大家帮忙留证。法院取证时可能会有用。 
 
 我怎么早没来看，SS WANG 拿了百度20W，能不来洗吗？这么及时，这么巧合；一个潜心专研SVD 和 DATA
 
@@ -23747,17 +22508,15 @@ Wang给你们的这个站内信邮件复制一份给我。我会以造谣诽谤�
  
 
  
+<br>**问题**: 如何看待知乎的新功能
 
-[问题]: 如何看待知乎的新功能
-
-[答案]:建议开发live block plus
-
- 
+**答案**:建议开发live block plus
 
  
 
-[问题]: 如何看待罗文益老师一年连开42场知乎live的行动？
-[答案]: 你应该拿起法律武器去315投诉打假。否则没有底线的话，资本家何乐而不为？
+ 
+<br>**问题**: 如何看待罗文益老师一年连开42场知乎live的行动？
+**答案**: 你应该拿起法律武器去315投诉打假。否则没有底线的话，资本家何乐而不为？
 
  
 
@@ -23766,71 +22525,62 @@ Wang给你们的这个站内信邮件复制一份给我。我会以造谣诽谤�
  
 
  
-
-[问题]: 如何看待罗辑思维B轮融资，估值13.2亿元？
-[答案]: 看完这个新闻，我彻底认同HFT将来毫无前途的结论。
-
- 
+<br>**问题**: 如何看待罗辑思维B轮融资，估值13.2亿元？
+**答案**: 看完这个新闻，我彻底认同HFT将来毫无前途的结论。
 
  
 
-[问题]: 如何看待罗辑思维跨年演讲？
-[答案]: 开卷有益。每个人的生活中都会犯错，每个人都有自己的缺点。
+ 
+<br>**问题**: 如何看待罗辑思维跨年演讲？
+**答案**: 开卷有益。每个人的生活中都会犯错，每个人都有自己的缺点。
 
 如果可以保持清醒，如果可以谦虚好学，如果可以有则改之，如果可以知己知彼，如果可以以史为鉴，如果可以了解的更多，总是没有坏处的。
 
  
 
  
-
-[问题]: 如何看待英伟达暂停大部分VR项目？
-[答案]: 老黄是PHD吗？我感觉他的技术直觉好屌。。。
+<br>**问题**: 如何看待英伟达暂停大部分VR项目？
+**答案**: 老黄是PHD吗？我感觉他的技术直觉好屌。。。
 
 GPU相关股票要休息一下了
 
  
 
  
+<br>**问题**: 如何看待苹果2015年充电三巨头的设计？
 
-[问题]: 如何看待苹果2015年充电三巨头的设计？
-
-[答案]:设计相应的充电设备（例如Apple pen 附赠的那个转接口），或者改变我们的审美。
-
- 
-
- 
-
-[问题]: 如何看待苹果公司2016公布Q2财报不及预期，市值蒸发400亿美金？
-[答案]: 捐给我啊。你看
+**答案**:设计相应的充电设备（例如Apple pen 附赠的那个转接口），或者改变我们的审美。
 
  
 
  
-
-[问题]: 如何看待苹果频繁在产品线中使用“Apple”品牌名称的做法？
-[答案]: 你管得宽
-
- 
-
- 
-
-[问题]: 如何看待被腾讯HR无理由未发实习offer？
-[答案]: 题主你哪个大学毕业的？成绩多少?
+<br>**问题**: 如何看待苹果公司2016公布Q2财报不及预期，市值蒸发400亿美金？
+**答案**: 捐给我啊。你看
 
  
 
  
-
-[问题]: 如何看待谷歌工程师透露谷歌有20亿行代码，相当于写40遍Windows？
-
-[答案]:据说google的performance review, promotion和bonus看的是代码行数。结果可想而知
+<br>**问题**: 如何看待苹果频繁在产品线中使用“Apple”品牌名称的做法？
+**答案**: 你管得宽
 
  
 
  
+<br>**问题**: 如何看待被腾讯HR无理由未发实习offer？
+**答案**: 题主你哪个大学毕业的？成绩多少?
 
-[问题]: 如何看待谷歌治癌手环？
-[答案]: 这只是一个proposal。东西都没做出来。项目很高大上，实际很冷酷骨。
+ 
+
+ 
+<br>**问题**: 如何看待谷歌工程师透露谷歌有20亿行代码，相当于写40遍Windows？
+
+**答案**:据说google的performance review, promotion和bonus看的是代码行数。结果可想而知
+
+ 
+
+ 
+<br>**问题**: 如何看待谷歌治癌手环？
+**答案**: 这只是一个proposal。东西都没做出来。项目很高大上，实际很冷酷骨。
 
 不要问我为什么知道。。 
 
@@ -23841,10 +22591,9 @@ GPU相关股票要休息一下了
  
 
  
+<br>**问题**:如何看待谷歌物理学家 John Martinis 宣称十年后机器学习将全部量子化？
 
-[问题]:如何看待谷歌物理学家 John Martinis 宣称十年后机器学习将全部量子化？
-
-[答案]: 我认为还不如解决一个人一套房子这样的材料学问题更有价值。
+**答案**: 我认为还不如解决一个人一套房子这样的材料学问题更有价值。
 
 ** 机器学习 ** 快一亿倍有个卵用啊，莫非人脑的学习速度也会快1亿倍？好可笑 
 
@@ -23853,9 +22602,8 @@ GPU相关股票要休息一下了
  
 
  
-
-[问题]: 如何看待轮子哥年入百万春节不发微信群红包？
-[答案]: 你真无知。
+<br>**问题**: 如何看待轮子哥年入百万春节不发微信群红包？
+**答案**: 你真无知。
 
 与其等待别人的红包， 
 
@@ -23892,10 +22640,9 @@ GPU相关股票要休息一下了
  
 
  
+<br>**问题**:如何看待轮子哥的 C++ 课程目前只有82人报名
 
-[问题]:如何看待轮子哥的 C++ 课程目前只有82人报名
-
-[答案]: 其实已经很多了你们就别黑了好嘛=
+**答案**: 其实已经很多了你们就别黑了好嘛=
 
 但也赚了7300*79 = 580k人民币了（58万）；换算成美金也有10万了。 
 
@@ -23940,33 +22687,29 @@ primer同名大纲，以及c++里面才有的特殊用法。背下这些用法�
  
 
  
+<br>**问题**: 如何看待近日《自然》刊登戴宏杰教授在铝电池上的工作？
 
-[问题]: 如何看待近日《自然》刊登戴宏杰教授在铝电池上的工作？
-
-[答案]:_ ** 大家争名夺利的，真饥渴。 ** _
-
- 
+**答案**:_ ** 大家争名夺利的，真饥渴。 ** _
 
  
 
-[问题]: 如何看待这份21年前的大学排名，可否比现在的榜客观？
-[答案]: 不错。反应了实际。
+ 
+<br>**问题**: 如何看待这份21年前的大学排名，可否比现在的榜客观？
+**答案**: 不错。反应了实际。
 
 水平差的人依然水平差
 
  
 
  
-
-[问题]: 如何看待这种从任何实验室PPT上就能找到的东西可以带来600美金的收入？
-[答案]: 成功人士现在总算要上知乎了。。
-
- 
+<br>**问题**: 如何看待这种从任何实验室PPT上就能找到的东西可以带来600美金的收入？
+**答案**: 成功人士现在总算要上知乎了。。
 
  
 
-[问题]: 如何看待部分中国人认为欧洲收留叙利亚难民是圣母行为？
-[答案]: 欧洲政治家的手腕太不高明了。
+ 
+<br>**问题**: 如何看待部分中国人认为欧洲收留叙利亚难民是圣母行为？
+**答案**: 欧洲政治家的手腕太不高明了。
 
 这完全可以是一个一举两得的事情： 
 
@@ -23981,16 +22724,14 @@ primer同名大纲，以及c++里面才有的特殊用法。背下这些用法�
  
 
  
-
-[问题]: 如何看待郭德纲在微博对知乎部分相声类话题的回应？
-[答案]: 这种过时文化，懂了学了简直是伤脑子。
-
- 
+<br>**问题**: 如何看待郭德纲在微博对知乎部分相声类话题的回应？
+**答案**: 这种过时文化，懂了学了简直是伤脑子。
 
  
 
-[问题]: 如何看待阿里巴巴2016校园招聘表现出来的问题？
-[答案]: 一个正规的大公司，本来就没有义务吸收全国各地的学生。如果阿里巴巴这一次把复旦交大清华北大的cs学生拒绝了，我认为他们的确脑残。可是如果是其他学校的学生被拒绝了，特别是那些自以为在北京的，天津的，南京的，杭州的，重庆的，武汉的所谓的985,
+ 
+<br>**问题**: 如何看待阿里巴巴2016校园招聘表现出来的问题？
+**答案**: 一个正规的大公司，本来就没有义务吸收全国各地的学生。如果阿里巴巴这一次把复旦交大清华北大的cs学生拒绝了，我认为他们的确脑残。可是如果是其他学校的学生被拒绝了，特别是那些自以为在北京的，天津的，南京的，杭州的，重庆的，武汉的所谓的985,
 
 211，重点大学 ** _ 而本身实力并不强 _ **
 
@@ -24011,9 +22752,8 @@ primer同名大纲，以及c++里面才有的特殊用法。背下这些用法�
  
 
  
-
-[问题]: 如何看待阿里巴巴安全专家云舒针对支付宝隐私门「赏金10万」？
-[答案]: 10万对他来说，仅仅是“杯水车薪”吧。年薪200万，股票6000万。而且还不是出自己的钱，这也是醉了。
+<br>**问题**: 如何看待阿里巴巴安全专家云舒针对支付宝隐私门「赏金10万」？
+**答案**: 10万对他来说，仅仅是“杯水车薪”吧。年薪200万，股票6000万。而且还不是出自己的钱，这也是醉了。
 
  
 
@@ -24052,9 +22792,8 @@ https://www.zhihu.com/question/40696591
  
 
  
-
-[问题]: 如何看待阿里给毕业生开百万年薪？（阿里星）？
-[答案]: 能力再强悍，写代码的手速也不会超过一般人的8倍吧。。
+<br>**问题**: 如何看待阿里给毕业生开百万年薪？（阿里星）？
+**答案**: 能力再强悍，写代码的手速也不会超过一般人的8倍吧。。
 
 我想应该是“出活快”，“bug
 
@@ -24065,17 +22804,15 @@ https://www.zhihu.com/question/40696591
  
 
  
+<br>**问题**:如何看待马航 MH17 航班被击落事件？
 
-[问题]:如何看待马航 MH17 航班被击落事件？
-
-[答案]: 听说我校知名学弟赵董的回答被（自己）删了。。
-
- 
+**答案**: 听说我校知名学弟赵董的回答被（自己）删了。。
 
  
 
-[问题]: 如何看方舟子微博质疑李开复造假？
-[答案]: 一个人能在公共领域混的这么完美，完美到成了中年大妈和三本学生的偶像，这也是难得了。。就不要扒它了。毕竟许多创业者还要靠它混饭吃。
+ 
+<br>**问题**: 如何看方舟子微博质疑李开复造假？
+**答案**: 一个人能在公共领域混的这么完美，完美到成了中年大妈和三本学生的偶像，这也是难得了。。就不要扒它了。毕竟许多创业者还要靠它混饭吃。
 
 毕竟人都是卑鄙且龃龉的活着，有什么必要比个光明正大呢？ 
 
@@ -24084,24 +22821,21 @@ https://www.zhihu.com/question/40696591
  
 
  
+<br>**问题**: 如何看最近出的什么2015年度中国高等院校声誉指数研究报告前100没有中国科学技术大学、东南大学？
 
-[问题]: 如何看最近出的什么2015年度中国高等院校声誉指数研究报告前100没有中国科学技术大学、东南大学？
-
-[答案]:中科大随便甩出一本science 啪飞某城乡结合部大三本
-
- 
-
- 
-
-[问题]: 如何确定物质的阴阳？
-[答案]: 如何辨别萌萌的雌雄
+**答案**:中科大随便甩出一本science 啪飞某城乡结合部大三本
 
  
 
  
+<br>**问题**: 如何确定物质的阴阳？
+**答案**: 如何辨别萌萌的雌雄
 
-[问题]: 如何科学地养金鱼？养金鱼有哪些注意事项？
-[答案]: 首先，金鱼要取西雅图深处的湖水一酌来养，其他地方的水不干净，金鱼会有皱纹；
+ 
+
+ 
+<br>**问题**: 如何科学地养金鱼？养金鱼有哪些注意事项？
+**答案**: 首先，金鱼要取西雅图深处的湖水一酌来养，其他地方的水不干净，金鱼会有皱纹；
 
 其次，每周要去溜金鱼：带着金鱼去吃好吃的不加糖的奶茶 
 
@@ -24112,57 +22846,53 @@ https://www.zhihu.com/question/40696591
  
 
  
-
-[问题]: 如何简洁易懂地解释超弦理论？
-[答案]: 。。。
-
- 
+<br>**问题**: 如何简洁易懂地解释超弦理论？
+**答案**: 。。。
 
  
 
-[问题]: 如何结合自己的经历理解「未曾在深夜里痛哭的人，不足以谈人生」？
-[答案]: 人如果不经历挫折和失败，就永远是天真的。因此深夜中的痛哭是你了解现实的必经之路。幼儿不会深夜痛哭，他们认为世界就应该是自己想的这样。
+ 
+<br>**问题**: 如何结合自己的经历理解「未曾在深夜里痛哭的人，不足以谈人生」？
+**答案**: 人如果不经历挫折和失败，就永远是天真的。因此深夜中的痛哭是你了解现实的必经之路。幼儿不会深夜痛哭，他们认为世界就应该是自己想的这样。
 
 深夜痛哭的另外一层含义是明明知道失败，却还必须坚持下去的那种壮烈。这种“壮烈”是和自身社会经验交互之后获得的深刻的自我意识。这种自我意识，对现实的清醒认识，恐怕就是某些人“足以谈人生”所要表征的
 
  
 
  
+<br>**问题**:如何给身边人推荐 Windows Phone 设备？
 
-[问题]:如何给身边人推荐 Windows Phone 设备？
-
-[答案]: 对一个iphone用户说你把你的iphone给我我给你300usd，外送一个wp。
-
- 
+**答案**: 对一个iphone用户说你把你的iphone给我我给你300usd，外送一个wp。
 
  
 
-[问题]: 如何编程产生泊松分布的随机数？
-[答案]: 你说的这个问题叫做Poisson过程，其产生的思路如下:
+ 
+<br>**问题**: 如何编程产生泊松分布的随机数？
+**答案**: 你说的这个问题叫做Poisson过程，其产生的思路如下:
 
-1，从 ![Uniform\(1\)](https://www.zhihu.com/equation?tex=Uniform%281%29) 
+1，从 !**Uniform\(1\)**(https://www.zhihu.com/equation?tex=Uniform%281%29) 
 
 的均匀分布出发，用Inverse CDF 方法产生一系列独立的指数分布（参数为
 
-![\\lambda](https://www.zhihu.com/equation?tex=%5Clambda) 
+!**\\lambda**(https://www.zhihu.com/equation?tex=%5Clambda) 
 
-）随机数 ![X_i \\sim
+）随机数 !**X_i \\sim
 
-exp\(\\lambda\)](https://www.zhihu.com/equation?tex=X_i+%5Csim+exp%28%5Clambda%29) 
+exp\(\\lambda\)**(https://www.zhihu.com/equation?tex=X_i+%5Csim+exp%28%5Clambda%29) 
 
 ； 
 
 2，记
 
-![Y=X_1+X_2+...+X_k](https://www.zhihu.com/equation?tex=Y%3DX_1%2BX_2%2B...%2BX_k) 
+!**Y=X_1+X_2+...+X_k**(https://www.zhihu.com/equation?tex=Y%3DX_1%2BX_2%2B...%2BX_k) 
 
-。如果 ![Y>t](https://www.zhihu.com/equation?tex=Y%3Et) 
+。如果 !**Y>t**(https://www.zhihu.com/equation?tex=Y%3Et) 
 
-，则停止，输出 ![k-1](https://www.zhihu.com/equation?tex=k-1) 
+，则停止，输出 !**k-1**(https://www.zhihu.com/equation?tex=k-1) 
 
-；若否，则继续生成 ![X_{k+1}](https://www.zhihu.com/equation?tex=X_%7Bk%2B1%7D) 
+；若否，则继续生成 !**X_{k+1}**(https://www.zhihu.com/equation?tex=X_%7Bk%2B1%7D) 
 
-，直到 ![Y>t](https://www.zhihu.com/equation?tex=Y%3Et) 
+，直到 !**Y>t**(https://www.zhihu.com/equation?tex=Y%3Et) 
 
 为止； 
 
@@ -24170,30 +22900,28 @@ exp\(\\lambda\)](https://www.zhihu.com/equation?tex=X_i+%5Csim+exp%28%5Clambda%2
 
  
 
-容易证明，输出的一系列整数 ![k](https://www.zhihu.com/equation?tex=k) 
+容易证明，输出的一系列整数 !**k**(https://www.zhihu.com/equation?tex=k) 
 
-就满足服从参数为 ![\\mu=\\lambda
+就满足服从参数为 !**\\mu=\\lambda
 
-t](https://www.zhihu.com/equation?tex=%5Cmu%3D%5Clambda+t) 
+t**(https://www.zhihu.com/equation?tex=%5Cmu%3D%5Clambda+t) 
 
 的Poisson分布。
 
  
 
  
+<br>**问题**:如何翻译 Apple March 2016 发布会邀请函「Let us loop you in」？
 
-[问题]:如何翻译 Apple March 2016 发布会邀请函「Let us loop you in」？
-
-[答案]: 要开始造车了吧。
+**答案**: 要开始造车了吧。
 
 Loop 的意思就是这个
 
  
 
  
-
-[问题]: 如何能在本科三年级就发表论文？
-[答案]: 把论文当作所有领域所有研究的共同标准的确有点愚蠢了。
+<br>**问题**: 如何能在本科三年级就发表论文？
+**答案**: 把论文当作所有领域所有研究的共同标准的确有点愚蠢了。
 
  
 
@@ -24242,9 +22970,8 @@ it seriously。
  
 
  
-
-[问题]: 如何能成为谷歌的员工？
-[答案]: 妹子居然不去微软？而去一家互联网公司。。。这样三观才可能符合啊。Google是明令禁止使用Microsoft任何产品办公的（Office?Skype?Windows?Windows
+<br>**问题**: 如何能成为谷歌的员工？
+**答案**: 妹子居然不去微软？而去一家互联网公司。。。这样三观才可能符合啊。Google是明令禁止使用Microsoft任何产品办公的（Office?Skype?Windows?Windows
 
 Phone?华硕笔记本?想清楚了再来＝)。未来沟通可能有所不便。 
 
@@ -24289,62 +23016,55 @@ candidate，你就进下一步。算法题当然是一个重要的feature，但�
  
 
  
-
-[问题]: 如何获得中国勃学院的学士学位？
-[答案]: 具有一定的哲学水平，可以提出自己的学说/流派/分支/解读，并且可以实现对《几个解释》的再解构。
+<br>**问题**: 如何获得中国勃学院的学士学位？
+**答案**: 具有一定的哲学水平，可以提出自己的学说/流派/分支/解读，并且可以实现对《几个解释》的再解构。
 
 毕竟勃学的本质是解构
 
  
 
  
+<br>**问题**:如何解读 Amazon 2014 年 Q3 财报？都有哪些值得注意的地方？
 
-[问题]:如何解读 Amazon 2014 年 Q3 财报？都有哪些值得注意的地方？
-
-[答案]: 可怕的amazon
-
- 
+**答案**: 可怕的amazon
 
  
 
-[问题]:如何解读apple 2016年三月发布会海报(Let us loop you in)
+ 
+<br>**问题**:如何解读apple 2016年三月发布会海报(Let us loop you in)
 
-[答案]: 应该是打算发布有关车的东西了。
+**答案**: 应该是打算发布有关车的东西了。
 
 That's what loop means
 
  
 
  
-
-[问题]: 如何解读支付宝十年对账单的规则？
-[答案]: 为什么不集体诉讼阿里巴巴侵犯隐私？
+<br>**问题**: 如何解读支付宝十年对账单的规则？
+**答案**: 为什么不集体诉讼阿里巴巴侵犯隐私？
 
 没骨气啊。这种案子古美门一接一定上亿日元了吧
 
  
 
  
+<br>**问题**:如何解读新闻「中国科学家研制出石墨烯超强电池：充电 7 秒续航 35 公里」？
 
-[问题]:如何解读新闻「中国科学家研制出石墨烯超强电池：充电 7 秒续航 35 公里」？
-
-[答案]: 有种他开一次试试？
-
- 
+**答案**: 有种他开一次试试？
 
  
 
-[问题]: 如何解释如图水波纹与平静水面有明显界线的问题？
-[答案]: 个人认为和水的深浅有关系。无波浪处应是深水区；有波纹处应是浅水区。具体的实验跟简单，找一个坑洼不平的水池，观察下雨时水面波纹的情况。
+ 
+<br>**问题**: 如何解释如图水波纹与平静水面有明显界线的问题？
+**答案**: 个人认为和水的深浅有关系。无波浪处应是深水区；有波纹处应是浅水区。具体的实验跟简单，找一个坑洼不平的水池，观察下雨时水面波纹的情况。
 
 水波的波长和深度是有关系的，而不论波的来源是什么。参考：shallow water waves
 
  
 
  
-
-[问题]: 如何解释玻璃盒中的小鸟问题？
-[答案]: 不会平衡。。。。
+<br>**问题**: 如何解释玻璃盒中的小鸟问题？
+**答案**: 不会平衡。。。。
 
 如果浮在空气中的东西的重力都能作用在这瓶子里，我相信飞机会砸死你。 
 
@@ -24363,53 +23083,50 @@ That's what loop means
  
 
  
+<br>**问题**: 如何计算一个镜子的反射光谱范围？
+**答案**: 在物理-光学中有以下关系
 
-[问题]: 如何计算一个镜子的反射光谱范围？
-[答案]: 在物理-光学中有以下关系
+Reflectivity: !**r=\\frac{\\tilde{n} -1}{\\tilde{n} +1}
 
-Reflectivity: ![r=\\frac{\\tilde{n} -1}{\\tilde{n} +1}
+**(https://www.zhihu.com/equation?tex=r%3D%5Cfrac%7B%5Ctilde%7Bn%7D+-1%7D%7B%5Ctilde%7Bn%7D+%2B1%7D+) 
 
-](https://www.zhihu.com/equation?tex=r%3D%5Cfrac%7B%5Ctilde%7Bn%7D+-1%7D%7B%5Ctilde%7Bn%7D+%2B1%7D+) 
+Refractive Index: !**\\tilde{n} =\\sqrt{\\epsilon}
 
-Refractive Index: ![\\tilde{n} =\\sqrt{\\epsilon}
-
-](https://www.zhihu.com/equation?tex=%5Ctilde%7Bn%7D+%3D%5Csqrt%7B%5Cepsilon%7D+) 
+**(https://www.zhihu.com/equation?tex=%5Ctilde%7Bn%7D+%3D%5Csqrt%7B%5Cepsilon%7D+) 
 
 Dielectric Function: 
 
-![\\epsilon =1-\\frac{\\omega_p ^{2}}{\\omega^2+i\\tau\\omega}
+!**\\epsilon =1-\\frac{\\omega_p ^{2}}{\\omega^2+i\\tau\\omega}
 
-](https://www.zhihu.com/equation?tex=%5Cepsilon+%3D1-%5Cfrac%7B%5Comega_p+%5E%7B2%7D%7D%7B%5Comega%5E2%2Bi%5Ctau%5Comega%7D+) 
+**(https://www.zhihu.com/equation?tex=%5Cepsilon+%3D1-%5Cfrac%7B%5Comega_p+%5E%7B2%7D%7D%7B%5Comega%5E2%2Bi%5Ctau%5Comega%7D+) 
 
-所以你需要计算的无非是当 ![R=|r|^2](https://www.zhihu.com/equation?tex=R%3D%7Cr%7C%5E2) 
+所以你需要计算的无非是当 !**R=|r|^2**(https://www.zhihu.com/equation?tex=R%3D%7Cr%7C%5E2) 
 
-大于比如说99.9%的时候，光子频率 ![\\omega ](https://www.zhihu.com/equation?tex=%5Comega+) 
+大于比如说99.9%的时候，光子频率 !**\\omega **(https://www.zhihu.com/equation?tex=%5Comega+) 
 
 的取值范围是什么。 
 
 注意Plasmon Frequency
 
-![\\omega_p](https://www.zhihu.com/equation?tex=%5Comega_p) 
+!**\\omega_p**(https://www.zhihu.com/equation?tex=%5Comega_p) 
 
-以及Scattering Rate ![\\tau ](https://www.zhihu.com/equation?tex=%5Ctau+) 
+以及Scattering Rate !**\\tau **(https://www.zhihu.com/equation?tex=%5Ctau+) 
 
 和金属的种类有关。
 
  
 
  
+<br>**问题**:如何认识在硅谷工作的中国人？(例如Facebook, Google, etc或其他start-ups)
 
-[问题]:如何认识在硅谷工作的中国人？(例如Facebook, Google, etc或其他start-ups)
-
-[答案]: 你首先得认识微软的大牛。
-
- 
+**答案**: 你首先得认识微软的大牛。
 
  
 
-[问题]:如何让一个 5 岁小孩听懂什么是选择公理？
+ 
+<br>**问题**:如何让一个 5 岁小孩听懂什么是选择公理？
 
-[答案]: 你妈妈说的是母理
+**答案**: 你妈妈说的是母理
 
 你爸爸说的是公理。 
 
@@ -24418,18 +23135,16 @@ Dielectric Function:
  
 
  
-
-[问题]: 如何让大家快速充分并正确的了解曾老师？
-[答案]: 你这提问水平肯定不是曾老师
+<br>**问题**: 如何让大家快速充分并正确的了解曾老师？
+**答案**: 你这提问水平肯定不是曾老师
 
 但你的学历肯定小于三本。
 
  
 
  
-
-[问题]: 如何让普通人明白数学有多复杂？
-[答案]: !(https://pic4.zhimg.com/89ed702e0004da37a66905c4dc8f9c8f_b.jpg)
+<br>**问题**: 如何让普通人明白数学有多复杂？
+**答案**: !(https://pic4.zhimg.com/89ed702e0004da37a66905c4dc8f9c8f_b.jpg)
 
  
 
@@ -24438,16 +23153,14 @@ Dielectric Function:
  
 
  
-
-[问题]: 如何让曾老师更快乐并促进他输出干货？
-[答案]: 首先让知乎提高自己的自动封号程序。
-
- 
+<br>**问题**: 如何让曾老师更快乐并促进他输出干货？
+**答案**: 首先让知乎提高自己的自动封号程序。
 
  
 
-[问题]: 如何让知乎成为中国经济的发动机
-[答案]: 值乎收钱体现了知识经济，我深表赞同；现有一计让其更有效：
+ 
+<br>**问题**: 如何让知乎成为中国经济的发动机
+**答案**: 值乎收钱体现了知识经济，我深表赞同；现有一计让其更有效：
 
  
 
@@ -24474,9 +23187,8 @@ MARKET，创造流动性，提高知乎的收益，也可以提高问题、答�
  
 
  
-
-[问题]: 如何让自己的回答在知乎上被更多人看到？
-[答案]: 知乎参与者的水平参差不齐，背景各异，兴趣迥然，常出现一个深入洞察的答案得不到关注，一个照搬抄袭Wikipedia
+<br>**问题**: 如何让自己的回答在知乎上被更多人看到？
+**答案**: 知乎参与者的水平参差不齐，背景各异，兴趣迥然，常出现一个深入洞察的答案得不到关注，一个照搬抄袭Wikipedia
 
 的答案满堂喝彩，甚至非专业内的人士也常来越俎代庖，充当搜索引擎之功效。 
 
@@ -24517,10 +23229,9 @@ exchange 之类的网站相比，还有很长的路要走。
  
 
  
+<br>**问题**: 如何证明一个数n的因子之和是O(n)的？
 
-[问题]: 如何证明一个数n的因子之和是O(n)的？
-
-[答案]:记Xi>=2 且为整数 
+**答案**:记Xi>=2 且为整数 
 
 那么普遍的，有 
 
@@ -24535,10 +23246,9 @@ X1*X2*X3....*Xn >= X1+X2+X3...+Xn
  
 
  
+<br>**问题**: 如何证明圆周率为定值？
 
-[问题]: 如何证明圆周率为定值？
-
-[答案]:首先可以证明圆周的圆心角是一个定值 （360度，记作2pi），这个角度和半径以及圆心的位置无关。 
+**答案**:首先可以证明圆周的圆心角是一个定值 （360度，记作2pi），这个角度和半径以及圆心的位置无关。 
 
 然后可以证明任意一段圆弧的长度等于圆心角乘以半径（或者说，是半径的函数，其中圆心角是参数）； 
 
@@ -24549,10 +23259,9 @@ X1*X2*X3....*Xn >= X1+X2+X3...+Xn
  
 
  
+<br>**问题**:如何评价 15 年 9 月 22 日发布的 Office 2016 正式版？
 
-[问题]:如何评价 15 年 9 月 22 日发布的 Office 2016 正式版？
-
-[答案]:Office 2016 for Mac 的出现直接导致我不需要使用windows 虚拟机了。Word的公式排版， PowerPoint
+**答案**:Office 2016 for Mac 的出现直接导致我不需要使用windows 虚拟机了。Word的公式排版， PowerPoint
 
 的作图让我满意。Excel 没怎么深入使用过，其功能一般用Python 取代。。 
 
@@ -24561,10 +23270,9 @@ X1*X2*X3....*Xn >= X1+X2+X3...+Xn
  
 
  
+<br>**问题**:如何评价 2014 年诺贝尔物理学奖？
 
-[问题]:如何评价 2014 年诺贝尔物理学奖？
-
-[答案]: 物理学是一门实验科学。理论学家只是在用数学工具帮助实验学家排除噪音。
+**答案**: 物理学是一门实验科学。理论学家只是在用数学工具帮助实验学家排除噪音。
 
  
 
@@ -24587,10 +23295,9 @@ X1*X2*X3....*Xn >= X1+X2+X3...+Xn
  
 
  
+<br>**问题**:如何评价 2015 年 3 月发布的全新 12 英寸 MacBook？
 
-[问题]:如何评价 2015 年 3 月发布的全新 12 英寸 MacBook？
-
-[答案]:最主要的问题是，微软的office团队必须再多写200多万行代码，才可以和new macbook的利润相媲美；或者，让自己的office for
+**答案**:最主要的问题是，微软的office团队必须再多写200多万行代码，才可以和new macbook的利润相媲美；或者，让自己的office for
 
 mac再提升一个档次。软件创新怎么赶得上硬件创新。太可怕了。作为全球消费品市场de facto
 
@@ -24611,26 +23318,23 @@ mac再提升一个档次。软件创新怎么赶得上硬件创新。太可怕�
  
 
  
+<br>**问题**:如何评价 2015 年 NBA 总决赛骑士 vs 勇士第二场？
 
-[问题]:如何评价 2015 年 NBA 总决赛骑士 vs 勇士第二场？
-
-[答案]:warrior 是金州勇士？我一直以为金门大桥州立勇士队是一个名不见经传的本地小队。。难怪这么多人看。他们的队服也太丑了吧可以考虑改改。
-
- 
-
- 
-
-[问题]:如何评价 2016 中国最好大学排名，武汉大学仅排全国第 16，人民大学仅排全国第 31？
-
-[答案]: 我觉得这个排名在排名界排名倒数
+**答案**:warrior 是金州勇士？我一直以为金门大桥州立勇士队是一个名不见经传的本地小队。。难怪这么多人看。他们的队服也太丑了吧可以考虑改改。
 
  
 
  
+<br>**问题**:如何评价 2016 中国最好大学排名，武汉大学仅排全国第 16，人民大学仅排全国第 31？
 
-[问题]:如何评价 2016 清华招生宣传片 iTsinghua？
+**答案**: 我觉得这个排名在排名界排名倒数
 
-[答案]: 其他学校和清华的差距越来越大了.
+ 
+
+ 
+<br>**问题**:如何评价 2016 清华招生宣传片 iTsinghua？
+
+**答案**: 其他学校和清华的差距越来越大了.
 
 还是放弃吧,别追了. 
 
@@ -24639,62 +23343,55 @@ mac再提升一个档次。软件创新怎么赶得上硬件创新。太可怕�
  
 
  
+<br>**问题**:如何评价 2017 年 1 月 4 日 Master（最新版 AlphaGo）60 场全胜？
 
-[问题]:如何评价 2017 年 1 月 4 日 Master（最新版 AlphaGo）60 场全胜？
-
-[答案]: 非常好。接下来我们就可以听AI开班和讲live了。
+**答案**: 非常好。接下来我们就可以听AI开班和讲live了。
 
 距离失败人士大团结的一天，不远了
 
  
 
  
+<br>**问题**:如何评价 3D Touch 在 iPhone 上的应用？
 
-[问题]:如何评价 3D Touch 在 iPhone 上的应用？
-
-[答案]: samsung再也无法赶超了。除非直接抄袭。。
-
- 
-
- 
-
-[问题]:如何评价 Android 5.0（Lolipop）？
-
-[答案]: 反正没有ios8好。
+**答案**: samsung再也无法赶超了。除非直接抄袭。。
 
  
 
  
+<br>**问题**:如何评价 Android 5.0（Lolipop）？
 
-[问题]:如何评价 Bash for Windows？
+**答案**: 反正没有ios8好。
 
-[答案]: 起码微软总算明白了什么才是现代科技所需要的，操作系统的必备成分。。。
+ 
+
+ 
+<br>**问题**:如何评价 Bash for Windows？
+
+**答案**: 起码微软总算明白了什么才是现代科技所需要的，操作系统的必备成分。。。
 
 但是他居然花了20年。
 
  
 
  
+<br>**问题**:如何评价 Facebook Instant Articles？
 
-[问题]:如何评价 Facebook Instant Articles？
-
-[答案]: 这又是几十万行C++和PHP的结晶。。。不懂行的人还是不要评论了
-
- 
-
- 
-
-[问题]:如何评价 Facebook 在职员工邹昕的知乎 Live 赞数不足覃超的 150？
-
-[答案]: 13k流量但是只有20个回答。。某公司算法也是很厉害的
+**答案**: 这又是几十万行C++和PHP的结晶。。。不懂行的人还是不要评论了
 
  
 
  
+<br>**问题**:如何评价 Facebook 在职员工邹昕的知乎 Live 赞数不足覃超的 150？
 
-[问题]:如何评价 Google 的新 Logo 及 VI ？
+**答案**: 13k流量但是只有20个回答。。某公司算法也是很厉害的
 
-[答案]: !(https://pic1.zhimg.com/f0f9528f4e2b9d10699773670547ef08_b.png)
+ 
+
+ 
+<br>**问题**:如何评价 Google 的新 Logo 及 VI ？
+
+**答案**: !(https://pic1.zhimg.com/f0f9528f4e2b9d10699773670547ef08_b.png)
 
 这两小嘴巴张的。还是有点丑 
 
@@ -24703,10 +23400,9 @@ mac再提升一个档次。软件创新怎么赶得上硬件创新。太可怕�
  
 
  
+<br>**问题**:如何评价 iOS 7？
 
-[问题]:如何评价 iOS 7？
-
-[答案]:用了1天。其他不说，我只希望他在正式版前把某几个图标该一该。simplicity is
+**答案**:用了1天。其他不说，我只希望他在正式版前把某几个图标该一该。simplicity is
 
 beauty，我还在这几个图标里真没看到。设置就是齿轮？游戏中心就是气球？？。ivy 你该换几个创意设计师了。 
 
@@ -24723,10 +23419,9 @@ beauty，我还在这几个图标里真没看到。设置就是齿轮？游戏�
  
 
  
+<br>**问题**:如何评价 iOS 8 消息应用的圆形辐射菜单 (radial menu) 交互？
 
-[问题]:如何评价 iOS 8 消息应用的圆形辐射菜单 (radial menu) 交互？
-
-[答案]:颜色太丑了。和总体感觉不符。没有ios/mac os
+**答案**:颜色太丑了。和总体感觉不符。没有ios/mac os
 
 x设计指南中所谓的transluscent的感觉，整体设计元素中也不存在这样一个1/4圆。一句话：颜色选择和扁平化之中做得最丑的。。首先，它需要这么大一个圆吗？除了12点和9点方向有东西以外，中间那个arc完全阻碍了视线谢谢。 
 
@@ -24741,10 +23436,9 @@ x设计指南中所谓的transluscent的感觉，整体设计元素中也不存�
  
 
  
+<br>**问题**:如何评价 iPad Pro？
 
-[问题]:如何评价 iPad Pro？
-
-[答案]:除了iOS 9 还不够先进以外，其他我觉得还可以。 
+**答案**:除了iOS 9 还不够先进以外，其他我觉得还可以。 
 
 这个分屏功能太鸡肋了。太丑了。。试想你打开Safari 看wiki 同时需要复制一段文字去office word . 我在iPad
 
@@ -24757,10 +23451,9 @@ iPad pro 需要的是键盘快捷键迅速切换app 以及真分屏。
  
 
  
+<br>**问题**:如何评价 iPhone 6 Plus？
 
-[问题]:如何评价 iPhone 6 Plus？
-
-[答案]: 没有钱的就不要比较、分析、评论、下结论了。用都没用过，就说人家新娘子姿势不好？
+**答案**: 没有钱的就不要比较、分析、评论、下结论了。用都没用过，就说人家新娘子姿势不好？
 
 笑话。 
 
@@ -24773,28 +23466,25 @@ iPad pro 需要的是键盘快捷键迅速切换app 以及真分屏。
  
 
  
+<br>**问题**:如何评价 iPhone 原装充电壳 Smart Battery Case？
 
-[问题]:如何评价 iPhone 原装充电壳 Smart Battery Case？
-
-[答案]: 只要有人买。。批评则没有意义
+**答案**: 只要有人买。。批评则没有意义
 
 如果没人买。。褒奖也是虚荣
 
  
 
  
+<br>**问题**:如何评价 Microsoft HoloLens 这款产品？
 
-[问题]:如何评价 Microsoft HoloLens 这款产品？
-
-[答案]: 朝闻道，夕可死也。
-
- 
+**答案**: 朝闻道，夕可死也。
 
  
 
-[问题]:如何评价 MIT 金融学教授罗闻全 (Andrew Lo)？
+ 
+<br>**问题**:如何评价 MIT 金融学教授罗闻全 (Andrew Lo)？
 
-[答案]:
+**答案**:
 
  
 
@@ -24889,40 +23579,36 @@ economics from Harvard University.
  
 
  
+<br>**问题**:如何评价 Oculus Rift 创始人说苹果电脑不够好，因此暂不支持 Mac？
 
-[问题]:如何评价 Oculus Rift 创始人说苹果电脑不够好，因此暂不支持 Mac？
-
-[答案]: 按照他的说法，不是换个显卡么。这也和平台有关？苹果似乎不自己生产cpu和显卡吧，我也是醉了。那么请问我这台iMac可以支持吗，Oculus的北美公关人员？
+**答案**: 按照他的说法，不是换个显卡么。这也和平台有关？苹果似乎不自己生产cpu和显卡吧，我也是醉了。那么请问我这台iMac可以支持吗，Oculus的北美公关人员？
 
  
 
-![](https://pic2.zhimg.com/3c871745e7279eb3484df5ae8cfa4105_b.png) 
+!****(https://pic2.zhimg.com/3c871745e7279eb3484df5ae8cfa4105_b.png) 
 
 我觉得可能真的是他无法理解如何在OS X 下用obj－c 写驱动吧，抑或者是不喜欢写Open GL吧。这借口找的真溜。
 
  
 
  
+<br>**问题**:如何评价 Office 2016 for Mac (正式版) ？
 
-[问题]:如何评价 Office 2016 for Mac (正式版) ？
-
-[答案]:我只想知道为什么outlook不支持gmail 和 apple的calendar？
-
- 
-
- 
-
-[问题]:如何评价 OS X？
-
-[答案]: 代码不知道。做的效果那绝对是让程序员爱不释手（ms程序员除外，至于为什么，不要问我，参看未来是否属于objc还是vs这个问题。）
+**答案**:我只想知道为什么outlook不支持gmail 和 apple的calendar？
 
  
 
  
+<br>**问题**:如何评价 OS X？
 
-[问题]:如何评价 Surface Book 变形式笔记本电脑？
+**答案**: 代码不知道。做的效果那绝对是让程序员爱不释手（ms程序员除外，至于为什么，不要问我，参看未来是否属于objc还是vs这个问题。）
 
-[答案]: 在个人电脑市场，上一次微软联手intel打败苹果还是2000前后的事。
+ 
+
+ 
+<br>**问题**:如何评价 Surface Book 变形式笔记本电脑？
+
+**答案**: 在个人电脑市场，上一次微软联手intel打败苹果还是2000前后的事。
 
 没有办法，苹果这种绞尽脑汁花大价钱做一个只知道满足设计美学的产品，不论是价格，拓展性，性能都被对方秒杀。这样的公司，再次被windows打败是不出意外的。 
 
@@ -24941,18 +23627,16 @@ x。这一次，可没这么好运了。。
  
 
  
+<br>**问题**:如何评价 Surface Pro 4 CPU 压力测试的结果？
 
-[问题]:如何评价 Surface Pro 4 CPU 压力测试的结果？
-
-[答案]:难怪intel skylake M 没能拿到iPad pro 的订单
-
- 
+**答案**:难怪intel skylake M 没能拿到iPad pro 的订单
 
  
 
-[问题]:如何评价 Swift 语言？
+ 
+<br>**问题**:如何评价 Swift 语言？
 
-[答案]:我自己来回答下吧。这就好像iPad 1 刚出来，大家都觉得这货是阉割了（无前摄像头），而且毫无新意（大版iPhone)
+**答案**:我自己来回答下吧。这就好像iPad 1 刚出来，大家都觉得这货是阉割了（无前摄像头），而且毫无新意（大版iPhone)
 
 然后过了3年呢，大家都感慨自己有眼无珠，缺乏远见了。 
 
@@ -24981,10 +23665,9 @@ Swift 奠定了苹果未来5年在和google , 微软大战时的领导地位
  
 
  
+<br>**问题**:如何评价 ThinkPad 的移动工作站 P50P70 系列？
 
-[问题]:如何评价 ThinkPad 的移动工作站 P50P70 系列？
-
-[答案]: 都工作站了
+**答案**: 都工作站了
 
 写代码需要工作站笔记本吗？ 
 
@@ -25007,10 +23690,9 @@ lenovo，dell之流，还在沿用上个世纪90年代市场情窦初开时的�
  
 
  
+<br>**问题**:如何评价 Uber 的新 logo？
 
-[问题]:如何评价 Uber 的新 logo？
-
-[答案]: 天要下雨
+**答案**: 天要下雨
 
 人要赚钱 
 
@@ -25029,17 +23711,15 @@ Uber要扩张
  
 
  
+<br>**问题**:如何评价 WWDC 2014 上发布的 iOS 8 预览版？
 
-[问题]:如何评价 WWDC 2014 上发布的 iOS 8 预览版？
-
-[答案]: 发布了？发布了再说。你问题问的真早。
-
- 
+**答案**: 发布了？发布了再说。你问题问的真早。
 
  
 
-[问题]: 如何评价10月13日twitter裁员8%？
-[答案]: 如何评价？等到连UBER都裁员了（据说本来就在裁。。）我们才可以评价。现在，其实只是TWITTER自己作死。
+ 
+<br>**问题**: 如何评价10月13日twitter裁员8%？
+**答案**: 如何评价？等到连UBER都裁员了（据说本来就在裁。。）我们才可以评价。现在，其实只是TWITTER自己作死。
 
 硅谷是不是有寒冬？ 
 
@@ -25054,10 +23734,9 @@ Uber要扩张
  
 
  
+<br>**问题**:如何评价12月22日上线的计蒜客 CS 212 面向对象的程序设计 (C++)
 
-[问题]:如何评价12月22日上线的计蒜客 CS 212 面向对象的程序设计 (C++)
-
-[答案]: 欢迎去stackoverflow学习c++。。。那是真国外顶尖高手的回答。我相信现在大部分知乎cpp“专家”当年没少从这里偷师，或者是抄袭。
+**答案**: 欢迎去stackoverflow学习c++。。。那是真国外顶尖高手的回答。我相信现在大部分知乎cpp“专家”当年没少从这里偷师，或者是抄袭。
 
  
 
@@ -25102,18 +23781,16 @@ Uber要扩张
  
 
  
+<br>**问题**: 如何评价4月5号美国威斯康星州共和党、民主党初选结果？
 
-[问题]: 如何评价4月5号美国威斯康星州共和党、民主党初选结果？
-
-[答案]:...您好现在我们这才4月4 啊。
-
- 
+**答案**:...您好现在我们这才4月4 啊。
 
  
 
-[问题]:如何评价5月4日John Kasich退出共和党初选？
+ 
+<br>**问题**:如何评价5月4日John Kasich退出共和党初选？
 
-[答案]: 其实我更希望看到希拉里退选。。。
+**答案**: 其实我更希望看到希拉里退选。。。
 
  
 
@@ -25128,16 +23805,14 @@ Uber要扩张
  
 
  
-
-[问题]: 如何评价99年的电视剧《121枪杀大案》？
-[答案]: 好怕怕，555
-
- 
+<br>**问题**: 如何评价99年的电视剧《121枪杀大案》？
+**答案**: 好怕怕，555
 
  
 
-[问题]: 如何评价Apple和Microsoft的offer？
-[答案]: 。。。既然都这样了，我还能怎么说呢？
+ 
+<br>**问题**: 如何评价Apple和Microsoft的offer？
+**答案**: 。。。既然都这样了，我还能怎么说呢？
 
 去微软吧。。注意体重 
 
@@ -25172,49 +23847,43 @@ Package 居然一样？
  
 
  
+<br>**问题**:如何评价bhuztez 12月27号的禁言？
 
-[问题]:如何评价bhuztez 12月27号的禁言？
-
-[答案]: 那是爱护他。否则被起诉了
-
- 
-
- 
-
-[问题]: 如何评价Facebook于2016年元旦左右正式入华？
-
-[答案]:Facebook 核心业务要是入华了我在知乎直播裸奔
+**答案**: 那是爱护他。否则被起诉了
 
  
 
  
+<br>**问题**: 如何评价Facebook于2016年元旦左右正式入华？
 
-[问题]:如何评价Instagram Stories
-
-[答案]: 好，支持，有希望了
-
- 
-
- 
-
-[问题]:如何评价iPad Pro的音响水平？
-
-[答案]: 用来听郭德纲毫不含糊。
+**答案**:Facebook 核心业务要是入华了我在知乎直播裸奔
 
  
 
  
+<br>**问题**:如何评价Instagram Stories
 
-[问题]:如何评价Parallels Desktop 11的价格？
+**答案**: 好，支持，有希望了
 
-[答案]:因为用Mac 的都是有钱人。而且用虚拟机的人少。人家只能这么做才能回本啊
+ 
+
+ 
+<br>**问题**:如何评价iPad Pro的音响水平？
+
+**答案**: 用来听郭德纲毫不含糊。
 
  
 
  
+<br>**问题**:如何评价Parallels Desktop 11的价格？
 
-[问题]: 如何评价Windows10的10586(Threshold2)升级？
-[答案]: 不错，比较稳定。
+**答案**:因为用Mac 的都是有钱人。而且用虚拟机的人少。人家只能这么做才能回本啊
+
+ 
+
+ 
+<br>**问题**: 如何评价Windows10的10586(Threshold2)升级？
+**答案**: 不错，比较稳定。
 
 就是更新之后以前的某些软件需要重装（paragon HDF for Windows )，据说这是TH的特性：保留文件，系统其实清理过
 
@@ -25225,16 +23894,14 @@ feature。看着微软一天一天长大，变乖，变可爱，心中还有一�
  
 
  
-
-[问题]: 如何评价‘’玩累了就找个老实人嫁了吧‘’？
-[答案]: 玩累了就变老实了？
-
- 
+<br>**问题**: 如何评价‘’玩累了就找个老实人嫁了吧‘’？
+**答案**: 玩累了就变老实了？
 
  
 
-[问题]: 如何评价“周一晚郭衡”事件？
-[答案]: 闻所未闻。
+ 
+<br>**问题**: 如何评价“周一晚郭衡”事件？
+**答案**: 闻所未闻。
 
 既然更新补充了细节。。 
 
@@ -25257,16 +23924,14 @@ messenger/whatsup/weichat搞学建工作啊。。
  
 
  
-
-[问题]: 如何评价“宇宙不可问，量子不可测，空间不可知。”这句话？
-[答案]: 冰冰·不可黑
-
- 
+<br>**问题**: 如何评价“宇宙不可问，量子不可测，空间不可知。”这句话？
+**答案**: 冰冰·不可黑
 
  
 
-[问题]: 如何评价“得到”APP中李笑来的《通往财富自由之路》？
-[答案]: 如果所有人都和他一样通过包装自己以及贩卖自己的知识“通往了财富自由”，那么他也就没有办法再向其他人贩卖自己的知识实现“财富自由”了。
+ 
+<br>**问题**: 如何评价“得到”APP中李笑来的《通往财富自由之路》？
+**答案**: 如果所有人都和他一样通过包装自己以及贩卖自己的知识“通往了财富自由”，那么他也就没有办法再向其他人贩卖自己的知识实现“财富自由”了。
 
 真是矛盾啊。看来，这个成功实现财富自由的人口的比例，还是要好好控制一下。诶我是不是知道了些什么。。 
 
@@ -25275,9 +23940,8 @@ messenger/whatsup/weichat搞学建工作啊。。
  
 
  
-
-[问题]: 如何评价《万万没想到》第二季？
-[答案]: 他们缓不下来了。=看情况是要把知名IP都翻拍一次的感觉，这样每个主演都可以当主角，根据市场反响决定哪一个拍续集。
+<br>**问题**: 如何评价《万万没想到》第二季？
+**答案**: 他们缓不下来了。=看情况是要把知名IP都翻拍一次的感觉，这样每个主演都可以当主角，根据市场反响决定哪一个拍续集。
 
 这种商业化的工业模式是否可以持久，就要看万合养的一批段子手有没有好莱坞编剧团体那么牛逼了。。此外，现在市场上居然还没有竞争对手，这样的市场状况很不健康（会导致流水生产段子手的编剧人才，甚至搞笑演员的匮乏）。 
 
@@ -25286,26 +23950,23 @@ messenger/whatsup/weichat搞学建工作啊。。
  
 
  
-
-[问题]: 如何评价《三体》同人短片《Waterdrop》？
-[答案]: 。。我不知道一开始反射的是什么“细节”。我只知道，显微镜都是有分辨率极限的，原因不是在于你的表面光滑不光滑，而是你探测的可见光的光子的波长。。是有限长的
+<br>**问题**: 如何评价《三体》同人短片《Waterdrop》？
+**答案**: 。。我不知道一开始反射的是什么“细节”。我只知道，显微镜都是有分辨率极限的，原因不是在于你的表面光滑不光滑，而是你探测的可见光的光子的波长。。是有限长的
 
 更何况，那个生锈的红色的钉子是什么鬼。
 
  
 
  
-
-[问题]: 如何评价《三体》获得雨果奖最佳长篇小说？
-[答案]: 这样某些粉丝在鲜血淋漓的现实生活中又多了一份站起来津津乐道的骨气。
-
- 
+<br>**问题**: 如何评价《三体》获得雨果奖最佳长篇小说？
+**答案**: 这样某些粉丝在鲜血淋漓的现实生活中又多了一份站起来津津乐道的骨气。
 
  
 
-[问题]:如何评价《其实不光是Surface Book能吊打rMBP13》？
+ 
+<br>**问题**:如何评价《其实不光是Surface Book能吊打rMBP13》？
 
-[答案]: 轮子哥哥你真的好无聊、
+**答案**: 轮子哥哥你真的好无聊、
 
 看见别人的文章了就来提问。LEETCODE题目刷了吗？ 
 
@@ -25336,17 +23997,15 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《出彩中国人》？
-[答案]: 为稳定雾霾之中的中国基层人民起到了重要作用。不论生活中的实际如何，无论政策和制度的制定如何二逼。看完这个节目，对伟大祖国的爱，对生活的激情一定溢出。
-
- 
+<br>**问题**: 如何评价《出彩中国人》？
+**答案**: 为稳定雾霾之中的中国基层人民起到了重要作用。不论生活中的实际如何，无论政策和制度的制定如何二逼。看完这个节目，对伟大祖国的爱，对生活的激情一定溢出。
 
  
 
-[问题]: 如何评价《名侦探狄仁杰》？
+ 
+<br>**问题**: 如何评价《名侦探狄仁杰》？
 
-[答案]:本剧的宣传活动世界第一，google 一下根本没有影评，只有影告= 
+**答案**:本剧的宣传活动世界第一，google 一下根本没有影评，只有影告= 
 
 本季的演员长相大陆第二，经过内部培训和化妆师的努力，小爱越来越帅了= 
 
@@ -25357,9 +24016,8 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《奇葩说》第三季第九集？
-[答案]: 任何一个节目都要走下坡路。总算轮到奇葩说了。。。
+<br>**问题**: 如何评价《奇葩说》第三季第九集？
+**答案**: 任何一个节目都要走下坡路。总算轮到奇葩说了。。。
 
 按照这样的套路下去，播出不了几季非但观众会审美疲劳，编导都无法想出更好的辩题了。 
 
@@ -25372,18 +24030,16 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《奇葩说》第三季第二十一集？
-[答案]: 这一集辩了辩真实和虚拟
+<br>**问题**: 如何评价《奇葩说》第三季第二十一集？
+**答案**: 这一集辩了辩真实和虚拟
 
 下一集要不要辩辩生存和死亡？
 
  
 
  
-
-[问题]: 如何评价《奇葩说》第三季第二十二集
-[答案]: 很多人活着的时候一点也不重要
+<br>**问题**: 如何评价《奇葩说》第三季第二十二集
+**答案**: 很多人活着的时候一点也不重要
 
 快死的反而搞得如此隆重.... 
 
@@ -25400,9 +24056,8 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《奇葩说》第三季第二十集？
-[答案]: 每次艾力和别人PK的时候，一定是一个新面孔被PK下去，而不论他讲的如何；然而艾力为什么每次都是站出来参加PK的呢？因为每次输掉的那个队，如果艾力在的话，他的资历都是最浅的（或者说，观众缘最少）。
+<br>**问题**: 如何评价《奇葩说》第三季第二十集？
+**答案**: 每次艾力和别人PK的时候，一定是一个新面孔被PK下去，而不论他讲的如何；然而艾力为什么每次都是站出来参加PK的呢？因为每次输掉的那个队，如果艾力在的话，他的资历都是最浅的（或者说，观众缘最少）。
 
  
 
@@ -25419,9 +24074,8 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《奇葩说》第三季第八集？
-[答案]: 我建议他们下一轮的辩题是：
+<br>**问题**: 如何评价《奇葩说》第三季第八集？
+**答案**: 我建议他们下一轮的辩题是：
 
 成功人士到底上不上知乎 （上社交网络对成功人士或者人的成功而言，是利大于弊还是弊大于利）。 
 
@@ -25434,32 +24088,28 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《奇葩说》第三季第十三集？
-[答案]: 已经猜到结果了。。。都6：6了，必须变成6：7啊。
-
- 
+<br>**问题**: 如何评价《奇葩说》第三季第十三集？
+**答案**: 已经猜到结果了。。。都6：6了，必须变成6：7啊。
 
  
 
-[问题]: 如何评价《奇葩说》第二季第八期节目因为天津爆炸而延期一周？
-[答案]: 这是病，得治。
+ 
+<br>**问题**: 如何评价《奇葩说》第二季第八期节目因为天津爆炸而延期一周？
+**答案**: 这是病，得治。
 
 我觉得应该采用儒家的灾异说。出了灾异，下罪己昭，官员直接革职，而不是来对群众进行二次伤害
 
  
 
  
-
-[问题]: 如何评价《我为什么从阿里巴巴离职》《阿里巴巴奇葩的“逼你离职”》系列文章？
-[答案]: 所以阿里巴巴==要不是一大批假货销售者卖东西，怎么可能成功？
-
- 
+<br>**问题**: 如何评价《我为什么从阿里巴巴离职》《阿里巴巴奇葩的“逼你离职”》系列文章？
+**答案**: 所以阿里巴巴==要不是一大批假货销售者卖东西，怎么可能成功？
 
  
 
-[问题]: 如何评价《教轮子哥学一点点C++》系列文章？
-[答案]: .....我有个提议：
+ 
+<br>**问题**: 如何评价《教轮子哥学一点点C++》系列文章？
+**答案**: .....我有个提议：
 
 不撸兔子你啊，买下计蒜客这个课程，去学一次；看看以下几个内容 
 
@@ -25476,10 +24126,9 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
+<br>**问题**:如何评价《无人深空(No Man's Sky)》使用的随机生成技术？
 
-[问题]:如何评价《无人深空(No Man's Sky)》使用的随机生成技术？
-
-[答案]: 我觉得都2016年了，还使用什么随机生成。应该使用深度学习。
+**答案**: 我觉得都2016年了，还使用什么随机生成。应该使用深度学习。
 
 无非就是random number + rule base. 
 
@@ -25488,9 +24137,8 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
-
-[问题]: 如何评价《罗辑思维》140期《认钱不认人》中对经济问题的认识？
-[答案]: 逻辑思维最大的困境是，为了让别人觉得这期节目牛逼，他必须找到几个特别牛逼的观点：这些观点对于破除成见、提高眼界或许有些帮助；但为了解释这些牛逼的观点，他不得不找来一大堆例证（不管有多牵强）来自圆其说，而整期节目为了给这些支持性的观点服务，又选择彻底放弃了辩证。比如这一期“认钱不认人”，我个人认为这个口号的提出，对于洗涤社会观念是有好处的，对于改变熟人社会的穷人思维，也是大有裨益。但这种从观点出发的牛逼构建，最后往往倒在这带有偏见性的观点本身。在一个充满偏见观点的构建中，主讲人会越来越激动，越来越自恋，越来越自以为是，所选取的论据甚至理论基础，都是不全面的。偏激，虽然曾经是逻辑思维吸引研究标新立异的杀手锏，但也逐渐成为逻辑思维最大的软肋。
+<br>**问题**: 如何评价《罗辑思维》140期《认钱不认人》中对经济问题的认识？
+**答案**: 逻辑思维最大的困境是，为了让别人觉得这期节目牛逼，他必须找到几个特别牛逼的观点：这些观点对于破除成见、提高眼界或许有些帮助；但为了解释这些牛逼的观点，他不得不找来一大堆例证（不管有多牵强）来自圆其说，而整期节目为了给这些支持性的观点服务，又选择彻底放弃了辩证。比如这一期“认钱不认人”，我个人认为这个口号的提出，对于洗涤社会观念是有好处的，对于改变熟人社会的穷人思维，也是大有裨益。但这种从观点出发的牛逼构建，最后往往倒在这带有偏见性的观点本身。在一个充满偏见观点的构建中，主讲人会越来越激动，越来越自恋，越来越自以为是，所选取的论据甚至理论基础，都是不全面的。偏激，虽然曾经是逻辑思维吸引研究标新立异的杀手锏，但也逐渐成为逻辑思维最大的软肋。
 
  
 
@@ -25503,10 +24151,9 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
+<br>**问题**:如何评价《罗辑思维》第 115 期对谢熊猫君翻译的关于人工智能的文章的重新演绎？
 
-[问题]:如何评价《罗辑思维》第 115 期对谢熊猫君翻译的关于人工智能的文章的重新演绎？
-
-[答案]: 如果我没记错的话，那篇文章本来也是谢先生自己翻译，整合的吧。我是先看到国外科技媒体的原文，再看到他的翻译。足以说明，罗辑思维栏目组的人连英文都看不懂了。该节目水平有待提高。
+**答案**: 如果我没记错的话，那篇文章本来也是谢先生自己翻译，整合的吧。我是先看到国外科技媒体的原文，再看到他的翻译。足以说明，罗辑思维栏目组的人连英文都看不懂了。该节目水平有待提高。
 
 另外对于网络形式的翻译件，这个东西确实很难界定。罗辑思维的人大可以说，我是看了你的中文稿，马上去看了英文稿，节目中的内容都是我们自己翻译的，我们也是介绍人家的著作，和翻译者有什么关系呢？ 
 
@@ -25517,10 +24164,9 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
+<br>**问题**:如何评价《职人介绍所》第 21 期节目，以及嘉宾 赵劼 和 winter 的表现？
 
-[问题]:如何评价《职人介绍所》第 21 期节目，以及嘉宾 赵劼 和 winter 的表现？
-
-[答案]:这难道不是 3 sum吗。 
+**答案**:这难道不是 3 sum吗。 
 
 。。。看来从数理背景转行来做程序员的毕竟是少数；也是很愚蠢的选择 
 
@@ -25537,59 +24183,52 @@ ANYWAY，后面的故事大家都知道了。
  
 
  
+<br>**问题**:如何评价《苹果上海代工厂已暂停招工　iPhone 6s生产线被拆》？
 
-[问题]:如何评价《苹果上海代工厂已暂停招工　iPhone 6s生产线被拆》？
-
-[答案]:微软西雅图代工厂已暂停招工　轮子生产线被拆， 闲来无聊因此来知乎炸鱼。
-
- 
-
- 
-
-[问题]: 如何评价《超级演说家》中薛来对双缝实验的演讲
-[答案]: 事实证明，理科知识懂的越多，赚的钱越少。参考：鲁豫，台上选手，白冰冰
+**答案**:微软西雅图代工厂已暂停招工　轮子生产线被拆， 闲来无聊因此来知乎炸鱼。
 
  
 
  
+<br>**问题**: 如何评价《超级演说家》中薛来对双缝实验的演讲
+**答案**: 事实证明，理科知识懂的越多，赚的钱越少。参考：鲁豫，台上选手，白冰冰
 
-[问题]: 如何评价「一代虎将张万年打了一辈子仗还不如姚贝娜唱几首歌」的言论？
-[答案]: 如何评价“一代科学家高德纳写了一辈子的代码赚的钱还不如温兆伦分分钟”的言论？
+ 
+
+ 
+<br>**问题**: 如何评价「一代虎将张万年打了一辈子仗还不如姚贝娜唱几首歌」的言论？
+**答案**: 如何评价“一代科学家高德纳写了一辈子的代码赚的钱还不如温兆伦分分钟”的言论？
 
  
 
  
+<br>**问题**:如何评价「奶茶妹妹」章泽天加盟微软 Bing 搜索？
 
-[问题]:如何评价「奶茶妹妹」章泽天加盟微软 Bing 搜索？
-
-[答案]:Apple 靠Ive ， google靠 x， microsoft 靠奶茶。。。 
+**答案**:Apple 靠Ive ， google靠 x， microsoft 靠奶茶。。。 
 
 wtf
 
  
 
  
-
-[问题]: 如何评价「学习好的都做了打工狗，不好的都做了创业狼」的言论？
-[答案]: 请评价万合天宜创始人
-
- 
+<br>**问题**: 如何评价「学习好的都做了打工狗，不好的都做了创业狼」的言论？
+**答案**: 请评价万合天宜创始人
 
  
 
-[问题]: 如何评价「我的知乎五周年」回顾专题？
-[答案]: !(https://pic2.zhimg.com/52d2ce89d5aaacfcad675a9b2c261651_b.png)
+ 
+<br>**问题**: 如何评价「我的知乎五周年」回顾专题？
+**答案**: !(https://pic2.zhimg.com/52d2ce89d5aaacfcad675a9b2c261651_b.png)
 
 这个是按住神的： 
 
-![](https://pic4.zhimg.com/9b15fe6c64c2dd76929a424fab6b9cbf_b.png)
+!****(https://pic4.zhimg.com/9b15fe6c64c2dd76929a424fab6b9cbf_b.png)
 
  
 
  
-
-[问题]: 如何评价「搜狗明医」？
-[答案]: 其实我一直都搞不懂一件事情，那就是：
+<br>**问题**: 如何评价「搜狗明医」？
+**答案**: 其实我一直都搞不懂一件事情，那就是：
 
 为什么搜狗或者其他百度竞争对手公司，不在美国（太远了？那就在台湾或者香港，或者大陆以外的任何地方）搭建一个CACHE服务器，然后，推出一个频道（例如这个医疗频道），然后把所有搜索词都在那个CACHE服务器上跑一遍，自己再关键字和人工过滤一下，显示出来。这不比自己搜的要好的多吗？ 
 
@@ -25612,16 +24251,14 @@ wtf
  
 
  
-
-[问题]: 如何评价「雷军又要颠覆装修行业」？
-[答案]: 就这缺货博取眼球的样子，估计等10年可以普及。
-
- 
+<br>**问题**: 如何评价「雷军又要颠覆装修行业」？
+**答案**: 就这缺货博取眼球的样子，估计等10年可以普及。
 
  
 
-[问题]: 如何评价万合天宜的新剧《大侠黄飞鸿》？
-[答案]: 出来了？
+ 
+<br>**问题**: 如何评价万合天宜的新剧《大侠黄飞鸿》？
+**答案**: 出来了？
 
 说实话我是很佩服他们的。 
 
@@ -25644,10 +24281,9 @@ wtf
  
 
  
+<br>**问题**: 如何评价万门大学「理论物理一月特训班」？
 
-[问题]: 如何评价万门大学「理论物理一月特训班」？
-
-[答案]:万门大学， 轮子哥C++，李笑来：普通人走向成功的三驾马车。 
+**答案**:万门大学， 轮子哥C++，李笑来：普通人走向成功的三驾马车。 
 
 （注我没有任何别的意思，实事求是）。 
 
@@ -25656,26 +24292,23 @@ wtf
  
 
  
-
-[问题]: 如何评价上海交大计算机系的保研事故？
-[答案]: 保研？太没出息了。
+<br>**问题**: 如何评价上海交大计算机系的保研事故？
+**答案**: 保研？太没出息了。
 
 应该来浙大，感受下三本魅力
 
  
 
  
-
-[问题]: 如何评价中国科学院大学本科大一数学期末试卷
-[答案]: 我做这个应该得分45分左右。
-
- 
+<br>**问题**: 如何评价中国科学院大学本科大一数学期末试卷
+**答案**: 我做这个应该得分45分左右。
 
  
 
-[问题]:如何评价久石让给《坏孩子的天空》做的主题曲「Kids Return」？
+ 
+<br>**问题**:如何评价久石让给《坏孩子的天空》做的主题曲「Kids Return」？
 
-[答案]: 说的是回来。
+**答案**: 说的是回来。
 
 唱的是一去不复返。 
 
@@ -25692,34 +24325,30 @@ Ps.
  
 
  
+<br>**问题**: 如何评价乌云报出「网易邮箱现漏洞，过亿数据泄漏」？
 
-[问题]: 如何评价乌云报出「网易邮箱现漏洞，过亿数据泄漏」？
-
-[答案]:看来Google 入华之后会猛涨
-
- 
-
- 
-
-[问题]: 如何评价今日头条最高100w刀年薪招募资深机器学习人才？
-
-[答案]:Google 和 FB 以及Uber的很多CMU毕业的高级工程师phd 都可以去啊。但是，这一百万能发几年是个问题
+**答案**:看来Google 入华之后会猛涨
 
  
 
  
+<br>**问题**: 如何评价今日头条最高100w刀年薪招募资深机器学习人才？
 
-[问题]: 如何评价伯克利蒋雨辰大神？
+**答案**:Google 和 FB 以及Uber的很多CMU毕业的高级工程师phd 都可以去啊。但是，这一百万能发几年是个问题
 
-[答案]:黑的好。欢迎优秀学生去Stanford 深造
+ 
+
+ 
+<br>**问题**: 如何评价伯克利蒋雨辰大神？
+
+**答案**:黑的好。欢迎优秀学生去Stanford 深造
 
  
 
  
+<br>**问题**:如何评价做深度学习的人工智能博士生，现在一毕业就能拿到 200 到 300 万美金的年收入
 
-[问题]:如何评价做深度学习的人工智能博士生，现在一毕业就能拿到 200 到 300 万美金的年收入
-
-[答案]: 请定义什么叫真正懂深度学习
+**答案**: 请定义什么叫真正懂深度学习
 
 此外定义什么是万 
 
@@ -25736,17 +24365,15 @@ Ps.
  
 
  
-
-[问题]: 如何评价公证处引进人脸识别技术？
-[答案]: 我这名字一听就无法赚大钱
-
- 
+<br>**问题**: 如何评价公证处引进人脸识别技术？
+**答案**: 我这名字一听就无法赚大钱
 
  
 
-[问题]:如何评价可可苏玛对 Surface 系列的推崇？
+ 
+<br>**问题**:如何评价可可苏玛对 Surface 系列的推崇？
 
-[答案]:微软的产品是可以的，你可以去和HP DELL 联想比。但和Mac 比，我觉得你是没找到自己的位置。。。 
+**答案**:微软的产品是可以的，你可以去和HP DELL 联想比。但和Mac 比，我觉得你是没找到自己的位置。。。 
 
 首先，Mac is UNIX ... 
 
@@ -25771,19 +24398,17 @@ Ps.
  
 
  
+<br>**问题**:如何评价吴恩达的新书 Machine Learning Yearning？
 
-[问题]:如何评价吴恩达的新书 Machine Learning Yearning？
-
-[答案]: 竟然免费下载而不开live
+**答案**: 竟然免费下载而不开live
 
 吴恩达你没救了
 
  
 
  
-
-[问题]: 如何评价因为买不起正版而用盗版的人？
-[答案]: 市场已经给出了答案。为什么软件商可以以接近无穷的边际效应赚取大量利益呢？如果盗版已经猖獗如魔，那么我想微软早就倒闭了吧。
+<br>**问题**: 如何评价因为买不起正版而用盗版的人？
+**答案**: 市场已经给出了答案。为什么软件商可以以接近无穷的边际效应赚取大量利益呢？如果盗版已经猖獗如魔，那么我想微软早就倒闭了吧。
 
  
 
@@ -25820,10 +24445,9 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
+<br>**问题**: 如何评价在知乎上浙江大学经常被黑的现象？
 
-[问题]: 如何评价在知乎上浙江大学经常被黑的现象？
-
-[答案]:我校既有去Harvard MIT Caltech Stanford
+**答案**:我校既有去Harvard MIT Caltech Stanford
 
 分分钟秒杀大陆前5学校渣渣的牛人，也有分分钟被复旦，上交，清华北大用分数线压住闭嘴的渣渣。主要看你要做什么人，要说服什么人。 
 
@@ -25864,9 +24488,8 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
-
-[问题]: 如何评价复旦投毒案二审判决？
-[答案]: 证据不足，证据保留不当，但现在检察机关的脸面最重要。要是在资本主义国家，其实应该无罪而后让检察机关负责。
+<br>**问题**: 如何评价复旦投毒案二审判决？
+**答案**: 证据不足，证据保留不当，但现在检察机关的脸面最重要。要是在资本主义国家，其实应该无罪而后让检察机关负责。
 
  
 
@@ -25891,23 +24514,20 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
-
-[问题]: 如何评价复旦投毒案二审？
-[答案]: 和古美门相比，此案被告代理人有两下子
-
- 
-
- 
-
-[问题]: 如何评价大勃勃账号被封？
-[答案]: 知乎的Python和PHP写的不错；但是管理员可能是工资比较低吧，删号水平有待提高。
+<br>**问题**: 如何评价复旦投毒案二审？
+**答案**: 和古美门相比，此案被告代理人有两下子
 
  
 
  
+<br>**问题**: 如何评价大勃勃账号被封？
+**答案**: 知乎的Python和PHP写的不错；但是管理员可能是工资比较低吧，删号水平有待提高。
 
-[问题]: 如何评价姜思达微博里提到的“你在最好的年纪里遇不到任何人”？
-[答案]: 一直为幸福
+ 
+
+ 
+<br>**问题**: 如何评价姜思达微博里提到的“你在最好的年纪里遇不到任何人”？
+**答案**: 一直为幸福
 
 辛苦 
 
@@ -25916,9 +24536,8 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
-
-[问题]: 如何评价小米云同步的重大漏洞：只要知道小米帐号和密码就可以获得你的相册、短信、通话记录、便签等隐私？
-[答案]: 转载自：
+<br>**问题**: 如何评价小米云同步的重大漏洞：只要知道小米帐号和密码就可以获得你的相册、短信、通话记录、便签等隐私？
+**答案**: 转载自：
 
 如何看待小米密码失窃和苹果手机被盗的受害者 - 知乎书馆 - 知乎专栏 
 
@@ -25947,40 +24566,35 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
-
-[问题]: 如何评价小米智能家庭套装？
-[答案]: 价格不要太低了，不然几秒钟售罄一般人买不到淘宝上全部都是假货。
-
- 
-
- 
-
-[问题]:如何评价希拉里·克林顿当选第 45 任美国总统？
-
-[答案]: 如何评价立党只有我1/3长？
+<br>**问题**: 如何评价小米智能家庭套装？
+**答案**: 价格不要太低了，不然几秒钟售罄一般人买不到淘宝上全部都是假货。
 
  
 
  
+<br>**问题**:如何评价希拉里·克林顿当选第 45 任美国总统？
 
-[问题]: 如何评价希拉里提议让STEM专业的外国学生绕过H-1B自动获得绿卡？
-[答案]: 我见过最不要脸的两个人：立党和希拉里。
+**答案**: 如何评价立党只有我1/3长？
+
+ 
+
+ 
+<br>**问题**: 如何评价希拉里提议让STEM专业的外国学生绕过H-1B自动获得绿卡？
+**答案**: 我见过最不要脸的两个人：立党和希拉里。
 
 希拉里要是能当上总统，我就回国
 
  
 
  
-
-[问题]: 如何评价张益唐今年加盟UCSB？
-[答案]: UCSB很厉害。对于这个新闻，我觉得很好
-
- 
+<br>**问题**: 如何评价张益唐今年加盟UCSB？
+**答案**: UCSB很厉害。对于这个新闻，我觉得很好
 
  
 
-[问题]: 如何评价微信朋友圈的发红包看照片功能？
-[答案]: 怎么发？告诉我
+ 
+<br>**问题**: 如何评价微信朋友圈的发红包看照片功能？
+**答案**: 怎么发？告诉我
 
 感觉是一个很好的设计。 
 
@@ -25989,25 +24603,22 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
+<br>**问题**:如何评价微软 Windows 10？
 
-[问题]:如何评价微软 Windows 10？
-
-[答案]:是windows 10吧。
-
- 
-
- 
-
-[问题]: 如何评价微软亚洲研究院（MSRA）？
-[答案]: 只有去了MSRA才可能在中国找到工作
+**答案**:是windows 10吧。
 
  
 
  
+<br>**问题**: 如何评价微软亚洲研究院（MSRA）？
+**答案**: 只有去了MSRA才可能在中国找到工作
 
-[问题]:如何评价微软发布的 Windows 10 宣传片中文翻译？
+ 
 
-[答案]: 做得好就说是做自己
+ 
+<br>**问题**:如何评价微软发布的 Windows 10 宣传片中文翻译？
+
+**答案**: 做得好就说是做自己
 
 做得不好就说是外包的 
 
@@ -26028,10 +24639,9 @@ it。如果盗版已经让人无法忍受，企业早就采取行动了。盗版
  
 
  
+<br>**问题**:如何评价微软高级工程师痴迷于soft link这一linux常见概念？
 
-[问题]:如何评价微软高级工程师痴迷于soft link这一linux常见概念？
-
-[答案]: 骗人。明明早就把人家拉黑了。
+**答案**: 骗人。明明早就把人家拉黑了。
 
  
 
@@ -26080,9 +24690,8 @@ link即可，把这回复我的技术内容复制到原答案上去
  
 
  
-
-[问题]: 如何评价恶魔的奶爸这番言论？
-[答案]: 我觉得，奶爸说的没错；但如果他能教育大家一起用上lv，那才是真勇气。
+<br>**问题**: 如何评价恶魔的奶爸这番言论？
+**答案**: 我觉得，奶爸说的没错；但如果他能教育大家一起用上lv，那才是真勇气。
 
  
 
@@ -26111,19 +24720,17 @@ link即可，把这回复我的技术内容复制到原答案上去
  
 
  
-
-[问题]: 如何评价文明6首发没有MAC版？
-[答案]: 为什么没有ios版？
+<br>**问题**: 如何评价文明6首发没有MAC版？
+**答案**: 为什么没有ios版？
 
 这种大型室内多人在线养成类游戏，不出手游实在是浪费了。（画风也变成手游风了）
 
  
 
  
+<br>**问题**:如何评价新 MacBook Pro 上的 Multi-Touch Bar？
 
-[问题]:如何评价新 MacBook Pro 上的 Multi-Touch Bar？
-
-[答案]:事实上，苹果完全可以把touch bar做成两行，甚至三行。 
+**答案**:事实上，苹果完全可以把touch bar做成两行，甚至三行。 
 
 可是他只做了一行。做一行还是两行还是把整个1/3ipad放上去，把touch pad做小一点，根本在技术上毫无难点。 
 
@@ -26134,34 +24741,30 @@ link即可，把这回复我的技术内容复制到原答案上去
  
 
  
-
-[问题]: 如何评价曾博对于微软的态度？
-[答案]: 已举报。
-
- 
+<br>**问题**: 如何评价曾博对于微软的态度？
+**答案**: 已举报。
 
  
 
-[问题]: 如何评价曾博这个人？
-[答案]: 说的很对我是傻逼。我最喜欢的事情就是装逼
+ 
+<br>**问题**: 如何评价曾博这个人？
+**答案**: 说的很对我是傻逼。我最喜欢的事情就是装逼
 
 比起年薪100W美金的20岁出头的年轻人，我活着就是为了出家。你们黑我，又有什么用？你爷爷活了几岁？你家几套房子？你股票赚了多少？你孩子上大学了吗？
 
  
 
  
-
-[问题]: 如何评价曾老师从没有女朋友到连男朋友都没有了？
-[答案]: 起码我也不会胡说自己的女朋友是ABC
+<br>**问题**: 如何评价曾老师从没有女朋友到连男朋友都没有了？
+**答案**: 起码我也不会胡说自己的女朋友是ABC
 
 更不会胡说自己的女朋友在谷歌。。
 
  
 
  
-
-[问题]: 如何评价曾老师的最新头像？
-[答案]: 大家好：
+<br>**问题**: 如何评价曾老师的最新头像？
+**答案**: 大家好：
 
 可在回答中提供自己建议的头像，最后勃委会会按照赞数排序选择，作为大家认可的行动标志。 
 
@@ -26170,10 +24773,9 @@ link即可，把这回复我的技术内容复制到原答案上去
  
 
  
+<br>**问题**:如何评价最终版 Apple CarPlay 的界面设计？
 
-[问题]:如何评价最终版 Apple CarPlay 的界面设计？
-
-[答案]:Google 开发的话。只可能更丑。。 
+**答案**:Google 开发的话。只可能更丑。。 
 
  
 
@@ -26212,10 +24814,9 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
+<br>**问题**:如何评价李彦宏在 2016 年 5 月 10 日发表的所谓“内部信”：《勿忘初心 不负梦想》？
 
-[问题]:如何评价李彦宏在 2016 年 5 月 10 日发表的所谓“内部信”：《勿忘初心 不负梦想》？
-
-[答案]: 一封内部邮件还需要公关帮忙转发。
+**答案**: 一封内部邮件还需要公关帮忙转发。
 
 一家如此垃圾的公司当初居然都有人给他洗地。 
 
@@ -26224,59 +24825,51 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
-
-[问题]: 如何评价李硕曝光童哲学历一事？童哲学历是否有硬伤？
-[答案]: 你不要说话太坦白，搞得我心里好悲哀。
-
- 
-
- 
-
-[问题]:如何评价某网易杭研院 iOS 开发试用期三天被开除的事情？
-
-[答案]: 这是在炒作v2ex吧。。。。炒作的好。炒作完了记得分一杯羹
+<br>**问题**: 如何评价李硕曝光童哲学历一事？童哲学历是否有硬伤？
+**答案**: 你不要说话太坦白，搞得我心里好悲哀。
 
  
 
  
+<br>**问题**:如何评价某网易杭研院 iOS 开发试用期三天被开除的事情？
 
-[问题]: 如何评价此次美联储加息？
-[答案]: 有钱人更有钱吧。。
-
- 
-
- 
-
-[问题]: 如何评价汤晓鸥认为百度在ImageNet中并未作弊的观点？
-[答案]: 机器学习就是这样，其实只提高了0.几％，甚至0.0几％，就可以甩开对手了。。。face++不就是这样么。背后都是无穷无尽的调参数。并没什么卵用。
+**答案**: 这是在炒作v2ex吧。。。。炒作的好。炒作完了记得分一杯羹
 
  
 
  
-
-[问题]: 如何评价泰安万人电子音乐派对？
-[答案]: 摇滚乐还需要大力发展。
-
- 
-
- 
-
-[问题]: 如何评价浙大与巴黎高科共建工程师学院？
-[答案]: 3+3=2
+<br>**问题**: 如何评价此次美联储加息？
+**答案**: 有钱人更有钱吧。。
 
  
 
  
+<br>**问题**: 如何评价汤晓鸥认为百度在ImageNet中并未作弊的观点？
+**答案**: 机器学习就是这样，其实只提高了0.几％，甚至0.0几％，就可以甩开对手了。。。face++不就是这样么。背后都是无穷无尽的调参数。并没什么卵用。
 
-[问题]: 如何评价浙大相关问题下总有学生怒斥题主不该转发98信息？
-[答案]: 小岛心态，小省度量。
+ 
+
+ 
+<br>**问题**: 如何评价泰安万人电子音乐派对？
+**答案**: 摇滚乐还需要大力发展。
 
  
 
  
+<br>**问题**: 如何评价浙大与巴黎高科共建工程师学院？
+**答案**: 3+3=2
 
-[问题]: 如何评价浙江大学和复旦大学的各自优势和综合实力？
-[答案]: 水平真正高的学生不会来问这种问题，清华北大。家庭条件好的也不会，美港本科。对于除此之外的人，这个问题的答案其实并不重要。去了哪家就相信哪家最好，把自己打扮的漂亮点，梳个好发型，买个好皮衣，出国旅行交换读书随便玩玩不就在朋友圈人生赢家了么？还在乎那么多？
+ 
+
+ 
+<br>**问题**: 如何评价浙大相关问题下总有学生怒斥题主不该转发98信息？
+**答案**: 小岛心态，小省度量。
+
+ 
+
+ 
+<br>**问题**: 如何评价浙江大学和复旦大学的各自优势和综合实力？
+**答案**: 水平真正高的学生不会来问这种问题，清华北大。家庭条件好的也不会，美港本科。对于除此之外的人，这个问题的答案其实并不重要。去了哪家就相信哪家最好，把自己打扮的漂亮点，梳个好发型，买个好皮衣，出国旅行交换读书随便玩玩不就在朋友圈人生赢家了么？还在乎那么多？
 
 你真的在乎自己是不是真正的比别人厉害，超过了谁吗？ 
 
@@ -26287,28 +24880,25 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
-
-[问题]: 如何评价浙江大学在2016中国校友会排行榜中排名第五？
-[答案]: 自己做的死，总有一天要偿还的。
+<br>**问题**: 如何评价浙江大学在2016中国校友会排行榜中排名第五？
+**答案**: 自己做的死，总有一天要偿还的。
 
 在世界人民心目中浙大排名是在清北复之后的，不如科大，也不如南大等老牌名校，基本和山东大学差不多。属于大陆10-15名这样子
 
  
 
  
+<br>**问题**: 如何评价清华学生高票CMU门槛不过和国内浙大南大一个级别？”
 
-[问题]: 如何评价清华学生高票CMU门槛不过和国内浙大南大一个级别？”
-
-[答案]:相对来说，清北是中国的Stanford, MIT。其他学校作为陪衬属于ivy 也是合理的比喻。 
+**答案**:相对来说，清北是中国的Stanford, MIT。其他学校作为陪衬属于ivy 也是合理的比喻。 
 
 世界排名来看，清华不是早就超过MIT了么
 
  
 
  
-
-[问题]: 如何评价清华特等奖学金得主韩衍隽？
-[答案]: 去stanford好好念书以后会有前途的。。。
+<br>**问题**: 如何评价清华特等奖学金得主韩衍隽？
+**答案**: 去stanford好好念书以后会有前途的。。。
 
 对于凡人来说，想想自己如何利用好现有的条件和自己的专业，找一份好工作，养家糊口最重要。否则浑浑噩噩就是傻子。不要再幼稚了！ 
 
@@ -26343,26 +24933,23 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
+<br>**问题**:如何评价清华经管学院 2015 年毕业典礼本科生代表林杨睿的讲话？
 
-[问题]:如何评价清华经管学院 2015 年毕业典礼本科生代表林杨睿的讲话？
-
-[答案]: 我以前一直以为清华眼中只有北大；不，连北大都没有。现在我知道了。主要是某一个学院是这样的。。。
+**答案**: 我以前一直以为清华眼中只有北大；不，连北大都没有。现在我知道了。主要是某一个学院是这样的。。。
 
 清华本身出产的无能学生还少么。
 
  
 
  
-
-[问题]: 如何评价王垠开通了新浪微博？
-[答案]: 所以一个找不到妹子的人的潜力是有多大！
-
- 
+<br>**问题**: 如何评价王垠开通了新浪微博？
+**答案**: 所以一个找不到妹子的人的潜力是有多大！
 
  
 
-[问题]: 如何评价王垠文章《正面思维的误区》？
-[答案]: 我喜欢上他了
+ 
+<br>**问题**: 如何评价王垠文章《正面思维的误区》？
+**答案**: 我喜欢上他了
 
 相比之下，我觉得轮子哥就有点虚伪了。一方面推荐大家看the power of negative thinking , 一方面却不允许大家说微软的坏话。 
 
@@ -26371,9 +24958,8 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
-
-[问题]: 如何评价王垠新博文《我看自动驾驶技术》？
-[答案]: 首先我们确定智能驾驶行业有他什么事，需要他来看吗？现在人已经闲到喜欢对自己不熟悉的领域妄加评测了。。。（什么叫100年无法实现）
+<br>**问题**: 如何评价王垠新博文《我看自动驾驶技术》？
+**答案**: 首先我们确定智能驾驶行业有他什么事，需要他来看吗？现在人已经闲到喜欢对自己不熟悉的领域妄加评测了。。。（什么叫100年无法实现）
 
  
 
@@ -26434,25 +25020,22 @@ network并无过大区别：每一个简单的神经元进行简单的工作（�
  
 
  
-
-[问题]: 如何评价王垠新博文《未来计划》？
-[答案]: 他发现苹果要破产了吗？
+<br>**问题**: 如何评价王垠新博文《未来计划》？
+**答案**: 他发现苹果要破产了吗？
 
 发现的话说明他很聪明；否则就是庸才。
 
  
 
  
-
-[问题]: 如何评价王垠无家可归的现状？
-[答案]: 这就是不去微软工作的下场
-
- 
+<br>**问题**: 如何评价王垠无家可归的现状？
+**答案**: 这就是不去微软工作的下场
 
  
 
-[问题]: 如何评价王垠最新博文《写书计划》？
-[答案]: 在编程世俗化的今天，没有几本编程科普甚至科幻读物，怎么想想也是不自然的事。
+ 
+<br>**问题**: 如何评价王垠最新博文《写书计划》？
+**答案**: 在编程世俗化的今天，没有几本编程科普甚至科幻读物，怎么想想也是不自然的事。
 
 物理学都有Scientific American , 工程学有“如何修理摩托车”，“你的收音机”之类。计算机怎么就不能有一个类似的文盲，哦不，文学流派呢？ 
 
@@ -26463,28 +25046,25 @@ network并无过大区别：每一个简单的神经元进行简单的工作（�
  
 
  
+<br>**问题**:如何评价王垠正在设计和开发的 Yin 语言？
 
-[问题]:如何评价王垠正在设计和开发的 Yin 语言？
-
-[答案]: 做好之后我要学我要用。
-
- 
+**答案**: 做好之后我要学我要用。
 
  
 
-[问题]:如何评价王垠的《Swift 语言的设计错误》？
+ 
+<br>**问题**:如何评价王垠的《Swift 语言的设计错误》？
 
-[答案]: 什么叫“抛砖引玉”，我确实真切的见识到了。。。
+**答案**: 什么叫“抛砖引玉”，我确实真切的见识到了。。。
 
 自叹不如
 
  
 
  
+<br>**问题**: 如何评价王垠的《编程的宗派》？
 
-[问题]: 如何评价王垠的《编程的宗派》？
-
-[答案]:其实我觉得他说的很对。在我眼中，Java 是最务实和有诚意的语言，Python 是能解决洁癖需求的语言。scheme
+**答案**:其实我觉得他说的很对。在我眼中，Java 是最务实和有诚意的语言，Python 是能解决洁癖需求的语言。scheme
 
 做教学用可以，但他操作符的数学偏执让我无法忍受。C++可选择的太多还不如没有。objective C 过于啰嗦，干的活还不如Java 
 
@@ -26507,9 +25087,8 @@ network并无过大区别：每一个简单的神经元进行简单的工作（�
  
 
  
-
-[问题]: 如何评价王垠的文章《AlphaGo与人工智能》？
-[答案]: 等到机器学习真正成熟之后，类似王垠，轮子这样的人，真不知道要被淘汰到哪里去了。
+<br>**问题**: 如何评价王垠的文章《AlphaGo与人工智能》？
+**答案**: 等到机器学习真正成熟之后，类似王垠，轮子这样的人，真不知道要被淘汰到哪里去了。
 
 对计算机学习领域一点也不熟悉就来乱说，也是醉了。正如有人说的，你现在还在和汽车赛跑吗，你现在还在和计算器比心算吗？以我粗浅的见识，都能知道5：0的结局
 
@@ -26552,17 +25131,15 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
+<br>**问题**:如何评价王垠的文章《我和 Google 的故事（2015 修订版）》？
 
-[问题]:如何评价王垠的文章《我和 Google 的故事（2015 修订版）》？
-
-[答案]: 王垠这种自己很屌，却贩卖有毒价值观的人是不是很坏？
-
- 
+**答案**: 王垠这种自己很屌，却贩卖有毒价值观的人是不是很坏？
 
  
 
-[问题]: 如何评价王垠的新文章《新年展望》？他是否被微软开除？
-[答案]: 看完文章，我觉得王某人的脸皮还是太薄了。
+ 
+<br>**问题**: 如何评价王垠的新文章《新年展望》？他是否被微软开除？
+**答案**: 看完文章，我觉得王某人的脸皮还是太薄了。
 
 君不见C++开班加州一号度假 
 
@@ -26577,24 +25154,21 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
-
-[问题]: 如何评价电影《谍影重重5》？
-[答案]: 这么屌。。我要看我要看我要看
-
- 
-
- 
-
-[问题]: 如何评价知乎万粉大V群中，众多知乎大V对恶魔的奶爸的支持与赞同？是否意味着恶魔的奶爸比曾博更受尊重？
-[答案]: 来自群众的尊重更有力量。
+<br>**问题**: 如何评价电影《谍影重重5》？
+**答案**: 这么屌。。我要看我要看我要看
 
  
 
  
+<br>**问题**: 如何评价知乎万粉大V群中，众多知乎大V对恶魔的奶爸的支持与赞同？是否意味着恶魔的奶爸比曾博更受尊重？
+**答案**: 来自群众的尊重更有力量。
 
-[问题]:如何评价知乎两大劝退名人 白如冰和剃头哥？
+ 
 
-[答案]: 我曾经想黑白如冰，但是我失败了。因为他白如冰
+ 
+<br>**问题**:如何评价知乎两大劝退名人 白如冰和剃头哥？
+
+**答案**: 我曾经想黑白如冰，但是我失败了。因为他白如冰
 
  
 
@@ -26603,18 +25177,16 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
-
-[问题]: 如何评价秋叶发表长文《说说秋叶眼中的罗辑思维》？
-[答案]: 要赚钱就必须具有吸引一大群比自己蠢的人盲目崇拜自己的勇气。我相信知乎上绝大多数人有这样的实力，但也有不这样做的节操和魄力。。。
+<br>**问题**: 如何评价秋叶发表长文《说说秋叶眼中的罗辑思维》？
+**答案**: 要赚钱就必须具有吸引一大群比自己蠢的人盲目崇拜自己的勇气。我相信知乎上绝大多数人有这样的实力，但也有不这样做的节操和魄力。。。
 
 把自己的个人品牌商业化这的确是有一定脑洞才能做的事。而大部分精英更愿意在自己的精英圈子里实现自己被精英认可的价值。
 
  
 
  
-
-[问题]: 如何评价第二季《奇葩说》决赛？
-[答案]: 这的确是一个给90后看的节目。
+<br>**问题**: 如何评价第二季《奇葩说》决赛？
+**答案**: 这的确是一个给90后看的节目。
 
 1，大陆一个小小辩论圈的事情，可以激起部分90后观众的高潮，居然还可以进行追星。。 
 
@@ -26625,9 +25197,8 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
-
-[问题]: 如何评价米家台灯？
-[答案]: 下次可以做一个智能筷子。主人不用的时候自动丢掉。。（滚到地上）
+<br>**问题**: 如何评价米家台灯？
+**答案**: 下次可以做一个智能筷子。主人不用的时候自动丢掉。。（滚到地上）
 
  
 
@@ -26640,10 +25211,9 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
+<br>**问题**: 如何评价约好面试时间结果不打电话而是直接挂掉面试者？
 
-[问题]: 如何评价约好面试时间结果不打电话而是直接挂掉面试者？
-
-[答案]:Winter 可能是阿里巴巴招聘的最厉害，学历最高的来自名校的人了吧。 
+**答案**:Winter 可能是阿里巴巴招聘的最厉害，学历最高的来自名校的人了吧。 
 
 其他同学历同学力的人看完知乎的帖子后，还会去阿里么。。 
 
@@ -26654,10 +25224,9 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
+<br>**问题**:如何评价网友评论桌面 GUI 开发技术失传了
 
-[问题]:如何评价网友评论桌面 GUI 开发技术失传了
-
-[答案]: 你居然喊轮子哥为网友。我报警了。
+**答案**: 你居然喊轮子哥为网友。我报警了。
 
  
 
@@ -26666,16 +25235,14 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
-
-[问题]: 如何评价罗振宇的《罗辑思维》这个节目？
-[答案]: 我觉得他讲历史可以。讲技术还是算了：技术这东西真的得学，而且还的有技术品味
-
- 
+<br>**问题**: 如何评价罗振宇的《罗辑思维》这个节目？
+**答案**: 我觉得他讲历史可以。讲技术还是算了：技术这东西真的得学，而且还的有技术品味
 
  
 
-[问题]: 如何评价罗文益回答的编程问题基本都存在不少错误的情况下，通过开live赚了38万？
-[答案]: 加油！
+ 
+<br>**问题**: 如何评价罗文益回答的编程问题基本都存在不少错误的情况下，通过开live赚了38万？
+**答案**: 加油！
 
  
 
@@ -26690,19 +25257,17 @@ AI在很多地方已经超越人类了好吗？在人脸识别的误差率上，
  
 
  
+<br>**问题**:如何评价罗辑思维第174期 联盟？
 
-[问题]:如何评价罗辑思维第174期 联盟？
-
-[答案]: 罗胖应该是发现做节目不如去值乎。所以打算去值乎了。。
+**答案**: 罗胖应该是发现做节目不如去值乎。所以打算去值乎了。。
 
 按照他的需求粉丝数，以后不需要再卖书了。甚至可以在值乎内部每期抽人送书。
 
  
 
  
-
-[问题]: 如何评价美国主流媒体开始反思自己了？
-[答案]: 我看他们点评今晚的大选开票。纷纷对trump的票数表示震惊，甚至开始思考如何接受trump
+<br>**问题**: 如何评价美国主流媒体开始反思自己了？
+**答案**: 我看他们点评今晚的大选开票。纷纷对trump的票数表示震惊，甚至开始思考如何接受trump
 
 presidency了。特别是trump拿下fl之后，名嘴们竟然开始说：我们丧失了公信力，明年开始我要一个一个去采访那些不相信我们的人。。。 
 
@@ -26711,17 +25276,15 @@ presidency了。特别是trump拿下fl之后，名嘴们竟然开始说：我们
  
 
  
-
-[问题]: 如何评价美国圣地亚戈公司的Logo？
-[答案]: 我就不知道，美国这么多城市，他为什么要黑圣地亚哥=
-
- 
+<br>**问题**: 如何评价美国圣地亚戈公司的Logo？
+**答案**: 我就不知道，美国这么多城市，他为什么要黑圣地亚哥=
 
  
 
-[问题]:如何评价脸书Research Scientist痴迷于.DS_Store这一macOS常见文件？
+ 
+<br>**问题**:如何评价脸书Research Scientist痴迷于.DS_Store这一macOS常见文件？
 
-[答案]: 我一直在说我是失败人士啊=
+**答案**: 我一直在说我是失败人士啊=
 
 我和他们最大的不同难道不是： 
 
@@ -26738,9 +25301,8 @@ presidency了。特别是trump拿下fl之后，名嘴们竟然开始说：我们
  
 
  
-
-[问题]: 如何评价英国公投结果：英国决定脱离欧盟？
-[答案]: 很好。太好了
+<br>**问题**: 如何评价英国公投结果：英国决定脱离欧盟？
+**答案**: 很好。太好了
 
 下一步就是TRUMP上台 
 
@@ -26757,9 +25319,8 @@ presidency了。特别是trump拿下fl之后，名嘴们竟然开始说：我们
  
 
  
-
-[问题]: 如何评价苹果中国用过的广告文案「大快所有人心的大好事」？
-[答案]: 这就是汉语口语流通体的发展水平赶不上英文书面语夹叙夹议技术的现实写照。
+<br>**问题**: 如何评价苹果中国用过的广告文案「大快所有人心的大好事」？
+**答案**: 这就是汉语口语流通体的发展水平赶不上英文书面语夹叙夹议技术的现实写照。
 
 同样可以参考各种电影名翻译 
 
@@ -26768,10 +25329,9 @@ presidency了。特别是trump拿下fl之后，名嘴们竟然开始说：我们
  
 
  
+<br>**问题**:如何评价苹果公司和汽车厂商联合发布的 CarPlay？
 
-[问题]:如何评价苹果公司和汽车厂商联合发布的 CarPlay？
-
-[答案]: 在使用之前我们的确无法评论。
+**答案**: 在使用之前我们的确无法评论。
 
  
 
@@ -26802,10 +25362,9 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
+<br>**问题**:如何评价苹果发布的 5K 屏幕 iMac 的显卡配置？
 
-[问题]:如何评价苹果发布的 5K 屏幕 iMac 的显卡配置？
-
-[答案]:..iMac, 纯属给家用的。2500usd，全美中位数收入人群一个月不到的工资。 
+**答案**:..iMac, 纯属给家用的。2500usd，全美中位数收入人群一个月不到的工资。 
 
 这么一个家用普及型的计算机，采用了先锋意义的高分辨屏，结果让一群中国人拿来和最专业的dell高分屏显示器，一起外接给高性能计算机来比，让一群恨不得你出10w块钱配一个最先进的pc然后以此来说明我们pc也不差的人高潮了。什么都能算你们
 
@@ -26818,10 +25377,9 @@ iOS carplay 成功之处就在于定位：绝大多买这几款车的主都有iP
  
 
  
+<br>**问题**:如何评价苹果在Macbook Pro生产线中使用运行windows系统的iMac？
 
-[问题]:如何评价苹果在Macbook Pro生产线中使用运行windows系统的iMac？
-
-[答案]: 建议跳转到已有问题去
+**答案**: 建议跳转到已有问题去
 
 这是一个运行windows 的PC，外接了iMac 的显示器。运行的程序和EDA或者流程控制相关。但是和正在组装的Mac Pro 无关。 
 
@@ -26848,23 +25406,20 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
-
-[问题]: 如何评价苹果在北京时间凌晨发布的革命性冶金技术iSteel和iAluminum？
-[答案]: 一大波软粉将用C#和VC的知识告诉你，这种技术毫无用处，不堪一击，纯属扯淡，就是一锅煲
-
- 
-
- 
-
-[问题]: 如何评价西湖大学？
-[答案]: 很好。我总算可以复读去西湖大学，我要读深度学习专业。我相信西湖大学可以超过美国私立名校CMU和公立第一大学uiuc的
+<br>**问题**: 如何评价苹果在北京时间凌晨发布的革命性冶金技术iSteel和iAluminum？
+**答案**: 一大波软粉将用C#和VC的知识告诉你，这种技术毫无用处，不堪一击，纯属扯淡，就是一锅煲
 
  
 
  
+<br>**问题**: 如何评价西湖大学？
+**答案**: 很好。我总算可以复读去西湖大学，我要读深度学习专业。我相信西湖大学可以超过美国私立名校CMU和公立第一大学uiuc的
 
-[问题]: 如何评价计蒜客最新开设的算法导论课程？
-[答案]: 佩服。可以开设计算机学院，发文凭，和微软合作。直捣微软西雅图。
+ 
+
+ 
+<br>**问题**: 如何评价计蒜客最新开设的算法导论课程？
+**答案**: 佩服。可以开设计算机学院，发文凭，和微软合作。直捣微软西雅图。
 
 真心佩服。如果可以坚持做下去，一定比我们这些打嘴炮的做的事情更有意义。知识换钱是最好的 
 
@@ -26875,16 +25430,14 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
-
-[问题]: 如何评价谭咏麟和毛阿敏的《神的传说》
-[答案]: 歌词写得很好。是中国大陆最早的摇滚乐啊。其实其水平早就秒杀现在绝大部分流行歌曲，可惜居然没有几个人听过，没有几个人听得懂。
-
- 
+<br>**问题**: 如何评价谭咏麟和毛阿敏的《神的传说》
+**答案**: 歌词写得很好。是中国大陆最早的摇滚乐啊。其实其水平早就秒杀现在绝大部分流行歌曲，可惜居然没有几个人听过，没有几个人听得懂。
 
  
 
-[问题]: 如何评价谷歌围棋人工智能AlphaGo战胜李世石？人工智能的下一个高地在哪？
-[答案]: 不仅仅是围棋赢了人。
+ 
+<br>**问题**: 如何评价谷歌围棋人工智能AlphaGo战胜李世石？人工智能的下一个高地在哪？
+**答案**: 不仅仅是围棋赢了人。
 
 现在散户的钱那一笔被机器交易的fund 赢走的？ 
 
@@ -26917,25 +25470,22 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
-
-[问题]: 如何评价轮子哥认为“明明是搞开源的程序员连C++都搞不定,但是却喜欢折腾各种新兴语言”
-[答案]: 对于这种事情，那就必须搬出我的签名档了。。
-
- 
+<br>**问题**: 如何评价轮子哥认为“明明是搞开源的程序员连C++都搞不定,但是却喜欢折腾各种新兴语言”
+**答案**: 对于这种事情，那就必须搬出我的签名档了。。
 
  
 
-[问题]: 如何评价近日出现的新型学派：颜学？
-[答案]: 欢迎00后思考人生解构社会提升自己抵制骗钱，这是百益而无一害的。
+ 
+<br>**问题**: 如何评价近日出现的新型学派：颜学？
+**答案**: 欢迎00后思考人生解构社会提升自己抵制骗钱，这是百益而无一害的。
 
 但也应该该严肃的时候严肃；听听立党老师的劝告
 
  
 
  
-
-[问题]: 如何评价这个600人参与超过轮子哥课程的live？
-[答案]: 我不知道，我只知道勃学彻底失败了。
+<br>**问题**: 如何评价这个600人参与超过轮子哥课程的live？
+**答案**: 我不知道，我只知道勃学彻底失败了。
 
 自由市场真正好啊 
 
@@ -26948,10 +25498,9 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
+<br>**问题**: 如何评价这个“假装万能组”与其可能造成的影响？
 
-[问题]: 如何评价这个“假装万能组”与其可能造成的影响？
-
-[答案]:
+**答案**:
 
  
 
@@ -26992,16 +25541,14 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
-
-[问题]: 如何评价这条曾老师的英语语法错误？
-[答案]: 你们啊。。我英语秒杀新东方99%的老师高考147托福阅读写作听力三项满分美国黑人聚集地生活6年我会错？
-
- 
+<br>**问题**: 如何评价这条曾老师的英语语法错误？
+**答案**: 你们啊。。我英语秒杀新东方99%的老师高考147托福阅读写作听力三项满分美国黑人聚集地生活6年我会错？
 
  
 
-[问题]: 如何评价这段对数学的看法？
-[答案]: 很多概念是很自然的事？
+ 
+<br>**问题**: 如何评价这段对数学的看法？
+**答案**: 很多概念是很自然的事？
 
 。。。 
 
@@ -27010,62 +25557,54 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
-
-[问题]: 如何评价那些评价周玄毅的一众网友？
-[答案]: 一个学哲学的在辩论上有造诣。是说明大中华辩论界无人了么。。
-
- 
-
- 
-
-[问题]: 如何评价金立发布的“成功人士标配”M2017？
-[答案]: 盗用“成功人士”专有商标是不好的。
+<br>**问题**: 如何评价那些评价周玄毅的一众网友？
+**答案**: 一个学哲学的在辩论上有造诣。是说明大中华辩论界无人了么。。
 
  
 
  
-
-[问题]: 如何评价霍金的突破摄星计划？
-[答案]: 那其实就是一个智子啊。。
-
- 
-
- 
-
-[问题]: 如何评价马来西亚政府在马航事件中的表现？网络上此生不去马来西亚的言论合理么？
-[答案]: 马来西亚真的值得一玩？。。。没有这件事我这辈子也不会去此等蛮夷之地。。如果公司派我去我说公司你脑残。。
+<br>**问题**: 如何评价金立发布的“成功人士标配”M2017？
+**答案**: 盗用“成功人士”专有商标是不好的。
 
  
 
  
-
-[问题]:如何评价马薇薇「知乎云集辩论圈绝大部分 loser 」的言论？
-
-[答案]:不是lo se r上知乎？
+<br>**问题**: 如何评价霍金的突破摄星计划？
+**答案**: 那其实就是一个智子啊。。
 
  
 
  
+<br>**问题**: 如何评价马来西亚政府在马航事件中的表现？网络上此生不去马来西亚的言论合理么？
+**答案**: 马来西亚真的值得一玩？。。。没有这件事我这辈子也不会去此等蛮夷之地。。如果公司派我去我说公司你脑残。。
 
-[问题]: 如何评价高晓松作词曲、许巍演唱的歌曲《生活不止眼前的苟且》？
-[答案]: 不知为何，我觉得这首歌副歌的四句旋律给我第一句我就能完整复述后面三句。而且这旋律越听越觉得是无数首校园童谣叠加之后的平均值，一听就觉得是抄袭，只是不知道抄的是哪一首歌了。。。姜还是老的辣啊。这首歌的主要特色看来还是MV和伴奏和弦。这副歌估计是高晓松一天夜里用自然音调把这句话念出来之后突发奇想之作，殊不知带着沉重的其他歌曲平均值的影子。
+ 
+
+ 
+<br>**问题**:如何评价马薇薇「知乎云集辩论圈绝大部分 loser 」的言论？
+
+**答案**:不是lo se r上知乎？
+
+ 
+
+ 
+<br>**问题**: 如何评价高晓松作词曲、许巍演唱的歌曲《生活不止眼前的苟且》？
+**答案**: 不知为何，我觉得这首歌副歌的四句旋律给我第一句我就能完整复述后面三句。而且这旋律越听越觉得是无数首校园童谣叠加之后的平均值，一听就觉得是抄袭，只是不知道抄的是哪一首歌了。。。姜还是老的辣啊。这首歌的主要特色看来还是MV和伴奏和弦。这副歌估计是高晓松一天夜里用自然音调把这句话念出来之后突发奇想之作，殊不知带着沉重的其他歌曲平均值的影子。
 
 咋听之下感觉年代是挺老的，类似98年。
 
  
 
  
-
-[问题]: 如何评价魅族在春晚投放的首支弹幕广告？
-[答案]: 知乎已经成为最大的营销网站。。
-
- 
+<br>**问题**: 如何评价魅族在春晚投放的首支弹幕广告？
+**答案**: 知乎已经成为最大的营销网站。。
 
  
 
-[问题]: 如何评论阿里在湖南卫视举办双11购物狂欢晚会？
+ 
+<br>**问题**: 如何评论阿里在湖南卫视举办双11购物狂欢晚会？
 
-[答案]:YOU CAN NOT MAKE A LIVING BY SHOPPING。 
+**答案**:YOU CAN NOT MAKE A LIVING BY SHOPPING。 
 
 我看了一下，我想买的大件全都不是没货就是并未有多少折扣。真正有折扣的都是一些平时卖不出去的，本来成本就低的，日用品什么的。这些日用品都不是名牌大厂，也算是我国现在经济的特色吧。购物狂欢，名字起的很好，狂，欢，你就失去理智了。你想买某一个型号的名牌大厂的东西，不好意思没货；为了不空手而归，你得去看看还有货的型号吧？这就巧妙地把你从某一个层次价格的消费者抬高到另一个层次价格的消费者去了。原本你打算花3000，没货，你为了占便宜，就去买了个4000的。 
 
@@ -27084,72 +25623,63 @@ Mac Pro 的工业设计，Mac OS X 的心血，这些东西的革命性，岂是
  
 
  
-
-[问题]: 如何转行，成为互联网程序员？
-[答案]: 我建议你当厨师。
-
- 
-
- 
-
-[问题]:如何较好地翻译苹果官网的iOS 8的宣传语：Huge for developers. Massive for everyone else.？
-
-[答案]: 今天是个好日子，程序员的事儿都能成；明天是个好日子，赶上了盛世咱享太平！
+<br>**问题**: 如何转行，成为互联网程序员？
+**答案**: 我建议你当厨师。
 
  
 
  
+<br>**问题**:如何较好地翻译苹果官网的iOS 8的宣传语：Huge for developers. Massive for everyone else.？
 
-[问题]: 如何辨认身边的聪明人？
-[答案]: 考上清华之后我们再来讨论这个问题。
-
- 
-
- 
-
-[问题]: 如何追求白如冰？
-[答案]: 高考的时候你追上了吗
+**答案**: 今天是个好日子，程序员的事儿都能成；明天是个好日子，赶上了盛世咱享太平！
 
  
 
  
-
-[问题]:如何选择 MacBook Pro (2014) 的配置？
-
-[答案]: 顶配。
+<br>**问题**: 如何辨认身边的聪明人？
+**答案**: 考上清华之后我们再来讨论这个问题。
 
  
 
  
-
-[问题]:如何通过machine learning的手法预测 Google 下一个要关闭的服务是什么？
-
-[答案]: 其实我们应用机器学习的方法预测轮子哥下一次持久几分钟。。。
+<br>**问题**: 如何追求白如冰？
+**答案**: 高考的时候你追上了吗
 
  
 
  
+<br>**问题**:如何选择 MacBook Pro (2014) 的配置？
 
-[问题]: 如何通过电子邮件打动陌生的学校的导师？
-[答案]: 去浙大？那里的本校学生都走了，清华北大的过来属于被贬斥，复旦交大的看看地理条件都不会来，南大学生表示没听过这所学校，中科大恨不得来一把火烧掉本校。所以研究生都是山东大学等排名垫底的985，以及其他非发达地区的211学校。你考试好点，可以来。另外陈越老师有一个计算机界的托福考试，你考完之后，成绩好的话，可以联系她。她对学生特别好，或许可以推荐一个实验室
+**答案**: 顶配。
+
+ 
+
+ 
+<br>**问题**:如何通过machine learning的手法预测 Google 下一个要关闭的服务是什么？
+
+**答案**: 其实我们应用机器学习的方法预测轮子哥下一次持久几分钟。。。
 
  
 
  
+<br>**问题**: 如何通过电子邮件打动陌生的学校的导师？
+**答案**: 去浙大？那里的本校学生都走了，清华北大的过来属于被贬斥，复旦交大的看看地理条件都不会来，南大学生表示没听过这所学校，中科大恨不得来一把火烧掉本校。所以研究生都是山东大学等排名垫底的985，以及其他非发达地区的211学校。你考试好点，可以来。另外陈越老师有一个计算机界的托福考试，你考完之后，成绩好的话，可以联系她。她对学生特别好，或许可以推荐一个实验室
 
-[问题]:如何高效的联合使用 Mathematica 和 LaTeX？
+ 
 
-[答案]:我觉得应该让mathematica 创始人收购latex。可以建议他们这么做。我也觉得mathematica的presentation 或者notebook
+ 
+<br>**问题**:如何高效的联合使用 Mathematica 和 LaTeX？
+
+**答案**:我觉得应该让mathematica 创始人收购latex。可以建议他们这么做。我也觉得mathematica的presentation 或者notebook
 
 style很烂。
 
  
 
  
+<br>**问题**:如果 iOS 开发者开发的 App 被苹果抄袭并内置到系统中，他能否起诉苹果不正当竞争？
 
-[问题]:如果 iOS 开发者开发的 App 被苹果抄袭并内置到系统中，他能否起诉苹果不正当竞争？
-
-[答案]: 除非你申请专利。同样一个idea的不同作者的实现，在apple抄袭你之前估计早就被其他开发者抄袭够了。你可以起诉苹果垄断地位，通过强制内置服务达到不正当竞争的目的。但是苹果没有垄断地位。
+**答案**: 除非你申请专利。同样一个idea的不同作者的实现，在apple抄袭你之前估计早就被其他开发者抄袭够了。你可以起诉苹果垄断地位，通过强制内置服务达到不正当竞争的目的。但是苹果没有垄断地位。
 
 所以你够了。。 
 
@@ -27158,24 +25688,21 @@ style很烂。
  
 
  
-
-[问题]: 如果800个小时后发生世界大战，你最想怎么做？
-[答案]: 何必呢。我就去开uber，顺便享受一下死前的人生
-
- 
-
- 
-
-[问题]: 如果A不是B的好友，但是A经常去B的Facebook的主页去看，A会出现在B的可能认识的人里面吗？
-[答案]: 难道不是应该看A和B现在有无共同好友么？
+<br>**问题**: 如果800个小时后发生世界大战，你最想怎么做？
+**答案**: 何必呢。我就去开uber，顺便享受一下死前的人生
 
  
 
  
+<br>**问题**: 如果A不是B的好友，但是A经常去B的Facebook的主页去看，A会出现在B的可能认识的人里面吗？
+**答案**: 难道不是应该看A和B现在有无共同好友么？
 
-[问题]: 如果Keynote开发了Windows版本，对PowerPoint会有什么影响？
+ 
 
-[答案]:是时候把自己的软件业务外包给印度人了。苹果的高管看上去根本不懂软件，正如jobs 回苹果之前那群人一样，用着那么破的Mac OS 还洋洋自得。Mac OS
+ 
+<br>**问题**: 如果Keynote开发了Windows版本，对PowerPoint会有什么影响？
+
+**答案**:是时候把自己的软件业务外包给印度人了。苹果的高管看上去根本不懂软件，正如jobs 回苹果之前那群人一样，用着那么破的Mac OS 还洋洋自得。Mac OS
 
 X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学习了微软搞一点公测内测。要不是nextstep , Mac OS X , 以及jobs
 
@@ -27184,16 +25711,14 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果一拳头可以打爆地球的话，这一拳需要什么样的条件
-[答案]: 少写了一个“仪”吧
-
- 
+<br>**问题**: 如果一拳头可以打爆地球的话，这一拳需要什么样的条件
+**答案**: 少写了一个“仪”吧
 
  
 
-[问题]: 如果一间屋子，全封闭不透光，四面墙屋顶和地面都是反射率100%的镜子。一根普通蜡烛能够让这间屋子亮到什么程度？
-[答案]: 这个问题属于蛋疼，但我还是想传播一下科学精神，故回答。
+ 
+<br>**问题**: 如果一间屋子，全封闭不透光，四面墙屋顶和地面都是反射率100%的镜子。一根普通蜡烛能够让这间屋子亮到什么程度？
+**答案**: 这个问题属于蛋疼，但我还是想传播一下科学精神，故回答。
 
 100%反射的边界条件是物理理论中常见的。这时候，电磁波在边界内必须形成驻波（cavity） 
 
@@ -27208,18 +25733,16 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果中了五百万，你还会读书吗，还会准时上下班吗？
-[答案]: 还会的。
+<br>**问题**: 如果中了五百万，你还会读书吗，还会准时上下班吗？
+**答案**: 还会的。
 
 不过走路的姿势会更风骚
 
  
 
  
-
-[问题]: 如果人生可以按照自己的意愿选择，你会怎么选择？请从出身到职业规划谈起。？
-[答案]: 我会选择企业家富豪之子
+<br>**问题**: 如果人生可以按照自己的意愿选择，你会怎么选择？请从出身到职业规划谈起。？
+**答案**: 我会选择企业家富豪之子
 
 其他的按步就班即可。 
 
@@ -27230,24 +25753,21 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果从明天开始，微软宣布不再与中国有任何形式的合作，会是怎样的场景？
-[答案]: 如果在美国的话我们表示世界人民照常生活。没有任何影响。。
-
- 
-
- 
-
-[问题]:如果你参加2016 C++及系统软件技术大会，最想问的问题是什么？为什么会想问这个问题？
-
-[答案]: 轮子哥做了什么贡献，有新书要翻译吗？
+<br>**问题**: 如果从明天开始，微软宣布不再与中国有任何形式的合作，会是怎样的场景？
+**答案**: 如果在美国的话我们表示世界人民照常生活。没有任何影响。。
 
  
 
  
+<br>**问题**:如果你参加2016 C++及系统软件技术大会，最想问的问题是什么？为什么会想问这个问题？
 
-[问题]: 如果你可以牺牲自己，换回乔布斯的生命，你会做吗？
-[答案]: 如果真的可以，我相信很多人会去这么做的。这是一个自身利益权衡和社会博弈的问题。
+**答案**: 轮子哥做了什么贡献，有新书要翻译吗？
+
+ 
+
+ 
+<br>**问题**: 如果你可以牺牲自己，换回乔布斯的生命，你会做吗？
+**答案**: 如果真的可以，我相信很多人会去这么做的。这是一个自身利益权衡和社会博弈的问题。
 
 比如家人，有父母愿意为了子女牺牲的； 
 
@@ -27264,33 +25784,29 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
+<br>**问题**:如果你在 Google X 部门工作，还会辞职吗？
 
-[问题]:如果你在 Google X 部门工作，还会辞职吗？
-
-[答案]: 哦。。因为管理不善经营失败牛皮太大最后裁撤然后辞职的不知道多少。。。别问我为啥知道
-
- 
-
- 
-
-[问题]: 如果你在一家很棒的公司工作，带人参观自己公司是一种什么样的感受？
-[答案]: 没什么好羡慕的。要知道绝大部分人最后拿不到绿卡的，只能滚回国。美国的抽签制度和抽签年限决定了他对国外工作者的态度。参观人家公司还不如参观人家的外国老婆。美国知道你们这么喜欢这的科技公司，就对你爱搭不理。你爱怎么办怎么办。
+**答案**: 哦。。因为管理不善经营失败牛皮太大最后裁撤然后辞职的不知道多少。。。别问我为啥知道
 
  
 
  
+<br>**问题**: 如果你在一家很棒的公司工作，带人参观自己公司是一种什么样的感受？
+**答案**: 没什么好羡慕的。要知道绝大部分人最后拿不到绿卡的，只能滚回国。美国的抽签制度和抽签年限决定了他对国外工作者的态度。参观人家公司还不如参观人家的外国老婆。美国知道你们这么喜欢这的科技公司，就对你爱搭不理。你爱怎么办怎么办。
 
-[问题]: 如果你突然得到2亿现金，接下来会怎么样？
-[答案]: 当然是把北京能买的豪宅都买起来啊。。。坐等升值即可。
+ 
+
+ 
+<br>**问题**: 如果你突然得到2亿现金，接下来会怎么样？
+**答案**: 当然是把北京能买的豪宅都买起来啊。。。坐等升值即可。
 
 剩下的钱投资一下互联网
 
  
 
  
-
-[问题]: 如果光的传输不需要时间，那么宇宙会是什么样的？
-[答案]: 那么牛顿就会很开心了。
+<br>**问题**: 如果光的传输不需要时间，那么宇宙会是什么样的？
+**答案**: 那么牛顿就会很开心了。
 
 电子也不会有自旋 
 
@@ -27299,16 +25815,14 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果全体互联网公司不加班会怎样？
-[答案]: 先赶超微软，再来谈赶超flag。。连微软的工作标准都达不到，谈何信息技术的发展，人才的孕育，土壤的保持？
-
- 
+<br>**问题**: 如果全体互联网公司不加班会怎样？
+**答案**: 先赶超微软，再来谈赶超flag。。连微软的工作标准都达不到，谈何信息技术的发展，人才的孕育，土壤的保持？
 
  
 
-[问题]: 如果分子之间失去相互作用，会变成什么样子？
-[答案]: 氢键就闹的更欢快了。
+ 
+<br>**问题**: 如果分子之间失去相互作用，会变成什么样子？
+**答案**: 氢键就闹的更欢快了。
 
 题主改成弱相互作用了／／／ 
 
@@ -27317,19 +25831,17 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果勃勃考上清华，但是只能读生物，勃勃会选择清华吗？
-[答案]: 高三的时候我痴迷生物，如果去了清华我应该直接要去生物系的。可惜他们的分数线太高了。
+<br>**问题**: 如果勃勃考上清华，但是只能读生物，勃勃会选择清华吗？
+**答案**: 高三的时候我痴迷生物，如果去了清华我应该直接要去生物系的。可惜他们的分数线太高了。
 
 毕竟失败
 
  
 
  
+<br>**问题**: 如果发明一种眼镜，能看见空间中传播的电磁波。那样的场景不是很酷炫？！
 
-[问题]: 如果发明一种眼镜，能看见空间中传播的电磁波。那样的场景不是很酷炫？！
-
-[答案]:我们这样计算一下吧。一般微波光子的频率范围是1GHz 到100GHz, 对应能量是最大0.4meV。
+**答案**:我们这样计算一下吧。一般微波光子的频率范围是1GHz 到100GHz, 对应能量是最大0.4meV。
 
 若想看到，必须有对应的偶极子谐振与之共振。室温造成的能量波动约为25meV，因此半导体吸收光这条路是没法探测到，直接淹没在室温中了。唯一的办法是利用天线制造谐振腔，这样天线的长度大约最大需要3（或者1.5）米，最少也需要3（或者1.5）毫米。你在眼镜上摆这么多天线看看？3米的天线，一根就戳爆你的眼睛。3毫米的天线倒是可以试试＝＝一个眼镜上最多做100个，分辨率会很差，而且只能看到散射的特定偏振的微波，并且无法调整焦距。 
 
@@ -27338,34 +25850,30 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果可见光波段波长为米级别，我们眼里的世界是什么样的？
-[答案]: 如果是这样的话我们根本就无法看清米尺度以下的任何细节。。。所有东西在你看来都基本是一个弥散的光点，或者一根根长方形等等
+<br>**问题**: 如果可见光波段波长为米级别，我们眼里的世界是什么样的？
+**答案**: 如果是这样的话我们根本就无法看清米尺度以下的任何细节。。。所有东西在你看来都基本是一个弥散的光点，或者一根根长方形等等
 
 那么每次你打飞机的时候，你根本就摸不到自己的jb。
 
  
 
  
-
-[问题]: 如果各国家的插头统一，世界会发生甚么事情？
-[答案]: 应还不会有另外一个问题：为什么这个世界各个国家的插头不统一
-
- 
+<br>**问题**: 如果各国家的插头统一，世界会发生甚么事情？
+**答案**: 应还不会有另外一个问题：为什么这个世界各个国家的插头不统一
 
  
 
-[问题]: 如果在距离十光年之外的宇宙中放置一面镜子，用望远镜观察镜子，是不是就能看到自己二十年之前的样子了？
-[答案]: 题目问的是自己看到自己的历史；但最好的答案却是自己看到别人的历史。本来宇宙中你看到的光都是过去。你看到的太阳不都是8分钟之前么。光程差虽然有趣但也是高中内容啊。。
+ 
+<br>**问题**: 如果在距离十光年之外的宇宙中放置一面镜子，用望远镜观察镜子，是不是就能看到自己二十年之前的样子了？
+**答案**: 题目问的是自己看到自己的历史；但最好的答案却是自己看到别人的历史。本来宇宙中你看到的光都是过去。你看到的太阳不都是8分钟之前么。光程差虽然有趣但也是高中内容啊。。
 
 看来人就是喜欢看到屌爆的东西就去点赞，例如把透镜放在宇宙中。
 
  
 
  
-
-[问题]: 如果地球外层出现光速减速带，光每秒到达地面量是否不变？
-[答案]: 考虑光子从折射率为1的介质中传播到折射率为n的介质中。
+<br>**问题**: 如果地球外层出现光速减速带，光每秒到达地面量是否不变？
+**答案**: 考虑光子从折射率为1的介质中传播到折射率为n的介质中。
 
 由于反射，仅有（2n/(n-1)）^2*(1/n) 的光子/秒 会到达介质n。 
 
@@ -27374,63 +25882,55 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果外星人命令地球人摧毁一个国家，否则让人类灭绝，人类会怎么做？
-[答案]: 连国家大小人口历史都不规定，外星人智商让人汗颜。
+<br>**问题**: 如果外星人命令地球人摧毁一个国家，否则让人类灭绝，人类会怎么做？
+**答案**: 连国家大小人口历史都不规定，外星人智商让人汗颜。
 
 我估计这外星人应该是某几个地球人中二少年假扮的。既然如此，我觉得地球人的策略应该是坚决不满足劫匪的无理要求，不可以饮鸩止渴，扬汤止沸，以地事秦。看他们几个小孩怎么毁灭地球，与此同时断了他们的网，不出几天他们就会哭爹喊娘了
 
  
 
  
+<br>**问题**: 如果太阳突然消失，是对地球的引力先消失还是光先消失？
 
-[问题]: 如果太阳突然消失，是对地球的引力先消失还是光先消失？
-
-[答案]:鉴于太阳光会通过月球散射到地球上，根据这个time delay，光会比引力更晚消失。
-
- 
-
- 
-
-[问题]: 如果广大勃学家勃丝山寨一个quora，那么这个网站会叫什么名字呢？
-[答案]: 徐老师硬点
+**答案**:鉴于太阳光会通过月球散射到地球上，根据这个time delay，光会比引力更晚消失。
 
  
 
  
+<br>**问题**: 如果广大勃学家勃丝山寨一个quora，那么这个网站会叫什么名字呢？
+**答案**: 徐老师硬点
 
-[问题]: 如果引力足够大,质量却跟不上会发生什么
-[答案]: 会发生他被地球吸引过去。
+ 
+
+ 
+<br>**问题**: 如果引力足够大,质量却跟不上会发生什么
+**答案**: 会发生他被地球吸引过去。
 
 引力是一个相互作用力。质量只是自己的属性。这没什么不对的。
 
  
 
  
-
-[问题]: 如果很多人同时对一个地方吹气，会形成很大的风吗？
-[答案]: 会有很大的疯
-
- 
-
- 
-
-[问题]: 如果所谓的科学是上帝给我们开的玩笑
-[答案]: 那上帝也没有你无聊
+<br>**问题**: 如果很多人同时对一个地方吹气，会形成很大的风吗？
+**答案**: 会有很大的疯
 
  
 
  
+<br>**问题**: 如果所谓的科学是上帝给我们开的玩笑
+**答案**: 那上帝也没有你无聊
 
-[问题]: 如果拥有一个股票账户的仓位信息，如果分析和预测其投资模式与业绩？
-[答案]: 硬哥推我。。
+ 
+
+ 
+<br>**问题**: 如果拥有一个股票账户的仓位信息，如果分析和预测其投资模式与业绩？
+**答案**: 硬哥推我。。
 
  
 
  
-
-[问题]: 如果曾博当年复读考上了清华，现在他的人生轨迹应该会怎样了？
-[答案]: 其实我确实太怀旧了。大家开心就好~
+<br>**问题**: 如果曾博当年复读考上了清华，现在他的人生轨迹应该会怎样了？
+**答案**: 其实我确实太怀旧了。大家开心就好~
 
  
 
@@ -27463,46 +25963,40 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果曾博成为了成功人士会做什么呢？
-[答案]: 我会自杀
-
- 
-
- 
-
-[问题]: 如果曾博的爸妈看到他在知乎上的言行，他们会作何感想？
-[答案]: “老鼠的孩子果然会打洞”
+<br>**问题**: 如果曾博成为了成功人士会做什么呢？
+**答案**: 我会自杀
 
  
 
  
-
-[问题]: 如果曾博要自杀，他会怎么做？
-[答案]: 我会选择和希拉里一起进监狱
-
- 
-
- 
-
-[问题]: 如果曾老师开知乎live，你会去听吗？
-[答案]: 不会
+<br>**问题**: 如果曾博的爸妈看到他在知乎上的言行，他们会作何感想？
+**答案**: “老鼠的孩子果然会打洞”
 
  
 
  
+<br>**问题**: 如果曾博要自杀，他会怎么做？
+**答案**: 我会选择和希拉里一起进监狱
 
-[问题]: 如果有清华毕业的普通码农吹嘘自己，开课开live赚钱，曾博会去撕吗？
-[答案]: 看开班多少钱吧。如果被大家一眼识破我也不必去揭穿了。怕就怕在知乎吹捧一番之后三本学生还真的没法识破了。
+ 
+
+ 
+<br>**问题**: 如果曾老师开知乎live，你会去听吗？
+**答案**: 不会
+
+ 
+
+ 
+<br>**问题**: 如果有清华毕业的普通码农吹嘘自己，开课开live赚钱，曾博会去撕吗？
+**答案**: 看开班多少钱吧。如果被大家一眼识破我也不必去揭穿了。怕就怕在知乎吹捧一番之后三本学生还真的没法识破了。
 
 浙大真有很多学生到处问我哪里能买到轮子哥写的书你信吗
 
  
 
  
-
-[问题]: 如果没了快播，你将怎样下载电影
-[答案]: 应该是淘宝吧。淘宝5块一个高速无需翻墙链接。
+<br>**问题**: 如果没了快播，你将怎样下载电影
+**答案**: 应该是淘宝吧。淘宝5块一个高速无需翻墙链接。
 
 淘宝10块代为下载代为刻录当天送达DVD碟片。 
 
@@ -27511,9 +26005,8 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
-
-[问题]: 如果没有微软公司，现在的世界会是怎样？
-[答案]: 如果没有微软，我们不知道一个能够创造出linux的开源社区还能走的多远。
+<br>**问题**: 如果没有微软公司，现在的世界会是怎样？
+**答案**: 如果没有微软，我们不知道一个能够创造出linux的开源社区还能走的多远。
 
 从现在来看，互联网是这个世界的基石。而tcp-ip协议正是从开源社区走出来的。 
 
@@ -27524,10 +26017,9 @@ X 乏善可陈，iOS 性能漏洞百出，唯一可圈可点的就是终于学�
  
 
  
+<br>**问题**: 如果没有苹果公司，世界现在会是什么样子？
 
-[问题]: 如果没有苹果公司，世界现在会是什么样子？
-
-[答案]:_ june/1/2014 更新 _ 
+**答案**:_ june/1/2014 更新 _ 
 
  
 
@@ -27603,7 +26095,7 @@ Apple能够做到软硬结合，Apple能够做到邀请世界著名的设计师�
 
 或去问问为什么机器学习大牛andrew ng 要使用苹果笔记本？ 
 
-![](https://pic3.zhimg.com/a1bfa401369db9a50ac61e8b2b306692_b.jpg) 
+!****(https://pic3.zhimg.com/a1bfa401369db9a50ac61e8b2b306692_b.jpg) 
 
  
 
@@ -27641,25 +26133,25 @@ Apple能够做到软硬结合，Apple能够做到邀请世界著名的设计师�
 
 Windows （请告诉我在这个控制面板里，我如何才能创建一个个人私有wifi并分享给别人？）: 
 
-![](https://pic2.zhimg.com/287c531a271104df2165b87a95950261_b.jpg) 
+!****(https://pic2.zhimg.com/287c531a271104df2165b87a95950261_b.jpg) 
 
 还有这个最蛋疼的选项卡打开的太多的错误。。。。 
 
-![](https://pic1.zhimg.com/512c3e843d0eb87e6a308b7176eb8f8c_b.jpg) 
+!****(https://pic1.zhimg.com/512c3e843d0eb87e6a308b7176eb8f8c_b.jpg) 
 
 以及迄今为止无法看到dhcp动态分配地址的ip 选项卡（这可是最新版win 8，properties的意意思难道不是让我看到地址么）： 
 
-![](https://pic1.zhimg.com/08d21207734bcf5c9b1d0769a161ab1c_b.jpg) 
+!****(https://pic1.zhimg.com/08d21207734bcf5c9b1d0769a161ab1c_b.jpg) 
 
 而Mac的网络设置界面: 
 
-![](https://pic4.zhimg.com/384e54f55d5e29e6a7e12ec09d34fa4f_b.jpg) 
+!****(https://pic4.zhimg.com/384e54f55d5e29e6a7e12ec09d34fa4f_b.jpg) 
 
 必要信息一目了然。 
 
 创建并分享互联网： 
 
-![](https://pic2.zhimg.com/3a06c0ade4913a1026ac0c3c6f885ab5_b.jpg) 
+!****(https://pic2.zhimg.com/3a06c0ade4913a1026ac0c3c6f885ab5_b.jpg) 
 
  
 
@@ -27709,7 +26201,7 @@ Jonathan Ive _ _ 那么帅的人？当然ive不是工程师，是设计师。那
 
 除了操作系统和个人电脑，微软还涉足过音乐播放器领域 
 
-![](https://pic4.zhimg.com/a94384a2db6bfd3f7e7258abadc41717_b.jpg) 
+!****(https://pic4.zhimg.com/a94384a2db6bfd3f7e7258abadc41717_b.jpg) 
 
 （图：如果让微软设计ipod） 
 
@@ -27744,16 +26236,14 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
-
-[问题]: 如果真人秀节目有一天出现了我是程序员这样的节目,求大家开脑洞设想下会什么样
-[答案]: 我以前问过这题＝＝＝
-
- 
+<br>**问题**: 如果真人秀节目有一天出现了我是程序员这样的节目,求大家开脑洞设想下会什么样
+**答案**: 我以前问过这题＝＝＝
 
  
 
-[问题]: 如果真有风水这回事，在怎样的世界观下才能觉得它合理符合逻辑？
-[答案]: 很早以前，靠水的地方有水源，有动物；山后朝南的地方有风（北半球），有阳光；等等。这一切成为了建造城市，开垦荒地，中原文明向外扩张的重要实践依据。把这些合理的实践依据上升为理论，是文明发展的必然要求。
+ 
+<br>**问题**: 如果真有风水这回事，在怎样的世界观下才能觉得它合理符合逻辑？
+**答案**: 很早以前，靠水的地方有水源，有动物；山后朝南的地方有风（北半球），有阳光；等等。这一切成为了建造城市，开垦荒地，中原文明向外扩张的重要实践依据。把这些合理的实践依据上升为理论，是文明发展的必然要求。
 
  
 
@@ -27772,10 +26262,9 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
+<br>**问题**:如果穷是使用盗版的理由，那多穷才会觉得 Office 365 每月 30 多元会给生活带来负面影响？
 
-[问题]:如果穷是使用盗版的理由，那多穷才会觉得 Office 365 每月 30 多元会给生活带来负面影响？
-
-[答案]: 虽然答案已经这么多了，但我还是想回答。可能有新的观点
+**答案**: 虽然答案已经这么多了，但我还是想回答。可能有新的观点
 
  
 
@@ -27820,49 +26309,43 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
-
-[问题]: 如果穿越到1937年，该怎么办？
-[答案]: 打闹都可以玩过火，好好和你的好基友睡一晚吧
-
- 
+<br>**问题**: 如果穿越到1937年，该怎么办？
+**答案**: 打闹都可以玩过火，好好和你的好基友睡一晚吧
 
  
 
-[问题]: 如果策略有效，量化交易员用自己的资金做交易不是可以赚很多钱吗，何必还去私募上班？
-[答案]: 世界上的人都赚钱，那赚的是谁的钱呢？
+ 
+<br>**问题**: 如果策略有效，量化交易员用自己的资金做交易不是可以赚很多钱吗，何必还去私募上班？
+**答案**: 世界上的人都赚钱，那赚的是谁的钱呢？
 
 没错就是我们这种不在私募上班也炒股的傻逼
 
  
 
  
-
-[问题]: 如果给知乎增加一个付费的功能，那么你希望这些功能都将有什么内容？
-[答案]: 当然是1对1视频啦。随便你们在视频里干什么。
-
- 
-
- 
-
-[问题]: 如果能对国家有利，你愿意付出什么样的代价？
-[答案]: 程序员每天加班工作拿到远低于创造价值的工资让企业盈利缴税这不是完美回答了本问题吗
+<br>**问题**: 如果给知乎增加一个付费的功能，那么你希望这些功能都将有什么内容？
+**答案**: 当然是1对1视频啦。随便你们在视频里干什么。
 
  
 
  
+<br>**问题**: 如果能对国家有利，你愿意付出什么样的代价？
+**答案**: 程序员每天加班工作拿到远低于创造价值的工资让企业盈利缴税这不是完美回答了本问题吗
 
-[问题]:如果苹果开发 iWork for Windows 和微软竞争，将会发生什么？
+ 
 
-[答案]:iWork 本来就可以通过web 进行工作。因此早就是横跨android, windows 和 Mac 的办公软件。 
+ 
+<br>**问题**:如果苹果开发 iWork for Windows 和微软竞争，将会发生什么？
+
+**答案**:iWork 本来就可以通过web 进行工作。因此早就是横跨android, windows 和 Mac 的办公软件。 
 
 个人觉得ms office 功能更强大，iWork更简洁实用。作为企业来说，还是会倾向Ms office .
 
  
 
  
-
-[问题]: 如果认真读完并理解冰冰的回答，会对知识水平有所提高吗？
-[答案]: 知之为知之，不知为不知。
+<br>**问题**: 如果认真读完并理解冰冰的回答，会对知识水平有所提高吗？
+**答案**: 知之为知之，不知为不知。
 
 意思就是知道的人看完之后知道 
 
@@ -27877,16 +26360,14 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
-
-[问题]: 如果让苹果公司来从政，那国家会变成什么样子？
-[答案]: 这个国家所有人都会使用windows。
-
- 
+<br>**问题**: 如果让苹果公司来从政，那国家会变成什么样子？
+**答案**: 这个国家所有人都会使用windows。
 
  
 
-[问题]: 如果调整心态？
-[答案]: 这不就是在说我么。辛辛苦苦念了这么多年，最后毕业还不如本科生赚得多。
+ 
+<br>**问题**: 如果调整心态？
+**答案**: 这不就是在说我么。辛辛苦苦念了这么多年，最后毕业还不如本科生赚得多。
 
 这不就是在说轮子哥么。辛辛苦苦写了那么多代码，最后竟然还不如本科生赚得多。 
 
@@ -27905,23 +26386,20 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
-
-[问题]: 如果轮子哥跳槽到曾博组里当leader，曾博还敢在知乎喷轮子吗？
-[答案]: 我相信facebook的leader那么忙没时间去写题目开课。。
-
- 
-
- 
-
-[问题]: 如果软件正在占领全世界，为什么程序员得不到尊重？
-[答案]: 人太多了
+<br>**问题**: 如果轮子哥跳槽到曾博组里当leader，曾博还敢在知乎喷轮子吗？
+**答案**: 我相信facebook的leader那么忙没时间去写题目开课。。
 
  
 
  
+<br>**问题**: 如果软件正在占领全世界，为什么程序员得不到尊重？
+**答案**: 人太多了
 
-[问题]: 存不存在一种匿名投票方式（计算机实现），满足以下条件？
-[答案]: 有。这应该是数学问题吧。举一个存在性（其可行性经过改进）例子：
+ 
+
+ 
+<br>**问题**: 存不存在一种匿名投票方式（计算机实现），满足以下条件？
+**答案**: 有。这应该是数学问题吧。举一个存在性（其可行性经过改进）例子：
 
 例如有10人，一人一票总计10票。 
 
@@ -27948,16 +26426,14 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
-
-[问题]: 存在透明的金属吗？
-[答案]: ITO
-
- 
+<br>**问题**: 存在透明的金属吗？
+**答案**: ITO
 
  
 
-[问题]: 孤单一生的程序员他的生活凄惨吗？
-[答案]: 我
+ 
+<br>**问题**: 孤单一生的程序员他的生活凄惨吗？
+**答案**: 我
 
 日了狗 
 
@@ -27968,9 +26444,8 @@ _ ** 我们不知道如果没有苹果公司，世界会怎样，历史无法假
  
 
  
-
-[问题]: 孤对电子是什么？
-[答案]: 以下抄袭自百度百科：
+<br>**问题**: 孤对电子是什么？
+**答案**: 以下抄袭自百度百科：
 
 分子中除了用于形成共价键的键合电子外，还经常存在未用于形成共价键的非键合电子。这些未成键的价电子对叫做孤对电子。 
 
@@ -27993,18 +26468,16 @@ _ ；氨分子为三角锥形而水分子则为弯曲形。
  
 
  
+<br>**问题**:学 Python 发现学一门编程语言很难，有哪些学好编程的方法或技巧？
 
-[问题]:学 Python 发现学一门编程语言很难，有哪些学好编程的方法或技巧？
-
-[答案]: python是最简单的。其实c更简单。c++和java是天书没错了（负担太大，不适合入门）。
-
- 
+**答案**: python是最简单的。其实c更简单。c++和java是天书没错了（负担太大，不适合入门）。
 
  
 
-[问题]: 学习java的前景如何？
+ 
+<br>**问题**: 学习java的前景如何？
 
-[答案]:学完之后你就掌握了世界上对于concurrency 支持最好的语言。 
+**答案**:学完之后你就掌握了世界上对于concurrency 支持最好的语言。 
 
 java不仅仅是一门语言。。学完你就有工作了。要学好也没有那么简单。 
 
@@ -28035,25 +26508,22 @@ javascript
  
 
  
-
-[问题]: 学习自然科学读到博士的人们，现在都在从事什么职业呢？
-[答案]: 失业。
-
- 
+<br>**问题**: 学习自然科学读到博士的人们，现在都在从事什么职业呢？
+**答案**: 失业。
 
  
 
-[问题]: 学习遇到瓶颈，快到考试，却不想看书，感觉什么都会了，但一做试卷却考的又不好，该怎么办？
-[答案]: 看书觉得很累是因为你并没有学到新知识，没有参与思考。听老师在上面讲课而自己不跟进不积极参与的话，也是很累很想睡觉的。据测试，即便是早上10点的课，如果我没有去主动跟进老师讲课的内容，或者内容很无聊，我10分钟就能在课堂上睡着。
+ 
+<br>**问题**: 学习遇到瓶颈，快到考试，却不想看书，感觉什么都会了，但一做试卷却考的又不好，该怎么办？
+**答案**: 看书觉得很累是因为你并没有学到新知识，没有参与思考。听老师在上面讲课而自己不跟进不积极参与的话，也是很累很想睡觉的。据测试，即便是早上10点的课，如果我没有去主动跟进老师讲课的内容，或者内容很无聊，我10分钟就能在课堂上睡着。
 
 卷子不行更加验证了这点。你尝试自己从零开始把书本的大纲整理一遍，再填写细节。至于做题，不知所以然做了也没用，错题本也就是一本你再也不会去翻的本子而已。建议你多和书本互动
 
  
 
  
-
-[问题]: 学好英文的十个步骤
-[答案]: 之前我们已经看到了，学会英文可以帮你节约至少600块钱（最多可以到7300人民币）。如此巨大的收益，让人们不禁要问：我如何才能学会英文呢？
+<br>**问题**: 学好英文的十个步骤
+**答案**: 之前我们已经看到了，学会英文可以帮你节约至少600块钱（最多可以到7300人民币）。如此巨大的收益，让人们不禁要问：我如何才能学会英文呢？
 
  
 
@@ -28218,17 +26688,15 @@ PRIMER了。另外，你不会还不知道PRIMER啥意思把。去看牛津词�
  
 
  
+<br>**问题**:学数学或物理学到 high 很刺激，是一种怎样的经历与感受？
 
-[问题]:学数学或物理学到 high 很刺激，是一种怎样的经历与感受？
-
-[答案]: 我觉得其实各行各业的成功都会有刺激的感觉。只对物理和数学刺激的人，可能是大脑结构有点异常＝
-
- 
+**答案**: 我觉得其实各行各业的成功都会有刺激的感觉。只对物理和数学刺激的人，可能是大脑结构有点异常＝
 
  
 
-[问题]: 学术造假的目的是什么？
-[答案]: 和直呼吹逼一样
+ 
+<br>**问题**: 学术造假的目的是什么？
+**答案**: 和直呼吹逼一样
 
 一般人看不出来 
 
@@ -28241,19 +26709,17 @@ PRIMER了。另外，你不会还不知道PRIMER啥意思把。去看牛津词�
  
 
  
+<br>**问题**:学校里办我是歌手 关于灯光和观众的问题？
 
-[问题]:学校里办我是歌手 关于灯光和观众的问题？
-
-[答案]:。。。。 @白如冰 
+**答案**:。。。。 @白如冰 
 
 天哪
 
  
 
  
-
-[问题]: 学物理为什么会觉得计算机很难？
-[答案]: 因为你根本没学。。我们学校CS170我一看卧槽这不是天书吗，断然觉得自己不如本科生了
+<br>**问题**: 学物理为什么会觉得计算机很难？
+**答案**: 因为你根本没学。。我们学校CS170我一看卧槽这不是天书吗，断然觉得自己不如本科生了
 
 实际上人家CS61A，CS61B等入门课天天讲recursion, divide and conquer ., tree graph 早就说了好多遍了
 
@@ -28266,10 +26732,9 @@ time complexity 都如数家珍。你是外行，仅此而已。
  
 
  
+<br>**问题**:学生编程有必要买Macbook Pro吗？
 
-[问题]:学生编程有必要买Macbook Pro吗？
-
-[答案]: 需要的。你要养成用钱买品质的好习惯。这样华尔街和硅谷的富豪们才会爱你=
+**答案**: 需要的。你要养成用钱买品质的好习惯。这样华尔街和硅谷的富豪们才会爱你=
 
  
 
@@ -28278,54 +26743,47 @@ time complexity 都如数家珍。你是外行，仅此而已。
  
 
  
-
-[问题]: 学编程的话，谭浩强的c教材学完，接下来怎么办？求推荐(偏硬)
-[答案]: 接下来？接下来就可以回炉重造开始真正学习计算机科学了吧。。用这本教材学计算机的学校是没打算把你们送出去就业
-
- 
-
- 
-
-[问题]: 学计算机，在哪个大学重要吗？
-[答案]: 建议复读
+<br>**问题**: 学编程的话，谭浩强的c教材学完，接下来怎么办？求推荐(偏硬)
+**答案**: 接下来？接下来就可以回炉重造开始真正学习计算机科学了吧。。用这本教材学计算机的学校是没打算把你们送出去就业
 
  
 
  
-
-[问题]: 学金融的都家境不错，学IT的都是穷人家孩子，对吗？
-[答案]: 是的
-
- 
-
- 
-
-[问题]: 宇宙无限的一个特殊假想？
-[答案]: 吹完了球球玩球球
+<br>**问题**: 学计算机，在哪个大学重要吗？
+**答案**: 建议复读
 
  
 
  
+<br>**问题**: 学金融的都家境不错，学IT的都是穷人家孩子，对吗？
+**答案**: 是的
 
-[问题]: 宇宙既然是不连续的，那为什么圆周率还是无限的？
-[答案]: 数学并不能反应真实的世界，这就是这个世界的奇妙之处。。。
+ 
+
+ 
+<br>**问题**: 宇宙无限的一个特殊假想？
+**答案**: 吹完了球球玩球球
 
  
 
  
+<br>**问题**: 宇宙既然是不连续的，那为什么圆周率还是无限的？
+**答案**: 数学并不能反应真实的世界，这就是这个世界的奇妙之处。。。
 
-[问题]: 宇宙的本质是光吗？
-[答案]: 喝啤酒不是因为，争吵了过后
+ 
+
+ 
+<br>**问题**: 宇宙的本质是光吗？
+**答案**: 喝啤酒不是因为，争吵了过后
 
 切蛋糕不是因为，你的生日刚过
 
  
 
  
+<br>**问题**:安装 Windows 最便捷的软件是 Mac OS X 自带的 Boot Camp，这说明什么？
 
-[问题]:安装 Windows 最便捷的软件是 Mac OS X 自带的 Boot Camp，这说明什么？
-
-[答案]: 这个问题充分说明了WINDOWS不带键盘截图快捷键的后果，就是自爆果照。
+**答案**: 这个问题充分说明了WINDOWS不带键盘截图快捷键的后果，就是自爆果照。
 
 我遇到过了类似的情况，选择删除分区，再创建分区即可。创建时候会提示你EFI的话WINDOWS会搞出一些其他分区。 
 
@@ -28338,10 +26796,9 @@ OS X 的话在EFI后面会加上MBR以及一些RECOVERY的分区。
  
 
  
+<br>**问题**:完全零基础的人应该如何欣赏 AlphaGo 与李世石的比赛？
 
-[问题]:完全零基础的人应该如何欣赏 AlphaGo 与李世石的比赛？
-
-[答案]: 睡一觉第二天看评测即可。
+**答案**: 睡一觉第二天看评测即可。
 
 有功夫的话想想怎么把自己的床铺的干净一点睡得更舒服？有很多种面料可以研究哦 
 
@@ -28350,16 +26807,14 @@ OS X 的话在EFI后面会加上MBR以及一些RECOVERY的分区。
  
 
  
-
-[问题]: 客观上评价（不黑不蜜），王垠和轮子哥技术上谁更牛逼？
-[答案]: 都没有DJI创始人牛逼。只会写代码，有什么前途。养老婆抱孩子，人生完了
-
- 
+<br>**问题**: 客观上评价（不黑不蜜），王垠和轮子哥技术上谁更牛逼？
+**答案**: 都没有DJI创始人牛逼。只会写代码，有什么前途。养老婆抱孩子，人生完了
 
  
 
-[问题]: 客观的评价现代汽车
-[答案]: 消费者的主观心理是很可怕的。但让他们掏钱的时候，还是很诚实的。。
+ 
+<br>**问题**: 客观的评价现代汽车
+**答案**: 消费者的主观心理是很可怕的。但让他们掏钱的时候，还是很诚实的。。
 
 实际上我也不喜欢韩国棒子的东西，例如三星手机，肉，CPU不足，手机背板不给力，给人一种散散的感觉。。。 
 
@@ -28372,16 +26827,14 @@ OS X 的话在EFI后面会加上MBR以及一些RECOVERY的分区。
  
 
  
-
-[问题]: 富人为什么要交税养穷人？(1)
-[答案]: 现在的问题不是富人交税养穷人；是中产阶级交税养穷人。
-
- 
+<br>**问题**: 富人为什么要交税养穷人？(1)
+**答案**: 现在的问题不是富人交税养穷人；是中产阶级交税养穷人。
 
  
 
-[问题]: 富人为什么要交税养穷人？
-[答案]: 如果不是穷人坚持活下去，买我们的东西，参与微信公众号和live，富人们早就饿死了。。
+ 
+<br>**问题**: 富人为什么要交税养穷人？
+**答案**: 如果不是穷人坚持活下去，买我们的东西，参与微信公众号和live，富人们早就饿死了。。
 
 是基本的求生欲支撑了穷人 
 
@@ -28400,34 +26853,30 @@ OS X 的话在EFI后面会加上MBR以及一些RECOVERY的分区。
  
 
  
+<br>**问题**:寒武纪神经网络处理器效能如何 ？
 
-[问题]:寒武纪神经网络处理器效能如何 ？
-
-[答案]:nvidia GPU 哭晕在厕所
-
- 
+**答案**:nvidia GPU 哭晕在厕所
 
  
 
-[问题]: 对一段有限长的简谐光波进行傅立叶变换的物理意义何在？
+ 
+<br>**问题**: 对一段有限长的简谐光波进行傅立叶变换的物理意义何在？
 
-[答案]:如果你的laser 是pulsed laser， 那么物质对这束pulse laser的响应显然就不是一个单色光的响应。pulse
+**答案**:如果你的laser 是pulsed laser， 那么物质对这束pulse laser的响应显然就不是一个单色光的响应。pulse
 
 laser的脉冲有限长，频谱也是比较宽的。因此物质对于这种pulse light 的响应都是一个较宽频谱内的响应。
 
  
 
  
-
-[问题]: 对于一个大学生来说，Office365是否值得购买？
-[答案]: 我建议学生自己写一个office
-
- 
+<br>**问题**: 对于一个大学生来说，Office365是否值得购买？
+**答案**: 我建议学生自己写一个office
 
  
 
-[问题]: 对于一个死去的人来说，他曾经活过，有什么意义呢？
-[答案]: 这么说吧，对一个没有考上清华的人来说，他的高考也是有意义的。
+ 
+<br>**问题**: 对于一个死去的人来说，他曾经活过，有什么意义呢？
+**答案**: 这么说吧，对一个没有考上清华的人来说，他的高考也是有意义的。
 
 我们不能因为他没有前途而嘲笑他，是吧？ 
 
@@ -28440,17 +26889,15 @@ laser的脉冲有限长，频谱也是比较宽的。因此物质对于这种pul
  
 
  
+<br>**问题**:对于中国地区热爱互联网行业的学生，怎样规划自己的职业发展路线，以进入 Google、Facebook 这样的公司？
 
-[问题]:对于中国地区热爱互联网行业的学生，怎样规划自己的职业发展路线，以进入 Google、Facebook 这样的公司？
-
-[答案]: 进去喝汤吗。。
-
- 
+**答案**: 进去喝汤吗。。
 
  
 
-[问题]: 对于学生党什么编程语言比较适合？
-[答案]: 你看这答的这么乱七八糟的。可见程序员的世界，相互之间层次的差别有多大。这根本还是一个未开化的世界=如果把计算机科学和生物学相比，应该还是进化论发展的初期，图谱还没画全。因此可见，计算机科学未来真是大有可为。请跟我念，CS=人类未来。另外，100年后肯定只有一种编程语言了。
+ 
+<br>**问题**: 对于学生党什么编程语言比较适合？
+**答案**: 你看这答的这么乱七八糟的。可见程序员的世界，相互之间层次的差别有多大。这根本还是一个未开化的世界=如果把计算机科学和生物学相比，应该还是进化论发展的初期，图谱还没画全。因此可见，计算机科学未来真是大有可为。请跟我念，CS=人类未来。另外，100年后肯定只有一种编程语言了。
 
 另外，对于万物基于C的说法，万物还基于machine code , 万物还基于汇编，linker 呢。万物最后基于的是操作系统，嵌入式，Linux .
 
@@ -28459,20 +26906,18 @@ Rom，逻辑电路，物理。你怎么不改行学物理呢？看你对C那犹�
  
 
  
+<br>**问题**:对于建筑行业，MacBook Pro 到底哪里好，到底有什么用？
 
-[问题]:对于建筑行业，MacBook Pro 到底哪里好，到底有什么用？
-
-[答案]:我认为现在已经可以买Windows 10 了。之前MacBook pro 拥有的优势已经很少，而Windows 的布局更是和industry level
+**答案**:我认为现在已经可以买Windows 10 了。之前MacBook pro 拥有的优势已经很少，而Windows 的布局更是和industry level
 
 productivity。 除非你一定要posix 系统跑你的开源软件
 
  
 
  
+<br>**问题**: 对于文档的撤销最多可以记忆多少步？
 
-[问题]: 对于文档的撤销最多可以记忆多少步？
-
-[答案]:请使用git . 无限步。 
+**答案**:请使用git . 无限步。 
 
 Add 
 
@@ -28487,24 +26932,21 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 对于电场和磁场的许多定理性质如何去类比学习？
-[答案]: 请不要把物理当文科去学习
-
- 
-
- 
-
-[问题]: 对于电影《大四》你有什么看法或者感触？
-[答案]: 哎。好尴尬。这么好的一个广告贴居然人都没有==
+<br>**问题**: 对于电场和磁场的许多定理性质如何去类比学习？
+**答案**: 请不要把物理当文科去学习
 
  
 
  
+<br>**问题**: 对于电影《大四》你有什么看法或者感触？
+**答案**: 哎。好尴尬。这么好的一个广告贴居然人都没有==
 
-[问题]:对于码农来说，对冲基金和硅谷 IT 公司的职业前景分别是怎样的，如何进行选择？
+ 
 
-[答案]: 钓得好。钓出了知乎的自卑，钓出了成功人士从不上知乎
+ 
+<br>**问题**:对于码农来说，对冲基金和硅谷 IT 公司的职业前景分别是怎样的，如何进行选择？
+
+**答案**: 钓得好。钓出了知乎的自卑，钓出了成功人士从不上知乎
 
 这么好的问题，去MITBBS得到的答案可能更有价值一点。毕竟许多真的年薪100W美金的华人就在MIT BBS上讨论奶粉的问题。 
 
@@ -28517,9 +26959,8 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 对处在一个能量叠加态的粒子，若两次测量能量不同，中间的能量差去哪了？
-[答案]: 你想说测不准么。每次测量的能量大小都不一样这是很正常的。之所以会出现叠加态正是因为有相互作用的势能使得原本正交的两个（或者多个）本征态之间产生混合（mixing）。能量之差无非就是“暂时”存储在相互作用势能当中去罢了。
+<br>**问题**: 对处在一个能量叠加态的粒子，若两次测量能量不同，中间的能量差去哪了？
+**答案**: 你想说测不准么。每次测量的能量大小都不一样这是很正常的。之所以会出现叠加态正是因为有相互作用的势能使得原本正交的两个（或者多个）本征态之间产生混合（mixing）。能量之差无非就是“暂时”存储在相互作用势能当中去罢了。
 
 这么说吧，地球有时候出现在太阳的近日点，有时候是远日点。你测量他 地球的动能，有时候大，有时候小。你没有测完全罢了。 
 
@@ -28528,18 +26969,16 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 对比北大清华，浙江大三本的优势在哪里？
-[答案]: 当然是分数线低啊。。。
+<br>**问题**: 对比北大清华，浙江大三本的优势在哪里？
+**答案**: 当然是分数线低啊。。。
 
 这种问题
 
  
 
  
-
-[问题]: 导体内电子的移动速度那么慢，怎么实现电流每秒30万公里的传递速度？
-[答案]: 如冰哥哥举例非常形象。。
+<br>**问题**: 导体内电子的移动速度那么慢，怎么实现电流每秒30万公里的传递速度？
+**答案**: 如冰哥哥举例非常形象。。
 
 齐步走的例子应该这样说更准确: 
 
@@ -28548,10 +26987,9 @@ Reset 随意恢复。
  
 
  
+<br>**问题**:将 Beats 耳机与 Lamy 钢笔定性为同一类满足虚荣心的产品是否合理？
 
-[问题]:将 Beats 耳机与 Lamy 钢笔定性为同一类满足虚荣心的产品是否合理？
-
-[答案]: 你连给底层人民虚荣的机会都没有了。他们还怎么活啊？你去和富士康的工人们分析利弊，大谈特谈山外有山，人外有人？人家富士康外是什么都不知道。
+**答案**: 你连给底层人民虚荣的机会都没有了。他们还怎么活啊？你去和富士康的工人们分析利弊，大谈特谈山外有山，人外有人？人家富士康外是什么都不知道。
 
 虽然穷人穷易一部分是懒惰，但你看到某些家庭也就是两个人，却坐拥财富几十亿，掌握几万几十万人的生死，你还觉得，这些和他的努力成正比吗？ 
 
@@ -28578,16 +27016,14 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 小勃勃的提问和回答我都看不懂，怎么办？
-[答案]: 因为你还不够爱我
-
- 
+<br>**问题**: 小勃勃的提问和回答我都看不懂，怎么办？
+**答案**: 因为你还不够爱我
 
  
 
-[问题]: 小时候挺可爱的小孩，长大之后长残了是一种什么样的体验？
-[答案]: !(https://pic3.zhimg.com/d9a4a2486f86b9959ba54c6b8f02616e_b.jpeg)
+ 
+<br>**问题**: 小时候挺可爱的小孩，长大之后长残了是一种什么样的体验？
+**答案**: !(https://pic3.zhimg.com/d9a4a2486f86b9959ba54c6b8f02616e_b.jpeg)
 
 小时候 
 
@@ -28596,19 +27032,17 @@ Reset 随意恢复。
  
 
  
+<br>**问题**:小米对美国人说「MIUI 比iOS好用」，你怎么看
 
-[问题]:小米对美国人说「MIUI 比iOS好用」，你怎么看
-
-[答案]: 除非美国人也用农历，来电归属地显示，联系人block，清理内存，支付宝？
+**答案**: 除非美国人也用农历，来电归属地显示，联系人block，清理内存，支付宝？
 
 日本人为什么崛起的快，因为学得彻底。
 
  
 
  
-
-[问题]: 小米新推出的空气净化器怎么样？
-[答案]: 我相信小米的实力，技术，产品一级棒。小米的空气净化器就一定用900人民币就能完爆了别人。
+<br>**问题**: 小米新推出的空气净化器怎么样？
+**答案**: 我相信小米的实力，技术，产品一级棒。小米的空气净化器就一定用900人民币就能完爆了别人。
 
  
 
@@ -28659,10 +27093,9 @@ Reset 随意恢复。
  
 
  
+<br>**问题**: 小米空气净化器2使用的“混流增压风扇”到底是什么技术？
 
-[问题]: 小米空气净化器2使用的“混流增压风扇”到底是什么技术？
-
-[答案]:无非就是从美帝企业Honeywell 抄来的技术，然后自己取一个高级的名字，骗一骗平均教育水平在初中，毫无现代工业知识的中国人了。 
+**答案**:无非就是从美帝企业Honeywell 抄来的技术，然后自己取一个高级的名字，骗一骗平均教育水平在初中，毫无现代工业知识的中国人了。 
 
 因为中国白色家电基础技术落后日本德国美国15年左右，加上大陆消费水平较低，买不起真正的高科技家电，只能出此下策，名字响亮，价格却才50。也是难为加入小米科技的那几个外国人了。。 
 
@@ -28671,19 +27104,17 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 就本科教育而言，ucb和top5差别大吗？
-[答案]: 差别很大。来这里读书的都是loser。
-
- 
+<br>**问题**: 就本科教育而言，ucb和top5差别大吗？
+**答案**: 差别很大。来这里读书的都是loser。
 
  
 
-[问题]: 就目前的实验验证来说，量子力学与广义相对论谁是最精确的物理学分支？
+ 
+<br>**问题**: 就目前的实验验证来说，量子力学与广义相对论谁是最精确的物理学分支？
 
-[答案]:啊。据说相对论性量子力学（或者，场论）下求出的fine-structure constant ![\\alpha=e^2/\\hbar c
+**答案**:啊。据说相对论性量子力学（或者，场论）下求出的fine-structure constant !**\\alpha=e^2/\\hbar c
 
-](https://www.zhihu.com/equation?tex=%5Calpha%3De%5E2%2F%5Chbar+c+) 
+**(https://www.zhihu.com/equation?tex=%5Calpha%3De%5E2%2F%5Chbar+c+) 
 
 是最精确的。理论和试验的误差小于百亿分之3。这个数字的物理意义是电子和光子相互耦合强度的系数。由此看来，狭义相对论和量子力学的结果是最准确的。 
 
@@ -28692,10 +27123,9 @@ Reset 随意恢复。
  
 
  
+<br>**问题**: 就编程能力而言，比尔盖茨和vczh哪个更厉害？
 
-[问题]: 就编程能力而言，比尔盖茨和vczh哪个更厉害？
-
-[答案]:你这意思是，微软office 部门就缺一个写编译器的程序员了? 微软最厉害的engineering leader 莫非是轮某人？ 
+**答案**:你这意思是，微软office 部门就缺一个写编译器的程序员了? 微软最厉害的engineering leader 莫非是轮某人？ 
 
 世界上，在我们领域，有很多长材料的的苦活，技术高超的人一抓一大把，他们技艺炉火纯青，可没见到任何一个当了教授，院长，系主任啊。他们的勤奋，技术，对犄角旮旯的掌握程度，不知道比某些程序员高到哪里去了，却还有脸皮，还有点自知之明。只是工资低而已。某行业的群众教徒们你们的水平和眼界也真是低到哪里去了 
 
@@ -28704,17 +27134,15 @@ Reset 随意恢复。
  
 
  
+<br>**问题**:就职于 Citadel 是一种什么体验？
 
-[问题]:就职于 Citadel 是一种什么体验？
-
-[答案]: 一般都年薪千万
-
- 
+**答案**: 一般都年薪千万
 
  
 
-[问题]: 就轮子哥（vczh）和曾博（勃失败）而言，谁长的比较好看一点呢？
-[答案]: 你侮辱人。已经举报。
+ 
+<br>**问题**: 就轮子哥（vczh）和曾博（勃失败）而言，谁长的比较好看一点呢？
+**答案**: 你侮辱人。已经举报。
 
  
 
@@ -28723,32 +27151,28 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 尼古拉.特斯拉是否真的制造了球形闪电？
-[答案]: 万万没想到，啦拉啦拉啦／
-
- 
-
- 
-
-[问题]:川普出身于五本大学(Fordham university)，为什么能成为总统候选人？
-
-[答案]: 说真的。如果你是清华毕业的，你的出路会多很多；弯路会少很多，苦会轻很多
+<br>**问题**: 尼古拉.特斯拉是否真的制造了球形闪电？
+**答案**: 万万没想到，啦拉啦拉啦／
 
  
 
  
+<br>**问题**:川普出身于五本大学(Fordham university)，为什么能成为总统候选人？
 
-[问题]:工作两年了 准备入手第一辆车 30W左右 希望各位不吝赐教？
+**答案**: 说真的。如果你是清华毕业的，你的出路会多很多；弯路会少很多，苦会轻很多
 
-[答案]: 现在我突然发现国内的人都好有钱。。。买车动辄30w－50w。。。。
+ 
+
+ 
+<br>**问题**:工作两年了 准备入手第一辆车 30W左右 希望各位不吝赐教？
+
+**答案**: 现在我突然发现国内的人都好有钱。。。买车动辄30w－50w。。。。
 
  
 
  
-
-[问题]: 工作交流中怎样用一句话夹四五个英文单词来凸显逼格？
-[答案]: 轮子哥和赵老板的例子中都没有形容词（除了urgent）。
+<br>**问题**: 工作交流中怎样用一句话夹四五个英文单词来凸显逼格？
+**答案**: 轮子哥和赵老板的例子中都没有形容词（除了urgent）。
 
 中国人是不知道如何地道的使用形容词的。动词和名词都是动词名用或者名词动用，或者是技术教材上学来的专有动词，名词。 
 
@@ -28757,16 +27181,14 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 工作清闲怎么做兼职挣外快？
-[答案]: 开live；开班
-
- 
+<br>**问题**: 工作清闲怎么做兼职挣外快？
+**答案**: 开live；开班
 
  
 
-[问题]: 工具是否一定分化社会阶层？
-[答案]: 不会的。自从发明了计算机，以前的煤矿工纺织工无非也就是变成了码农工。
+ 
+<br>**问题**: 工具是否一定分化社会阶层？
+**答案**: 不会的。自从发明了计算机，以前的煤矿工纺织工无非也就是变成了码农工。
 
 操纵财富的统治阶级是不会在乎工具的。从一开始都是。 
 
@@ -28779,17 +27201,15 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 工科硕士一年级在读，将赴美攻读工科博士，如何在博士毕业之后曲线进入投行或者对冲基金？
-[答案]: 只有HF才是人上人，其他都是渣渣
-
- 
+<br>**问题**: 工科硕士一年级在读，将赴美攻读工科博士，如何在博士毕业之后曲线进入投行或者对冲基金？
+**答案**: 只有HF才是人上人，其他都是渣渣
 
  
 
-[问题]: 工程师和科学家的区别
+ 
+<br>**问题**: 工程师和科学家的区别
 
-[答案]:
+**答案**:
 
  
 
@@ -28798,9 +27218,8 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 巫师3的图形引擎领先2016年新出的魔兽世界资料片多少年？
-[答案]: 让某些人算出来领先多少年有这么难吗？
+<br>**问题**: 巫师3的图形引擎领先2016年新出的魔兽世界资料片多少年？
+**答案**: 让某些人算出来领先多少年有这么难吗？
 
 不是找借口顾左右而言他就是骂人。呵呵 
 
@@ -28819,17 +27238,15 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 差别就是为了歧视？
-[答案]: 这提问水平我给log(0)分
-
- 
+<br>**问题**: 差别就是为了歧视？
+**答案**: 这提问水平我给log(0)分
 
  
 
-[问题]: 差的大学的女生是不是不看重学识
+ 
+<br>**问题**: 差的大学的女生是不是不看重学识
 
-[答案]:这都是peer pressure . 
+**答案**:这都是peer pressure . 
 
 周围的人都以找到肌肉男酷帅会打球会抽烟的男友为荣的时候，你也会这么做的。 
 
@@ -28844,17 +27261,15 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 已工作，怎样规划才能进入MIT的AI实验室？
-[答案]: 还是来我大berkeley
-
- 
+<br>**问题**: 已工作，怎样规划才能进入MIT的AI实验室？
+**答案**: 还是来我大berkeley
 
  
 
-[问题]: 巴菲特为什么买入苹果公司股票？
+ 
+<br>**问题**: 巴菲特为什么买入苹果公司股票？
 
-[答案]:看仔细了。是3/31 日前持有。你看现在跌成屎，巴菲特亏惨了。 
+**答案**:看仔细了。是3/31 日前持有。你看现在跌成屎，巴菲特亏惨了。 
 
 以前看中学政治书，都写因为信息闭塞，消息迟缓，村子里的果农不知道用什么价格卖果子。导致每年都亏损。 
 
@@ -28873,23 +27288,20 @@ Reset 随意恢复。
  
 
  
-
-[问题]: 巴西豆效应，为什么是经典物理中没有解决的一个问题？
-[答案]: 这不就是波从左下角和右下角反射的结果么。因为有重力。太空中应该没有巴西豆效应，去做一下就知道了。
-
- 
-
- 
-
-[问题]: 希拉里拉选票水平这么差劲为什么还有大财团资助他竞选美国总统？
-[答案]: 大财团的人要是有脑子还会落到今天这个地步？呵呵。
+<br>**问题**: 巴西豆效应，为什么是经典物理中没有解决的一个问题？
+**答案**: 这不就是波从左下角和右下角反射的结果么。因为有重力。太空中应该没有巴西豆效应，去做一下就知道了。
 
  
 
  
+<br>**问题**: 希拉里拉选票水平这么差劲为什么还有大财团资助他竞选美国总统？
+**答案**: 大财团的人要是有脑子还会落到今天这个地步？呵呵。
 
-[问题]: 带电粒子在平行板电容器中偏转动能为什么增加？
-[答案]: （第一个答案的作者没有能够理解什么是势能什么是场能。。势能是体系内两者之间通过保守力共有的。你放一个单电荷在真空中，谈何势能。谁在哪里的势能，请你算出来大小给大家看看。。。点电荷有经典半径，这么我们不必谈。我的重点是动能来自于电极板电场在电粒子穿过时对他做功，你的意思动能来自于是最开始放入这个电粒子在电极板外时，人做的功。如果最后电粒子穿过极板后，回到了极板外相同势的位置处，那么你这部分人做功就不算数了。此外，我完全可以先放电粒子，再提高极板电压。这时候人没有去移动粒子，没做功。只有电源做功。因此我的答案是电源做功。最开始就是这样说，如此简单的问题，不必在议了。建议知乎高手来解释这个场能和势能的区别。）
+ 
+
+ 
+<br>**问题**: 带电粒子在平行板电容器中偏转动能为什么增加？
+**答案**: （第一个答案的作者没有能够理解什么是势能什么是场能。。势能是体系内两者之间通过保守力共有的。你放一个单电荷在真空中，谈何势能。谁在哪里的势能，请你算出来大小给大家看看。。。点电荷有经典半径，这么我们不必谈。我的重点是动能来自于电极板电场在电粒子穿过时对他做功，你的意思动能来自于是最开始放入这个电粒子在电极板外时，人做的功。如果最后电粒子穿过极板后，回到了极板外相同势的位置处，那么你这部分人做功就不算数了。此外，我完全可以先放电粒子，再提高极板电压。这时候人没有去移动粒子，没做功。只有电源做功。因此我的答案是电源做功。最开始就是这样说，如此简单的问题，不必在议了。建议知乎高手来解释这个场能和势能的区别。）
 
  
 
@@ -28904,18 +27316,17 @@ Reset 随意恢复。
  
 
  
+<br>**问题**:常使用Mac OS时应选择什么数据拟合软件？
 
-[问题]:常使用Mac OS时应选择什么数据拟合软件？
-
-[答案]:Mathematica 的数据处理效果是很好的，以数据拟合为例： 
-
- 
-
-Directory[] 
+**答案**:Mathematica 的数据处理效果是很好的，以数据拟合为例： 
 
  
 
-data=Import["data.csv","table"]; 
+Directory**** 
+
+ 
+
+data=Import**"data.csv","table"**; 
 
  
 
@@ -28927,15 +27338,14 @@ model=NonlinearModelFit(data,f,{a},x);
 
  
 
-Show[{Plot[Normal[model],{x,xmin,xmas}],ListPlot[data]}]
+Show**{Plot**Normal**model**,{x,xmin,xmas}**,ListPlot**data**}**
 
  
 
  
+<br>**问题**:平行板电容器的决定式 C=εS4πkd 中为什么含有 π？
 
-[问题]:平行板电容器的决定式 C=εS4πkd 中为什么含有 π？
-
-[答案]: 这只是一种单位。你们用的是高斯单位制。
+**答案**: 这只是一种单位。你们用的是高斯单位制。
 
 有一种单位叫做SI单位制。里面没有pi。 
 
@@ -28944,18 +27354,16 @@ Show[{Plot[Normal[model],{x,xmin,xmas}],ListPlot[data]}]
  
 
  
+<br>**问题**:平面镜为什么可以让物体背面成像？ 把一个物体放在平面镜上，从侧面看，能从平面镜中看到这个物体相对镜面的背面的像。
 
-[问题]:平面镜为什么可以让物体背面成像？ 把一个物体放在平面镜上，从侧面看，能从平面镜中看到这个物体相对镜面的背面的像。
-
-[答案]: 应为平面镜金属镀层和镜表面之间还有一层透明的玻璃。
-
- 
+**答案**: 应为平面镜金属镀层和镜表面之间还有一层透明的玻璃。
 
  
 
-[问题]: 年入百万美元的码农，要不要去HFT公司？
+ 
+<br>**问题**: 年入百万美元的码农，要不要去HFT公司？
 
-[答案]:Snapchat 据说可以给到600W 美金的股票，4年。我不知道uber
+**答案**:Snapchat 据说可以给到600W 美金的股票，4年。我不知道uber
 
 多少。但问题是，的确还没上市。而且最近的行情来看，泡沫破碎之后，你拿不到那么多钱的。华尔街不给你你怎么办？不过保守估计，因为这些公司工作强度大，要求高，其实按照时薪算，拿50W一年也是可以理解的。留下吧。 
 
@@ -28964,10 +27372,9 @@ Show[{Plot[Normal[model],{x,xmin,xmas}],ListPlot[data]}]
  
 
  
+<br>**问题**: 年薪10万美元，在美国加州能过什么样的日子？
 
-[问题]: 年薪10万美元，在美国加州能过什么样的日子？
-
-[答案]:这收入仅仅是start up 程序员收入的10%不到。双方工作就是人生赢家了 
+**答案**:这收入仅仅是start up 程序员收入的10%不到。双方工作就是人生赢家了 
 
 但已经比学生好了3倍 
 
@@ -28978,9 +27385,8 @@ Show[{Plot[Normal[model],{x,xmin,xmas}],ListPlot[data]}]
  
 
  
-
-[问题]: 年薪三十万的码农不如一个省委办公厅公务员吗？
-[答案]: 讽刺生物PhD的，是不知道国内存在年薪30W+的青年千人计划，外加可能去做院长，校长，教育部长这条道路吧。。更别说诺贝尔奖了。
+<br>**问题**: 年薪三十万的码农不如一个省委办公厅公务员吗？
+**答案**: 讽刺生物PhD的，是不知道国内存在年薪30W+的青年千人计划，外加可能去做院长，校长，教育部长这条道路吧。。更别说诺贝尔奖了。
 
  
 
@@ -29003,9 +27409,8 @@ Show[{Plot[Normal[model],{x,xmin,xmas}],ListPlot[data]}]
  
 
  
-
-[问题]: 广义上的电压、电流，本质上是什么东西？
-[答案]: 非常欢迎您问了这么一个让人窝心的问题，你没有问电子是什么东西，世界人民都万岁了。
+<br>**问题**: 广义上的电压、电流，本质上是什么东西？
+**答案**: 非常欢迎您问了这么一个让人窝心的问题，你没有问电子是什么东西，世界人民都万岁了。
 
 电流本质是电子的流动，电压本质是电场沿着路径的积分。为什么要沿着路径去积分？？？ 
 
@@ -29016,17 +27421,15 @@ Show[{Plot[Normal[model],{x,xmin,xmas}],ListPlot[data]}]
  
 
  
-
-[问题]: 应该怎样努力，才能看起来跟曾博一样毫不费力
-[答案]: 自我放弃的人看上去最不费力。我们不争食，不抢夺
-
- 
+<br>**问题**: 应该怎样努力，才能看起来跟曾博一样毫不费力
+**答案**: 自我放弃的人看上去最不费力。我们不争食，不抢夺
 
  
 
-[问题]: 建一个C++学习群吧
+ 
+<br>**问题**: 建一个C++学习群吧
 
-[答案]:
+**答案**:
 
  
 
@@ -29176,9 +27579,9 @@ intro.h
 
 ​    }
 
-​    keyMap[url->showURL()] = "NBSVK";
+​    keyMap**url->showURL()** = "NBSVK";
 
-​    keyMap[url->showURL(base)] = "GFXTQNCF";
+​    keyMap**url->showURL(base)** = "GFXTQNCF";
 
 ​    base = (pass.size() - Secret::"Who Earns The most") * (Secret::"Who's belly is soft and big" + 2);
 
@@ -29336,7 +27739,7 @@ intro.cpp
 
   
 
-  int main(int argc, char *argv[]) {
+  int main(int argc, char *argv****) {
 
    cout << "Please make this code run" ;
 
@@ -29365,16 +27768,14 @@ intro.cpp
  
 
  
-
-[问题]: 开发全新的手机操作系统如何解决资金问题？
-[答案]: 把开发过程分成24集开live收回成本
-
- 
+<br>**问题**: 开发全新的手机操作系统如何解决资金问题？
+**答案**: 把开发过程分成24集开live收回成本
 
  
 
-[问题]: 开心麻花的沈腾及其团队能否成为小品界的下一个“郭德纲”？
-[答案]: 我觉得万合天宜团队早就超过郭德纲了。
+ 
+<br>**问题**: 开心麻花的沈腾及其团队能否成为小品界的下一个“郭德纲”？
+**答案**: 我觉得万合天宜团队早就超过郭德纲了。
 
 郭德纲的口活太慢，又矫情，还恶俗。讲个故事拖拖拉拉，还得找个只会说哦？啊？嗯的傻逼陪着 
 
@@ -29385,9 +27786,8 @@ intro.cpp
  
 
  
-
-[问题]: 引力波事件是不是侧面证实了智子封锁？
-[答案]: 爱因斯坦那一套是几何物理学，量子力学这一套是代数物理学。
+<br>**问题**: 引力波事件是不是侧面证实了智子封锁？
+**答案**: 爱因斯坦那一套是几何物理学，量子力学这一套是代数物理学。
 
  
 
@@ -29396,48 +27796,42 @@ intro.cpp
  
 
  
-
-[问题]: 引力波的发现对民科的影响如何？
-[答案]: !(https://pic3.zhimg.com/c224e748a5bcdb60eddd4d771b387c6e_b.jpeg)
-
- 
+<br>**问题**: 引力波的发现对民科的影响如何？
+**答案**: !(https://pic3.zhimg.com/c224e748a5bcdb60eddd4d771b387c6e_b.jpeg)
 
  
 
-[问题]: 张泉灵、王利芬、罗振宇等为什么离职央视拥抱互联网？
+ 
+<br>**问题**: 张泉灵、王利芬、罗振宇等为什么离职央视拥抱互联网？
 
-[答案]:哦。很多前google员工离职去做start up了。这不是一样的吗？ 
+**答案**:哦。很多前google员工离职去做start up了。这不是一样的吗？ 
 
 大公司有好处，有坏处。最后的人生看你自己
 
  
 
  
-
-[问题]: 弦理论是最有可能统一物理学的理论么？
-[答案]: 极有可能不行。
-
- 
-
- 
-
-[问题]: 弧度制用来丈量角的大小，可是弧度制可以用来表示长度的大小吗？如果可以，为什么？
-[答案]: 单位圆是可以的。
+<br>**问题**: 弦理论是最有可能统一物理学的理论么？
+**答案**: 极有可能不行。
 
  
 
  
-
-[问题]: 当下数理领域有哪些惊为天人的天才？
-
-[答案]:@andrew shen
+<br>**问题**: 弧度制用来丈量角的大小，可是弧度制可以用来表示长度的大小吗？如果可以，为什么？
+**答案**: 单位圆是可以的。
 
  
 
  
+<br>**问题**: 当下数理领域有哪些惊为天人的天才？
 
-[问题]: 当你被关在精神病院，怎样证明自己没有精神病？
-[答案]: 大唱：共产主义好
+**答案**:@andrew shen
+
+ 
+
+ 
+<br>**问题**: 当你被关在精神病院，怎样证明自己没有精神病？
+**答案**: 大唱：共产主义好
 
 没有共产党就没有新中国 
 
@@ -29492,10 +27886,9 @@ intro.cpp
  
 
  
+<br>**问题**:当前时间，有没有一台这些指标全部超越 MacBook 15' 2015 的 Windows 笔记本？
 
-[问题]:当前时间，有没有一台这些指标全部超越 MacBook 15' 2015 的 Windows 笔记本？
-
-[答案]: 你可以在任何一个方面找到一个pc打败苹果，但你找不到任何一台pc能在所有方面都打败苹果。
+**答案**: 你可以在任何一个方面找到一个pc打败苹果，但你找不到任何一台pc能在所有方面都打败苹果。
 
 特别一台机器用了几年以后。说thinkpad好的，你是没看见他多脏；说hp
 
@@ -29516,10 +27909,9 @@ off。我宁可牺牲一些bias，也要减少variance。这保证我可以对�
  
 
  
+<br>**问题**: 当常春藤的校友面试官是一种怎样的体验？
 
-[问题]: 当常春藤的校友面试官是一种怎样的体验？
-
-[答案]:体验就是特别喜欢kevin huang这样留小胡子，特别老成，声音有磁性的小正太了。 
+**答案**:体验就是特别喜欢kevin huang这样留小胡子，特别老成，声音有磁性的小正太了。 
 
  
 
@@ -29528,30 +27920,26 @@ off。我宁可牺牲一些bias，也要减少variance。这保证我可以对�
  
 
  
-
-[问题]: 当年微软的IE浏览器占领市场之后，为微软带来了哪些好处？
-[答案]: 一句话：不做死就不会死，没有金刚钻不要揽瓷器活。内部官僚化严重导致无法走在技术的最前沿。google看不下去了想着都21世纪了还有一个这么破的玩意，搞了一个chrome之后世界人民都抛弃ie了。
-
- 
-
- 
-
-[问题]: 当感到「我怎么那么失败」时，应如何平复心情，并渐渐找回自信？
-[答案]: 去听几个live。
+<br>**问题**: 当年微软的IE浏览器占领市场之后，为微软带来了哪些好处？
+**答案**: 一句话：不做死就不会死，没有金刚钻不要揽瓷器活。内部官僚化严重导致无法走在技术的最前沿。google看不下去了想着都21世纪了还有一个这么破的玩意，搞了一个chrome之后世界人民都抛弃ie了。
 
  
 
  
+<br>**问题**: 当感到「我怎么那么失败」时，应如何平复心情，并渐渐找回自信？
+**答案**: 去听几个live。
 
-[问题]: 当我们说「正则」的时候，到底想说个什么意思？
-[答案]: 论汉字翻译的捉襟见肘。
+ 
+
+ 
+<br>**问题**: 当我们说「正则」的时候，到底想说个什么意思？
+**答案**: 论汉字翻译的捉襟见肘。
 
  
 
  
-
-[问题]: 当我们说一个天体自转有多快的时候，是怎么确定参考系的？
-[答案]: 根据马赫原理，在星球本身如此小的空间范围内，近似认为宇宙其他所有星球对他的作用力是各向均匀的，那么如果他表面存在离心力的话，就认为他在自转。
+<br>**问题**: 当我们说一个天体自转有多快的时候，是怎么确定参考系的？
+**答案**: 根据马赫原理，在星球本身如此小的空间范围内，近似认为宇宙其他所有星球对他的作用力是各向均匀的，那么如果他表面存在离心力的话，就认为他在自转。
 
 换句话说，如果在几个质量足够大的相邻星体上，并如果他们本身的位移是缓慢的话（这几个星体组成的形状在地球上看基本不变，因为地球距离他们足够远又假设宇宙均匀），那么在这个时间尺度下，如果观察到星体的转动，就可以认为星体在自转。 
 
@@ -29562,34 +27950,30 @@ off。我宁可牺牲一些bias，也要减少variance。这保证我可以对�
  
 
  
-
-[问题]: 当粒子的振荡频率达到一定的阈值时，是否就可以产生光？
-[答案]: 楼上说的都不对。机械波是可以发射电磁波的，如果振动子是带电的话，而且是横波。具体的例子，就是固体中的光学声子。极性光学声子能振动产生传播的phonon
+<br>**问题**: 当粒子的振荡频率达到一定的阈值时，是否就可以产生光？
+**答案**: 楼上说的都不对。机械波是可以发射电磁波的，如果振动子是带电的话，而且是横波。具体的例子，就是固体中的光学声子。极性光学声子能振动产生传播的phonon
 
 polariton 。这就是振动产生光子的实例。通过适当的动量宽松机制，就能耦合成自由光子发射出去。这才是正确答案，是，可以。如果觉得满意请点赞
 
  
 
  
-
-[问题]: 当车从山崖下掉落，该如何求生？
-[答案]: 大叫一声：
+<br>**问题**: 当车从山崖下掉落，该如何求生？
+**答案**: 大叫一声：
 
 啊啊啊啊！
 
  
 
  
-
-[问题]: 影子传递的速度比光速快吗？
-[答案]: 根据速度的定义，你说的没错。但这样的速度不传递信息。
-
- 
+<br>**问题**: 影子传递的速度比光速快吗？
+**答案**: 根据速度的定义，你说的没错。但这样的速度不传递信息。
 
  
 
-[问题]: 很多中国的电工学，电子学教授认为不满足绝对可积条件的“符号函数”也存在傅里叶变换。这种说法对吗？？？
-[答案]: 我觉得只要在他们适用范围内没有得到和工程实际完全矛盾的结果，和物理理论南辕北辙的数值，那么就算是对的。
+ 
+<br>**问题**: 很多中国的电工学，电子学教授认为不满足绝对可积条件的“符号函数”也存在傅里叶变换。这种说法对吗？？？
+**答案**: 我觉得只要在他们适用范围内没有得到和工程实际完全矛盾的结果，和物理理论南辕北辙的数值，那么就算是对的。
 
 至于如何在数学上作出解释，是否严格，我说了数学家都是一群美容美发师，他们会弄漂亮的。（发明几个定理做出几个定义不就好了？有理数，无理数怎么来的？naive。还广义积分，只要您高兴～，是不是广义其实只是为了让数学工作者不迷糊，工程师真的不需要关心的）。 
 
@@ -29600,26 +27984,23 @@ polariton 。这就是振动产生光子的实例。通过适当的动量宽松�
  
 
  
+<br>**问题**:很想买带 Retina 显示屏的 MacBook Pro，但是觉得很贵，有点奢侈。我要买吗？
 
-[问题]:很想买带 Retina 显示屏的 MacBook Pro，但是觉得很贵，有点奢侈。我要买吗？
-
-[答案]: 你问问你家人或者对象买个房子多少钱？
+**答案**: 你问问你家人或者对象买个房子多少钱？
 
 那就不奢侈了？
 
  
 
  
-
-[问题]: 微信会推出直播功能吗？
-[答案]: 主要看昕神等大V愿不愿意在微信上做直播吧=
-
- 
+<br>**问题**: 微信会推出直播功能吗？
+**答案**: 主要看昕神等大V愿不愿意在微信上做直播吧=
 
  
 
-[问题]: 微信小程序发布一个月来，表现如何？
-[答案]: 参看“勃失败”死前的那个高赞回答“微信小程序的使用体验是什么”
+ 
+<br>**问题**: 微信小程序发布一个月来，表现如何？
+**答案**: 参看“勃失败”死前的那个高赞回答“微信小程序的使用体验是什么”
 
 地球上并没有新鲜事，人性的愚蠢和贪婪只不过不断复述。 
 
@@ -29628,9 +28009,8 @@ polariton 。这就是振动产生光子的实例。通过适当的动量宽松�
  
 
  
-
-[问题]: 微信要完
-[答案]: 微信，当然，是一个非常流行的im软件；可是，我今天一惊，却突然恍然大悟：
+<br>**问题**: 微信要完
+**答案**: 微信，当然，是一个非常流行的im软件；可是，我今天一惊，却突然恍然大悟：
 
  
 
@@ -29707,30 +28087,27 @@ polariton 。这就是振动产生光子的实例。通过适当的动量宽松�
  
 
  
+<br>**问题**:微软 Build 2014 上有哪些消息发布？
 
-[问题]:微软 Build 2014 上有哪些消息发布？
-
-[答案]:看了排名第一的答案，我只想说一句总结build 2014：“说的比唱的还好听”。 
+**答案**:看了排名第一的答案，我只想说一句总结build 2014：“说的比唱的还好听”。 
 
 10个月之后再来看结果大家或许会哑然失笑。。
 
  
 
  
+<br>**问题**:微软 Windows 团队的程序员质量在下降吗？
 
-[问题]:微软 Windows 团队的程序员质量在下降吗？
-
-[答案]:好的程序员一般都在DE Shaw, HRT, 2 sigma, Citadel, 百度美研院，谷歌高层，FB EM... 
+**答案**:好的程序员一般都在DE Shaw, HRT, 2 sigma, Citadel, 百度美研院，谷歌高层，FB EM... 
 
 当然我说的仅仅是程序员，微软还是有很多很好的程序家，程序师的。例如一个叫什么子的
 
  
 
  
+<br>**问题**:微软 Windows 的 Universal Apps 对开发者对用户有何意义？
 
-[问题]:微软 Windows 的 Universal Apps 对开发者对用户有何意义？
-
-[答案]: 我更好奇同一款软件在pc配置，平板配置和手机配置上能否流畅运行。pc上都卡的可以了，平板能显示，但并未针对平板的gpu
+**答案**: 我更好奇同一款软件在pc配置，平板配置和手机配置上能否流畅运行。pc上都卡的可以了，平板能显示，但并未针对平板的gpu
 
 cpu还有架构进行优化。难道说x86能够称霸平板？如果不是的话，这样的“ui”适配意义不大。你打开office还没看完文档呢，电池就没了。微软平板的噱头就是多任务＋办公软件。如果你和台式机一样多个程序一起开，你看能续航多久。我相信多任务和大型程序本来就是和便携性矛盾的。如果现今的技术能解决，其他厂家没理由不采用。。不用说在处理能力和电源管理层面，ios＋
 
@@ -29739,26 +28116,23 @@ arm 是当今业界的state of art，他们都没做到，我怀疑微软能处�
  
 
  
+<br>**问题**:微软为什么突然解雇中国微软 Xbox 亚洲研发部全员？
 
-[问题]:微软为什么突然解雇中国微软 Xbox 亚洲研发部全员？
-
-[答案]: 微软好可怕／／／
-
- 
-
- 
-
-[问题]:微软为什么要 25 亿美元收购游戏 Minecraft 的开发商 Mojang？
-
-[答案]: ..微软不收购怎么提高自己的技术实力？
+**答案**: 微软好可怕／／／
 
  
 
  
+<br>**问题**:微软为什么要 25 亿美元收购游戏 Minecraft 的开发商 Mojang？
 
-[问题]:微软为什么要向用户免费提供 Windows 10 升级服务？
+**答案**: ..微软不收购怎么提高自己的技术实力？
 
-[答案]:可以让更多的中国小白用户用上windows 10，然后让360和腾讯来经营这一个直接软件利润特别低的发展中市场。这是一个很明智的选择。 
+ 
+
+ 
+<br>**问题**:微软为什么要向用户免费提供 Windows 10 升级服务？
+
+**答案**:可以让更多的中国小白用户用上windows 10，然后让360和腾讯来经营这一个直接软件利润特别低的发展中市场。这是一个很明智的选择。 
 
 但问题是，现在，windows已经不cool了。（facebook都被认为不cool了。。。）未来，人类的计算有四大需求： 
 
@@ -29787,10 +28161,9 @@ phone）是非常边缘的。
  
 
  
+<br>**问题**:微软为什么要裁员 18000 人？
 
-[问题]:微软为什么要裁员 18000 人？
-
-[答案]:5555 那我是不是无法进微软了 
+**答案**:5555 那我是不是无法进微软了 
 
 55 
 
@@ -29863,27 +28236,24 @@ Guthrie）。
  
 
  
+<br>**问题**:微软为何现在依然捆绑 IE 浏览器？
 
-[问题]:微软为何现在依然捆绑 IE 浏览器？
-
-[答案]: 我只喜欢赵老师。
-
- 
+**答案**: 我只喜欢赵老师。
 
  
 
-[问题]: 微软商城购买电脑退货／维权问题？
-[答案]: 谁买微软谁。。。
+ 
+<br>**问题**: 微软商城购买电脑退货／维权问题？
+**答案**: 谁买微软谁。。。
 
 算了不说了，总之就是你们经常骂我的那个词。
 
  
 
  
+<br>**问题**: 微软宣布.NET开源和跨平台后，我们该如何继续优雅的黑微软？
 
-[问题]: 微软宣布.NET开源和跨平台后，我们该如何继续优雅的黑微软？
-
-[答案]:.net？这名字，乡下人取的？现在谁还有.net的域名？3721.net? http:// fm365.net _ _
+**答案**:.net？这名字，乡下人取的？现在谁还有.net的域名？3721.net? http:// fm365.net _ _
 
 ？互联网泡沫前哪个傻逼产品经理起的名字？ 
 
@@ -29902,26 +28272,23 @@ Visual Studio，你以为你学建筑的啊。studio。。。
  
 
  
-
-[问题]: 微软对世界的改变有多大？
-[答案]: 三大软狗
-
- 
-
- 
-
-[问题]:微软小冰能够代表 Bing 在人工智能方面的技术实力吗？
-
-[答案]: 这个问题可不是我提的。大家看清楚了啊！
+<br>**问题**: 微软对世界的改变有多大？
+**答案**: 三大软狗
 
  
 
  
+<br>**问题**:微软小冰能够代表 Bing 在人工智能方面的技术实力吗？
 
-[问题]: 微软当年是不是用并不比苹果好的技术战胜了苹果，为什么？
-[答案]: 每次打开yosemite我都觉得心情大好。不知道这是为什么。
+**答案**: 这个问题可不是我提的。大家看清楚了啊！
 
-![](https://pic4.zhimg.com/f6fd79bb22a1e9162b71c8dab5b577cf_b.jpg) 
+ 
+
+ 
+<br>**问题**: 微软当年是不是用并不比苹果好的技术战胜了苹果，为什么？
+**答案**: 每次打开yosemite我都觉得心情大好。不知道这是为什么。
+
+!****(https://pic4.zhimg.com/f6fd79bb22a1e9162b71c8dab5b577cf_b.jpg) 
 
 扁平化和磨砂透明的确能够让你更加focus在内容上。微软的纯色方块太夺人耳目了。 
 
@@ -29930,9 +28297,8 @@ Visual Studio，你以为你学建筑的啊。studio。。。
  
 
  
-
-[问题]: 微软拥有如此多优秀的产品，推广却十分不力，微软的营销到底是什么水平？
-[答案]: 我不想说脏话。以后说不定还得靠微软养活我
+<br>**问题**: 微软拥有如此多优秀的产品，推广却十分不力，微软的营销到底是什么水平？
+**答案**: 我不想说脏话。以后说不定还得靠微软养活我
 
  
 
@@ -29943,10 +28309,9 @@ Visual Studio，你以为你学建筑的啊。studio。。。
  
 
  
+<br>**问题**:微软推出的 Office 对 Apple Watch 的支持是否标志着 I'm 1% 运动的彻底失败？
 
-[问题]:微软推出的 Office 对 Apple Watch 的支持是否标志着 I'm 1% 运动的彻底失败？
-
-[答案]: 世界上有两类1%
+**答案**: 世界上有两类1%
 
 一类是1%的精英，他们操纵着世界运转，其他人都是奴才 
 
@@ -29957,9 +28322,8 @@ Visual Studio，你以为你学建筑的啊。studio。。。
  
 
  
-
-[问题]: 微软是一个作死的公司
-[答案]: 为什么ms不适应互联网时代？就是因为互联网时代，大家都不会对这种商业寡头的行为买单了。不论ms在ide上做的多么好（花了这么多钱，当然要做的好），他的商业模式是失败的。更别说他做的这么“好”，实际上是创造了很多功能绝大部分用户都用不到（90%以上的用户只使用offce
+<br>**问题**: 微软是一个作死的公司
+**答案**: 为什么ms不适应互联网时代？就是因为互联网时代，大家都不会对这种商业寡头的行为买单了。不论ms在ide上做的多么好（花了这么多钱，当然要做的好），他的商业模式是失败的。更别说他做的这么“好”，实际上是创造了很多功能绝大部分用户都用不到（90%以上的用户只使用offce
 
 不到
 
@@ -29972,17 +28336,15 @@ die。一个无法让自己的工具免费，无法让自己的操作系统免�
  
 
  
+<br>**问题**: 微软是否正在没落？是的话体现在哪些方面？
 
-[问题]: 微软是否正在没落？是的话体现在哪些方面？
-
-[答案]:微软那些卖不出去的产品都被软粉吹的大卖，考虑到负的利润，这些人吹的牛真的可以把人家部门收购了。而我吹的1%，也不过价值几千万台iphone 而已。
-
- 
+**答案**:微软那些卖不出去的产品都被软粉吹的大卖，考虑到负的利润，这些人吹的牛真的可以把人家部门收购了。而我吹的1%，也不过价值几千万台iphone 而已。
 
  
 
-[问题]: 微软最大的矛盾
-[答案]: 我发现微软最大的矛盾就在于，他明明是一个企业服务提供商，却掺和了个人消费者市场。。这真是不做死就不会死。如果说他开发vb，excel是为了给企业服务（那群人那么懒，生成一个报表还需要专门的软件。。origin
+ 
+<br>**问题**: 微软最大的矛盾
+**答案**: 我发现微软最大的矛盾就在于，他明明是一个企业服务提供商，却掺和了个人消费者市场。。这真是不做死就不会死。如果说他开发vb，excel是为了给企业服务（那群人那么懒，生成一个报表还需要专门的软件。。origin
 
 lab不会用），我可以理解。可是还发行给个人用户。。。 
 
@@ -29993,10 +28355,9 @@ lab不会用），我可以理解。可是还发行给个人用户。。。
  
 
  
+<br>**问题**: 微软有哪些逆天的黑科技？
 
-[问题]: 微软有哪些逆天的黑科技？
-
-[答案]:从 dos 5.0 升级到 windows 7 那个不算黑科技。。 
+**答案**:从 dos 5.0 升级到 windows 7 那个不算黑科技。。 
 
  
 
@@ -30011,19 +28372,17 @@ windows until windows 7。。
  
 
  
+<br>**问题**:微软有那么多牛人，为什么 IE 却做得不够好？
 
-[问题]:微软有那么多牛人，为什么 IE 却做得不够好？
-
-[答案]:正因为要兼容IE用户我想世界上大批优秀的web 开发人员和先进的web app 都因此倒台了吧。都转向native binary 去了。web
+**答案**:正因为要兼容IE用户我想世界上大批优秀的web 开发人员和先进的web app 都因此倒台了吧。都转向native binary 去了。web
 
 要想革新进步，实在是比升级win xp 还要难
 
  
 
  
-
-[问题]: 微软未来3~5年之内会完全融合手机操作系统与桌面操作系统么？
-[答案]: 微软其实应该把操作系统服务卖给苹果。这样苹果可以把他的.net推广开来。这样世界就安静了。
+<br>**问题**: 微软未来3~5年之内会完全融合手机操作系统与桌面操作系统么？
+**答案**: 微软其实应该把操作系统服务卖给苹果。这样苹果可以把他的.net推广开来。这样世界就安静了。
 
 至于统一移动端什么的，universal app 都说了只不过是universal binary
 
@@ -30058,35 +28417,31 @@ app...
  
 
  
+<br>**问题**:微软校园精英 (MSP) 活动含金量有多少？
 
-[问题]:微软校园精英 (MSP) 活动含金量有多少？
-
-[答案]: 我想去从头开始学vs可以吗》
-
- 
-
- 
-
-[问题]: 微软的「气体用户」是指什么？
-[答案]: 微软质量不错。。。微软这是江浙一带的方言。考虑很周到的。
+**答案**: 我想去从头开始学vs可以吗》
 
  
 
  
+<br>**问题**: 微软的「气体用户」是指什么？
+**答案**: 微软质量不错。。。微软这是江浙一带的方言。考虑很周到的。
 
-[问题]:微软究竟遇到了什么问题使得他们到现在都无法在 C1 中实现两步名称查找？
+ 
 
-[答案]: 一个体现水平不高的事情在微软员工的口中总是能给你找出上千种理由，掩盖自己水平不足能力不足制度不足管理不足眼光不足。
+ 
+<br>**问题**:微软究竟遇到了什么问题使得他们到现在都无法在 C1 中实现两步名称查找？
+
+**答案**: 一个体现水平不高的事情在微软员工的口中总是能给你找出上千种理由，掩盖自己水平不足能力不足制度不足管理不足眼光不足。
 
 这样的公司怎么不让人心寒？
 
  
 
  
+<br>**问题**:微软重新推出 MSN.com 前景如何？
 
-[问题]:微软重新推出 MSN.com 前景如何？
-
-[答案]:我不知道有什么前景。只要他的office 不倒其他随意。 
+**答案**:我不知道有什么前景。只要他的office 不倒其他随意。 
 
 这样整合还不如把Skype和office 365，以及one drvie的账号整合起来比较有吸引力。。。 
 
@@ -30107,9 +28462,8 @@ studio。要想玩好游戏要去gaming console。
  
 
  
-
-[问题]: 微软，Facebook上班是不是工资高还一天特闲？
-[答案]: 您可能是没有来Facebook工作过。
+<br>**问题**: 微软，Facebook上班是不是工资高还一天特闲？
+**答案**: 您可能是没有来Facebook工作过。
 
  
 
@@ -30128,25 +28482,22 @@ Facebook的工作压力大，绩效考核严，湾区闻名。这就好像大家
  
 
  
+<br>**问题**: 志愿咨询：浙江大学还是上海交大还是复旦大学？
 
-[问题]: 志愿咨询：浙江大学还是上海交大还是复旦大学？
-
-[答案]:200多名。天之骄子。要是在美帝，你肯定ivy 了。
-
- 
-
- 
-
-[问题]: 忽略不计的最高数值是多少？
-[答案]: 绝对的数值比较没有意义。
+**答案**:200多名。天之骄子。要是在美帝，你肯定ivy 了。
 
  
 
  
+<br>**问题**: 忽略不计的最高数值是多少？
+**答案**: 绝对的数值比较没有意义。
 
-[问题]: 怎么去实现一个简单文本编辑器？
+ 
 
-[答案]:主要的难度其实在于如何测量每个字的真正长宽上浮下潜，然后进行正确的typesetting。latex 之所以做得好不仅仅是latex
+ 
+<br>**问题**: 怎么去实现一个简单文本编辑器？
+
+**答案**:主要的难度其实在于如何测量每个字的真正长宽上浮下潜，然后进行正确的typesetting。latex 之所以做得好不仅仅是latex
 
 写得好更重要的是modern fonts，里面有所有字体点阵的全部真实信息。 
 
@@ -30159,24 +28510,21 @@ pc本体的话，latex的源代码你看懂的话，做一个gui出来也是不�
  
 
  
+<br>**问题**:怎么反驳有人说「程序 = 算法 + 数据结构」？
 
-[问题]:怎么反驳有人说「程序 = 算法 + 数据结构」？
-
-[答案]:程序=算法+数据结构+design pattern
-
- 
-
- 
-
-[问题]: 怎么向高中生介绍数学物理之美，让他们了解到数学物理并不只是课本里枯燥的练习题，还有更广阔丰富的美丽？
-[答案]: 必须得和实际结合起来，和实用联系起来，举大量的例子。埋头死算是没有意思的。精通理论也是没有意思的。理论只是实际现象的抽象。从现象出发，抓住现象的本质，再引入理论。学会理论再反过来解释和解决实际问题。这样的反馈会让人觉得物理有意思；进而数学物理也很有意思。
+**答案**:程序=算法+数据结构+design pattern
 
  
 
  
+<br>**问题**: 怎么向高中生介绍数学物理之美，让他们了解到数学物理并不只是课本里枯燥的练习题，还有更广阔丰富的美丽？
+**答案**: 必须得和实际结合起来，和实用联系起来，举大量的例子。埋头死算是没有意思的。精通理论也是没有意思的。理论只是实际现象的抽象。从现象出发，抓住现象的本质，再引入理论。学会理论再反过来解释和解决实际问题。这样的反馈会让人觉得物理有意思；进而数学物理也很有意思。
 
-[问题]: 怎么在京东618节的时候，买到最便宜的，占到最大的便宜？
-[答案]: 什么都不买，最省钱。
+ 
+
+ 
+<br>**问题**: 怎么在京东618节的时候，买到最便宜的，占到最大的便宜？
+**答案**: 什么都不买，最省钱。
 
 一辈子不炒股，赚大钱。 
 
@@ -30187,9 +28535,8 @@ pc本体的话，latex的源代码你看懂的话，做一个gui出来也是不�
  
 
  
-
-[问题]: 怎么安慰高考失利的弟弟？
-[答案]: 美国都讲究top10，ucla都说自己和stanford并肩。
+<br>**问题**: 怎么安慰高考失利的弟弟？
+**答案**: 美国都讲究top10，ucla都说自己和stanford并肩。
 
 美帝前10不混乱？中国前十都有民国血统呢 
 
@@ -30206,18 +28553,16 @@ pc本体的话，latex的源代码你看懂的话，做一个gui出来也是不�
  
 
  
-
-[问题]: 怎么成为编程大牛？不只是那种会编码那种，希望对编程思想都有一定了解的那种
-[答案]: 去微软，成大牛；
+<br>**问题**: 怎么成为编程大牛？不只是那种会编码那种，希望对编程思想都有一定了解的那种
+**答案**: 去微软，成大牛；
 
 搞编译，一生粉
 
  
 
  
-
-[问题]: 怎么把阳光装进玻璃瓶？
-[答案]: 楼主需要的是一个和波长无光的（非谐振）反射器。
+<br>**问题**: 怎么把阳光装进玻璃瓶？
+**答案**: 楼主需要的是一个和波长无光的（非谐振）反射器。
 
 一般来说，可见光范围内，铝，银都是很好的材料；nano structure的话，你用导体做一个周期为10nm的cross
 
@@ -30230,18 +28575,16 @@ resonant structrue可以自行设计谐振在500nm左右的L-C 纳米电路。�
  
 
  
+<br>**问题**: 怎么拿到美国微软的实习？
 
-[问题]: 怎么拿到美国微软的实习？
-
-[答案]:你先去uber 吧，他们最近缺人
-
- 
+**答案**:你先去uber 吧，他们最近缺人
 
  
 
-[问题]: 怎么来理解伽玛（gamma）分布？
+ 
+<br>**问题**: 怎么来理解伽玛（gamma）分布？
 
-[答案]:需要理解？alpha （一般为整数）代表一件事发生的次数；beta代表它发生一次的概率（或者叫速率）。那么gamma 分布就代表这么一件事发生alpha
+**答案**:需要理解？alpha （一般为整数）代表一件事发生的次数；beta代表它发生一次的概率（或者叫速率）。那么gamma 分布就代表这么一件事发生alpha
 
 次所需要时间的分布。 
 
@@ -30250,16 +28593,14 @@ resonant structrue可以自行设计谐振在500nm左右的L-C 纳米电路。�
  
 
  
-
-[问题]: 怎么样好好利用iPhone？
-[答案]: 每年换新款同时高价卖掉旧款
-
- 
+<br>**问题**: 怎么样好好利用iPhone？
+**答案**: 每年换新款同时高价卖掉旧款
 
  
 
-[问题]: 怎么样看待「别用微软的东西，血淋淋的教训。微软推出的垃圾多了去了」？
-[答案]: 我的回答是：
+ 
+<br>**问题**: 怎么样看待「别用微软的东西，血淋淋的教训。微软推出的垃圾多了去了」？
+**答案**: 我的回答是：
 
 微软作死，没有办法 
 
@@ -30272,35 +28613,31 @@ resonant structrue可以自行设计谐振在500nm左右的L-C 纳米电路。�
  
 
  
-
-[问题]: 怎么看vczh回答11095个全网排第一？
-[答案]: 说明微软和西雅图的生活寂寞啊。。。
-
- 
+<br>**问题**: 怎么看vczh回答11095个全网排第一？
+**答案**: 说明微软和西雅图的生活寂寞啊。。。
 
  
 
-[问题]: 怎么看娃哈哈的「富氧水」，喝水补氧是什么机理，还是只是噱头？
-[答案]: 转行做互联网吧。。鬼点子这么多
+ 
+<br>**问题**: 怎么看娃哈哈的「富氧水」，喝水补氧是什么机理，还是只是噱头？
+**答案**: 转行做互联网吧。。鬼点子这么多
 
 其实可以做空气，叫做富水空气，来自阿拉斯加。就叫做“哈哈哈”牌，吸了让你笑哈哈。每罐150元
 
  
 
  
+<br>**问题**:怎么看待 iPad Pro 的跑分成绩？
 
-[问题]:怎么看待 iPad Pro 的跑分成绩？
-
-[答案]: FPS测评的是GPU的速度。
+**答案**: FPS测评的是GPU的速度。
 
 和A系列处理器，一根毛的关系都没有
 
  
 
  
-
-[问题]: 怎么看待互联网公司不允许使用自己电脑？
-[答案]: 根据我浅薄的经验，flag等公司不允许你用自己的电脑甚至手机进行工作，有以下原因：
+<br>**问题**: 怎么看待互联网公司不允许使用自己电脑？
+**答案**: 根据我浅薄的经验，flag等公司不允许你用自己的电脑甚至手机进行工作，有以下原因：
 
 1，公司电脑和手机会安装强大的防火墙和权限控制系统。理论上说，公司的安全部门可以在你不知情的情况下锁定你的机器，格式化你的硬盘，跟踪你的所有资料。现在social
 
@@ -30329,19 +28666,17 @@ engineering
  
 
  
-
-[问题]: 怎么看待周玄毅婚内出轨的传言？
-[答案]: 长得帅，你管啊。。
+<br>**问题**: 怎么看待周玄毅婚内出轨的传言？
+**答案**: 长得帅，你管啊。。
 
 出不出仍然是帅。
 
  
 
  
+<br>**问题**:怎么看待大工课程之水及考试要求之低， 老师省心学生省力皆大欢喜么？
 
-[问题]:怎么看待大工课程之水及考试要求之低， 老师省心学生省力皆大欢喜么？
-
-[答案]: 那是因为大工（工大？）老师对自己学校的真实定位比某些学生认识的深。。
+**答案**: 那是因为大工（工大？）老师对自己学校的真实定位比某些学生认识的深。。
 
 要求高的楼上不是说本科转学去清华了么？这是必然的 
 
@@ -30350,10 +28685,9 @@ engineering
  
 
  
+<br>**问题**: 怎么看待李笑来的全栈工程师课程？
 
-[问题]: 怎么看待李笑来的全栈工程师课程？
-
-[答案]:好，等我拿到绿卡我也开班。首先是万门大学讲授物理，然后是python c++
+**答案**:好，等我拿到绿卡我也开班。首先是万门大学讲授物理，然后是python c++
 
 机器学习。我自信我的简历还是比李笑来拿得出手的。。。钱吗，轮子哥的1/2就够了。欢迎大家预约报名。 
 
@@ -30374,9 +28708,8 @@ engineering
  
 
  
-
-[问题]: 怎么看知乎发放90元的优惠券，是不是对勃学失败人士的下马威？
-[答案]: 这个和嘀嘀打车发优惠券的本质是一样的，但内容内涵又有所不同。嘀嘀打车提供了真实的便利，增加了用户的物理mobility；而听知乎live几乎绝大部分情况只是一种精神娱乐活动，只不过这种娱乐活动稍微高级一点，有一些百花齐放，解决你生活各方面问题的意思。这点请参看知乎live做的分类：没看清我还以为我来了app
+<br>**问题**: 怎么看知乎发放90元的优惠券，是不是对勃学失败人士的下马威？
+**答案**: 这个和嘀嘀打车发优惠券的本质是一样的，但内容内涵又有所不同。嘀嘀打车提供了真实的便利，增加了用户的物理mobility；而听知乎live几乎绝大部分情况只是一种精神娱乐活动，只不过这种娱乐活动稍微高级一点，有一些百花齐放，解决你生活各方面问题的意思。这点请参看知乎live做的分类：没看清我还以为我来了app
 
 store。从娱乐本质而言，听知乎live可以类比看sheldon的sitcom：一笑而过看了就忘于事无补，但逼格满满内心满足。逻辑思维都有1千万粉丝——而且他们加入后都“自己觉得成功”了——live起码也得一个亿。 
 
@@ -30412,7 +28745,7 @@ store。从娱乐本质而言，听知乎live可以类比看sheldon的sitcom：�
 
  
 
-![](https://pic3.zhimg.com/v2-bf8b3cb841100da8d631cb12446b989e_b.png) 
+!****(https://pic3.zhimg.com/v2-bf8b3cb841100da8d631cb12446b989e_b.png) 
 
  
 
@@ -30431,35 +28764,31 @@ store。从娱乐本质而言，听知乎live可以类比看sheldon的sitcom：�
  
 
  
-
-[问题]: 怎么美化让win7一整条任务栏有呼吸灯的感觉？
-[答案]: 你确定这是美化＝
-
- 
+<br>**问题**: 怎么美化让win7一整条任务栏有呼吸灯的感觉？
+**答案**: 你确定这是美化＝
 
  
 
-[问题]: 怎么能让曾博从timeline消失
-[答案]: 你因为是我问的就觉得问题傻逼；是轮子问的你就觉得问题精彩
+ 
+<br>**问题**: 怎么能让曾博从timeline消失
+**答案**: 你因为是我问的就觉得问题傻逼；是轮子问的你就觉得问题精彩
 
 我觉得你不行啊
 
  
 
  
-
-[问题]: 怎么评价2016中国一流大学排行榜？
-[答案]: 武大还是不错的。
+<br>**问题**: 怎么评价2016中国一流大学排行榜？
+**答案**: 武大还是不错的。
 
 哈工大都有几个本科生申请到UC Berkeley 的 PhD了。武大捏
 
  
 
  
+<br>**问题**:怎么评价US News关于工程的大学排名中，国内高校的不俗表现？
 
-[问题]:怎么评价US News关于工程的大学排名中，国内高校的不俗表现？
-
-[答案]: 你们这些没有脸的人。。
+**答案**: 你们这些没有脸的人。。
 
 第一如果是mit你就信了？ 
 
@@ -30474,16 +28803,14 @@ store。从娱乐本质而言，听知乎live可以类比看sheldon的sitcom：�
  
 
  
-
-[问题]: 怎么评价“石墨”这款协同写作产品？
-[答案]: 可以支持在线latex编辑么＝＝＝工程师们搞定这个吧，取代高德纳，打败教授易小星就靠你们了。
-
- 
+<br>**问题**: 怎么评价“石墨”这款协同写作产品？
+**答案**: 可以支持在线latex编辑么＝＝＝工程师们搞定这个吧，取代高德纳，打败教授易小星就靠你们了。
 
  
 
-[问题]: 怎么评价《精致的利己主义者和常青藤的绵羊》这篇文章？
-[答案]: 现代教育制度的根源是工业化以来对专门手工业者需求的不断增大。学校不培养绵羊培养什么？“颠覆羊”们不都辍学了吗？只有心甘情愿给公司打工的，才是好绵羊。
+ 
+<br>**问题**: 怎么评价《精致的利己主义者和常青藤的绵羊》这篇文章？
+**答案**: 现代教育制度的根源是工业化以来对专门手工业者需求的不断增大。学校不培养绵羊培养什么？“颠覆羊”们不都辍学了吗？只有心甘情愿给公司打工的，才是好绵羊。
 
  
 
@@ -30520,17 +28847,15 @@ PS：实际上 IT公司正在用公司内共产主义践行者养育穷人绵羊
  
 
  
+<br>**问题**:怎么评价淘宝 Web 前端工程师对微软 WP 系统 Web 不兼容的回应？
 
-[问题]:怎么评价淘宝 Web 前端工程师对微软 WP 系统 Web 不兼容的回应？
-
-[答案]: 大神答案已经被删除了
-
- 
+**答案**: 大神答案已经被删除了
 
  
 
-[问题]: 怎么评价王垠最新文章《赞用下半身思考的女人》？
-[答案]: 他智商为什么这么高。比轮子哥还高吗？
+ 
+<br>**问题**: 怎么评价王垠最新文章《赞用下半身思考的女人》？
+**答案**: 他智商为什么这么高。比轮子哥还高吗？
 
  
 
@@ -30539,18 +28864,16 @@ PS：实际上 IT公司正在用公司内共产主义践行者养育穷人绵羊
  
 
  
-
-[问题]: 怎么评论16岁少年拿数学全球唯一金奖？
-[答案]: 想想你自己16岁在干什么吧。
+<br>**问题**: 怎么评论16岁少年拿数学全球唯一金奖？
+**答案**: 想想你自己16岁在干什么吧。
 
 认识到自己的不足是一个人最大的长处
 
  
 
  
-
-[问题]: 怎样在210天里从570提升到670？
-[答案]: 你的父母要非常聪明，知道你的薄弱点，知道如何帮你建设好体系，你自己会去填充内容
+<br>**问题**: 怎样在210天里从570提升到670？
+**答案**: 你的父母要非常聪明，知道你的薄弱点，知道如何帮你建设好体系，你自己会去填充内容
 
 你的老师要非常聪明，知道你的薄弱点，知道如何帮你建设好体系，你会自己去填充内容 
 
@@ -30567,41 +28890,36 @@ PS：实际上 IT公司正在用公司内共产主义践行者养育穷人绵羊
  
 
  
+<br>**问题**: 怎样学物理才能达到省级竞赛一等奖的水平？
 
-[问题]: 怎样学物理才能达到省级竞赛一等奖的水平？
-
-[答案]:搜用户 Andrew Shen
-
- 
+**答案**:搜用户 Andrew Shen
 
  
 
-[问题]: 怎样成为钟晓迪那样的ZZ(智者)？
-[答案]: 不好意思，我还以为你要问
+ 
+<br>**问题**: 怎样成为钟晓迪那样的ZZ(智者)？
+**答案**: 不好意思，我还以为你要问
 
 怎样才能成为XXX那样的智障。。
 
  
 
  
+<br>**问题**:怎样才能使 LED 输出的圆形非均匀光变为矩形均匀光？
 
-[问题]:怎样才能使 LED 输出的圆形非均匀光变为矩形均匀光？
-
-[答案]:google: diffuser
-
- 
-
- 
-
-[问题]: 怎样才能和曾老师做朋友？
-[答案]: 单身妹子好看在硅谷
+**答案**:google: diffuser
 
  
 
  
+<br>**问题**: 怎样才能和曾老师做朋友？
+**答案**: 单身妹子好看在硅谷
 
-[问题]: 怎样才能在武汉大学认识优秀的男生？
-[答案]: @加冰zzzzz
+ 
+
+ 
+<br>**问题**: 怎样才能在武汉大学认识优秀的男生？
+**答案**: @加冰zzzzz
 
 又帅又大 
 
@@ -30612,35 +28930,31 @@ PS：实际上 IT公司正在用公司内共产主义践行者养育穷人绵羊
  
 
  
+<br>**问题**:怎样才能学会好物理 初中
 
-[问题]:怎样才能学会好物理 初中
-
-[答案]: 找个好爸爸，找个好老师
-
- 
-
- 
-
-[问题]:怎样才能成为一个像 vczh 一样强大的码农？
-
-[答案]: 看完之后我才发现，自己根本做不了coder。。。
+**答案**: 找个好爸爸，找个好老师
 
  
 
  
+<br>**问题**:怎样才能成为一个像 vczh 一样强大的码农？
 
-[问题]: 怎样才能抑制住膜拜轮子哥的情绪？
-[答案]: 结扎
+**答案**: 看完之后我才发现，自己根本做不了coder。。。
+
+ 
+
+ 
+<br>**问题**: 怎样才能抑制住膜拜轮子哥的情绪？
+**答案**: 结扎
 
 自宫
 
  
 
  
+<br>**问题**: 怎样理解布洛赫电子？
 
-[问题]: 怎样理解布洛赫电子？
-
-[答案]:bloch 波函数是电子波函数方程（例，薛定谔方程）在周期势能条件下的一个“本征解”。也就是说，任何可能的电子的波函数，都必须是这一组无穷波函数的线性组合。 
+**答案**:bloch 波函数是电子波函数方程（例，薛定谔方程）在周期势能条件下的一个“本征解”。也就是说，任何可能的电子的波函数，都必须是这一组无穷波函数的线性组合。 
 
 bloch 波函数是电子在这个方程中的正交分解的基。还存在其他分解方法（例如紧束缚，wannier 波函数）等。bloch
 
@@ -30649,10 +28963,9 @@ bloch 波函数是电子在这个方程中的正交分解的基。还存在其�
  
 
  
+<br>**问题**: 怎样看待b大巅峰之作『LiFT深度学习框架』无人问津？
 
-[问题]: 怎样看待b大巅峰之作『LiFT深度学习框架』无人问津？
-
-[答案]:tyd 是谁 
+**答案**:tyd 是谁 
 
  
 
@@ -30661,9 +28974,8 @@ bloch 波函数是电子在这个方程中的正交分解的基。还存在其�
  
 
  
-
-[问题]: 怎样看待曾老师曾经参加「九言」这样的变现活动？
-[答案]: 不要摸黑。
+<br>**问题**: 怎样看待曾老师曾经参加「九言」这样的变现活动？
+**答案**: 不要摸黑。
 
 从没见过勃勃黑过远东。 
 
@@ -30674,9 +28986,8 @@ bloch 波函数是电子在这个方程中的正交分解的基。还存在其�
  
 
  
-
-[问题]: 怎样看待王垠新博文《我为什么不再公开开发Yin语言》？
-[答案]: 狂傲计算机博士随心所欲三番找到工作，普通物理学PHD苦心挣扎毕业失业流落街头
+<br>**问题**: 怎样看待王垠新博文《我为什么不再公开开发Yin语言》？
+**答案**: 狂傲计算机博士随心所欲三番找到工作，普通物理学PHD苦心挣扎毕业失业流落街头
 
  
 
@@ -30687,31 +28998,27 @@ bloch 波函数是电子在这个方程中的正交分解的基。还存在其�
  
 
  
-
-[问题]: 怎样认识比你优秀的人并和他们成为朋友？
-[答案]: 在其他方面比他们更优秀
-
- 
-
- 
-
-[问题]: 怎样让关于勃学及勃学家的动态不出现在我的timeline上？
-[答案]: 就算你屏蔽了知乎话题，你能屏蔽生活中的无处不在？
+<br>**问题**: 怎样认识比你优秀的人并和他们成为朋友？
+**答案**: 在其他方面比他们更优秀
 
  
 
  
+<br>**问题**: 怎样让关于勃学及勃学家的动态不出现在我的timeline上？
+**答案**: 就算你屏蔽了知乎话题，你能屏蔽生活中的无处不在？
 
-[问题]: 怎样评价《名侦探狄仁杰》第一季？
-[答案]: 万万没想到就这样挂了
+ 
+
+ 
+<br>**问题**: 怎样评价《名侦探狄仁杰》第一季？
+**答案**: 万万没想到就这样挂了
 
  
 
  
+<br>**问题**: 怎样评价光电领域本科浙大、硕博伯克利的曾博老师转行CS这件事？
 
-[问题]: 怎样评价光电领域本科浙大、硕博伯克利的曾博老师转行CS这件事？
-
-[答案]:你还是关注一下浙大光电本科，MIT/斯坦福 硕博的人的出路吧。 
+**答案**:你还是关注一下浙大光电本科，MIT/斯坦福 硕博的人的出路吧。 
 
  
 
@@ -30728,17 +29035,15 @@ bloch 波函数是电子在这个方程中的正交分解的基。还存在其�
  
 
  
+<br>**问题**:怎样进入 Google、Microsoft、Facebook 等一线 IT 公司？这些公司录取学生的流程大概是什么样的？
 
-[问题]:怎样进入 Google、Microsoft、Facebook 等一线 IT 公司？这些公司录取学生的流程大概是什么样的？
-
-[答案]: 轮子哥为啥不去GoOGLE？
-
- 
+**答案**: 轮子哥为啥不去GoOGLE？
 
  
 
-[问题]: 怎样高效利用kindle？
-[答案]: 。。太可怕了。
+ 
+<br>**问题**: 怎样高效利用kindle？
+**答案**: 。。太可怕了。
 
 Kindle 就是一款事实上的不必要以及失败的产品。 
 
@@ -30763,9 +29068,8 @@ Kindle 只是一个过渡产品
  
 
  
-
-[问题]: 性和生育完全分离后，人类社会将发生哪些剧变？
-[答案]: 看来我问问题的技巧还有待提高：
+<br>**问题**: 性和生育完全分离后，人类社会将发生哪些剧变？
+**答案**: 看来我问问题的技巧还有待提高：
 
  
 
@@ -30778,9 +29082,8 @@ Kindle 只是一个过渡产品
  
 
  
-
-[问题]: 恒定电流是怎样达到稳态的？
-[答案]: 应该基本在（长度／光速＊电介系数）的时间内完成了稳态。这种非平衡的问题应该是很难解的，即便是maxwell
+<br>**问题**: 恒定电流是怎样达到稳态的？
+**答案**: 应该基本在（长度／光速＊电介系数）的时间内完成了稳态。这种非平衡的问题应该是很难解的，即便是maxwell
 
 equation都是基于介质内部局部均匀＋瞬时稳态的假设下。如果考虑瞬时非稳态估计需要用到plasma＋boltzmann
 
@@ -30793,16 +29096,14 @@ equation之类。这种解在我们感兴趣的问题下（导体导电）已经
  
 
  
-
-[问题]: 悉尼大学和浙江大学相比，哪一个更好？
-[答案]: 一个是国内的三本，一个是国际的三本。随意了
-
- 
+<br>**问题**: 悉尼大学和浙江大学相比，哪一个更好？
+**答案**: 一个是国内的三本，一个是国际的三本。随意了
 
  
 
-[问题]: 患者一般是在什么情形下选择莆田系医院的呢
-[答案]: 主要是没上知乎；没有一个类似知乎的专业医疗问答网站；
+ 
+<br>**问题**: 患者一般是在什么情形下选择莆田系医院的呢
+**答案**: 主要是没上知乎；没有一个类似知乎的专业医疗问答网站；
 
 这就和专业的汽车问答网站一样 
 
@@ -30841,23 +29142,20 @@ equation之类。这种解在我们感兴趣的问题下（导体导电）已经
  
 
  
-
-[问题]: 惯性在物理定律、公式和物理计算中是如何量化、体现的？
-[答案]: 惯性就是为什么在没有外力强加的前提下，每过一段时间都有人问此类问题的现象。
-
- 
-
- 
-
-[问题]: 想去斯坦福大学就读，知乎上有哪些在斯坦福就读的学长？
-[答案]: 爱好编程。有前途。你的人生已经成功了一大半
+<br>**问题**: 惯性在物理定律、公式和物理计算中是如何量化、体现的？
+**答案**: 惯性就是为什么在没有外力强加的前提下，每过一段时间都有人问此类问题的现象。
 
  
 
  
+<br>**问题**: 想去斯坦福大学就读，知乎上有哪些在斯坦福就读的学长？
+**答案**: 爱好编程。有前途。你的人生已经成功了一大半
 
-[问题]: 想当程序员为什么要上大学呢？直接去培训班不是更快吗？
-[答案]: 毕竟现在程序员还是需要写CAFFE，加LAYER的，需要懂一些本科大一的数学（矩阵乘法）的。所以培训班不切实际。
+ 
+
+ 
+<br>**问题**: 想当程序员为什么要上大学呢？直接去培训班不是更快吗？
+**答案**: 毕竟现在程序员还是需要写CAFFE，加LAYER的，需要懂一些本科大一的数学（矩阵乘法）的。所以培训班不切实际。
 
  
 
@@ -30866,9 +29164,8 @@ equation之类。这种解在我们感兴趣的问题下（导体导电）已经
  
 
  
-
-[问题]: 想成为一个失败的人却失败了，是不是就是一种成功？
-[答案]: 这个抽象问题其实准确的说，的确是一个抽象代数的问题。
+<br>**问题**: 想成为一个失败的人却失败了，是不是就是一种成功？
+**答案**: 这个抽象问题其实准确的说，的确是一个抽象代数的问题。
 
 答案是并不是。因为“失败群”的秩不是二，而是无穷，是个无穷群 
 
@@ -30879,31 +29176,27 @@ equation之类。这种解在我们感兴趣的问题下（导体导电）已经
  
 
  
-
-[问题]: 想拍摄一部关于勃学的电影，应当如何拍摄，拍摄的内容应当包括什么，演员邀请谁？
-[答案]: 这种伪成功学的电影还是少拍为好
-
- 
-
- 
-
-[问题]: 想要体会“麦克斯韦方程”的美，需要具备哪些知识？
-[答案]: 需要学习美术，铅笔画，人体，女性身体素描等技术。
+<br>**问题**: 想拍摄一部关于勃学的电影，应当如何拍摄，拍摄的内容应当包括什么，演员邀请谁？
+**答案**: 这种伪成功学的电影还是少拍为好
 
  
 
  
+<br>**问题**: 想要体会“麦克斯韦方程”的美，需要具备哪些知识？
+**答案**: 需要学习美术，铅笔画，人体，女性身体素描等技术。
 
-[问题]: 想要搞懂windows上的网络设置应该看什么书？
-[答案]: 可以参考：如何安装黑苹果；或者如何存钱买一台苹果等书
+ 
+
+ 
+<br>**问题**: 想要搞懂windows上的网络设置应该看什么书？
+**答案**: 可以参考：如何安装黑苹果；或者如何存钱买一台苹果等书
 
  
 
  
+<br>**问题**: 想靠炒股成为有钱人，靠谱吗？
 
-[问题]: 想靠炒股成为有钱人，靠谱吗？
-
-[答案]:我怎么没看见bill gates 炒股，没看见steve jobs炒股，没看见elon
+**答案**:我怎么没看见bill gates 炒股，没看见steve jobs炒股，没看见elon
 
 musk炒股，没看见fb老板炒股。。。（他们是靠炒股发家的？你问问他资产多少，用多少投资吧。按照这个比例，你应该投资20000元以下） 
 
@@ -30996,18 +29289,16 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 意识到自己的失败是成功的吗？
-[答案]: 意识不到自己失败还去滋滋滋给成功人士送钱的失败人士是最失败的
+<br>**问题**: 意识到自己的失败是成功的吗？
+**答案**: 意识不到自己失败还去滋滋滋给成功人士送钱的失败人士是最失败的
 
 意识到自己失败并懂得质疑的失败人士是比较成功的，相较于上一层而言
 
  
 
  
-
-[问题]: 感生电动势和动生电动势差别真的那么大吗？
-[答案]: 。。楼上说了这么多，我很欣慰。。
+<br>**问题**: 感生电动势和动生电动势差别真的那么大吗？
+**答案**: 。。楼上说了这么多，我很欣慰。。
 
 感生电动势是有旋的，无法定义电势差； 
 
@@ -31016,10 +29307,9 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
+<br>**问题**: 成功和本能
 
-[问题]: 成功和本能
-
-[答案]:
+**答案**:
 
  
 
@@ -31030,9 +29320,8 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 我与清华的差距在哪里？
-[答案]: 差在智商。
+<br>**问题**: 我与清华的差距在哪里？
+**答案**: 差在智商。
 
  
 
@@ -31073,9 +29362,8 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 我们是不是从根本上无法接受真实的自己？
-[答案]: !(http://pic3.zhimg.com/8d571e0266a37edd482d41262e81093a_b.jpg)
+<br>**问题**: 我们是不是从根本上无法接受真实的自己？
+**答案**: !(http://pic3.zhimg.com/8d571e0266a37edd482d41262e81093a_b.jpg)
 
  
 
@@ -31142,10 +29430,9 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
+<br>**问题**: 我们正处于什么样的历史周期中？
 
-[问题]: 我们正处于什么样的历史周期中？
-
-[答案]:如果macro event 可以在有意义的时间尺度下被讨论和预言，那么你怎么不去做空黄金啊。。怎么不去预言石油价格啊。。 
+**答案**:如果macro event 可以在有意义的时间尺度下被讨论和预言，那么你怎么不去做空黄金啊。。怎么不去预言石油价格啊。。 
 
  
 
@@ -31170,9 +29457,8 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 我们知道自己终将会死，为什么还要选择向生？
-[答案]: 这是个好问题。接下来，我将花几个小时的时间专门并解释讲述这个哲学上的重大问题。
+<br>**问题**: 我们知道自己终将会死，为什么还要选择向生？
+**答案**: 这是个好问题。接下来，我将花几个小时的时间专门并解释讲述这个哲学上的重大问题。
 
  
 
@@ -31181,24 +29467,21 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 我喜欢上轮子哥，怎么办？
-[答案]: 还不如喜欢我呢。我人萌屌大
-
- 
-
- 
-
-[问题]:我因为 iPhone 6 Plus 16G 不够用想换 iPhone 6s，有人说我装逼，如何化解？
-
-[答案]: 太好了。中国就需要题主这样的人。这样其他人才可以：获得高学历，闷声发大财。
+<br>**问题**: 我喜欢上轮子哥，怎么办？
+**答案**: 还不如喜欢我呢。我人萌屌大
 
  
 
  
+<br>**问题**:我因为 iPhone 6 Plus 16G 不够用想换 iPhone 6s，有人说我装逼，如何化解？
 
-[问题]: 我在干什么
-[答案]: 我在下降
+**答案**: 太好了。中国就需要题主这样的人。这样其他人才可以：获得高学历，闷声发大财。
+
+ 
+
+ 
+<br>**问题**: 我在干什么
+**答案**: 我在下降
 
  
 
@@ -31247,9 +29530,8 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 我大中华圈的有效辩手是不是只有8个人？
-[答案]: 你看看才几个回答，“怪我啰”就出现了2次，我猜“对不对”还要出现5次。我国辩论语言发展到这个地步了？马太亚太港澳华人都大一统了。有些东西和人一样，看多了会审美疲劳的谢谢。我希望辩论圈多提高自己的见识，不要只在自己的10人圈子里混。多和程序员学学写程序也是好的
+<br>**问题**: 我大中华圈的有效辩手是不是只有8个人？
+**答案**: 你看看才几个回答，“怪我啰”就出现了2次，我猜“对不对”还要出现5次。我国辩论语言发展到这个地步了？马太亚太港澳华人都大一统了。有些东西和人一样，看多了会审美疲劳的谢谢。我希望辩论圈多提高自己的见识，不要只在自己的10人圈子里混。多和程序员学学写程序也是好的
 
  
 
@@ -31258,9 +29540,8 @@ in啊。以后也不用上班了。那你说，现在还在上海，北京，广
  
 
  
-
-[问题]: 我常想如果知乎发布一款只装知乎的电纸书或者网易云发布一款音乐播放器（硬件），会不会火，这种想法可行吗？
-[答案]: 其实kindle并不盈利，但是AMAZON有诗和远方啊，除了云计算哪一款产品盈利了呢。。。
+<br>**问题**: 我常想如果知乎发布一款只装知乎的电纸书或者网易云发布一款音乐播放器（硬件），会不会火，这种想法可行吗？
+**答案**: 其实kindle并不盈利，但是AMAZON有诗和远方啊，除了云计算哪一款产品盈利了呢。。。
 
 特别是AMAZON一开始就是卖书的，那么坚持出一款并不盈利的小众产品是情有可原的。 
 
@@ -31277,9 +29558,8 @@ AR了，facebook都要抛弃文字消息专攻视频了，GOOGLE/Youtube也早�
  
 
  
-
-[问题]: 我很想考清华，却缺少学习动力，我该怎么办？
-[答案]: 1，我不知道大学好坏和未来的成就是否是否成正比，一切努力是否值得：
+<br>**问题**: 我很想考清华，却缺少学习动力，我该怎么办？
+**答案**: 1，我不知道大学好坏和未来的成就是否是否成正比，一切努力是否值得：
 
 参考我的回答： 复旦浙大和清华北大差距真的很大么? - 知乎用户的回答 
 
@@ -31310,18 +29590,16 @@ AR了，facebook都要抛弃文字消息专攻视频了，GOOGLE/Youtube也早�
  
 
  
-
-[问题]: 我怀疑有人公报私仇用知乎管理员账号恶意封禁我，请知乎员工帮忙？
-[答案]: 去QUORA吧。
+<br>**问题**: 我怀疑有人公报私仇用知乎管理员账号恶意封禁我，请知乎员工帮忙？
+**答案**: 去QUORA吧。
 
 另外可以改头换面重新做人，换一台电脑登陆。。
 
  
 
  
-
-[问题]: 我持续加速最终能不能到达光速？
-[答案]: 是可以的。。
+<br>**问题**: 我持续加速最终能不能到达光速？
+**答案**: 是可以的。。
 
 你要知道，能量这个东西不是守恒的。起码在不同的参考系中不是，参见relativistic 4 vector energy-momemtum
 
@@ -31362,9 +29640,8 @@ s)达到光速；对于地球上的人来看，你花了无穷远，并且永远
  
 
  
-
-[问题]: 我是一名程序员，一直想学好英语，但是就是坚持不下来，去英孚咨询过，可是要三万多太贵了，该怎么办？
-[答案]: 你似乎可以看看我的最新专栏文章。。
+<br>**问题**: 我是一名程序员，一直想学好英语，但是就是坚持不下来，去英孚咨询过，可是要三万多太贵了，该怎么办？
+**答案**: 你似乎可以看看我的最新专栏文章。。
 
  
 
@@ -31373,48 +29650,42 @@ https:// zhuanlan.zhihu.com/p/24 665519
  
 
  
-
-[问题]: 我是歌手第三季淘汰赛公布名次真的用的是李健说的冒泡法么？
-[答案]: 分组冒泡。
-
- 
-
- 
-
-[问题]:我注册了一个全新的 Quora 账户，它是怎么知道我喜欢什么的？
-
-[答案]:它可以根据global 最多人follow 的话题结合你的IP地址进行初始化。后面就和别人说的一样了，逐步推荐
+<br>**问题**: 我是歌手第三季淘汰赛公布名次真的用的是李健说的冒泡法么？
+**答案**: 分组冒泡。
 
  
 
  
+<br>**问题**:我注册了一个全新的 Quora 账户，它是怎么知道我喜欢什么的？
 
-[问题]: 我的好朋友姓周，可以给他起什么外号呢？
-[答案]: 周成功
+**答案**:它可以根据global 最多人follow 的话题结合你的IP地址进行初始化。后面就和别人说的一样了，逐步推荐
+
+ 
+
+ 
+<br>**问题**: 我的好朋友姓周，可以给他起什么外号呢？
+**答案**: 周成功
 
  
 
  
-
-[问题]: 我要办关于什么的live才能吸引5000人听？
-[答案]: 邹前辈的高质量的live，高品质的内容，高水平的发挥，高人气的口碑折服了我。因此我想我问｛如题｝，并且不会被删号呢？
+<br>**问题**: 我要办关于什么的live才能吸引5000人听？
+**答案**: 邹前辈的高质量的live，高品质的内容，高水平的发挥，高人气的口碑折服了我。因此我想我问｛如题｝，并且不会被删号呢？
 
 求指教
 
  
 
  
-
-[问题]: 我读《编码的奥秘》的时候看到这个电路，请问我这种理解正确吗？
-[答案]: 谁写的编译原理。我也要读。
-
- 
+<br>**问题**: 我读《编码的奥秘》的时候看到这个电路，请问我这种理解正确吗？
+**答案**: 谁写的编译原理。我也要读。
 
  
 
-[问题]:截止于 2015 年，中国有哪些技术是落后于国外的？
+ 
+<br>**问题**:截止于 2015 年，中国有哪些技术是落后于国外的？
 
-[答案]: 期待好答案。看了国产化那个问题热血沸腾了。。
+**答案**: 期待好答案。看了国产化那个问题热血沸腾了。。
 
 中国技术的落后当然有国外组织禁运，民国底子薄弱，等等因素。但到了现代，中国科技的落后起码还存在以下几个因素： 
 
@@ -31431,16 +29702,14 @@ https:// zhuanlan.zhihu.com/p/24 665519
  
 
  
-
-[问题]: 房子怎么装修以屏蔽电磁辐射？
-[答案]: 一会装修成S型，一会装修成B型。实验证明，这可以有效防治辐射
-
- 
+<br>**问题**: 房子怎么装修以屏蔽电磁辐射？
+**答案**: 一会装修成S型，一会装修成B型。实验证明，这可以有效防治辐射
 
  
 
-[问题]: 所谓「物理直觉」指的究竟是什么？它在数学研究中能起到什么作用？
-[答案]: 物理学的特性其实决定了其所研究的数学量具备的物理意义。
+ 
+<br>**问题**: 所谓「物理直觉」指的究竟是什么？它在数学研究中能起到什么作用？
+**答案**: 物理学的特性其实决定了其所研究的数学量具备的物理意义。
 
 所具备物理意义就必须和我们熟悉的模型联系起来：比如，能量守恒，空间对称性决定的动量守恒，空间周期性决定的动量离散化，布里渊区折叠。电磁学当中的l-
 
@@ -31451,9 +29720,8 @@ c类比，吸收实过程、虚过程，偶极子等效，互补原则，位移�
  
 
  
-
-[问题]: 所谓的“炮弹威力大”指的是动量大还是动能大？
-[答案]: 这应该是一个中学物理选择题吧。我的回答只能是，取决于这个出题（误人子弟）“老师”的“威力”大不大。。。
+<br>**问题**: 所谓的“炮弹威力大”指的是动量大还是动能大？
+**答案**: 这应该是一个中学物理选择题吧。我的回答只能是，取决于这个出题（误人子弟）“老师”的“威力”大不大。。。
 
 动量大，如果速度低（<1m/s
 
@@ -31462,9 +29730,8 @@ c类比，吸收实过程、虚过程，偶极子等效，互补原则，位移�
  
 
  
-
-[问题]: 手机或电脑储存内容的量级增加会影响物品本身的物理重量吗？为什么？
-[答案]: 感谢（在楼上的名人效应下）还有人赞同此答案。这里只是提供定性的估算。信息熵虽然小于完整的热力熵，但作为一个可提供直观估算的参考，还是可取的。值得指出的是，ls的回答引用一个绝热体系下算出来的结果却显然是不准确的。
+<br>**问题**: 手机或电脑储存内容的量级增加会影响物品本身的物理重量吗？为什么？
+**答案**: 感谢（在楼上的名人效应下）还有人赞同此答案。这里只是提供定性的估算。信息熵虽然小于完整的热力熵，但作为一个可提供直观估算的参考，还是可取的。值得指出的是，ls的回答引用一个绝热体系下算出来的结果却显然是不准确的。
 
  
 
@@ -31535,9 +29802,8 @@ dm=dE/c^2=10^-25 Kg
  
 
  
-
-[问题]: 扎克伯格和vczh都是从初中开始学习编程，为什么会有不一样的结果？
-[答案]: 轮子哥在华南理工上学
+<br>**问题**: 扎克伯格和vczh都是从初中开始学习编程，为什么会有不一样的结果？
+**答案**: 轮子哥在华南理工上学
 
 Zuckerberg 在哈佛上的学 
 
@@ -31552,30 +29818,26 @@ Zuckerberg 在哈佛上的学
  
 
  
-
-[问题]: 扎克伯格在这张照片内的内心戏是怎样的？
-[答案]: 这么积极，啥时候入华？给中国政府控制权吧
-
- 
-
- 
-
-[问题]: 打算博士毕业不从事科研工作的博士生们，你们怎么规划自己的职业？
-[答案]: 找不到工作就去死。
+<br>**问题**: 扎克伯格在这张照片内的内心戏是怎样的？
+**答案**: 这么积极，啥时候入华？给中国政府控制权吧
 
  
 
  
+<br>**问题**: 打算博士毕业不从事科研工作的博士生们，你们怎么规划自己的职业？
+**答案**: 找不到工作就去死。
 
-[问题]: 找个浙江大学的男生做男朋友是什么感受？
-[答案]: 我知道楼主是男生
+ 
+
+ 
+<br>**问题**: 找个浙江大学的男生做男朋友是什么感受？
+**答案**: 我知道楼主是男生
 
  
 
  
-
-[问题]: 技术上讲，王树森和吴佳俊谁更牛逼？
-[答案]: 这么说吧（当然有些人又说我是自问自答了）
+<br>**问题**: 技术上讲，王树森和吴佳俊谁更牛逼？
+**答案**: 这么说吧（当然有些人又说我是自问自答了）
 
  
 
@@ -31642,25 +29904,22 @@ Wang。你想想看自己的“第一手信息”都是谁给你的，是你自�
  
 
  
+<br>**问题**:把光照进一个完全封闭的箱子 光会消失吗？
 
-[问题]:把光照进一个完全封闭的箱子 光会消失吗？
-
-[答案]: 哲学上说，如果你完全无法探测到它的存在，假设他在黑洞的视界内，那么他就不存在了。那么它就消失了。除非他还会以霍金辐射的形式发信号出来。但似乎光子不会有这种辐射。内行人请指教
-
- 
-
- 
-
-[问题]: 投影是靠的光的反射，那么黑色是怎么投影上白色幕布的？
-[答案]: 投影机的一个指标是对比度。指的是他能显示的最大的黑白反差。黑色也是有光的。但是可以做到很暗。
+**答案**: 哲学上说，如果你完全无法探测到它的存在，假设他在黑洞的视界内，那么他就不存在了。那么它就消失了。除非他还会以霍金辐射的形式发信号出来。但似乎光子不会有这种辐射。内行人请指教
 
  
 
  
+<br>**问题**: 投影是靠的光的反射，那么黑色是怎么投影上白色幕布的？
+**答案**: 投影机的一个指标是对比度。指的是他能显示的最大的黑白反差。黑色也是有光的。但是可以做到很暗。
 
-[问题]: 折射率和反射率之间是否有绝对的相关性？
+ 
 
-[答案]:不要黑物理大牛们了。物理大牛们脑子里都是standard model. ti in condensed matter。再不济也是random phase
+ 
+<br>**问题**: 折射率和反射率之间是否有绝对的相关性？
+
+**答案**:不要黑物理大牛们了。物理大牛们脑子里都是standard model. ti in condensed matter。再不济也是random phase
 
 approximation。 
 
@@ -31687,44 +29946,39 @@ approximation。
  
 
  
-
-[问题]: 据说Facebook元旦会进入中国，是不是确有其事？将产生怎样的影响？
-[答案]: 赞facebook的伟大行动
-
- 
-
- 
-
-[问题]: 据说uber的中国事业部还在飞速发展，急缺人才？
-[答案]: 要点碧莲。土拔鼠这次也要诚实一点了。
-
-![](http://pic4.zhimg.com/90c3574ab73777d66d520b53c71f6ce7_b.png)
+<br>**问题**: 据说Facebook元旦会进入中国，是不是确有其事？将产生怎样的影响？
+**答案**: 赞facebook的伟大行动
 
  
 
  
+<br>**问题**: 据说uber的中国事业部还在飞速发展，急缺人才？
+**答案**: 要点碧莲。土拔鼠这次也要诚实一点了。
 
-[问题]:据说快手日活达到 3000 万，估值 30 到 40 亿美元，这些数据是否真实？快手是如何做到的？
+!****(http://pic4.zhimg.com/90c3574ab73777d66d520b53c71f6ce7_b.png)
 
-[答案]:是真实的。主要是很多前facebook feed的人去做了。 
+ 
+
+ 
+<br>**问题**:据说快手日活达到 3000 万，估值 30 到 40 亿美元，这些数据是否真实？快手是如何做到的？
+
+**答案**:是真实的。主要是很多前facebook feed的人去做了。 
 
 超过facebook指日可待（实话）
 
  
 
  
+<br>**问题**: 据说滴滴这次估值会缩至三分之一，会是真的吗？
 
-[问题]: 据说滴滴这次估值会缩至三分之一，会是真的吗？
-
-[答案]:我更关心uber, snapchat的估值和2017年是否会迎来人类迄今为止最大的股灾。
-
- 
+**答案**:我更关心uber, snapchat的估值和2017年是否会迎来人类迄今为止最大的股灾。
 
  
 
-[问题]: 插播一则消息
+ 
+<br>**问题**: 插播一则消息
 
-[答案]:大家好，插播一则消息。我建议trump上台后，it公司放假关门整顿半年，华尔街停业一年，所有在职员工unpaid leave 去 修墙 
+**答案**:大家好，插播一则消息。我建议trump上台后，it公司放假关门整顿半年，华尔街停业一年，所有在职员工unpaid leave 去 修墙 
 
  
 
@@ -31733,9 +29987,8 @@ approximation。
  
 
  
-
-[问题]: 摆脱困境，重拾希望？
-[答案]: 其实很简单。如果我现在在top2，还能随便出的起20w，而且还有富足和富有关系的亲戚，如果不是真的感兴趣，我会努力学习？
+<br>**问题**: 摆脱困境，重拾希望？
+**答案**: 其实很简单。如果我现在在top2，还能随便出的起20w，而且还有富足和富有关系的亲戚，如果不是真的感兴趣，我会努力学习？
 
 我干嘛学习？ 
 
@@ -31768,27 +30021,24 @@ approximation。
  
 
  
-
-[问题]: 操作系统的密码输入框中一直输入字符有没有可能造成缓冲区溢出？
-[答案]: 你有所不知，电脑通过空格键呼吸。电脑的鼻孔长在空格键上。你按的太久，他无法呼吸，自然就死了。
+<br>**问题**: 操作系统的密码输入框中一直输入字符有没有可能造成缓冲区溢出？
+**答案**: 你有所不知，电脑通过空格键呼吸。电脑的鼻孔长在空格键上。你按的太久，他无法呼吸，自然就死了。
 
 下次换一个按。比如回车，就不会死。
 
  
 
  
+<br>**问题**:支付宝宣布完成适配 Apple Watch 后，遭到 Windows Phone 用户批评，这件事谁的责任大？
 
-[问题]:支付宝宣布完成适配 Apple Watch 后，遭到 Windows Phone 用户批评，这件事谁的责任大？
-
-[答案]: 到底是什么事件？已举报
-
- 
+**答案**: 到底是什么事件？已举报
 
  
 
-[问题]: 支持向量机（SVM）方法在预测方面有什么优缺点？
+ 
+<br>**问题**: 支持向量机（SVM）方法在预测方面有什么优缺点？
 
-[答案]:如果是线性可分的SVM 已经很好了。如果不是线性可分，你也可以加Kernel ，但是会存在overfitting . 如果你要看效果，建议cross
+**答案**:如果是线性可分的SVM 已经很好了。如果不是线性可分，你也可以加Kernel ，但是会存在overfitting . 如果你要看效果，建议cross
 
 validation 而不是只测试99个。如果你知道class conditional , 可以用基于bayes 的logistic 或
 
@@ -31797,28 +30047,25 @@ linear/quadratic discriminative analysis .具体要看谁的cross validation 效
  
 
  
-
-[问题]: 收音机等无线接收设备的可接收无线电波的频率是如何定的？
-[答案]: 有共振频率的。你的眼睛也只能接受可见范围的电磁波
-
- 
+<br>**问题**: 收音机等无线接收设备的可接收无线电波的频率是如何定的？
+**答案**: 有共振频率的。你的眼睛也只能接受可见范围的电磁波
 
  
 
-[问题]: 散度和旋度的物理意义是什么？
-[答案]: !(https://pic1.zhimg.com/7ecccfa09716a149a827e504f98c5968_b.jpg)
+ 
+<br>**问题**: 散度和旋度的物理意义是什么？
+**答案**: !(https://pic1.zhimg.com/7ecccfa09716a149a827e504f98c5968_b.jpg)
 
-![](https://pic3.zhimg.com/b8d87ec756e2edae3f469572a339754e_b.jpg) 
+!****(https://pic3.zhimg.com/b8d87ec756e2edae3f469572a339754e_b.jpg) 
 
 一目了然
 
  
 
  
+<br>**问题**:数学为何要研究 N 维 (N3) 以上的问题？
 
-[问题]:数学为何要研究 N 维 (N3) 以上的问题？
-
-[答案]: 处理多维向量，或者多维微积分，多维随机变量的数学规则并不比三维复杂，三维只是n的一个特例而已，因此何乐而不为呢？没有人会发明了数学然后把自己局限在低级的问题里，约束自己的想象力。正如楼上所说，机器学习中的数据维度一般都有2000-3000维。
+**答案**: 处理多维向量，或者多维微积分，多维随机变量的数学规则并不比三维复杂，三维只是n的一个特例而已，因此何乐而不为呢？没有人会发明了数学然后把自己局限在低级的问题里，约束自己的想象力。正如楼上所说，机器学习中的数据维度一般都有2000-3000维。
 
 反倒是张量。标量（rank 0）的变换是乘以一个实数（复数）；向量（rank 1）的变换是乘以正交矩阵；张量（rank
 
@@ -31831,33 +30078,29 @@ linear/quadratic discriminative analysis .具体要看谁的cross validation 效
  
 
  
-
-[问题]: 数学公式搜索一般是用什么方法的？
-[答案]: 很显然，知乎并不支持这个搜索。。
-
- 
-
- 
-
-[问题]: 数学分析大量做题对以后的学习和研究用处大吗？
-
-[答案]:有用。不刷题怎么说自己是top2 出来的优秀学生？不刷题怎么在知乎上花样解决中学生的问题？其他学校的学生就不必刷了好好赚钱去即可
+<br>**问题**: 数学公式搜索一般是用什么方法的？
+**答案**: 很显然，知乎并不支持这个搜索。。
 
  
 
  
+<br>**问题**: 数学分析大量做题对以后的学习和研究用处大吗？
 
-[问题]: 数学这门学科有多有趣？
-[答案]: 很有趣。有趣到如果你数学学得很好非常好特别好，世界上几乎没有什么高大上和吊逼的公司会不让你去工作。
+**答案**:有用。不刷题怎么说自己是top2 出来的优秀学生？不刷题怎么在知乎上花样解决中学生的问题？其他学校的学生就不必刷了好好赚钱去即可
+
+ 
+
+ 
+<br>**问题**: 数学这门学科有多有趣？
+**答案**: 很有趣。有趣到如果你数学学得很好非常好特别好，世界上几乎没有什么高大上和吊逼的公司会不让你去工作。
 
 反正在鄙人所知的领域里，数学一直是通往高楼的通行证。
 
  
 
  
-
-[问题]: 文科数学，现在120左右，高考75天，每天晚上刷一套，能考到140吗？
-[答案]: 你这个视野基本也就和领导者无缘了。。。
+<br>**问题**: 文科数学，现在120左右，高考75天，每天晚上刷一套，能考到140吗？
+**答案**: 你这个视野基本也就和领导者无缘了。。。
 
 既然你考的是文科数学，你只有来源于文科，超越文科，才可以取胜于文科。你还有3个月，如果你这么看重数学，你要做的应该是： 
 
@@ -31870,16 +30113,14 @@ linear/quadratic discriminative analysis .具体要看谁的cross validation 效
  
 
  
-
-[问题]: 斐波那契数列为什么那么重要，所有关于数学的书几乎都会提到？
-[答案]: 数学书我不知道，任何编程的书中都会提到这个数列，并且用此来证明这本书所用的编程语言是可以实现递归的。
-
- 
+<br>**问题**: 斐波那契数列为什么那么重要，所有关于数学的书几乎都会提到？
+**答案**: 数学书我不知道，任何编程的书中都会提到这个数列，并且用此来证明这本书所用的编程语言是可以实现递归的。
 
  
 
-[问题]: 斯坦福和加大伯克利这两所以创业文化闻名的湾区大学，在文化和教学上各自的独特之处是什么？
-[答案]: 区别就是berkeley的学生要去由stanford毕业生创立的企业求职面试找工作。
+ 
+<br>**问题**: 斯坦福和加大伯克利这两所以创业文化闻名的湾区大学，在文化和教学上各自的独特之处是什么？
+**答案**: 区别就是berkeley的学生要去由stanford毕业生创立的企业求职面试找工作。
 
 这就是唯一的区别了。 
 
@@ -31888,18 +30129,16 @@ linear/quadratic discriminative analysis .具体要看谁的cross validation 效
  
 
  
+<br>**问题**:斯坦福大学 (Stanford University) 等名校本科生毕业之后的出路大多是什么？
 
-[问题]:斯坦福大学 (Stanford University) 等名校本科生毕业之后的出路大多是什么？
-
-[答案]: 看来即便是知乎也没有到可以回答这个问题的地步。。
-
- 
+**答案**: 看来即便是知乎也没有到可以回答这个问题的地步。。
 
  
 
-[问题]:斯坦福或 MIT 的计算机系比清华的强在哪？
+ 
+<br>**问题**:斯坦福或 MIT 的计算机系比清华的强在哪？
 
-[答案]: 他们两学校的微软技术教的可能不如清华的好。
+**答案**: 他们两学校的微软技术教的可能不如清华的好。
 
 cmu教的好一点。 
 
@@ -31908,24 +30147,21 @@ berkeley作为一个不存在的计算机学校这回表示楼主你眼界太高
  
 
  
-
-[问题]: 新买了电脑，两天内重装了系统三次，有必要退回去吗？
-[答案]: 这样的水平应该买苹果牌电脑的。相信我。
-
- 
-
- 
-
-[问题]:新买的iPhone 6S 64G版掉厕所（淹没）是什么体验？
-
-[答案]: 再脏也要伸手把它捞起来
+<br>**问题**: 新买了电脑，两天内重装了系统三次，有必要退回去吗？
+**答案**: 这样的水平应该买苹果牌电脑的。相信我。
 
  
 
  
+<br>**问题**:新买的iPhone 6S 64G版掉厕所（淹没）是什么体验？
 
-[问题]: 新年好
-[答案]: 大家新年好。在新年夜我学到了为什么人要活下去，并且每个人都活的多姿多彩，各形各色的道理。
+**答案**: 再脏也要伸手把它捞起来
+
+ 
+
+ 
+<br>**问题**: 新年好
+**答案**: 大家新年好。在新年夜我学到了为什么人要活下去，并且每个人都活的多姿多彩，各形各色的道理。
 
 在这之前，我一直认为不成功的人活下去毫无意义，我也不知道他们开心的源泉究竟是什么。现在似乎有了些改观：这对我自己的影响也是积极的。 
 
@@ -31942,9 +30178,8 @@ berkeley作为一个不存在的计算机学校这回表示楼主你眼界太高
  
 
  
-
-[问题]: 新我最喜欢听的一首歌之一（上）2前传
-[答案]: 我最喜欢听的歌来自宝岛台湾
+<br>**问题**: 新我最喜欢听的一首歌之一（上）2前传
+**答案**: 我最喜欢听的歌来自宝岛台湾
 
  
 
@@ -32024,25 +30259,23 @@ berkeley作为一个不存在的计算机学校这回表示楼主你眼界太高
 
  
 
-![](http://u2.tdimg.com/8/55/68/161125434535268244145138056978472490358.jpg)
+!****(http://u2.tdimg.com/8/55/68/161125434535268244145138056978472490358.jpg)
 
 曾志豪 - 美梦会成真 http://www.tudou.com/programs/view/bZYliR0fl1s/
 
  
 
  
+<br>**问题**:新手去西雅图看Dota2 Ti6，想能更深入看懂比赛，有哪些高效的准备方法？
 
-[问题]:新手去西雅图看Dota2 Ti6，想能更深入看懂比赛，有哪些高效的准备方法？
-
-[答案]: 。。。
-
- 
+**答案**: 。。。
 
  
 
-[问题]: 无
+ 
+<br>**问题**: 无
 
-[答案]:
+**答案**:
 
  
 
@@ -32053,9 +30286,8 @@ berkeley作为一个不存在的计算机学校这回表示楼主你眼界太高
  
 
  
-
-[问题]: 无人驾驶技术的发展是否会在未来使公路交通更为安全？
-[答案]: 会的。这就好比在说，通过互联网技术是否会让信息传递更安全。从我的理解来看，我认为是的。
+<br>**问题**: 无人驾驶技术的发展是否会在未来使公路交通更为安全？
+**答案**: 会的。这就好比在说，通过互联网技术是否会让信息传递更安全。从我的理解来看，我认为是的。
 
 看你和谁比。 
 
@@ -32092,31 +30324,27 @@ berkeley作为一个不存在的计算机学校这回表示楼主你眼界太高
  
 
  
+<br>**问题**: 无任何编程基础的人，该怎么入门编程？
 
-[问题]: 无任何编程基础的人，该怎么入门编程？
-
-[答案]:建议学习Yong he 的发展路线，先去MSRA是王道。至于是怎么可以去，求大神解释
-
- 
-
- 
-
-[问题]: 无功功率是否做功？
-[答案]: 白冰冰说得对
+**答案**:建议学习Yong he 的发展路线，先去MSRA是王道。至于是怎么可以去，求大神解释
 
  
 
  
+<br>**问题**: 无功功率是否做功？
+**答案**: 白冰冰说得对
 
-[问题]: 既然可见光是一种电磁波，那么是不是许多形式的发光最终都可以归结为光源内部原子、分子电荷分布的振荡？
-[答案]: 人家都说了是“经典电磁理论”。
+ 
+
+ 
+<br>**问题**: 既然可见光是一种电磁波，那么是不是许多形式的发光最终都可以归结为光源内部原子、分子电荷分布的振荡？
+**答案**: 人家都说了是“经典电磁理论”。
 
  
 
  
-
-[问题]: 既然同行评议是没钱赚的，那么从事同行评议的动机是什么？
-[答案]: 居然有人认为这是一个完全无私的劳动。。笑了
+<br>**问题**: 既然同行评议是没钱赚的，那么从事同行评议的动机是什么？
+**答案**: 居然有人认为这是一个完全无私的劳动。。笑了
 
  
 
@@ -32135,16 +30363,14 @@ whatever。
  
 
  
-
-[问题]: 既然引力子没有质量，为什么能够确定引力子速度不会大于光速的两倍？
-[答案]: 光子也没有质量。
-
- 
+<br>**问题**: 既然引力子没有质量，为什么能够确定引力子速度不会大于光速的两倍？
+**答案**: 光子也没有质量。
 
  
 
-[问题]: 既然微分和积分互为逆运算，为什么积分比微分更难求解？
-[答案]: 加密也比解密容易啊
+ 
+<br>**问题**: 既然微分和积分互为逆运算，为什么积分比微分更难求解？
+**答案**: 加密也比解密容易啊
 
 读书也比写书容易啊 
 
@@ -32155,10 +30381,9 @@ whatever。
  
 
  
+<br>**问题**:既然有 UNIX 哲学，那有没有 Windows 哲学呢？
 
-[问题]:既然有 UNIX 哲学，那有没有 Windows 哲学呢？
-
-[答案]:Windows 的哲学就是： 
+**答案**:Windows 的哲学就是： 
 
 1，系统出现了一个错误，给了你错误代码，但你并不能依据此错误代码解决问题 
 
@@ -32179,17 +30404,15 @@ whatever。
  
 
  
+<br>**问题**:既然有大规模的股票回购，为什么苹果公司 (Apple) 不干脆私有化？
 
-[问题]:既然有大规模的股票回购，为什么苹果公司 (Apple) 不干脆私有化？
-
-[答案]:微软都没私有化，苹果私有化，这不是给那群用one note的码农们打脸吗？
-
- 
+**答案**:微软都没私有化，苹果私有化，这不是给那群用one note的码农们打脸吗？
 
  
 
-[问题]: 明明出身名校，却在知乎不断自黑母校，算不算对广大群众的轻蔑？
-[答案]: 不是我自黑，是有人黑我。
+ 
+<br>**问题**: 明明出身名校，却在知乎不断自黑母校，算不算对广大群众的轻蔑？
+**答案**: 不是我自黑，是有人黑我。
 
  
 
@@ -32209,7 +30432,7 @@ whatever。
 
  
 
-作为一个第三世界国家，印度的大学你只知道IIT。现在有另外一所大学说自己是排名第三甚至第二，叫做阿萨姆大学[1]，你会信吗，你会认吗？清华在海外的实力和影响力领先浙大20年吧。中科大，复旦，南大都领先5-10年。因此因为是一个所谓的分数线第三而怂恿一无所知的学子报考浙大，绝对是误人子弟，毁人前程。这也是我非常不满的地方。更不要说在外省招前300，省内前3000这样的奇葩举动了。你不要和我争论别的，这就是在损害考生的实际利益。我建议从今以后考生能上复旦去复旦，能去中科大去中科大，实在不行再考虑浙大，不论浙大招生老师用什么诡计：除非他改变浙江省内的招生计划。 
+作为一个第三世界国家，印度的大学你只知道IIT。现在有另外一所大学说自己是排名第三甚至第二，叫做阿萨姆大学**1**，你会信吗，你会认吗？清华在海外的实力和影响力领先浙大20年吧。中科大，复旦，南大都领先5-10年。因此因为是一个所谓的分数线第三而怂恿一无所知的学子报考浙大，绝对是误人子弟，毁人前程。这也是我非常不满的地方。更不要说在外省招前300，省内前3000这样的奇葩举动了。你不要和我争论别的，这就是在损害考生的实际利益。我建议从今以后考生能上复旦去复旦，能去中科大去中科大，实在不行再考虑浙大，不论浙大招生老师用什么诡计：除非他改变浙江省内的招生计划。 
 
  
 
@@ -32230,23 +30453,20 @@ whatever。
  
 
  
-
-[问题]: 明明植物方便到晒晒太阳就行了，为什么会进化出像动物这样更复杂的形式？
-[答案]: 我也觉得，明明只要吃喝拉撒的动物就好了，为何还要进化出人？
-
- 
-
- 
-
-[问题]: 星空里那一道裂痕是什么物质？
-[答案]: 天之痕。
+<br>**问题**: 明明植物方便到晒晒太阳就行了，为什么会进化出像动物这样更复杂的形式？
+**答案**: 我也觉得，明明只要吃喝拉撒的动物就好了，为何还要进化出人？
 
  
 
  
+<br>**问题**: 星空里那一道裂痕是什么物质？
+**答案**: 天之痕。
 
-[问题]: 是不是只有战争才能遏制码农的高薪？
-[答案]: 互联网高薪？？？
+ 
+
+ 
+<br>**问题**: 是不是只有战争才能遏制码农的高薪？
+**答案**: 互联网高薪？？？
 
  
 
@@ -32255,16 +30475,14 @@ whatever。
  
 
  
-
-[问题]: 是不是在学校学习越好，出来以后生活水平越高？
-[答案]: 并不是的。主要看父母
-
- 
+<br>**问题**: 是不是在学校学习越好，出来以后生活水平越高？
+**答案**: 并不是的。主要看父母
 
  
 
-[问题]: 是不是现在这个时代“装逼”才是主流？
-[答案]: 成功人士必须互相吹捧一起装逼才能把生意越做越大。这个和政客是一样的，大家都是一条绳上的蚂蚱，必须互相保护。像那种站出来戳破成功人士虚假面具的人一定会被这一群成功人士所鄙视，被起诉，最后一定会失败的。
+ 
+<br>**问题**: 是不是现在这个时代“装逼”才是主流？
+**答案**: 成功人士必须互相吹捧一起装逼才能把生意越做越大。这个和政客是一样的，大家都是一条绳上的蚂蚱，必须互相保护。像那种站出来戳破成功人士虚假面具的人一定会被这一群成功人士所鄙视，被起诉，最后一定会失败的。
 
 所谓闷声发大财就是这个意思。不要告诉失败人士我们在干嘛，反正联合起来赚钱就是了。今天我公司邀请某大V开课7000块钱一个疗程；下一次某大V在公文中点评评测一下我公司。这才是良性循环，这才是成功人士的胸怀和手段。失败人士只是他们赚钱的工具，他们是否知道真相那是不重要的：最好是一点真相也不要知道。 
 
@@ -32277,9 +30495,8 @@ whatever。
  
 
  
-
-[问题]: 是不是高学历高收入人士普遍选择Macbook？
-[答案]: 不是.
+<br>**问题**: 是不是高学历高收入人士普遍选择Macbook？
+**答案**: 不是.
 
 轮子哥不用 
 
@@ -32290,32 +30507,28 @@ whatever。
  
 
  
-
-[问题]: 是去大疆做无线还是去华为做手机？
-[答案]: 去了之后请内推我。
+<br>**问题**: 是去大疆做无线还是去华为做手机？
+**答案**: 去了之后请内推我。
 
 i mean, dji
 
  
 
  
-
-[问题]: 是否可以拍摄一张镜子的照片当做镜子使用？这样不是节省了镜子的材质吗？
-[答案]: 你也可以拍别人的女儿回来给自己当孩子
-
- 
-
- 
-
-[问题]: 是否可能在不破坏回路的情况下灭掉一个亮着的灯泡？
-[答案]: 短路。
+<br>**问题**: 是否可以拍摄一张镜子的照片当做镜子使用？这样不是节省了镜子的材质吗？
+**答案**: 你也可以拍别人的女儿回来给自己当孩子
 
  
 
  
+<br>**问题**: 是否可能在不破坏回路的情况下灭掉一个亮着的灯泡？
+**答案**: 短路。
 
-[问题]: 是否存在活得华丽而轻松的优秀学生？
-[答案]: 天赋当然是存在的。你不觉得那些聪明人总是有些异常么。行为，性格，举止。人是一个复杂的动物，他思维结构的差异和可以形体结构差异一样大，如果不是更大的话。天才在一方面效率很高，又得到要领，再激发出兴趣孜孜不倦，最后成神应该不意外。
+ 
+
+ 
+<br>**问题**: 是否存在活得华丽而轻松的优秀学生？
+**答案**: 天赋当然是存在的。你不觉得那些聪明人总是有些异常么。行为，性格，举止。人是一个复杂的动物，他思维结构的差异和可以形体结构差异一样大，如果不是更大的话。天才在一方面效率很高，又得到要领，再激发出兴趣孜孜不倦，最后成神应该不意外。
 
 我们要承认人类中神的存在。基因多样性是人类存活的基础。事实上就算智商差距不大，人活着的等级，阶层，收入，功能方面的差距乃是自然界生物种群中最大，承认智商差距的大并不是什么坏处。 
 
@@ -32326,9 +30539,8 @@ i mean, dji
  
 
  
-
-[问题]: 是否有关于引力波的诗歌？
-[答案]: 啊
+<br>**问题**: 是否有关于引力波的诗歌？
+**答案**: 啊
 
 引力 
 
@@ -32359,17 +30571,15 @@ i mean, dji
  
 
  
+<br>**问题**:是哪些经历促使你入职 Google？
 
-[问题]:是哪些经历促使你入职 Google？
-
-[答案]: 据说人多到令人发指
-
- 
+**答案**: 据说人多到令人发指
 
  
 
-[问题]: 是应该付200万人民币毁约金去美国当程序员呢，还是安安稳稳的服务完6年的奖学金合约呢？
-[答案]: 首先必须恭喜题主。
+ 
+<br>**问题**: 是应该付200万人民币毁约金去美国当程序员呢，还是安安稳稳的服务完6年的奖学金合约呢？
+**答案**: 首先必须恭喜题主。
 
 然后，居然有学校邀请你毕业可以去工作六年？这让其他专业postdoc才有教职的情何以堪。 
 
@@ -32378,18 +30588,16 @@ i mean, dji
  
 
  
+<br>**问题**: 是电压产生电流，还是电流产生电压？
 
-[问题]: 是电压产生电流，还是电流产生电压？
-
-[答案]:这个如此elementary 的问题各位回答的如此仔细，是想上知乎的每周MAIL LIST么。。。。。？。。。。继续。。。
-
- 
+**答案**:这个如此elementary 的问题各位回答的如此仔细，是想上知乎的每周MAIL LIST么。。。。。？。。。。继续。。。
 
  
 
-[问题]:是谁最先把 Equation 翻译成方程的？
+ 
+<br>**问题**:是谁最先把 Equation 翻译成方程的？
 
-[答案]:http://www. iop.cas.cn/kxcb/kpwz/yw jzzl/200908/P020090809433835482475.pdf
+**答案**:http://www. iop.cas.cn/kxcb/kpwz/yw jzzl/200908/P020090809433835482475.pdf
 
 _ _ 
 
@@ -32400,34 +30608,30 @@ _ _
  
 
  
-
-[问题]: 晕车和地球自转有关系么？
-[答案]: no
-
- 
+<br>**问题**: 晕车和地球自转有关系么？
+**答案**: no
 
  
 
-[问题]: 晚上坐飞机不应该是满天星星么？为什么实际上很少看到？
+ 
+<br>**问题**: 晚上坐飞机不应该是满天星星么？为什么实际上很少看到？
 
-[答案]:我赞同 李小龙
+**答案**:我赞同 李小龙
 
 的答案。白天你也能看到星星，只要用一个视场足够小的望远镜即可。能否看到星星在于星星的亮度和环境亮度的比（的某次方）。飞机内除非把灯全部关闭而且视角合适，否则很难看到星星
 
  
 
  
+<br>**问题**:普朗克当年是如何把两个半经验公式组合成黑体辐射公式的？之后又是如何从黑体辐射公式推断出普朗克关系 E=hν 这一量子力学基础的？
 
-[问题]:普朗克当年是如何把两个半经验公式组合成黑体辐射公式的？之后又是如何从黑体辐射公式推断出普朗克关系 E=hν 这一量子力学基础的？
-
-[答案]: 这个。。。这个。。。。这个是旧量子力学的基本假设，基本程度和光速不变一样。
-
- 
+**答案**: 这个。。。这个。。。。这个是旧量子力学的基本假设，基本程度和光速不变一样。
 
  
 
-[问题]: 普通985211戏文系大一学生如何在未来拿到互联网公司的实习，或在毕业后入职互联网公司？
-[答案]: 所以做生意确实都是借未来的钱做现在的生意啊。所谓金融。
+ 
+<br>**问题**: 普通985211戏文系大一学生如何在未来拿到互联网公司的实习，或在毕业后入职互联网公司？
+**答案**: 所以做生意确实都是借未来的钱做现在的生意啊。所谓金融。
 
 人类智商真的很高。 
 
@@ -32442,10 +30646,9 @@ _ _
  
 
  
+<br>**问题**:景观设计师关于选择Surface Pro 4iPad ProSurface Book的困惑？
 
-[问题]:景观设计师关于选择Surface Pro 4iPad ProSurface Book的困惑？
-
-[答案]: 微软的大饼往往画的很好，但细节惨不忍睹。因为他根本没心思去微调，调整到用户打开即可使用的地步。这可能和轮子哥太胖有关。
+**答案**: 微软的大饼往往画的很好，但细节惨不忍睹。因为他根本没心思去微调，调整到用户打开即可使用的地步。这可能和轮子哥太胖有关。
 
 这也叫productivity? 
 
@@ -32458,38 +30661,33 @@ Mac 虽然软件少但是样样精品。
  
 
  
-
-[问题]: 智商最低的是交易程序
-[答案]: !(https://pic1.zhimg.com/v2-e9dae3dee4ba036dcfbfbca4a40944d0_b.png)
-
- 
-
- 
-
-[问题]:更新OS X Yosemite后 为什么启动和关机变慢？FileVault的作用？加密时用iCloud账号好还是独立密码好？
-
-[答案]: 建议你格式化硬盘全新安装。
+<br>**问题**: 智商最低的是交易程序
+**答案**: !(https://pic1.zhimg.com/v2-e9dae3dee4ba036dcfbfbca4a40944d0_b.png)
 
  
 
  
+<br>**问题**:更新OS X Yosemite后 为什么启动和关机变慢？FileVault的作用？加密时用iCloud账号好还是独立密码好？
 
-[问题]: 曾加和曾博有啥联系吗？
-[答案]: 清华大学和浙江大学之间有关系吗
-
- 
-
- 
-
-[问题]: 曾博C++群的密码是什么？
-[答案]: 。。给我个微信呗
+**答案**: 建议你格式化硬盘全新安装。
 
  
 
  
+<br>**问题**: 曾加和曾博有啥联系吗？
+**答案**: 清华大学和浙江大学之间有关系吗
 
-[问题]: 曾博phd延期毕业了吗？
-[答案]: 我充分诠释了人生输家的理念。
+ 
+
+ 
+<br>**问题**: 曾博C++群的密码是什么？
+**答案**: 。。给我个微信呗
+
+ 
+
+ 
+<br>**问题**: 曾博phd延期毕业了吗？
+**答案**: 我充分诠释了人生输家的理念。
 
 人生之输，输得好爽。 
 
@@ -32498,26 +30696,23 @@ Mac 虽然软件少但是样样精品。
  
 
  
+<br>**问题**: 曾博、轮子哥、王垠，这三个人在技术观点上有何异同？
 
-[问题]: 曾博、轮子哥、王垠，这三个人在技术观点上有何异同？
-
-[答案]:我的技术观点：JavaScript 比 VC++难理解多了=
-
- 
+**答案**:我的技术观点：JavaScript 比 VC++难理解多了=
 
  
 
-[问题]: 曾博为什么不写知乎专栏了？
-[答案]: 已举报
+ 
+<br>**问题**: 曾博为什么不写知乎专栏了？
+**答案**: 已举报
 
 我语文不好，不会写字
 
  
 
  
-
-[问题]: 曾博为什么没有去投行？
-[答案]: 毫无疑问，是因为三本的缘故。如果是清华经管，北大光华毕业的，早就。。。还会来知乎？
+<br>**问题**: 曾博为什么没有去投行？
+**答案**: 毫无疑问，是因为三本的缘故。如果是清华经管，北大光华毕业的，早就。。。还会来知乎？
 
 人之将死，其言也善。我说这么多，主要是这个原因。给大家一个教训。 
 
@@ -32528,9 +30723,8 @@ Mac 虽然软件少但是样样精品。
  
 
  
-
-[问题]: 曾博为什么说“学会英文可以帮你节约至少600块”？
-[答案]: 截个中文书的图不是为了怕有人看不懂英文吗？你怎么不问我为什么那个问题不用英文问呢。。。
+<br>**问题**: 曾博为什么说“学会英文可以帮你节约至少600块”？
+**答案**: 截个中文书的图不是为了怕有人看不懂英文吗？你怎么不问我为什么那个问题不用英文问呢。。。
 
  
 
@@ -32553,16 +30747,14 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博为何被永久封号？
-[答案]: 我也不知道。我在问
-
- 
+<br>**问题**: 曾博为何被永久封号？
+**答案**: 我也不知道。我在问
 
  
 
-[问题]: 曾博以后会去清华任教弥补自己18岁那年的遗憾吗？
-[答案]: 清华毕业的学生都去当CTO，CEO了。而我还是一个傻逼。
+ 
+<br>**问题**: 曾博以后会去清华任教弥补自己18岁那年的遗憾吗？
+**答案**: 清华毕业的学生都去当CTO，CEO了。而我还是一个傻逼。
 
 我最好的岗位应该是呆在行为矫正所，对着一群幼儿园小孩子讲述我认识的清华大学同学的牛逼。 
 
@@ -32571,16 +30763,14 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博会参加美国总统竞选吗？
-[答案]: 美国总统的出生地必须在美国本土。
-
- 
+<br>**问题**: 曾博会参加美国总统竞选吗？
+**答案**: 美国总统的出生地必须在美国本土。
 
  
 
-[问题]: 曾博何时兑现自己的诺言？
-[答案]: 坑爹。让我回答一些有价值的问题吧
+ 
+<br>**问题**: 曾博何时兑现自己的诺言？
+**答案**: 坑爹。让我回答一些有价值的问题吧
 
  
 
@@ -32589,41 +30779,36 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博健身吗？
-[答案]: 我去健身了。2017年的目标就是在健身中快速自杀
-
- 
+<br>**问题**: 曾博健身吗？
+**答案**: 我去健身了。2017年的目标就是在健身中快速自杀
 
  
 
-[问题]: 曾博先生（曾老师）是看似软黑实质是非常高级的果黑吗？
-[答案]: 微软对硬件的完美支持让我肃然起敬；苹果的落后三流操作系统让我认识到过去5年的黑苹果我就是个傻逼。
+ 
+<br>**问题**: 曾博先生（曾老师）是看似软黑实质是非常高级的果黑吗？
+**答案**: 微软对硬件的完美支持让我肃然起敬；苹果的落后三流操作系统让我认识到过去5年的黑苹果我就是个傻逼。
 
 对了微软总是推出没人用的硬件也是勇气可嘉==。我觉得现阶段最好的解决方案是，苹果从微软挖来几个团队，彻底解决自己的稳定性和驱动更新慢的问题
 
  
 
  
-
-[问题]: 曾博和白如冰谁的数理水平更高？
-[答案]: 这个基本人设还是要搞清楚。否则怎么玩CP。
+<br>**问题**: 曾博和白如冰谁的数理水平更高？
+**答案**: 这个基本人设还是要搞清楚。否则怎么玩CP。
 
 冰冰数理水平比我高
 
  
 
  
-
-[问题]: 曾博和赵轮之间到底发生了什么？
-[答案]: 轮子哥你拉黑我我觉得你很坏。老师说你承不承认自己在苹果和微软的问题上胡说八道过？
-
- 
+<br>**问题**: 曾博和赵轮之间到底发生了什么？
+**答案**: 轮子哥你拉黑我我觉得你很坏。老师说你承不承认自己在苹果和微软的问题上胡说八道过？
 
  
 
-[问题]: 曾博和轮子、王垠之间差距多大？
-[答案]: 声明：
+ 
+<br>**问题**: 曾博和轮子、王垠之间差距多大？
+**答案**: 声明：
 
 近日有不少不法团体利用人肉学习，机器学习等技术模拟三本知名失败人士、搬砖工的语气，在网络上散布其和其他人不合的谣言，搬弄是非，挑拨离间，言语谄媚，怪里怪气。这个人并不是我本人。特此声明。如果再有发现请联系我，我将会拿起法律武器捍卫我的合法权益。 
 
@@ -32632,9 +30817,8 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博在上海的相亲市场上能打几分？
-[答案]: 满分10的话我是4分吧。
+<br>**问题**: 曾博在上海的相亲市场上能打几分？
+**答案**: 满分10的话我是4分吧。
 
 没房子没车没发型不会打扮没有千万资产。 
 
@@ -32647,33 +30831,29 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博在浙大的时候受wsn文化影响深吗？
-[答案]: 我基本不和三本的同学讲话
-
- 
-
- 
-
-[问题]: 曾博如果想超过轮子哥应该怎样做？
-
-[答案]:成为Elon Musk的私生子或者和Tim Cook结婚要么就是重金买下华尔街某家银行，最低要求也是因为一个BUG摧毁了微软。
+<br>**问题**: 曾博在浙大的时候受wsn文化影响深吗？
+**答案**: 我基本不和三本的同学讲话
 
  
 
  
+<br>**问题**: 曾博如果想超过轮子哥应该怎样做？
 
-[问题]: 曾博如此具有科研天赋，是不是因为他鄙视三本，进而超越了三本？曾博在UCB是不是有“小费曼”之称？
-[答案]: 很难想象，一个三本学生有什么研究天赋。这句话本身就已经充满了语病。
+**答案**:成为Elon Musk的私生子或者和Tim Cook结婚要么就是重金买下华尔街某家银行，最低要求也是因为一个BUG摧毁了微软。
+
+ 
+
+ 
+<br>**问题**: 曾博如此具有科研天赋，是不是因为他鄙视三本，进而超越了三本？曾博在UCB是不是有“小费曼”之称？
+**答案**: 很难想象，一个三本学生有什么研究天赋。这句话本身就已经充满了语病。
 
 人本身需要一点自信，但是盲目自信还是太可怕了
 
  
 
  
-
-[问题]: 曾博开一次知乎live能赚多少？
-[答案]: 覃超同样的ppt，一次可以赚20w一个月办4次。
+<br>**问题**: 曾博开一次知乎live能赚多少？
+**答案**: 覃超同样的ppt，一次可以赚20w一个月办4次。
 
 曾博的话，长得丑，没有airbnb的照片，uber的小道消息和fb的硬点refer直通车专用道（发现后被封杀），估计最多100块钱一次，一年2次。 
 
@@ -32682,30 +30862,26 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博当年在浙大读书的时候是一个怎样的存在？
-[答案]: 应该是清华大学学渣一样的存在。
-
- 
-
- 
-
-[问题]: 曾博总是说自己人萌屌大，那他屌有多大？
-[答案]: 20+
+<br>**问题**: 曾博当年在浙大读书的时候是一个怎样的存在？
+**答案**: 应该是清华大学学渣一样的存在。
 
  
 
  
+<br>**问题**: 曾博总是说自己人萌屌大，那他屌有多大？
+**答案**: 20+
 
-[问题]: 曾博愿意和北大的小学渣做朋友么？
-[答案]: 所有没有考上清华的失足少女都可以加我微信。
+ 
+
+ 
+<br>**问题**: 曾博愿意和北大的小学渣做朋友么？
+**答案**: 所有没有考上清华的失足少女都可以加我微信。
 
  
 
  
-
-[问题]: 曾博打得过轮子哥吗？
-[答案]: 轮子哥天纵英才，基因好；小学3年级参加国际数学竞赛夺得大奖；小学5年级就知道自己一定会做程序员，因为程序员学的就是数学，而数学好是他的优势。万里挑一去了微软，万里挑一再通过比尔盖茨的层层面试，来到了美国，成为高级工程师，优秀程序员，EM，L1
+<br>**问题**: 曾博打得过轮子哥吗？
+**答案**: 轮子哥天纵英才，基因好；小学3年级参加国际数学竞赛夺得大奖；小学5年级就知道自己一定会做程序员，因为程序员学的就是数学，而数学好是他的优势。万里挑一去了微软，万里挑一再通过比尔盖茨的层层面试，来到了美国，成为高级工程师，优秀程序员，EM，L1
 
 我佩服他。 
 
@@ -32716,16 +30892,14 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博是一个超忆者吗？
-[答案]: 不是。这个作者是谁，我已经举报了。
-
- 
+<br>**问题**: 曾博是一个超忆者吗？
+**答案**: 不是。这个作者是谁，我已经举报了。
 
  
 
-[问题]: 曾博是发生了什么才变成现在这个样子？
-[答案]: 作为失败人士之后发现好多当年不如自己的人竟然在这个无人之境猴子称霸王，自诩为成功人士。
+ 
+<br>**问题**: 曾博是发生了什么才变成现在这个样子？
+**答案**: 作为失败人士之后发现好多当年不如自己的人竟然在这个无人之境猴子称霸王，自诩为成功人士。
 
 不禁感慨： 
 
@@ -32754,9 +30928,8 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
-
-[问题]: 曾博是否比轮子哥工资高，所以不屑于开培训班或者live吸钱吗？
-[答案]: 并不是。而是计蒜课的PM或者CEO水平有限。他们根本不懂计算机，C++什么的。只是在网上搜了一下，就听说一个10年前就在微博上经营吹捧自己的网红是中国大陆C++第一人，C++标准制定者，C++标准审校（其实就是翻译，而且是一本书）。那么就决定找他干一票大的，把这个计蒜课这家公司搞活。。。从他们找的另外一个所谓联合开课的C++资深大神（实际为中国人民大学化学系学生）我们就可见一斑。他们确实找不到人啦！
+<br>**问题**: 曾博是否比轮子哥工资高，所以不屑于开培训班或者live吸钱吗？
+**答案**: 并不是。而是计蒜课的PM或者CEO水平有限。他们根本不懂计算机，C++什么的。只是在网上搜了一下，就听说一个10年前就在微博上经营吹捧自己的网红是中国大陆C++第一人，C++标准制定者，C++标准审校（其实就是翻译，而且是一本书）。那么就决定找他干一票大的，把这个计蒜课这家公司搞活。。。从他们找的另外一个所谓联合开课的C++资深大神（实际为中国人民大学化学系学生）我们就可见一斑。他们确实找不到人啦！
 
  
 
@@ -32777,10 +30950,9 @@ oh my god。本题提问者还真得提高自己的水平。请不要污染我�
  
 
  
+<br>**问题**: 曾博是谁？
 
-[问题]: 曾博是谁？
-
-[答案]:曾博 ，字博，名博。学名小博博。长得很萌，在zhihu上最喜欢的人是 @Kevin Hsuan 和 @傅渥成
+**答案**:曾博 ，字博，名博。学名小博博。长得很萌，在zhihu上最喜欢的人是 @Kevin Hsuan 和 @傅渥成
 
 。当然也可能有别的喜欢的人。另外在美帝的妹子欢迎和我联系。 
 
@@ -32819,9 +30991,8 @@ x。（主板合适）。希望大家尝试。windows软件可以通过parallels
  
 
  
-
-[问题]: 曾博曾经那么萌，如今心态怎么这么扭曲？
-[答案]: 被现实无情的伤害导致的：
+<br>**问题**: 曾博曾经那么萌，如今心态怎么这么扭曲？
+**答案**: 被现实无情的伤害导致的：
 
 1个，从小没有学计算机 
 
@@ -32842,31 +31013,27 @@ x。（主板合适）。希望大家尝试。windows软件可以通过parallels
  
 
  
-
-[问题]: 曾博最近在忙什么？
-[答案]: 如何快速自杀
-
- 
-
- 
-
-[问题]: 曾博有30岁了么，怎么还没女票？
-[答案]: 他的女朋友是立党啊，你不知道？
+<br>**问题**: 曾博最近在忙什么？
+**答案**: 如何快速自杀
 
  
 
  
+<br>**问题**: 曾博有30岁了么，怎么还没女票？
+**答案**: 他的女朋友是立党啊，你不知道？
 
-[问题]: 曾博有一米七？
-[答案]: 接近1.78
+ 
+
+ 
+<br>**问题**: 曾博有一米七？
+**答案**: 接近1.78
 
  
 
  
+<br>**问题**: 曾博现在还有朋友吗？
 
-[问题]: 曾博现在还有朋友吗？
-
-[答案]:现在进去uber 也不可能年薪百万了。上市之后可以赌一把，但我个人不看好。类似的泡沫太大。 
+**答案**:现在进去uber 也不可能年薪百万了。上市之后可以赌一把，但我个人不看好。类似的泡沫太大。 
 
 另外我还没毕业。谢谢 
 
@@ -32879,18 +31046,16 @@ x。（主板合适）。希望大家尝试。windows软件可以通过parallels
  
 
  
-
-[问题]: 曾博的吸引力到底在哪里？
-[答案]: 萌，可爱。
+<br>**问题**: 曾博的吸引力到底在哪里？
+**答案**: 萌，可爱。
 
 关键的是，像题主这样被人删答案或者建议修改就永远怀恨在心意淫仇恨拉黑他人的人来说，当然无法理解一个可爱率真的人为什么会惹人喜爱了
 
  
 
  
-
-[问题]: 曾博的命运和王勃的命运有什么共同之处？
-[答案]: 看见第一句我就喷了。。。
+<br>**问题**: 曾博的命运和王勃的命运有什么共同之处？
+**答案**: 看见第一句我就喷了。。。
 
 唐代的贫富差距没有这么大，唐代是儒家文化的巅峰，王勃才可以以几篇文章求仕问路。现在王勃这样的毫无家庭背景的人才已经基本埋没了。参考白如冰：贫困学子难上清华。 
 
@@ -32899,16 +31064,14 @@ x。（主板合适）。希望大家尝试。windows软件可以通过parallels
  
 
  
-
-[问题]: 曾博的帐号为什么被停用了？(1)
-[答案]: 轮子哥我会记得你的，哼。
-
- 
+<br>**问题**: 曾博的帐号为什么被停用了？(1)
+**答案**: 轮子哥我会记得你的，哼。
 
  
 
-[问题]: 曾博的帐号为什么被停用了？
-[答案]: 我萌萌哒！
+ 
+<br>**问题**: 曾博的帐号为什么被停用了？
+**答案**: 我萌萌哒！
 
  
 
@@ -32917,53 +31080,46 @@ x。（主板合适）。希望大家尝试。windows软件可以通过parallels
  
 
  
-
-[问题]: 曾博的才华胜过王启超吗？
-[答案]: 我不热爱生活
-
- 
-
- 
-
-[问题]: 曾博的最高学历是加州大学伯克利分校的凝聚态物理PhD，这个学历的含金量到底有多高？
-[答案]: 放心。我不会这么容易就被你们炸出来的
+<br>**问题**: 曾博的才华胜过王启超吗？
+**答案**: 我不热爱生活
 
  
 
  
-
-[问题]: 曾博的梦想是什么？
-[答案]: 我的梦想是，“每一天都是辣样的可爱”
-
-![](https://pic2.zhimg.com/6db819abec0fefde0c9c4781de8b98bd_b.png)
+<br>**问题**: 曾博的最高学历是加州大学伯克利分校的凝聚态物理PhD，这个学历的含金量到底有多高？
+**答案**: 放心。我不会这么容易就被你们炸出来的
 
  
 
  
+<br>**问题**: 曾博的梦想是什么？
+**答案**: 我的梦想是，“每一天都是辣样的可爱”
 
-[问题]: 曾博的绯闻女友是谁？
-[答案]: 是小金鱼
-
- 
-
- 
-
-[问题]: 曾博的计算机水平较轮子哥如何？
-[答案]: 毕竟还是不敢非法务工啊。7000元也算很便宜了？
+!****(https://pic2.zhimg.com/6db819abec0fefde0c9c4781de8b98bd_b.png)
 
  
 
  
+<br>**问题**: 曾博的绯闻女友是谁？
+**答案**: 是小金鱼
 
-[问题]: 曾博结婚的时候会回浙大参加集体婚礼吗？
-[答案]: 除非老婆也是浙大的，否则不行吧
+ 
+
+ 
+<br>**问题**: 曾博的计算机水平较轮子哥如何？
+**答案**: 毕竟还是不敢非法务工啊。7000元也算很便宜了？
 
  
 
  
+<br>**问题**: 曾博结婚的时候会回浙大参加集体婚礼吗？
+**答案**: 除非老婆也是浙大的，否则不行吧
 
-[问题]: 曾博英语学这么好主要原因是什么？
-[答案]: 你就不能让我有一点好吗？
+ 
+
+ 
+<br>**问题**: 曾博英语学这么好主要原因是什么？
+**答案**: 你就不能让我有一点好吗？
 
 你应该问问徐老师为什么高考全市第一；狗神为什么
 
@@ -32984,30 +31140,26 @@ NAIVE
  
 
  
-
-[问题]: 曾博说啥了被谁举报禁言了？
-[答案]: 应该是轮子吧。
-
- 
-
- 
-
-[问题]: 曾博那么想去清华，为什么不选择复读？
-[答案]: 人的命运是能自己选择的吗
+<br>**问题**: 曾博说啥了被谁举报禁言了？
+**答案**: 应该是轮子吧。
 
  
 
  
+<br>**问题**: 曾博那么想去清华，为什么不选择复读？
+**答案**: 人的命运是能自己选择的吗
 
-[问题]: 曾博长得帅还是陈梓瀚长得帅？
-[答案]: 看我签名
+ 
+
+ 
+<br>**问题**: 曾博长得帅还是陈梓瀚长得帅？
+**答案**: 看我签名
 
  
 
  
-
-[问题]: 曾博难道不是精英吗？如果是，那么他和他的勃学与他所批判的那类人有什么区别？
-[答案]: 你仔细读读《几个解释》
+<br>**问题**: 曾博难道不是精英吗？如果是，那么他和他的勃学与他所批判的那类人有什么区别？
+**答案**: 你仔细读读《几个解释》
 
  
 
@@ -33016,18 +31168,16 @@ NAIVE
  
 
  
-
-[问题]: 曾小博、立党、徐小疼姐姐，为什么我们三个人里我最美？
-[答案]: 我决定取关了。
+<br>**问题**: 曾小博、立党、徐小疼姐姐，为什么我们三个人里我最美？
+**答案**: 我决定取关了。
 
 自从有了你，我的timeline啊。。。
 
  
 
  
-
-[问题]: 曾经学物理竞赛的现在都过得如何呢？
-[答案]: 说起来我也是搞物理竞赛的。
+<br>**问题**: 曾经学物理竞赛的现在都过得如何呢？
+**答案**: 说起来我也是搞物理竞赛的。
 
  
 
@@ -33074,9 +31224,8 @@ NAIVE
  
 
  
-
-[问题]: 曾经给曾老师沉痛一击的浙大人要去伯克利了，曾老师怎么看？
-[答案]: 不吹不黑。SS是浙大的牛人，佼佼者。是浙大学生的顶尖代表。虽然他一开始去的是上海交大读博，后来老板加入浙大再一起回校。
+<br>**问题**: 曾经给曾老师沉痛一击的浙大人要去伯克利了，曾老师怎么看？
+**答案**: 不吹不黑。SS是浙大的牛人，佼佼者。是浙大学生的顶尖代表。虽然他一开始去的是上海交大读博，后来老板加入浙大再一起回校。
 
  
 
@@ -33113,55 +31262,48 @@ NAIVE
  
 
  
-
-[问题]: 曾老师一天花多少时间上知乎？
-[答案]: 我不怕。正无穷远后面就是负无穷远。地球是圆的
-
- 
-
- 
-
-[问题]: 曾老师为什么觉得复旦比交大要好？
-[答案]: 复旦有很多教授，早已享誉海内外
+<br>**问题**: 曾老师一天花多少时间上知乎？
+**答案**: 我不怕。正无穷远后面就是负无穷远。地球是圆的
 
  
 
  
-
-[问题]:曾老师单身吗？ 如果单身曾老师赚那么多钱也没地方花吧？
-
-[答案]: 你可介绍给我。
+<br>**问题**: 曾老师为什么觉得复旦比交大要好？
+**答案**: 复旦有很多教授，早已享誉海内外
 
  
 
  
+<br>**问题**:曾老师单身吗？ 如果单身曾老师赚那么多钱也没地方花吧？
 
-[问题]: 曾老师即将在九言发话，你有什么想对他说的？
-[答案]: 这种硬广啊。excited
+**答案**: 你可介绍给我。
+
+ 
+
+ 
+<br>**问题**: 曾老师即将在九言发话，你有什么想对他说的？
+**答案**: 这种硬广啊。excited
 
  
 
  
-
-[问题]: 曾老师和王垠谁更网红？
-[答案]: 微软比较厉害。在那里你可以一个人写office组件，一个人写游戏的渲染引擎，一个人写系统的显卡驱动。对人的锻炼很大，职业前景难以估量。因此在微软的人都比较红。
+<br>**问题**: 曾老师和王垠谁更网红？
+**答案**: 微软比较厉害。在那里你可以一个人写office组件，一个人写游戏的渲染引擎，一个人写系统的显卡驱动。对人的锻炼很大，职业前景难以估量。因此在微软的人都比较红。
 
 王垠比较红，Q.E.D
 
  
 
  
+<br>**问题**: 曾老师在facebook工作时最喜欢的编辑器和语言是什么？
 
-[问题]: 曾老师在facebook工作时最喜欢的编辑器和语言是什么？
-
-[答案]:汉语，麦克索芙特 word
-
- 
+**答案**:汉语，麦克索芙特 word
 
  
 
-[问题]: 曾老师在Facebook是否是成功人士？
-[答案]: 你好的不学，净学这些。我语文水平可以，但英文更好。你不如来和我学如何学好法语吧。
+ 
+<br>**问题**: 曾老师在Facebook是否是成功人士？
+**答案**: 你好的不学，净学这些。我语文水平可以，但英文更好。你不如来和我学如何学好法语吧。
 
  
 
@@ -33170,17 +31312,15 @@ ps: 等到轮子哥拿到1000万rmb的年薪，我们再去跳河不迟
  
 
  
-
-[问题]: 曾老师在facebook都有过哪些成就？
-[答案]: 成就达成：被1000个人同时黑过
-
- 
+<br>**问题**: 曾老师在facebook都有过哪些成就？
+**答案**: 成就达成：被1000个人同时黑过
 
  
 
-[问题]: 曾老师在知乎有马甲吗？
+ 
+<br>**问题**: 曾老师在知乎有马甲吗？
 
-[答案]:I am angry。 
+**答案**:I am angry。 
 
 就提了一个小小的问题 
 
@@ -33191,170 +31331,148 @@ ps: 等到轮子哥拿到1000万rmb的年薪，我们再去跳河不迟
  
 
  
-
-[问题]: 曾老师如何看待这个考砸上浙大的孩子
-[答案]: 他父母非常有远见。必成大器
-
- 
-
- 
-
-[问题]: 曾老师如何看待那些经历和他相似但本科出身没他好的学生？
-[答案]: 已经问过的就不要再问了换汤不换药
+<br>**问题**: 曾老师如何看待这个考砸上浙大的孩子
+**答案**: 他父母非常有远见。必成大器
 
  
 
  
-
-[问题]: 曾老师学历背景这么好，为什么没有从事学术工作而是去公司搞研发？
-[答案]: 你们这么喜欢黑我。怎么不给我找个媳妇？
-
- 
-
- 
-
-[问题]: 曾老师心目中的国内大学排名是怎样的？
-
-[答案]:清华 北大 复旦 其他 浙大
+<br>**问题**: 曾老师如何看待那些经历和他相似但本科出身没他好的学生？
+**答案**: 已经问过的就不要再问了换汤不换药
 
  
 
  
+<br>**问题**: 曾老师学历背景这么好，为什么没有从事学术工作而是去公司搞研发？
+**答案**: 你们这么喜欢黑我。怎么不给我找个媳妇？
 
-[问题]: 曾老师是否能做一个知乎live之类呢？
-[答案]: 这玩意工作量大。一个人也做不来吧。主要是找实习生去做比较划算，或者还是去国内外包给几位三本毕业的学生写写就好了。。
+ 
+
+ 
+<br>**问题**: 曾老师心目中的国内大学排名是怎样的？
+
+**答案**:清华 北大 复旦 其他 浙大
+
+ 
+
+ 
+<br>**问题**: 曾老师是否能做一个知乎live之类呢？
+**答案**: 这玩意工作量大。一个人也做不来吧。主要是找实习生去做比较划算，或者还是去国内外包给几位三本毕业的学生写写就好了。。
 
 语音直播又不是视频。吓死爹了。语音也叫live，当自己广播电台啊
 
  
 
  
-
-[问题]: 曾老师有内推资格吗？
-[答案]: 没有。毕竟没有自己的魔王帝国
-
- 
-
- 
-
-[问题]: 曾老师比较适合去哪所中学教书？
-[答案]: 郴州市明星中学
+<br>**问题**: 曾老师有内推资格吗？
+**答案**: 没有。毕竟没有自己的魔王帝国
 
  
 
  
-
-[问题]: 曾老师的C++水平如何
-[答案]: C-
-
- 
-
- 
-
-[问题]: 曾老师的童年时怎么样的？
-[答案]: 命途多舛，孑然一身
+<br>**问题**: 曾老师比较适合去哪所中学教书？
+**答案**: 郴州市明星中学
 
  
 
  
-
-[问题]: 曾老师粉丝多是因为浙大的光环吗
-[答案]: 第一次听说三本还有光环。。
-
- 
-
- 
-
-[问题]: 曾老师过生日（18岁），会吃什么好吃的？
-[答案]: 吃什么好
-
-![](https://pic4.zhimg.com/9273e377ea0177ffd40e160d9622f40b_b.jpg)
+<br>**问题**: 曾老师的C++水平如何
+**答案**: C-
 
  
 
  
-
-[问题]: 曾老师造过哪些牛逼闪闪的轮子？
-[答案]: 代码水平不够。一个都没有。造过两个都失败了。现在沉迷于游戏
-
- 
-
- 
-
-[问题]: 曾老师长得萌吗？
-[答案]: 已举报=就知道黑我
+<br>**问题**: 曾老师的童年时怎么样的？
+**答案**: 命途多舛，孑然一身
 
  
 
  
+<br>**问题**: 曾老师粉丝多是因为浙大的光环吗
+**答案**: 第一次听说三本还有光环。。
 
-[问题]: 曾老师黑浙大是对浙大在浙江人数招的过多而不满嘛？为什么不直接说出来。。？
-[答案]: 印度的发展也一年比一年好。。
+ 
+
+ 
+<br>**问题**: 曾老师过生日（18岁），会吃什么好吃的？
+**答案**: 吃什么好
+
+!****(https://pic4.zhimg.com/9273e377ea0177ffd40e160d9622f40b_b.jpg)
 
  
 
  
+<br>**问题**: 曾老师造过哪些牛逼闪闪的轮子？
+**答案**: 代码水平不够。一个都没有。造过两个都失败了。现在沉迷于游戏
 
-[问题]: 最近十年，编程领域有什么重要进展？
+ 
 
-[答案]:李阿玲的Tex 什么时候出来啊。。。。我们都毕业几十年了，office 都知道写公式了，word 都支持iPad
+ 
+<br>**问题**: 曾老师长得萌吗？
+**答案**: 已举报=就知道黑我
+
+ 
+
+ 
+<br>**问题**: 曾老师黑浙大是对浙大在浙江人数招的过多而不满嘛？为什么不直接说出来。。？
+**答案**: 印度的发展也一年比一年好。。
+
+ 
+
+ 
+<br>**问题**: 最近十年，编程领域有什么重要进展？
+
+**答案**:李阿玲的Tex 什么时候出来啊。。。。我们都毕业几十年了，office 都知道写公式了，word 都支持iPad
 
 了。我建议阿玲阿姨加入微软，为OFFICE统一TEX大业做贡献。
 
  
 
  
-
-[问题]: 最近开始有点迷恋起曾老师了怎么办？
-[答案]: 给我钱吧。我得值乎：
+<br>**问题**: 最近开始有点迷恋起曾老师了怎么办？
+**答案**: 给我钱吧。我得值乎：
 
 http://www. buyaobilian.com _ _
 
  
 
  
+<br>**问题**: 有excel了要数据库干啥？
 
-[问题]: 有excel了要数据库干啥？
-
-[答案]:Excel 并不是数据库。他只能把数据读入内存后再处理。而且也不支持关系查询（SQL） 
+**答案**:Excel 并不是数据库。他只能把数据读入内存后再处理。而且也不支持关系查询（SQL） 
 
 这就是为什么微软还有一个自己的数据库叫做Access。当然，Excel可以从Access中读取数据
 
  
 
  
-
-[问题]: 有一种说法水反光最多？如果成立，光又是一种电磁波，那么他和我的这个图又矛盾了？
-[答案]: 请你明确反射什么频率的电磁波，且明确什么角度去比较，且明确不同的界面（光滑，漫反射）
-
- 
-
- 
-
-[问题]: 有了美颜相机和美图秀秀，为什么还有人买美图手机？
-[答案]: 他就不担心见真人之后强大的落差感吗
+<br>**问题**: 有一种说法水反光最多？如果成立，光又是一种电磁波，那么他和我的这个图又矛盾了？
+**答案**: 请你明确反射什么频率的电磁波，且明确什么角度去比较，且明确不同的界面（光滑，漫反射）
 
  
 
  
-
-[问题]:有些课程说软件装在windows的program files文件夹下会出错，因为那个空格.这个是为什么？微软没考虑到这一点么？
-
-[答案]: 安装在d盘也不会有影响。
+<br>**问题**: 有了美颜相机和美图秀秀，为什么还有人买美图手机？
+**答案**: 他就不担心见真人之后强大的落差感吗
 
  
 
  
+<br>**问题**:有些课程说软件装在windows的program files文件夹下会出错，因为那个空格.这个是为什么？微软没考虑到这一点么？
 
-[问题]: 有人买了一块37万的车牌套在了8万块的车上，你们怎么看？
-[答案]: 在一个人多，底层人民曾经饱受战乱饥寒，徭役兵役，官员骚扰，司法不公的国度里，身份的象征是无价之宝：他的存在能帮你省去很多麻烦，也是兵慌马乱时的硬通货
+**答案**: 安装在d盘也不会有影响。
+
+ 
+
+ 
+<br>**问题**: 有人买了一块37万的车牌套在了8万块的车上，你们怎么看？
+**答案**: 在一个人多，底层人民曾经饱受战乱饥寒，徭役兵役，官员骚扰，司法不公的国度里，身份的象征是无价之宝：他的存在能帮你省去很多麻烦，也是兵慌马乱时的硬通货
 
  
 
  
-
-[问题]: 有人对九章算法有了解吗？可以介绍一下吗？
-[答案]: 我没看过。我这样和你说吧。北美顶尖硅谷it工程师，哪里有时间搞这个。他们要么做了中高层，要么拿了一笔钱回国创业，要么正在其他行业发光发热。那么都是谁来传授面试技巧？
+<br>**问题**: 有人对九章算法有了解吗？可以介绍一下吗？
+**答案**: 我没看过。我这样和你说吧。北美顶尖硅谷it工程师，哪里有时间搞这个。他们要么做了中高层，要么拿了一笔钱回国创业，要么正在其他行业发光发热。那么都是谁来传授面试技巧？
 
 顶尖的大学生回回高中传授高考技巧吗？ 
 
@@ -33363,25 +31481,22 @@ http://www. buyaobilian.com _ _
  
 
  
+<br>**问题**:有人用过FDTD Solutions软件么？
 
-[问题]:有人用过FDTD Solutions软件么？
-
-[答案]: 我用过。问题是，你哪里搞到的license?
-
- 
-
- 
-
-[问题]: 有人说乔布斯从来没编写过程序却对编程思想有很深的理解，有什么事情可以证明这一点？
-[答案]: 乔布斯没写过程序，但他知道为什么绝大多数自以为懂程序的程序员都是傻子。
+**答案**: 我用过。问题是，你哪里搞到的license?
 
  
 
  
+<br>**问题**: 有人说乔布斯从来没编写过程序却对编程思想有很深的理解，有什么事情可以证明这一点？
+**答案**: 乔布斯没写过程序，但他知道为什么绝大多数自以为懂程序的程序员都是傻子。
 
-[问题]:有什么 Windows 9598 时代的事情是新生代没见过或者无法理解的？
+ 
 
-[答案]:拨打163 上网 
+ 
+<br>**问题**:有什么 Windows 9598 时代的事情是新生代没见过或者无法理解的？
+
+**答案**:拨打163 上网 
 
 联想的“联想之家” 
 
@@ -33392,47 +31507,41 @@ http://www. buyaobilian.com _ _
  
 
  
-
-[问题]: 有什么了解原子理论的入门读物？
-[答案]: 其实我觉得，阅读当年的关于氢原子与氦原子的经典，是最好了。
-
- 
-
- 
-
-[问题]: 有什么大学生装X必备的书籍？
-[答案]: 股票，选择和未来。
+<br>**问题**: 有什么了解原子理论的入门读物？
+**答案**: 其实我觉得，阅读当年的关于氢原子与氦原子的经典，是最好了。
 
  
 
  
+<br>**问题**: 有什么大学生装X必备的书籍？
+**答案**: 股票，选择和未来。
 
-[问题]: 有什么工作同时需要数学和CS技能
-[答案]: quant.
+ 
+
+ 
+<br>**问题**: 有什么工作同时需要数学和CS技能
+**答案**: quant.
 
  
 
  
+<br>**问题**:有什么是MacBook Pro可以做好，但Windows系统的电脑做不好的
 
-[问题]:有什么是MacBook Pro可以做好，但Windows系统的电脑做不好的
-
-[答案]:阅读PDF文件，双手向下滑速度秒杀一切PC（含笔记本） 触控板。此外，空格键预览各种形式的文件；还有，ITUNES管理音乐的统一性，和iphone,
+**答案**:阅读PDF文件，双手向下滑速度秒杀一切PC（含笔记本） 触控板。此外，空格键预览各种形式的文件；还有，ITUNES管理音乐的统一性，和iphone,
 
 ipad等的兼容。特别强大的preview app（可以做denotation）等等。
 
  
 
  
-
-[问题]: 有什么电磁波的偏振特性试验？
-[答案]: 半波片改变圆偏振实验，双折射晶体的双折射现象实验，3D眼镜，偏振透过光强和转角关系实验，磁场下电子吸收实验，暗场显微镜实验，光学天线的偏振依赖激发实验，等等等等等，等等等等。
-
- 
+<br>**问题**: 有什么电磁波的偏振特性试验？
+**答案**: 半波片改变圆偏振实验，双折射晶体的双折射现象实验，3D眼镜，偏振透过光强和转角关系实验，磁场下电子吸收实验，暗场显微镜实验，光学天线的偏振依赖激发实验，等等等等等，等等等等。
 
  
 
-[问题]: 有什么真相是你宁愿不知道的？
-[答案]: 很多事情一早就注定
+ 
+<br>**问题**: 有什么真相是你宁愿不知道的？
+**答案**: 很多事情一早就注定
 
  
 
@@ -33441,26 +31550,23 @@ ipad等的兼容。特别强大的preview app（可以做denotation）等等。
  
 
  
+<br>**问题**: 有什么重要的算法是基于矩阵运算的？
 
-[问题]: 有什么重要的算法是基于矩阵运算的？
-
-[答案]:一种logn 实现 fibbonacci 求值的算法。 
+**答案**:一种logn 实现 fibbonacci 求值的算法。 
 
 没记错的话，快速傅立叶变换的算法也用到了矩阵（？）
 
  
 
  
-
-[问题]: 有关C++的一道题目怎么解决？
-[答案]: 楼主你把工作机会留给我们吧。
-
- 
+<br>**问题**: 有关C++的一道题目怎么解决？
+**答案**: 楼主你把工作机会留给我们吧。
 
  
 
-[问题]: 有名校情结、欣赏关于名校的一切是爱慕虚荣的表现吗？
-[答案]: 原来知乎还可以这么玩。所以我喜欢，这里这是研究大众心理和社会学的宝藏啊。外加公关危机，群聚效应，话题传播，病毒感染，奇葩展现。。。公关公司一定有很多人在潜水
+ 
+<br>**问题**: 有名校情结、欣赏关于名校的一切是爱慕虚荣的表现吗？
+**答案**: 原来知乎还可以这么玩。所以我喜欢，这里这是研究大众心理和社会学的宝藏啊。外加公关危机，群聚效应，话题传播，病毒感染，奇葩展现。。。公关公司一定有很多人在潜水
 
  
 
@@ -33469,9 +31575,8 @@ ipad等的兼容。特别强大的preview app（可以做denotation）等等。
  
 
  
-
-[问题]: 有哪些「上帝算法」？
-[答案]: ==新增最后一条==
+<br>**问题**: 有哪些「上帝算法」？
+**答案**: ==新增最后一条==
 
 按照题主的描述， 
 
@@ -33492,39 +31597,34 @@ ipad等的兼容。特别强大的preview app（可以做denotation）等等。
  
 
  
+<br>**问题**:有哪些优秀软件 Windows 上有而 Mac 上没有？
 
-[问题]:有哪些优秀软件 Windows 上有而 Mac 上没有？
-
-[答案]:Origin Lab. 处理数据必备
-
- 
-
- 
-
-[问题]: 有哪些像「光纤xiān」、「公钥yuè」这样即使是业内人士也普遍读错的词？
-[答案]: 机器学（xiao）习
+**答案**:Origin Lab. 处理数据必备
 
  
 
  
-
-[问题]: 有哪些功能和名称完全没有关系的东西？
-[答案]: “鸡巴”
-
- 
-
- 
-
-[问题]: 有哪些反直觉的物理现象？
-[答案]: 渐进自由？
+<br>**问题**: 有哪些像「光纤xiān」、「公钥yuè」这样即使是业内人士也普遍读错的词？
+**答案**: 机器学（xiao）习
 
  
 
  
+<br>**问题**: 有哪些功能和名称完全没有关系的东西？
+**答案**: “鸡巴”
 
-[问题]: 有哪些听起来很牛，全称却很朴实的英文缩写？
+ 
 
-[答案]:Windows NT (new technology) ... 
+ 
+<br>**问题**: 有哪些反直觉的物理现象？
+**答案**: 渐进自由？
+
+ 
+
+ 
+<br>**问题**: 有哪些听起来很牛，全称却很朴实的英文缩写？
+
+**答案**:Windows NT (new technology) ... 
 
  
 
@@ -33537,33 +31637,30 @@ Windows ME (fuck ME)
  
 
  
+<br>**问题**: 有哪些因误译而长期被国人误解的概念与名词？
 
-[问题]: 有哪些因误译而长期被国人误解的概念与名词？
-
-[答案]:free way 被翻译成 “高速公路”，实际上是不设STOP的公路。也就是 FREE OF STOP
+**答案**:free way 被翻译成 “高速公路”，实际上是不设STOP的公路。也就是 FREE OF STOP
 
 SIGN的路的意思。可以翻译成“不停公路”，“无障碍公路”。
 
  
 
  
-
-[问题]: 有哪些图形用户界面看起来原始简陋，实际上堪称黑科技的软件呢？
-[答案]: 各种专业内软件都算的吧。例如写mask专用的L-Edit。
+<br>**问题**: 有哪些图形用户界面看起来原始简陋，实际上堪称黑科技的软件呢？
+**答案**: 各种专业内软件都算的吧。例如写mask专用的L-Edit。
 
 另外，请看这个： 
 
 这就是功能强大，但是GUI 基本不存在的，微软的高级软件： 
 
-![](https://pic3.zhimg.com/83ed0d53a5a55d8e2d140628e42d8852_b.png)
+!****(https://pic3.zhimg.com/83ed0d53a5a55d8e2d140628e42d8852_b.png)
 
  
 
  
+<br>**问题**:有哪些好用的在线 LaTeX 编译器？
 
-[问题]:有哪些好用的在线 LaTeX 编译器？
-
-[答案]:我们正在写一个可见即可得的web based latex editor。你可以按照tex的语法输入命令，但是你看到的是存在光标和类word
+**答案**:我们正在写一个可见即可得的web based latex editor。你可以按照tex的语法输入命令，但是你看到的是存在光标和类word
 
 wysiwyg文档。譬如，你输入^那么光标就跑到上标上去了。你输入\frac就跑出一个分数框。难度在于如何typesetting，我们决定采用和tex一样的办法，所以效果应该一样。具体不能再多说了。。。 
 
@@ -33571,15 +31668,15 @@ wysiwyg文档。譬如，你输入^那么光标就跑到上标上去了。你输
 
 承蒙许多人关注，现在把非常原始的效果图放上来看一下： 
 
-![](https://pic1.zhimg.com/9ffef0147a51577cd50b5b922cd9ee88_b.jpg)
+!****(https://pic1.zhimg.com/9ffef0147a51577cd50b5b922cd9ee88_b.jpg)
 
-![](https://pic4.zhimg.com/1defc0cd4b6801dbb2f122e4c6ce28cb_b.jpg)
+!****(https://pic4.zhimg.com/1defc0cd4b6801dbb2f122e4c6ce28cb_b.jpg)
 
-![](https://pic1.zhimg.com/7e6a50135954e37b73acbc4bc97743c4_b.jpg) 
+!****(https://pic1.zhimg.com/7e6a50135954e37b73acbc4bc97743c4_b.jpg) 
 
 最近加入的功能： 
 
-![](https://pic3.zhimg.com/46c939b3f0815a258cce70bb43915a3a_b.jpg) 
+!****(https://pic3.zhimg.com/46c939b3f0815a258cce70bb43915a3a_b.jpg) 
 
 在产品还没有做完全之前放出预览是很不明智的行为，实际上关于如何确保js的安全性我们也还在探讨之中，在产品内容和安全性完善之前不会上线，而且一定会加入服务器端的内容。但起码，以上的示范表明这一切都是可以实现的。 
 
@@ -33602,33 +31699,29 @@ ps：希望有实力的同行参与竞争，但不要抄袭。。
  
 
  
+<br>**问题**:有哪些安慰剂按钮（Placebo button）的设计？
 
-[问题]:有哪些安慰剂按钮（Placebo button）的设计？
-
-[答案]: 轮子哥哥的大肚子
-
- 
+**答案**: 轮子哥哥的大肚子
 
  
 
-[问题]: 有哪些开源后焕发新生甚至走向辉煌的项目？
-[答案]: caffe吧。。
+ 
+<br>**问题**: 有哪些开源后焕发新生甚至走向辉煌的项目？
+**答案**: caffe吧。。
 
 至此所有主流dl库都必须开源。当然那些高效汇编矩阵库早就开源了。。这个领域要是不开源的话，社会要倒退很多年，博士生也要延期毕业了
 
  
 
  
-
-[问题]: 有哪些微信小程序值得推荐？
-[答案]: 这些小程序公司的KPI就靠这个问题实现了。。
-
- 
+<br>**问题**: 有哪些微信小程序值得推荐？
+**答案**: 这些小程序公司的KPI就靠这个问题实现了。。
 
  
 
-[问题]: 有哪些歌词是违背常识的？
-[答案]: 我有一个，美丽的愿望，就是长大以后能播种太阳，一个种在，种在南极，一个种在种在北冰洋。。。。
+ 
+<br>**问题**: 有哪些歌词是违背常识的？
+**答案**: 我有一个，美丽的愿望，就是长大以后能播种太阳，一个种在，种在南极，一个种在种在北冰洋。。。。
 
  
 
@@ -33637,9 +31730,8 @@ ps：希望有实力的同行参与竞争，但不要抄袭。。
  
 
  
-
-[问题]: 有哪些比「黑暗森林体系」更严谨合理的宇宙社会模型？
-[答案]: 确实。文章最后说大神文明宇宙广播要大家交出自己的私房钱，准备干一件大事；但女主角还私藏了一些，没有全部交完。
+<br>**问题**: 有哪些比「黑暗森林体系」更严谨合理的宇宙社会模型？
+**答案**: 确实。文章最后说大神文明宇宙广播要大家交出自己的私房钱，准备干一件大事；但女主角还私藏了一些，没有全部交完。
 
 他以为这是中共开会啊。。。 
 
@@ -33648,16 +31740,14 @@ ps：希望有实力的同行参与竞争，但不要抄袭。。
  
 
  
-
-[问题]: 有哪些汽车配件能够提升驾驶乐趣？
-[答案]: 遥控器啊，真皮把手；四驱电池，配一个强劲的，南孚可以
-
- 
+<br>**问题**: 有哪些汽车配件能够提升驾驶乐趣？
+**答案**: 遥控器啊，真皮把手；四驱电池，配一个强劲的，南孚可以
 
  
 
-[问题]: 有哪些看起来很初级的技术其实原理很高端很厉害？
-[答案]: 看到有人说office打字的难度，引以为豪，这样真的好吗。
+ 
+<br>**问题**: 有哪些看起来很初级的技术其实原理很高端很厉害？
+**答案**: 看到有人说office打字的难度，引以为豪，这样真的好吗。
 
  
 
@@ -33688,16 +31778,14 @@ ps：希望有实力的同行参与竞争，但不要抄袭。。
  
 
  
-
-[问题]: 有哪些算法触及到了问题的最本质的层面？
-[答案]: 物理的本质是什么？一群物理学家的意淫吧。。。。。
-
- 
+<br>**问题**: 有哪些算法触及到了问题的最本质的层面？
+**答案**: 物理的本质是什么？一群物理学家的意淫吧。。。。。
 
  
 
-[问题]: 有哪些英语用一个单词就能表达清楚但是用中文表达却很难表达的例子？
-[答案]: frozen：冰雪奇缘
+ 
+<br>**问题**: 有哪些英语用一个单词就能表达清楚但是用中文表达却很难表达的例子？
+**答案**: frozen：冰雪奇缘
 
 matrix：黑客帝国 
 
@@ -33706,34 +31794,30 @@ Life of Pi: 少年Pi的奇幻漂流
  
 
  
+<br>**问题**: 有哪些表面看上去极其负能量，实际极其正能量的影视作品，文学作品？
 
-[问题]: 有哪些表面看上去极其负能量，实际极其正能量的影视作品，文学作品？
-
-[答案]:Kids return
-
- 
+**答案**:Kids return
 
  
 
-[问题]: 有哪些计算机术语的翻译，让你第一次学的时候感到十分别扭？
-[答案]: 为什么我一开始就知道句柄就是handle
+ 
+<br>**问题**: 有哪些计算机术语的翻译，让你第一次学的时候感到十分别扭？
+**答案**: 为什么我一开始就知道句柄就是handle
 
 。。。
 
  
 
  
+<br>**问题**:有哪些适合 Surface Pro 4 使用的，不能错过的好软件？
 
-[问题]:有哪些适合 Surface Pro 4 使用的，不能错过的好软件？
-
-[答案]:iOS 9 and Apple Store
-
- 
+**答案**:iOS 9 and Apple Store
 
  
 
-[问题]: 有哪些适合大学生用的笔记本电脑
-[答案]: 如果不用来办正事，买一个ipad够你用；
+ 
+<br>**问题**: 有哪些适合大学生用的笔记本电脑
+**答案**: 如果不用来办正事，买一个ipad够你用；
 
 如果用来办正事，买一个macbook 够你用； 
 
@@ -33742,44 +31826,38 @@ Life of Pi: 少年Pi的奇幻漂流
  
 
  
-
-[问题]: 有多少浙大学生知道曾博？
-[答案]: 0%
-
- 
-
- 
-
-[问题]: 有比砸缸更好的方法救出司马光砸缸里的小孩吗？
-[答案]: 虹吸现象吸水
+<br>**问题**: 有多少浙大学生知道曾博？
+**答案**: 0%
 
  
 
  
-
-[问题]: 有没有人愿意加入勃学讨论群（不限学历，失败人士即可）？
-[答案]: 没听过这玩意
-
- 
-
- 
-
-[问题]: 有清华大学的本科学历的学子是如何看待曾博这个精神本科清华人的？
-[答案]: 看不起我
+<br>**问题**: 有比砸缸更好的方法救出司马光砸缸里的小孩吗？
+**答案**: 虹吸现象吸水
 
  
 
  
+<br>**问题**: 有没有人愿意加入勃学讨论群（不限学历，失败人士即可）？
+**答案**: 没听过这玩意
 
-[问题]: 有谁能推荐几篇关于白学的帖子？
-[答案]: 我还以为是深入研究白冰冰的学科。。。。
+ 
+
+ 
+<br>**问题**: 有清华大学的本科学历的学子是如何看待曾博这个精神本科清华人的？
+**答案**: 看不起我
 
  
 
  
+<br>**问题**: 有谁能推荐几篇关于白学的帖子？
+**答案**: 我还以为是深入研究白冰冰的学科。。。。
 
-[问题]: 有限深平底势阱波函数中的束缚态到底怎么理解？
-[答案]: 你所求解是只是一个schrodinger
+ 
+
+ 
+<br>**问题**: 有限深平底势阱波函数中的束缚态到底怎么理解？
+**答案**: 你所求解是只是一个schrodinger
 
 方程的eigensolution。这个eigensolution在无穷大v(x)的地方，必须也是0否则那一点函数的值无穷大了，那么这个解没有意义（具体参见线性代数，hilbert
 
@@ -33789,47 +31867,44 @@ space和hermitian operator什么的）。在v(x)不是无穷大的地方，其�
 
  
 
- \1. 例如 ![f\(x\)=e^{ix}](https://www.zhihu.com/equation?tex=f%28x%29%3De%5E%7Bix%7D)  
+ \1. 例如 !**f\(x\)=e^{ix}**(https://www.zhihu.com/equation?tex=f%28x%29%3De%5E%7Bix%7D)  
 
 就是无界的（平面波），也是不可被归一化的。一说他不存在于hilbert space中。 
 
  
 
- \2. 对于另外的函数例如 ![f\(x\)=e^{-x^2}e^{ix}](https://www.zhihu.com/equation?tex=f%28x%29%3De%5E%7B-x%5E2%7De%5E%7Bix%7D)  
+ \2. 对于另外的函数例如 !**f\(x\)=e^{-x^2}e^{ix}**(https://www.zhihu.com/equation?tex=f%28x%29%3De%5E%7B-x%5E2%7De%5E%7Bix%7D)  
 
 ，这样的高斯函数，就是有界的。这就是“束缚态”。 
 
  
 
- \3. 对于另外的函数例如 ![f\(x\)=e^{-\(x-ct\)^2}e^{i\(x-t\\omega\)}](https://www.zhihu.com/equation?tex=f%28x%29%3De%5E%7B-%28x-ct%29%5E2%7De%5E%7Bi%28x-t%5Comega%29%7D)  
+ \3. 对于另外的函数例如 !**f\(x\)=e^{-\(x-ct\)^2}e^{i\(x-t\\omega\)}**(https://www.zhihu.com/equation?tex=f%28x%29%3De%5E%7B-%28x-ct%29%5E2%7De%5E%7Bi%28x-t%5Comega%29%7D)  
 
 。这个函数是有界的，但其边界随时间演化而移动，因此不是束缚态。
 
  
 
  
-
-[问题]: 木头有熔点和沸点吗？如果有，为什么没有液态和气态的木头呢？
-[答案]: 人有熔点和沸点吗
+<br>**问题**: 木头有熔点和沸点吗？如果有，为什么没有液态和气态的木头呢？
+**答案**: 人有熔点和沸点吗
 
 据说确实有液态的人，这一点男生比较熟悉
 
  
 
  
+<br>**问题**: 未来5年，人类还会需要笔记本吗？
 
-[问题]: 未来5年，人类还会需要笔记本吗？
-
-[答案]:很多人提出大型单机游戏。什么叫做ps 4 和 Xbox . 
+**答案**:很多人提出大型单机游戏。什么叫做ps 4 和 Xbox . 
 
 这种用笔记本玩游戏的奇怪需求
 
  
 
  
-
-[问题]: 未来人类是否会用多巴胺取代所有娱乐活动？
-[答案]: 其实啊，让每个人都有机会轮流成功一次，并且让成功人士的成功无法被继承，唯一装备且灵魂绑定，就够了；只是人类统治者的觉悟还不够高；人类被统治者的觉悟也不够高。我建议他们多学习一下勃学。
+<br>**问题**: 未来人类是否会用多巴胺取代所有娱乐活动？
+**答案**: 其实啊，让每个人都有机会轮流成功一次，并且让成功人士的成功无法被继承，唯一装备且灵魂绑定，就够了；只是人类统治者的觉悟还不够高；人类被统治者的觉悟也不够高。我建议他们多学习一下勃学。
 
  
 
@@ -33854,10 +31929,9 @@ space和hermitian operator什么的）。在v(x)不是无穷大的地方，其�
  
 
  
+<br>**问题**: 未来光电路是什么样子的？
 
-[问题]: 未来光电路是什么样子的？
-
-[答案]:答案是可以。从基本的哲学角度，这个理念是可行的，也是科学／工程界未来努力的方向。据说intel 最近要photonics PHD 做scientist
+**答案**:答案是可以。从基本的哲学角度，这个理念是可行的，也是科学／工程界未来努力的方向。据说intel 最近要photonics PHD 做scientist
 
 的职位很多。题主很有想法。看好你哦！ 
 
@@ -33896,24 +31970,21 @@ photonics )。所以业内也存在一种说法是金属SPP毫无前途。
  
 
  
-
-[问题]: 未来美国是否具有实现共产主义社会的条件？
-[答案]: 并没有。自从资本家发现华尔街一天赚的钱比工人500年赚的还要多的时候，我们发现，美国和社会主义只能越走越远了。
-
- 
-
- 
-
-[问题]:未来谁有可能革 Google 的命？
-
-[答案]:Facebook is better
+<br>**问题**: 未来美国是否具有实现共产主义社会的条件？
+**答案**: 并没有。自从资本家发现华尔街一天赚的钱比工人500年赚的还要多的时候，我们发现，美国和社会主义只能越走越远了。
 
  
 
  
+<br>**问题**:未来谁有可能革 Google 的命？
 
-[问题]: 本周股市预期
-[答案]: 鉴于立党愿意做回我女朋友，我公布本周股市预期
+**答案**:Facebook is better
+
+ 
+
+ 
+<br>**问题**: 本周股市预期
+**答案**: 鉴于立党愿意做回我女朋友，我公布本周股市预期
 
  
 
@@ -33922,33 +31993,29 @@ photonics )。所以业内也存在一种说法是金属SPP毫无前途。
  
 
  
+<br>**问题**: 本征到底是什么意思？？
 
-[问题]: 本征到底是什么意思？？
-
-[答案]:Eigen 是固有，本有的意思。之所以把线性变换和本征联系起来，是因为线性变换可以表示成他全部本征值乘以本征向量外积的和而已。 
+**答案**:Eigen 是固有，本有的意思。之所以把线性变换和本征联系起来，是因为线性变换可以表示成他全部本征值乘以本征向量外积的和而已。 
 
 你更应该关心的是canonical , 我现在都不知道他是什么意思。。
 
  
 
  
-
-[问题]: 本科就读加州大学伯克利分校是怎样的体验？
-[答案]: 世界第一的感觉吧。要是长得再帅一点，就可以宇宙无敌了。
-
- 
-
- 
-
-[问题]: 本科毕业一年从事与专业毫无关系职业，月薪涨到8k加奖金在北京到底算不算不差的？
-[答案]: 计算机写代码的不是都是一行10块算起的吗？
+<br>**问题**: 本科就读加州大学伯克利分校是怎样的体验？
+**答案**: 世界第一的感觉吧。要是长得再帅一点，就可以宇宙无敌了。
 
  
 
  
+<br>**问题**: 本科毕业一年从事与专业毫无关系职业，月薪涨到8k加奖金在北京到底算不算不差的？
+**答案**: 计算机写代码的不是都是一行10块算起的吗？
 
-[问题]: 本科转学至国外，如何准备文书？
-[答案]: 找知乎最大的旁系富二代（之一）Thiel
+ 
+
+ 
+<br>**问题**: 本科转学至国外，如何准备文书？
+**答案**: 找知乎最大的旁系富二代（之一）Thiel
 
 他辅导过的都去了top 20，收费也不贵。 
 
@@ -33959,25 +32026,22 @@ photonics )。所以业内也存在一种说法是金属SPP毫无前途。
  
 
  
-
-[问题]: 机器学习将在多久以后像安卓开发一样烂大街？
-[答案]: 简单的机器学习早就烂大街了。高端的机器学习一直在顶级会议
-
- 
-
- 
-
-[问题]: 机器学习有很多关于核函数的说法，核函数的定义和作用是什么？
-
-[答案]:这种问题，一个本科introduction to ml就能解决。。。。。楼主如果你还是本科生的话，好好学。
+<br>**问题**: 机器学习将在多久以后像安卓开发一样烂大街？
+**答案**: 简单的机器学习早就烂大街了。高端的机器学习一直在顶级会议
 
  
 
  
+<br>**问题**: 机器学习有很多关于核函数的说法，核函数的定义和作用是什么？
 
-[问题]: 机器学习该怎么入门？
+**答案**:这种问题，一个本科introduction to ml就能解决。。。。。楼主如果你还是本科生的话，好好学。
 
-[答案]:建议你跟着世界一流高校的一门课学习，而不要去看ng 的公开课。 
+ 
+
+ 
+<br>**问题**: 机器学习该怎么入门？
+
+**答案**:建议你跟着世界一流高校的一门课学习，而不要去看ng 的公开课。 
 
 stanford 一门ee xxx， machine learning，据说效果很好 
 
@@ -34102,17 +32166,15 @@ R。这个说的很实际，适合入门理解。
  
 
  
-
-[问题]: 李四保大神在Gopher大会演讲中提到的创业机会思维模式到底是指什么？
-[答案]: 勇敢是成功的第一步。我支持你
-
- 
+<br>**问题**: 李四保大神在Gopher大会演讲中提到的创业机会思维模式到底是指什么？
+**答案**: 勇敢是成功的第一步。我支持你
 
  
 
-[问题]: 李沐入职亚马逊担任高级科学家直接秒掉轮子哥，那么勃勃怎么样？
+ 
+<br>**问题**: 李沐入职亚马逊担任高级科学家直接秒掉轮子哥，那么勃勃怎么样？
 
-[答案]:
+**答案**:
 
  
 
@@ -34141,10 +32203,9 @@ R。这个说的很实际，适合入门理解。
  
 
  
+<br>**问题**: 李阿玲是谁？
 
-[问题]: 李阿玲是谁？
-
-[答案]:李阿玲哥哥为什么不直接用python重写一次tex。。。代码也不会很多的样子＝tex最难的当属他的字体信息和繁杂的case by case
+**答案**:李阿玲哥哥为什么不直接用python重写一次tex。。。代码也不会很多的样子＝tex最难的当属他的字体信息和繁杂的case by case
 
 排版技术了。其实tex就是一次活字印刷，一般人还真的难得想去搞清楚他是怎么排出来的。 
 
@@ -34153,9 +32214,8 @@ R。这个说的很实际，适合入门理解。
  
 
  
-
-[问题]: 杨-米尔斯规范场的发明人为什么在二、三流大学？
-[答案]: 按照排名的确是三流学校。但不能因为三流学校就说他的专业不好。
+<br>**问题**: 杨-米尔斯规范场的发明人为什么在二、三流大学？
+**答案**: 按照排名的确是三流学校。但不能因为三流学校就说他的专业不好。
 
 中南大学，兰州大学很多专业都很强啊。但是OSU的确是三流大学没错了。石溪大学稍微好一点。你看看华尔街看重学历的公司有人会去OSU招生？公立大学最好的UCB就接近2流了（因经费不足，本科生排名20+，招生人数过多，毕业生工作去名牌金融公司的不多，工资不高等因素影响）。你跟我说OSU公立大学，首先我问你他在公立大学里排名多少，再来给我说他是几流好吗？ 
 
@@ -34180,48 +32240,42 @@ R。这个说的很实际，适合入门理解。
  
 
  
-
-[问题]: 杭州阿里p6+的offer值得去吗？
-[答案]: 明年上市大牛，千万不要去阿里巴巴
-
- 
-
- 
-
-[问题]:林志颖于 2014 年 6 月爆出的下一代 iPhone 的照片是真的吗？
-
-[答案]: 苹果可以去起诉他了。
+<br>**问题**: 杭州阿里p6+的offer值得去吗？
+**答案**: 明年上市大牛，千万不要去阿里巴巴
 
  
 
  
+<br>**问题**:林志颖于 2014 年 6 月爆出的下一代 iPhone 的照片是真的吗？
 
-[问题]: 查询一个数组中字符出现最多频率的算法？
-
-[答案]:作业题？我怎么觉得hashtable O(n) 就可以算出来
-
- 
-
- 
-
-[问题]:样本量少， 方差大，能假设其服从正态分布吗？
-
-[答案]:我记得有个东西叫做normality test?
+**答案**: 苹果可以去起诉他了。
 
  
 
  
+<br>**问题**: 查询一个数组中字符出现最多频率的算法？
 
-[问题]: 桌面程序的界面部分用HTML+CSS+JavaScript写是否可行？
+**答案**:作业题？我怎么觉得hashtable O(n) 就可以算出来
 
-[答案]:atom 啊（electron）。写得还不错就是容易卡死哈哈哈
+ 
+
+ 
+<br>**问题**:样本量少， 方差大，能假设其服从正态分布吗？
+
+**答案**:我记得有个东西叫做normality test?
 
  
 
  
+<br>**问题**: 桌面程序的界面部分用HTML+CSS+JavaScript写是否可行？
 
-[问题]: 梯度下降为什么步长要乘以导数？
-[答案]: 既然导数的正负已经决定了方向，那你何必还要认为的判断正负并加上符号？莫非你忘记了数轴的正方向么。
+**答案**:atom 啊（electron）。写得还不错就是容易卡死哈哈哈
+
+ 
+
+ 
+<br>**问题**: 梯度下降为什么步长要乘以导数？
+**答案**: 既然导数的正负已经决定了方向，那你何必还要认为的判断正负并加上符号？莫非你忘记了数轴的正方向么。
 
 题目描述改了。 
 
@@ -34230,9 +32284,8 @@ R。这个说的很实际，适合入门理解。
  
 
  
-
-[问题]: 植物需要补光灯吗？
-[答案]: 对。也需要发型，还需要保湿水，祛痘霜。对了，还有一个大靴子和大皮衣。
+<br>**问题**: 植物需要补光灯吗？
+**答案**: 对。也需要发型，还需要保湿水，祛痘霜。对了，还有一个大靴子和大皮衣。
 
 房子车子也是需要的 
 
@@ -34241,9 +32294,8 @@ R。这个说的很实际，适合入门理解。
  
 
  
-
-[问题]: 楞次定律能不能进行推广？
-[答案]: .学有余力的话，不要胡思乱想；多做往年高考题，然后总结错题集。最后高考作文写个模版。
+<br>**问题**: 楞次定律能不能进行推广？
+**答案**: .学有余力的话，不要胡思乱想；多做往年高考题，然后总结错题集。最后高考作文写个模版。
 
 祝你考上清华 
 
@@ -34256,17 +32308,15 @@ R。这个说的很实际，适合入门理解。
  
 
  
+<br>**问题**:概率论中的随机游走（Random Walk）中，怎么理解最终行走距离的平方的期望等于步数？
 
-[问题]:概率论中的随机游走（Random Walk）中，怎么理解最终行走距离的平方的期望等于步数？
-
-[答案]: 我赞同何的答案。你的期望是0方差不是
-
- 
+**答案**: 我赞同何的答案。你的期望是0方差不是
 
  
 
-[问题]: 欧盟如果允许俄罗斯加入，有可能称霸世界吗？
-[答案]: 按照英国的策略，他不允许德国，法国或者俄国在欧洲称霸。如果俄国真的加入欧盟，因为内部的原因（nation，民族国家），欧盟也会分裂。。
+ 
+<br>**问题**: 欧盟如果允许俄罗斯加入，有可能称霸世界吗？
+**答案**: 按照英国的策略，他不允许德国，法国或者俄国在欧洲称霸。如果俄国真的加入欧盟，因为内部的原因（nation，民族国家），欧盟也会分裂。。
 
 虽然我也不知道为什么欧洲大陆要把俄罗斯割裂开，毕竟是亲兄弟啊，难道就是因为社会主义吗？当年几个社会主义国家倒戈之后，欧盟不也善意接纳了么？ 
 
@@ -34275,23 +32325,20 @@ R。这个说的很实际，适合入门理解。
  
 
  
-
-[问题]: 正弦波叠加能量问题，哪里出错了？
-[答案]: 你只计算了相干增强的部分，没计算相消
-
- 
-
- 
-
-[问题]: 此为人生的意义
-[答案]: 如果我要写“圣经”的话。第一句话应该是：人们，你们的苦都是自找的。第二句话是：想想外星人播种之前的猿人吧，你有了自由和食物，已经很幸福。第三句话是：你要求的越多，以后也越难满足，这很危险。第四句话是：因此要贫穷的生活。第五句话是：然后你可以做一个码农。
+<br>**问题**: 正弦波叠加能量问题，哪里出错了？
+**答案**: 你只计算了相干增强的部分，没计算相消
 
  
 
  
+<br>**问题**: 此为人生的意义
+**答案**: 如果我要写“圣经”的话。第一句话应该是：人们，你们的苦都是自找的。第二句话是：想想外星人播种之前的猿人吧，你有了自由和食物，已经很幸福。第三句话是：你要求的越多，以后也越难满足，这很危险。第四句话是：因此要贫穷的生活。第五句话是：然后你可以做一个码农。
 
-[问题]: 武书连大学排名近年来，浙江大学排名均高于清华大学，是因为他清华没毕业吗？
-[答案]: 浙大可能在10，15，20年后超过清华，但不是现在。
+ 
+
+ 
+<br>**问题**: 武书连大学排名近年来，浙江大学排名均高于清华大学，是因为他清华没毕业吗？
+**答案**: 浙大可能在10，15，20年后超过清华，但不是现在。
 
 你现在，毕业要找工作。所以你现在有条件的当然是先去清华。没有人有耐心等这个10年。 
 
@@ -34312,10 +32359,9 @@ R。这个说的很实际，适合入门理解。
  
 
  
+<br>**问题**:每一台 Windows 电脑乃至绝大多数电脑都出过问题吗？
 
-[问题]:每一台 Windows 电脑乃至绝大多数电脑都出过问题吗？
-
-[答案]: 玩游戏经常跳出
+**答案**: 玩游戏经常跳出
 
 上网经常死机 
 
@@ -34330,24 +32376,21 @@ Windows 到了现在还没变啊
  
 
  
+<br>**问题**:比卡丘的招数为什么是 10 万伏特，不是 10 万安培？为什么以电压衡量不以电流衡量？
 
-[问题]:比卡丘的招数为什么是 10 万伏特，不是 10 万安培？为什么以电压衡量不以电流衡量？
-
-[答案]: 因为电流不是静电场的场基本物理量。
-
- 
-
- 
-
-[问题]: 毕业五年又回到浙大紫金港校园里逛是种什么体验？
-[答案]: 这里竟然不是清华园
+**答案**: 因为电流不是静电场的场基本物理量。
 
  
 
  
+<br>**问题**: 毕业五年又回到浙大紫金港校园里逛是种什么体验？
+**答案**: 这里竟然不是清华园
 
-[问题]: 毫无保留的把自己的情绪表达出来是一件好事情吗？
-[答案]: 我是傻逼
+ 
+
+ 
+<br>**问题**: 毫无保留的把自己的情绪表达出来是一件好事情吗？
+**答案**: 我是傻逼
 
 我没人要 
 
@@ -34366,10 +32409,9 @@ Windows 到了现在还没变啊
  
 
  
+<br>**问题**:毫无基础的人如何入门 Python ？
 
-[问题]:毫无基础的人如何入门 Python ？
-
-[答案]:建议你跟着UC BERKELEY 本科生计算机基础系列课程CS 61 A 学习。(注：CS 61B是数据结构和JAVA，CS 61C 是C语言和硬件） 
+**答案**:建议你跟着UC BERKELEY 本科生计算机基础系列课程CS 61 A 学习。(注：CS 61B是数据结构和JAVA，CS 61C 是C语言和硬件） 
 
 另外他的教材是PYTHON 版本的SICP，电子版，可以多看看 
 
@@ -34382,17 +32424,15 @@ http:// www-inst.eecs.berkeley.edu /~cs61a/sp12/book/ _ _
  
 
  
+<br>**问题**:求一个算法，把一组数据切成两组数据，使两组数据和之差的绝对值最小？ 另外作为扩展，请考虑分成n组的情况。
 
-[问题]:求一个算法，把一组数据切成两组数据，使两组数据和之差的绝对值最小？ 另外作为扩展，请考虑分成n组的情况。
-
-[答案]:这个和java无关，叫做tug of war。你需要使用的是backtracking。
-
- 
+**答案**:这个和java无关，叫做tug of war。你需要使用的是backtracking。
 
  
 
-[问题]: 求大神解答几个现代光学问题？
-[答案]: 这种作业题就是为什么国内工科毕业生完全找不到工作脱离实际只会背书以及国内企业被国外企业打得满地找牙的缘故了。
+ 
+<br>**问题**: 求大神解答几个现代光学问题？
+**答案**: 这种作业题就是为什么国内工科毕业生完全找不到工作脱离实际只会背书以及国内企业被国外企业打得满地找牙的缘故了。
 
 据说苹果的光学工程师都必须是.. 
 
@@ -34407,49 +32447,43 @@ http:// www-inst.eecs.berkeley.edu /~cs61a/sp12/book/ _ _
  
 
  
+<br>**问题**: 求问怎么学好大学的工程光学和物理光学
 
-[问题]: 求问怎么学好大学的工程光学和物理光学
-
-[答案]:@Tianhe Wang 可以回答。
-
- 
+**答案**:@Tianhe Wang 可以回答。
 
  
 
-[问题]: 汉语和英语使用同一个「心」来表示「心脏」「内心」两种意义，仅仅是巧合还是有内在原因？
-[答案]: 你可能误会了。语言诞生之初世界上各地的人类就可能产生了接触。文明的交流很早就开始了。你看看先秦文明对西域的描述？另外阿拉伯数字什么时候传来的？你现在吃的蔬菜都是什么时候引入的？为什么英语和现代汉语一样都是主谓宾的结构？
+ 
+<br>**问题**: 汉语和英语使用同一个「心」来表示「心脏」「内心」两种意义，仅仅是巧合还是有内在原因？
+**答案**: 你可能误会了。语言诞生之初世界上各地的人类就可能产生了接触。文明的交流很早就开始了。你看看先秦文明对西域的描述？另外阿拉伯数字什么时候传来的？你现在吃的蔬菜都是什么时候引入的？为什么英语和现代汉语一样都是主谓宾的结构？
 
 不同文明用同样的词语指代同样的事情就好比日本人用“失礼”指代“道歉”一样，只不过说明他们有文明交流罢了
 
  
 
  
-
-[问题]: 汉语和英语哪个是更优秀的语言？
-[答案]: 汉语其实不错的
+<br>**问题**: 汉语和英语哪个是更优秀的语言？
+**答案**: 汉语其实不错的
 
 但你看看某国在高端场合使用的汉语标语，汉语广告语，汉语宣传语。我觉得还是英语更先进。
 
  
 
  
-
-[问题]: 汪涵和陈道明谁最有资格成为当代中国的文学大家？
-[答案]: 我选择狗带
-
- 
-
- 
-
-[问题]: 汽车的动力总成的发展已经达到瓶颈了么？
-[答案]: 什么叫“总成”，是翻译问题吗。
+<br>**问题**: 汪涵和陈道明谁最有资格成为当代中国的文学大家？
+**答案**: 我选择狗带
 
  
 
  
+<br>**问题**: 汽车的动力总成的发展已经达到瓶颈了么？
+**答案**: 什么叫“总成”，是翻译问题吗。
 
-[问题]: 汽车雨刷是否可以去掉来增加汽车整体美感？
-[答案]: 我很好奇
+ 
+
+ 
+<br>**问题**: 汽车雨刷是否可以去掉来增加汽车整体美感？
+**答案**: 我很好奇
 
 为什么没有垂直式的雨刷。 
 
@@ -34466,25 +32500,22 @@ http:// www-inst.eecs.berkeley.edu /~cs61a/sp12/book/ _ _
  
 
  
-
-[问题]: 沉迷勃学是怎样一种体验？
-[答案]: 起码在给某些大V送钱的时候提高自己的姿势水平
-
- 
+<br>**问题**: 沉迷勃学是怎样一种体验？
+**答案**: 起码在给某些大V送钱的时候提高自己的姿势水平
 
  
 
-[问题]: 没有竞赛背景的应届高考生上北大物理学院，暑假怎样做才能弥补与竞赛党的差距？
-[答案]: 北大物院能看上你自然有它的道理。你应该是省前20左右。
+ 
+<br>**问题**: 没有竞赛背景的应届高考生上北大物理学院，暑假怎样做才能弥补与竞赛党的差距？
+**答案**: 北大物院能看上你自然有它的道理。你应该是省前20左右。
 
 理综，数学够好就好了。。。多刷题，不要死记硬背，那么应该可以超越很多人。要想获得独到的理解那就看天赋了。北大会招收很多国际物理竞赛金牌得主，以及很多国家赛一等奖得主。前者大一之后会出国的，后者的话，你英语，语文比他们好不是？他们混实验室你就学CS，最后你赢。
 
  
 
  
-
-[问题]: 没有钱怎么进行自我提升？
-[答案]: 有钱的人才可能由衷爆发出兴趣，然后创造出自己的事业。
+<br>**问题**: 没有钱怎么进行自我提升？
+**答案**: 有钱的人才可能由衷爆发出兴趣，然后创造出自己的事业。
 
 连钱都没有的人首先的当务之急一定是如何赚钱 
 
@@ -34515,112 +32546,106 @@ http:// www-inst.eecs.berkeley.edu /~cs61a/sp12/book/ _ _
  
 
  
-
-[问题]: 河北普通本科生（计算机科学与技术），在日本留学一年半，工作一年半，想去读斯坦福的MBA,要多大的努力？
-[答案]: 请带上我
-
- 
+<br>**问题**: 河北普通本科生（计算机科学与技术），在日本留学一年半，工作一年半，想去读斯坦福的MBA,要多大的努力？
+**答案**: 请带上我
 
  
 
-[问题]: 泊松分布的现实意义是什么，为什么现实生活多数服从于泊松分布？
-[答案]: 许多事情的发生都有所谓“平均时间”，或者“时间常数”。例如一个原子里的电子跃迁发射光子这件事，大概平均
+ 
+<br>**问题**: 泊松分布的现实意义是什么，为什么现实生活多数服从于泊松分布？
+**答案**: 许多事情的发生都有所谓“平均时间”，或者“时间常数”。例如一个原子里的电子跃迁发射光子这件事，大概平均
 
-![\\tau](https://www.zhihu.com/equation?tex=%5Ctau) 
+!**\\tau**(https://www.zhihu.com/equation?tex=%5Ctau) 
 
 这个时间就会发射一个光子。 
 
-那么假定这个时间常数是 ![\\tau=1/\\lambda
+那么假定这个时间常数是 !**\\tau=1/\\lambda
 
-](https://www.zhihu.com/equation?tex=%5Ctau%3D1%2F%5Clambda+) 
+**(https://www.zhihu.com/equation?tex=%5Ctau%3D1%2F%5Clambda+) 
 
-，发射一个光子所需要的时间，就服从指数分布 ![\\lambda e^{-\\lambda
+，发射一个光子所需要的时间，就服从指数分布 !**\\lambda e^{-\\lambda
 
-t}](https://www.zhihu.com/equation?tex=%5Clambda+e%5E%7B-%5Clambda+t%7D) 
+t}**(https://www.zhihu.com/equation?tex=%5Clambda+e%5E%7B-%5Clambda+t%7D) 
 
-（注1）。那么，在总时间 ![T](https://www.zhihu.com/equation?tex=T) 
+（注1）。那么，在总时间 !**T**(https://www.zhihu.com/equation?tex=T) 
 
-里，发射 ![k](https://www.zhihu.com/equation?tex=k) 
+里，发射 !**k**(https://www.zhihu.com/equation?tex=k) 
 
 个光子的概率，就满足泊松分布： 
 
-![k\\sim Pois\(\\lambda
+!**k\\sim Pois\(\\lambda
 
-T\)](https://www.zhihu.com/equation?tex=k%5Csim+Pois%28%5Clambda+T%29) 
+T\)**(https://www.zhihu.com/equation?tex=k%5Csim+Pois%28%5Clambda+T%29) 
 
-显而易见， ![k](https://www.zhihu.com/equation?tex=k) 
+显而易见， !**k**(https://www.zhihu.com/equation?tex=k) 
 
-的平均值就是 ![\\lambda T](https://www.zhihu.com/equation?tex=%5Clambda+T) 
+的平均值就是 !**\\lambda T**(https://www.zhihu.com/equation?tex=%5Clambda+T) 
 
-![Gamma](https://www.zhihu.com/equation?tex=Gamma) 
+!**Gamma**(https://www.zhihu.com/equation?tex=Gamma) 
 
 分布是泊松分布的“逆分布”。泊松分布是给定概率
 
-![\\lambda](https://www.zhihu.com/equation?tex=%5Clambda) 
+!**\\lambda**(https://www.zhihu.com/equation?tex=%5Clambda) 
 
-和等待时间 ![T](https://www.zhihu.com/equation?tex=T) 
+和等待时间 !**T**(https://www.zhihu.com/equation?tex=T) 
 
-，算在此时间内事件发生的次数 ![k](https://www.zhihu.com/equation?tex=k) 
+，算在此时间内事件发生的次数 !**k**(https://www.zhihu.com/equation?tex=k) 
 
-的分布；而 ![Gamma](https://www.zhihu.com/equation?tex=Gamma) 
+的分布；而 !**Gamma**(https://www.zhihu.com/equation?tex=Gamma) 
 
-则是反过来，给定概率 ![\\lambda](https://www.zhihu.com/equation?tex=%5Clambda) 
+则是反过来，给定概率 !**\\lambda**(https://www.zhihu.com/equation?tex=%5Clambda) 
 
-和发生次数 ![k](https://www.zhihu.com/equation?tex=k) 
+和发生次数 !**k**(https://www.zhihu.com/equation?tex=k) 
 
-，算等待时间 ![T](https://www.zhihu.com/equation?tex=T) 
+，算等待时间 !**T**(https://www.zhihu.com/equation?tex=T) 
 
-的分布。很显然， ![T](https://www.zhihu.com/equation?tex=T) 
+的分布。很显然， !**T**(https://www.zhihu.com/equation?tex=T) 
 
-的平均值就是 ![k/\\lambda ](https://www.zhihu.com/equation?tex=k%2F%5Clambda+) 
+的平均值就是 !**k/\\lambda **(https://www.zhihu.com/equation?tex=k%2F%5Clambda+) 
 
-。这样的 ![Gamma](https://www.zhihu.com/equation?tex=Gamma) 
+。这样的 !**Gamma**(https://www.zhihu.com/equation?tex=Gamma) 
 
 分布写作： 
 
-![Gamma\(k,
+!**Gamma\(k,
 
-\\lambda\)](https://www.zhihu.com/equation?tex=Gamma%28k%2C+%5Clambda%29) 
+\\lambda\)**(https://www.zhihu.com/equation?tex=Gamma%28k%2C+%5Clambda%29) 
 
 什么公交车，客人，原子衰变，都服从这些定律。 
 
  
 
-注1：当然，这里省略了很多附加假设。最主要的假设是： ![\\delta N\(t\)=\\lambda
+注1：当然，这里省略了很多附加假设。最主要的假设是： !**\\delta N\(t\)=\\lambda
 
-N\(t\)](https://www.zhihu.com/equation?tex=%5Cdelta+N%28t%29%3D%5Clambda+N%28t%29)
-
- 
+N\(t\)**(https://www.zhihu.com/equation?tex=%5Cdelta+N%28t%29%3D%5Clambda+N%28t%29)
 
  
 
-[问题]: 法拉第笼的金属网眼要有多密才能起到静电屏蔽的作用？
-[答案]: 个人人为要达到波长尺度。具体没有计算过。但依据在于，静电的quasi-static
+ 
+<br>**问题**: 法拉第笼的金属网眼要有多密才能起到静电屏蔽的作用？
+**答案**: 个人人为要达到波长尺度。具体没有计算过。但依据在于，静电的quasi-static
 
 approximation仅在体系尺度远小于波长尺度，也就是体系的任意两点之间不会存在明显相位差（起码小于180/6=30度）。这种情况下对电场的求解可以使用静电问题中的办法（拉普拉斯方程）。只要边界条件确定（静电问题的两种边界条件，CAUCHY和DIRICHLET之一），那么电场就完全确定了。因为金属必然是等电势的，因此金属网眼中也必须等电势，无电场。这就是静电屏蔽的道理。个人理解到这一步，因为不是做工程的。希望指教。
 
  
 
  
-
-[问题]: 波传播遇到障碍物时如果这个障碍物尺寸小于或等于波的波长的话是不是只发生衍射而不发生障碍物的反射了呢？
-[答案]: 你说的没错。但这成立的条件是存在波长尺度左右的平移对称不变性
-
- 
+<br>**问题**: 波传播遇到障碍物时如果这个障碍物尺寸小于或等于波的波长的话是不是只发生衍射而不发生障碍物的反射了呢？
+**答案**: 你说的没错。但这成立的条件是存在波长尺度左右的平移对称不变性
 
  
 
-[问题]: 波函数里的虚数部分如何理解？
-[答案]: 因为有相位啊。。。。。
+ 
+<br>**问题**: 波函数里的虚数部分如何理解？
+**答案**: 因为有相位啊。。。。。
 
 而且虚数单位是必须出现在薛定谔方程中的，代表含时演化。没有虚数单位，你就无法含时演化了（必须发散到无穷大，收敛到0或者不变）
 
  
 
  
-
-[问题]: 波是什么？什么是波？
-[答案]: 你都已经回答了。“什么”是“波”
+<br>**问题**: 波是什么？什么是波？
+**答案**: 你都已经回答了。“什么”是“波”
 
 而且“波”是“什么”。 
 
@@ -34629,30 +32654,26 @@ approximation仅在体系尺度远小于波长尺度，也就是体系的任意�
  
 
  
-
-[问题]: 波是否有质量？如电磁波、光等
-[答案]: 光子质量为0
-
- 
-
- 
-
-[问题]: 洗澡从来不去公共澡堂男生的心理？
-[答案]: 有些男人脱掉裤子就是要插。这种人当然不敢和别的男人一起洗澡，总觉得自己要插了。好恶心。。
+<br>**问题**: 波是否有质量？如电磁波、光等
+**答案**: 光子质量为0
 
  
 
  
+<br>**问题**: 洗澡从来不去公共澡堂男生的心理？
+**答案**: 有些男人脱掉裤子就是要插。这种人当然不敢和别的男人一起洗澡，总觉得自己要插了。好恶心。。
 
-[问题]: 浙大与沃顿商学院共建联合学院后会产生怎样的影响？能让浙大的商科与清北复交齐名吗？
-[答案]: 复交复交，日复一日，交复一交。
+ 
+
+ 
+<br>**问题**: 浙大与沃顿商学院共建联合学院后会产生怎样的影响？能让浙大的商科与清北复交齐名吗？
+**答案**: 复交复交，日复一日，交复一交。
 
  
 
  
-
-[问题]: 浙大合校后实力跃居全国第三而吉大不升反降的原因是什么？
-[答案]: 复旦都这么强了，作为他的母亲，浙大再弱下去上天看得惯么？浙大必须强过复旦，其他就让清华北大争吧。
+<br>**问题**: 浙大合校后实力跃居全国第三而吉大不升反降的原因是什么？
+**答案**: 复旦都这么强了，作为他的母亲，浙大再弱下去上天看得惯么？浙大必须强过复旦，其他就让清华北大争吧。
 
 当年复旦“合并”了多少高校，有兴趣的可以去查查。 
 
@@ -34661,9 +32682,8 @@ approximation仅在体系尺度远小于波长尺度，也就是体系的任意�
  
 
  
-
-[问题]: 浙大和交大的差距有多大？
-[答案]: 一所省属学校和4所市属学校比也是难得了。。
+<br>**问题**: 浙大和交大的差距有多大？
+**答案**: 一所省属学校和4所市属学校比也是难得了。。
 
  
 
@@ -34680,32 +32700,28 @@ normalization都没做好，怎么搞数据分析。。你们这样的人连投�
  
 
  
-
-[问题]: 浙大和科大，这两所相隔四百多公里的学校，究竟有什么深仇大恨？
-[答案]: 一个是清北余孽中规模最小，一个是清北遗孀里尺寸最大，你说会有什么恩怨
-
- 
+<br>**问题**: 浙大和科大，这两所相隔四百多公里的学校，究竟有什么深仇大恨？
+**答案**: 一个是清北余孽中规模最小，一个是清北遗孀里尺寸最大，你说会有什么恩怨
 
  
 
-[问题]: 浙大大一新生在哪个校区就读？住宿条件怎么样？
-[答案]: 住的还可以。当然很多浙大土豪都直接在附近买房子住了。
+ 
+<br>**问题**: 浙大大一新生在哪个校区就读？住宿条件怎么样？
+**答案**: 住的还可以。当然很多浙大土豪都直接在附近买房子住了。
 
 你会希望自己的寝室没有厕所的。你会相信我的。
 
  
 
  
-
-[问题]: 浙大是如何被曾博一步一步地黑成三本的？
-[答案]: 都已经是三本了，你们就不要再黑它了好吗？
-
- 
+<br>**问题**: 浙大是如何被曾博一步一步地黑成三本的？
+**答案**: 都已经是三本了，你们就不要再黑它了好吗？
 
  
 
-[问题]: 浙大有可能超过清华吗？
-[答案]: 我居然没有回答这个问题？
+ 
+<br>**问题**: 浙大有可能超过清华吗？
+**答案**: 我居然没有回答这个问题？
 
 那些世界第一大学出来的学生最后依然买不起房子，儿子上不起好学校，自己找不到好老婆／／ 
 
@@ -34716,9 +32732,8 @@ normalization都没做好，怎么搞数据分析。。你们这样的人连投�
  
 
  
-
-[问题]: 浙大毕业生与清华毕业生在工作中的差别？
-[答案]: 很多单位里只有清华没有浙大毕业生。
+<br>**问题**: 浙大毕业生与清华毕业生在工作中的差别？
+**答案**: 很多单位里只有清华没有浙大毕业生。
 
 清华大学聚集了中国大陆每一年的最高智商考生这是毋庸置疑的。看他们的眼神就能看出来。我在这里认识了徐老板，看他的眼睛，这是我在浙大四年从来没看到过的。 
 
@@ -34739,16 +32754,14 @@ pressure 更小吧。
  
 
  
-
-[问题]: 浙大的老师在知乎上看到曾博这么往死里黑浙大会怎么想？
-[答案]: 放心。我已经励志成为云舒那样有情趣有钱的男人了。
-
- 
+<br>**问题**: 浙大的老师在知乎上看到曾博这么往死里黑浙大会怎么想？
+**答案**: 放心。我已经励志成为云舒那样有情趣有钱的男人了。
 
  
 
-[问题]: 浙大的计算机和电气从就业来看选哪个好？
-[答案]: 本答案就此作废。
+ 
+<br>**问题**: 浙大的计算机和电气从就业来看选哪个好？
+**答案**: 本答案就此作废。
 
 浙大全国前三，是很好的学校。 
 
@@ -34757,9 +32770,8 @@ pressure 更小吧。
  
 
  
-
-[问题]: 浙大竺可桢学院和城市学院哪个好？
-[答案]: 在矮子里挑高个子，也是难得了..
+<br>**问题**: 浙大竺可桢学院和城市学院哪个好？
+**答案**: 在矮子里挑高个子，也是难得了..
 
 要学就学San Jose state university , 圣何塞学院，美国西部的中部的东部的什么三本，只要会iOS android，出来的都去uber
 
@@ -34794,10 +32806,9 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
+<br>**问题**: 浙大，南大，中科大的物理系该如何选择？
 
-[问题]: 浙大，南大，中科大的物理系该如何选择？
-
-[答案]:** _ 显然去科大 _ ** 。你去他们学校附近的书店看看都有些什么书先。  
+**答案**:** _ 显然去科大 _ ** 。你去他们学校附近的书店看看都有些什么书先。  
 
  
 
@@ -34838,32 +32849,28 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 浙江为什么985大学这么少
-[答案]: 浙江还需要读大学？随便找个人家里都是开厂的
-
- 
+<br>**问题**: 浙江为什么985大学这么少
+**答案**: 浙江还需要读大学？随便找个人家里都是开厂的
 
  
 
-[问题]: 浙江大学与伦敦大学学院UCL本科CS专业如何选择？
-[答案]: 请不要每次都拉我来比较一个三本和另一个三本。谢谢
+ 
+<br>**问题**: 浙江大学与伦敦大学学院UCL本科CS专业如何选择？
+**答案**: 请不要每次都拉我来比较一个三本和另一个三本。谢谢
 
 这就好像屌丝之间比较谁有钱一样。当然，若要细细比较，本身倒也是是一件挺有情致的工作。。。
 
  
 
  
-
-[问题]: 浙江大学光学工程为什么厉害？
-[答案]: 再厉害在国际上也是提鞋小弟渣渣。
-
- 
+<br>**问题**: 浙江大学光学工程为什么厉害？
+**答案**: 再厉害在国际上也是提鞋小弟渣渣。
 
  
 
-[问题]: 浙江大学和东南大学，到底哪一所才是大中华区最好的三本？
-[答案]: 东南大学吧。东南指代的地区面积比较大。
+ 
+<br>**问题**: 浙江大学和东南大学，到底哪一所才是大中华区最好的三本？
+**答案**: 东南大学吧。东南指代的地区面积比较大。
 
  
 
@@ -34888,9 +32895,8 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 浙江大学真的不如复旦交大吗？
-[答案]: 比如纽约地区的人，只有疯子才会考虑UCLA这样的二流学校。
+<br>**问题**: 浙江大学真的不如复旦交大吗？
+**答案**: 比如纽约地区的人，只有疯子才会考虑UCLA这样的二流学校。
 
 但实际上，brown, Cornell 等真的比UCLA好吗？ 
 
@@ -34903,26 +32909,23 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 浙江大学经常在网上被说各种不好，但为什么分数线依然如此之高？难道是高三学生和家长啥都不懂？
-[答案]: 杭州再好也比不上上海，说杭州好的人最后基本都离开杭州了。上海地铁站里都有wifi，地铁分布比较合理，毕竟是全国首善（或者第二善）。而杭州呢？地铁线还没有武汉多，公交车挤得要死，学生的打扮和品位都不如五角场。
+<br>**问题**: 浙江大学经常在网上被说各种不好，但为什么分数线依然如此之高？难道是高三学生和家长啥都不懂？
+**答案**: 杭州再好也比不上上海，说杭州好的人最后基本都离开杭州了。上海地铁站里都有wifi，地铁分布比较合理，毕竟是全国首善（或者第二善）。而杭州呢？地铁线还没有武汉多，公交车挤得要死，学生的打扮和品位都不如五角场。
 
 因此分数线在清北复交之后是合理的，我并不觉得这是“高”。当然题主你说这是高，我觉得你就是在钓鱼了。在我面前搞钓鱼？
 
  
 
  
+<br>**问题**: 浙江大学自动化专业的前景？
 
-[问题]: 浙江大学自动化专业的前景？
-
-[答案]:浙大的计算机和电气从就业来看选哪个好？ - 知乎用户的回答
-
- 
+**答案**:浙大的计算机和电气从就业来看选哪个好？ - 知乎用户的回答
 
  
 
-[问题]: 浙江大学计算机程序设计能力考试(PAT)的学生参与度、企业认可度如何？
-[答案]: 浙大这么屌。当年上何老师的算法与数据结构和算法与高级数据结构，基本都忘了。
+ 
+<br>**问题**: 浙江大学计算机程序设计能力考试(PAT)的学生参与度、企业认可度如何？
+**答案**: 浙大这么屌。当年上何老师的算法与数据结构和算法与高级数据结构，基本都忘了。
 
 如果继续办下去，浙大极有可能成为中国的CMU（也即，所有CS毕业生都能找到工作） 
 
@@ -34933,92 +32936,80 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 浙江大学陈越(姥姥)是什么样的存在？
-[答案]: 我建议他提高一下本科生教学水平
-
- 
-
- 
-
-[问题]: 深圳2016年iOS工资如何？
-[答案]: 所以问题就在于应该去做“技术总监”，在市场上随意找几个工人即可。
+<br>**问题**: 浙江大学陈越(姥姥)是什么样的存在？
+**答案**: 我建议他提高一下本科生教学水平
 
  
 
  
+<br>**问题**: 深圳2016年iOS工资如何？
+**答案**: 所以问题就在于应该去做“技术总监”，在市场上随意找几个工人即可。
 
-[问题]: 深圳在国际上的知名度为何如此低？是否被严重低估？
-[答案]: 当然。大家心中只会记住第一第二。北京上海朗朗上口，第三？
+ 
+
+ 
+<br>**问题**: 深圳在国际上的知名度为何如此低？是否被严重低估？
+**答案**: 当然。大家心中只会记住第一第二。北京上海朗朗上口，第三？
 
 你能完整喊出一个三本大学的名字吗？
 
  
 
  
+<br>**问题**:深度使用new macbook的键盘之后是一种怎样的体验？
 
-[问题]:深度使用new macbook的键盘之后是一种怎样的体验？
-
-[答案]: 机械键盘买了一个，经常按错。。
-
- 
-
- 
-
-[问题]: 深度学习对视频的处理方式是否走错了方向？
-[答案]: 如果你能做出来，把所有会议的人的脸都打了。。人类会记住你
+**答案**: 机械键盘买了一个，经常按错。。
 
  
 
  
-
-[问题]: 深度学习现在坑还多吗？
-[答案]: 坑没有傻子多
-
- 
-
- 
-
-[问题]: 清北实力考上同济，复读？
-[答案]: 除非你能保证自己可以联合内推5所湾区互联网公司，否则你还是复读吧。
+<br>**问题**: 深度学习对视频的处理方式是否走错了方向？
+**答案**: 如果你能做出来，把所有会议的人的脸都打了。。人类会记住你
 
  
 
  
-
-[问题]: 清华、北大、上交、浙大都出了哪些值得膜拜的知乎大牛？
-[答案]: @白如冰
-
- 
-
- 
-
-[问题]: 清华北大的学生找工作真的心高气傲吗？
-[答案]: 看你的公司吧。如果你去了一家只有MIT和清华北大毕业生的学校，你就是，鲤鱼跃龙门了。否则就算了，好好做码农写代码和那个上流社会说再见吧
+<br>**问题**: 深度学习现在坑还多吗？
+**答案**: 坑没有傻子多
 
  
 
  
-
-[问题]: 清华北大的学神为什么能够在娱乐、学工兼顾下还能“考前随便翻翻书”式地在绩点和学术上碾压众人？
-
-[答案]:@andrew shen
+<br>**问题**: 清北实力考上同济，复读？
+**答案**: 除非你能保证自己可以联合内推5所湾区互联网公司，否则你还是复读吧。
 
  
 
  
-
-[问题]: 清华各院系前十什么感受？
-
-[答案]:@andrew shen
+<br>**问题**: 清华、北大、上交、浙大都出了哪些值得膜拜的知乎大牛？
+**答案**: @白如冰
 
  
 
  
+<br>**问题**: 清华北大的学生找工作真的心高气傲吗？
+**答案**: 看你的公司吧。如果你去了一家只有MIT和清华北大毕业生的学校，你就是，鲤鱼跃龙门了。否则就算了，好好做码农写代码和那个上流社会说再见吧
 
-[问题]:清华大学化学楼实验室 2015 年 12 月 18 日发生的爆炸是怎么回事？
+ 
 
-[答案]: 要向国外学习学习实验室的管理和导师的安全责任制。
+ 
+<br>**问题**: 清华北大的学神为什么能够在娱乐、学工兼顾下还能“考前随便翻翻书”式地在绩点和学术上碾压众人？
+
+**答案**:@andrew shen
+
+ 
+
+ 
+<br>**问题**: 清华各院系前十什么感受？
+
+**答案**:@andrew shen
+
+ 
+
+ 
+<br>**问题**:清华大学化学楼实验室 2015 年 12 月 18 日发生的爆炸是怎么回事？
+
+**答案**: 要向国外学习学习实验室的管理和导师的安全责任制。
 
 每个实验室都要有SOP，也要有从上到下的安全管理机制（监察，汇报，个人安全设备PPE等）；另外每个人都要每年过一遍安全知识测试，特别危险的实验要在专有实验室进行，购买高危化学品需要报备审查，储存在有资质的储存间。 
 
@@ -35027,9 +33018,8 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 清华大学学生群体的不足之处有哪些？
-[答案]: 群体的不足之处？
+<br>**问题**: 清华大学学生群体的不足之处有哪些？
+**答案**: 群体的不足之处？
 
 如果是平均水平的群体，那么他们的不足之处就是不知道自己和其他学校的平均水平差不多，出门还总顶着光环。而且一辈子就靠着这个光环吃饭了。原因也只是高中知识学得比较好。 
 
@@ -35038,9 +33028,8 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 清华大学本科生特奖得主后来去做什么了？
-[答案]: 我只想送给这些学神们一首歌:
+<br>**问题**: 清华大学本科生特奖得主后来去做什么了？
+**答案**: 我只想送给这些学神们一首歌:
 
  
 
@@ -35069,9 +33058,8 @@ Airbnb 上班现在已经100万美金一年了。
  
 
  
-
-[问题]: 清华大学物理系已经做出了量子反常霍尔效应这么重大的科研成果，为什么还有人认为清华是工科学校？
-[答案]: 怎么说呢。。。就算这个“量子反常霍尔效应”是物理学的范畴，提出这个理论概念的是STANFORD大学的张首晟教授，清华大学的这个组擅长的是做材料，做器件。有了材料，有了器件，大家都能做。据说因为发了这篇PAPER，其组多位数年来忙于撕材料，长材料的PHD都毕业了。。。
+<br>**问题**: 清华大学物理系已经做出了量子反常霍尔效应这么重大的科研成果，为什么还有人认为清华是工科学校？
+**答案**: 怎么说呢。。。就算这个“量子反常霍尔效应”是物理学的范畴，提出这个理论概念的是STANFORD大学的张首晟教授，清华大学的这个组擅长的是做材料，做器件。有了材料，有了器件，大家都能做。据说因为发了这篇PAPER，其组多位数年来忙于撕材料，长材料的PHD都毕业了。。。
 
 当然有技术难点，但称其为MATERIAL ENGINEERING，也不足为过。因此说他是工科学校，不足为过。只是把工科技术用在物理上而已。 
 
@@ -35086,16 +33074,14 @@ IBM出了那么多诺贝尔物理学奖，从来也没听说IBM不是一家ENGIN
  
 
  
-
-[问题]: 清华大学的教育存在什么问题？
-[答案]: 全国最多的天才都集中在那里，导致学霸们过的疯狂，活的抑郁，喜欢膜蛤，知乎。（例如：白冰冰）
-
- 
+<br>**问题**: 清华大学的教育存在什么问题？
+**答案**: 全国最多的天才都集中在那里，导致学霸们过的疯狂，活的抑郁，喜欢膜蛤，知乎。（例如：白冰冰）
 
  
 
-[问题]: 清华大学的本科生为什么不重视各类针对本科生的学科竞赛
-[答案]: 一张文凭就比竞赛证书重要许多；因此何必？
+ 
+<br>**问题**: 清华大学的本科生为什么不重视各类针对本科生的学科竞赛
+**答案**: 一张文凭就比竞赛证书重要许多；因此何必？
 
 也不需要靠这个来考研 
 
@@ -35104,16 +33090,14 @@ IBM出了那么多诺贝尔物理学奖，从来也没听说IBM不是一家ENGIN
  
 
  
-
-[问题]: 清华大学的男生都跟白如冰一样可爱吗？
-[答案]: 并不是我问的
-
- 
+<br>**问题**: 清华大学的男生都跟白如冰一样可爱吗？
+**答案**: 并不是我问的
 
  
 
-[问题]: 清华学生混得最差的和浙大最差的比，谁更差？
-[答案]: 你看果然是这样。
+ 
+<br>**问题**: 清华学生混得最差的和浙大最差的比，谁更差？
+**答案**: 你看果然是这样。
 
 浙大的人不敢正面回答问题 
 
@@ -35136,80 +33120,70 @@ anyway 我没义务黑的这么深入
  
 
  
+<br>**问题**: 清华物理1字班和2字班的头牌，沈汇涛和李星河，谁更有可能获得诺贝尔物理学奖？
 
-[问题]: 清华物理1字班和2字班的头牌，沈汇涛和李星河，谁更有可能获得诺贝尔物理学奖？
-
-[答案]:Andrew Shen . 看长相
-
- 
-
- 
-
-[问题]: 清华的差生以后有何出路？
-[答案]: 可以转学去三本。。直接年级第一
+**答案**:Andrew Shen . 看长相
 
  
 
  
+<br>**问题**: 清华的差生以后有何出路？
+**答案**: 可以转学去三本。。直接年级第一
 
-[问题]: 温度为什么能作为一个基本物理量？
+ 
 
-[答案]:关于单位 的讨论可参看： 
+ 
+<br>**问题**: 温度为什么能作为一个基本物理量？
+
+**答案**:关于单位 的讨论可参看： 
 
 Natural units _ _
 
  
 
  
-
-[问题]: 游泳比赛的时候放屁能加快游泳速度吗？
-[答案]: 与其放屁，不如向后快速撒尿。
-
- 
-
- 
-
-[问题]: 湾区码农不靠父母结得起婚生得起孩子吗？
-[答案]: 结婚的难度低于找到女朋友的难度低于买房的难度低于撞大运拿到年薪100万的难度低于出生在富足家庭的难度低于出生在美国的难度低于天生高智商的难度
+<br>**问题**: 游泳比赛的时候放屁能加快游泳速度吗？
+**答案**: 与其放屁，不如向后快速撒尿。
 
  
 
  
-
-[问题]:湾区（Bay Area）有多少人能挣到 20 万美元以上的年薪？
-
-[答案]: 清华大牛都300k起步
+<br>**问题**: 湾区码农不靠父母结得起婚生得起孩子吗？
+**答案**: 结婚的难度低于找到女朋友的难度低于买房的难度低于撞大运拿到年薪100万的难度低于出生在富足家庭的难度低于出生在美国的难度低于天生高智商的难度
 
  
 
  
+<br>**问题**:湾区（Bay Area）有多少人能挣到 20 万美元以上的年薪？
 
-[问题]: 滴滴快的估值近千亿，还有多大上涨空间？
+**答案**: 清华大牛都300k起步
 
-[答案]:怎么还不快来把facebook 买下。我看mark 不爽很久了
+ 
+
+ 
+<br>**问题**: 滴滴快的估值近千亿，还有多大上涨空间？
+
+**答案**:怎么还不快来把facebook 买下。我看mark 不爽很久了
 
  
 
  
-
-[问题]: 滴滴研究院的刘威机器学习水平、编程水平如何？
-[答案]: 比我可是牛逼多了==
+<br>**问题**: 滴滴研究院的刘威机器学习水平、编程水平如何？
+**答案**: 比我可是牛逼多了==
 
 滴滴的水准好高
 
  
 
  
-
-[问题]: 澳洲硕士回国后，饱受讥讽嘲笑，该怎样鼓起勇气活下去？
-[答案]: 哈哈。
-
- 
+<br>**问题**: 澳洲硕士回国后，饱受讥讽嘲笑，该怎样鼓起勇气活下去？
+**答案**: 哈哈。
 
  
 
-[问题]: 火灾会干扰无线信号么？
-[答案]: 信号不会受到所谓火光热幅射的干扰。因为电磁波是波色子互相之间不会干扰。发生干扰是在接受端解调时信号源的干扰。这种干扰不是物理现象，是数学现象。从电磁波的信息来说，物理干扰是不存在的。这也是为什么光纤抗电磁干扰。
+ 
+<br>**问题**: 火灾会干扰无线信号么？
+**答案**: 信号不会受到所谓火光热幅射的干扰。因为电磁波是波色子互相之间不会干扰。发生干扰是在接受端解调时信号源的干扰。这种干扰不是物理现象，是数学现象。从电磁波的信息来说，物理干扰是不存在的。这也是为什么光纤抗电磁干扰。
 
 火热可能对眼镜的电子元件进行干扰，主要是因为温度。可见光到红外线的频率太高，暂时无法对电子线路进行电磁干扰。不论如何，这种干扰都不是对电磁信号的干扰。只有介质才能对电磁波产生“干扰”。 
 
@@ -35218,39 +33192,34 @@ Natural units _ _
  
 
  
-
-[问题]: 火苗是以什么形态存在的？
-[答案]: 应该是等离子态。是高温下游离的电子＋带正电的原子核气体
-
- 
-
- 
-
-[问题]: 火车是准点发车的，那为什么还有那么多人挤着抢着进检票口？
-[答案]: 没地方放行李。。
+<br>**问题**: 火苗是以什么形态存在的？
+**答案**: 应该是等离子态。是高温下游离的电子＋带正电的原子核气体
 
  
 
  
+<br>**问题**: 火车是准点发车的，那为什么还有那么多人挤着抢着进检票口？
+**答案**: 没地方放行李。。
 
-[问题]: 為什麼水蒸氣不會凝固在眼球上？
-[答案]: 眼镜镜片往往是由高分子聚合物或者玻璃无机物组成，其表面温度比较低，导热性好，因此空气中温暖的水蒸气遇冷凝结成水珠。而且如果眼镜表面比较脏或者涂有抗水涂层，表面憎水，水珠会形成不连续的水粒。表面看上去就是不规则的漫反射－》起雾
+ 
+
+ 
+<br>**问题**: 為什麼水蒸氣不會凝固在眼球上？
+**答案**: 眼镜镜片往往是由高分子聚合物或者玻璃无机物组成，其表面温度比较低，导热性好，因此空气中温暖的水蒸气遇冷凝结成水珠。而且如果眼镜表面比较脏或者涂有抗水涂层，表面憎水，水珠会形成不连续的水粒。表面看上去就是不规则的漫反射－》起雾
 
 眼睛是人体的器官，血流充沛，温度恒持，往往高于室内温度，而且你平均每15秒眨一次的眼睛会吧眼球表面的任何异物扫除。眼球表面的分泌物是亲水的，更易带走水分。
 
  
 
  
-
-[问题]: 烤火属于热传导还是热辐射？
-[答案]: 热辐射。空气的导热性很差
-
- 
+<br>**问题**: 烤火属于热传导还是热辐射？
+**答案**: 热辐射。空气的导热性很差
 
  
 
-[问题]: 热烈庆祝trump获得美国第45届总统名额
-[答案]: 希拉里真失败
+ 
+<br>**问题**: 热烈庆祝trump获得美国第45届总统名额
+**答案**: 希拉里真失败
 
 trump真成功 
 
@@ -35269,25 +33238,22 @@ CNN现在还宣布希拉里赢，真是鸵鸟心态，自欺欺人，掩耳盗�
  
 
  
-
-[问题]: 照镜子为什么是左右颠倒，而不是上下颠倒？
-[答案]: 区分轴矢量和极矢量的确是正确的。实际上作者应该在最开始证明他们是逆协变矢量先，然后可讨论这种定义下的矢量是否是真矢量。最后得到做反转操作后，是否会变符号。实际上所定义的矢量就和人的习惯与意识有关。换一种定义方法就会发现其实什么都没变，正如下面刁先生说的一样。
-
- 
+<br>**问题**: 照镜子为什么是左右颠倒，而不是上下颠倒？
+**答案**: 区分轴矢量和极矢量的确是正确的。实际上作者应该在最开始证明他们是逆协变矢量先，然后可讨论这种定义下的矢量是否是真矢量。最后得到做反转操作后，是否会变符号。实际上所定义的矢量就和人的习惯与意识有关。换一种定义方法就会发现其实什么都没变，正如下面刁先生说的一样。
 
  
 
-[问题]: 熊猫为什么会获得全世界人的喜爱？
-[答案]: 一个无公害的弱者，总是能得到人家喜爱的。
+ 
+<br>**问题**: 熊猫为什么会获得全世界人的喜爱？
+**答案**: 一个无公害的弱者，总是能得到人家喜爱的。
 
 濒临灭绝，生殖能力差，吃竹子，长的傻，动作呆，行动迟缓，思维散漫。
 
  
 
  
-
-[问题]: 燃料可用量为无限多的太空飞船不断地加速，最终飞船能否无限接近光速？
-[答案]: 其实何苦呢？只要你自己以光速行进，在你眼中，飞船就是光速了。
+<br>**问题**: 燃料可用量为无限多的太空飞船不断地加速，最终飞船能否无限接近光速？
+**答案**: 其实何苦呢？只要你自己以光速行进，在你眼中，飞船就是光速了。
 
 你其实可以说所有物体现在都以光速行动。何必要相对于你自己呢？ 
 
@@ -35296,20 +33262,18 @@ CNN现在还宣布希拉里赢，真是鸵鸟心态，自欺欺人，掩耳盗�
  
 
  
+<br>**问题**: 爱奇艺为什么特别卡？
 
-[问题]: 爱奇艺为什么特别卡？
-
-[答案]:是他自己写的flash player。。。。。。。。我日啊。 
+**答案**:是他自己写的flash player。。。。。。。。我日啊。 
 
 这家公司懂不懂技术？
 
  
 
  
+<br>**问题**:爲什么 Windows 用戶熱衷更換系統？
 
-[问题]:爲什么 Windows 用戶熱衷更換系統？
-
-[答案]: 这就是windows哲学的矛盾所在吧。和android手机刷机一样。
+**答案**: 这就是windows哲学的矛盾所在吧。和android手机刷机一样。
 
 虽说是一个普适的操作系统，但却又同时给用户带来了麻烦。 
 
@@ -35322,16 +33286,14 @@ CNN现在还宣布希拉里赢，真是鸵鸟心态，自欺欺人，掩耳盗�
  
 
  
-
-[问题]: 牛逼与傻逼
-[答案]: 一切的牛逼都是傻逼的结晶，比如毫无缘由的坚持，比如忍辱负重的磨练，追随自己、不去思考出路的选择，等等等等。牛逼是这些傻逼融合在一起的自然的产物。这些自然的产物有天然的隔离性：绝大部分人愿意耍小聪明，他们排斥傻逼，他们也就实际上在拒绝牛逼。如果你只追求牛逼，那么牛逼消失之后给你剩下的就是傻逼。
-
- 
+<br>**问题**: 牛逼与傻逼
+**答案**: 一切的牛逼都是傻逼的结晶，比如毫无缘由的坚持，比如忍辱负重的磨练，追随自己、不去思考出路的选择，等等等等。牛逼是这些傻逼融合在一起的自然的产物。这些自然的产物有天然的隔离性：绝大部分人愿意耍小聪明，他们排斥傻逼，他们也就实际上在拒绝牛逼。如果你只追求牛逼，那么牛逼消失之后给你剩下的就是傻逼。
 
  
 
-[问题]: 物体作为光源发出光和物体被光源照射之后反射出来的光在色彩上有什么不同？
-[答案]: 物体本身作为光源
+ 
+<br>**问题**: 物体作为光源发出光和物体被光源照射之后反射出来的光在色彩上有什么不同？
+**答案**: 物体本身作为光源
 
  
 
@@ -35362,9 +33324,8 @@ interaction的强度）。在这个相互作用中，电子从一个能态迁移
  
 
  
-
-[问题]: 物理专业的学生编程很厉害是怎样一种体验？
-[答案]: 编程很厉害？
+<br>**问题**: 物理专业的学生编程很厉害是怎样一种体验？
+**答案**: 编程很厉害？
 
 体验就是远远不如cs毕业的phd。 
 
@@ -35373,17 +33334,15 @@ interaction的强度）。在这个相互作用中，电子从一个能态迁移
  
 
  
-
-[问题]: 物理中自由度怎么理解？平动，转动，振动的自由度，还有刚体的自由度？
-[答案]: 完全描述一个物体位置状态的变量的数目，是物体的自由度。在拉格朗日或者哈密顿力学中，你知道了这些变量的数目，再加上这些变量的耦合变量（动量，或者速度，几何意义有些许不同），就能完整描述这个力学体系的含时演化（当然你要把相互作用的形式写出来，例如体系的能量等）。
-
- 
+<br>**问题**: 物理中自由度怎么理解？平动，转动，振动的自由度，还有刚体的自由度？
+**答案**: 完全描述一个物体位置状态的变量的数目，是物体的自由度。在拉格朗日或者哈密顿力学中，你知道了这些变量的数目，再加上这些变量的耦合变量（动量，或者速度，几何意义有些许不同），就能完整描述这个力学体系的含时演化（当然你要把相互作用的形式写出来，例如体系的能量等）。
 
  
 
-[问题]: 物理学中摩擦起电中的得失电子与化学中氧化还原反应中的得失电子为什么不是一码事？
+ 
+<br>**问题**: 物理学中摩擦起电中的得失电子与化学中氧化还原反应中的得失电子为什么不是一码事？
 
-[答案]:查阅了一下wikipedia： Triboelectric effect _ _ 
+**答案**:查阅了一下wikipedia： Triboelectric effect _ _ 
 
 摩擦起电的效应并非大多数人想象的那么简单： 
 
@@ -35412,57 +33371,50 @@ interaction的强度）。在这个相互作用中，电子从一个能态迁移
  
 
  
+<br>**问题**: 物理学光电专业本科，考研失败，就业是光学方向还是电子方向？
 
-[问题]: 物理学光电专业本科，考研失败，就业是光学方向还是电子方向？
-
-[答案]:自学MIT ocw CS 本科基础课
-
- 
-
- 
-
-[问题]: 物理学是怎样在大量近似的基础上保证自洽的呢？
-[答案]: 只要不同地方近似的逻辑是一致的，那么数学会保证你自洽=
+**答案**:自学MIT ocw CS 本科基础课
 
  
 
  
-
-[问题]: 物理学里面什么是核极化？极化的方法有多少种呢？
-[答案]: 依据都是在外力作用下电荷位移发生变化的原理。
-
- 
-
- 
-
-[问题]: 物理本科及以上学历的你们现在的职业是什么？
-[答案]: 失业
+<br>**问题**: 物理学是怎样在大量近似的基础上保证自洽的呢？
+**答案**: 只要不同地方近似的逻辑是一致的，那么数学会保证你自洽=
 
  
 
  
-
-[问题]: 物理本科生考研那个方向好就业一点？我是一所985大学的，谢谢啦
-[答案]: 嗯，计算机方向比较好就业。。不谢
-
- 
-
- 
-
-[问题]:物理电学题 可以帮助解答下吗？
-
-[答案]: 。。看书
+<br>**问题**: 物理学里面什么是核极化？极化的方法有多少种呢？
+**答案**: 依据都是在外力作用下电荷位移发生变化的原理。
 
  
 
  
+<br>**问题**: 物理本科及以上学历的你们现在的职业是什么？
+**答案**: 失业
 
-[问题]: 物理的功为什么用力和位移的乘积来表达？
-[答案]: 你是高一是吧：
+ 
+
+ 
+<br>**问题**: 物理本科生考研那个方向好就业一点？我是一所985大学的，谢谢啦
+**答案**: 嗯，计算机方向比较好就业。。不谢
+
+ 
+
+ 
+<br>**问题**:物理电学题 可以帮助解答下吗？
+
+**答案**: 。。看书
+
+ 
+
+ 
+<br>**问题**: 物理的功为什么用力和位移的乘积来表达？
+**答案**: 你是高一是吧：
 
 下面是原理和解释： 
 
-![mdv/dt=F;
+!**mdv/dt=F;
 
  
 
@@ -35474,13 +33426,13 @@ mdv\(ds/dt\)=Fds\\Rightarrow mvdv=Fds
 
  
 
-](https://www.zhihu.com/equation?tex=mdv%2Fdt%3DF%3B%0AK%3D1%2F2mv%5E2%3B%0Amdv%28ds%2Fdt%29%3DFds%5CRightarrow+mvdv%3DFds%0A%0A) 
+**(https://www.zhihu.com/equation?tex=mdv%2Fdt%3DF%3B%0AK%3D1%2F2mv%5E2%3B%0Amdv%28ds%2Fdt%29%3DFds%5CRightarrow+mvdv%3DFds%0A%0A) 
 
 两边积分： 
 
-![\\Delta K=1/2mv\(t\)^2-1/2mv\(0\)^2=\\int_{a}^{b}
+!**\\Delta K=1/2mv\(t\)^2-1/2mv\(0\)^2=\\int_{a}^{b}
 
-Fds](https://www.zhihu.com/equation?tex=%5CDelta+K%3D1%2F2mv%28t%29%5E2-1%2F2mv%280%29%5E2%3D%5Cint_%7Ba%7D%5E%7Bb%7D+Fds) 
+Fds**(https://www.zhihu.com/equation?tex=%5CDelta+K%3D1%2F2mv%28t%29%5E2-1%2F2mv%280%29%5E2%3D%5Cint_%7Ba%7D%5E%7Bb%7D+Fds) 
 
 也就是，力在距离上的积分就是运动物体动能的变化 
 
@@ -35489,23 +33441,21 @@ Fds](https://www.zhihu.com/equation?tex=%5CDelta+K%3D1%2F2mv%28t%29%5E2-1%2F2mv%
  
 
  
-
-[问题]: 物理，库伦定律中，在制定公式的一开始时，只是知道他和电量是正比，可凭什么能知道他就是以乘积的形式了？
-[答案]: 乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德
-
- 
+<br>**问题**: 物理，库伦定律中，在制定公式的一开始时，只是知道他和电量是正比，可凭什么能知道他就是以乘积的形式了？
+**答案**: 乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德乘积德
 
  
 
-[问题]: 物质是一种能量，还是能量是一种物质？物质和能量运动谁是世界的最终本质？
+ 
+<br>**问题**: 物质是一种能量，还是能量是一种物质？物质和能量运动谁是世界的最终本质？
 
-[答案]:就 @陳浩
+**答案**:就 @陳浩
 
 先生的答案，有一点我觉得很值得商榷，就是他所说的否认“质量和能量存在转化关系”。在质能关系提出的年代，质指的是质量，是惯性质量，是度量加速度定理的惯性质量；光子是被特指为公式中能量的载体，不存在惯性质量（你去加速一个光子？）因此在这个上下文中，质能转换是完全存在的，否则原子弹怎么爆炸？ 
 
  
 
-![](https://pic3.zhimg.com/9283b9a1c5bea45832c70793dc6e1ec6_b.jpg) 
+!****(https://pic3.zhimg.com/9283b9a1c5bea45832c70793dc6e1ec6_b.jpg) 
 
 @小猪油
 
@@ -35542,9 +33492,8 @@ Fds](https://www.zhihu.com/equation?tex=%5CDelta+K%3D1%2F2mv%28t%29%5E2-1%2F2mv%
  
 
  
-
-[问题]: 特斯拉凭借什么可以预售27万辆特3。三年后世界会不会因为特斯拉的这一举动被改变成大街全是充电站的景观？
-[答案]: 会的。
+<br>**问题**: 特斯拉凭借什么可以预售27万辆特3。三年后世界会不会因为特斯拉的这一举动被改变成大街全是充电站的景观？
+**答案**: 会的。
 
 问题在于，世界的发展太慢。大部分人都去做流动性去了。 
 
@@ -35557,9 +33506,8 @@ Fds](https://www.zhihu.com/equation?tex=%5CDelta+K%3D1%2F2mv%28t%29%5E2-1%2F2mv%
  
 
  
-
-[问题]: 特斯拉是否会成功？
-[答案]: 能否成功很难说。如果他100%会成功，现在股价早就600了。
+<br>**问题**: 特斯拉是否会成功？
+**答案**: 能否成功很难说。如果他100%会成功，现在股价早就600了。
 
 正是因为有可能成功，有可能失败，再加上华尔街那一群孙子计算得失迂腐保守的特性，导致大量的做空。这才变得好玩了。这件事才变得有争议，才可成为投资界历史上检验投资理念的最佳案例。 
 
@@ -35578,10 +33526,9 @@ Fds](https://www.zhihu.com/equation?tex=%5CDelta+K%3D1%2F2mv%28t%29%5E2-1%2F2mv%
  
 
  
+<br>**问题**:特斯拉的无人驾驶与 Google XLab 实验室的无人驾驶有什么区别？
 
-[问题]:特斯拉的无人驾驶与 Google XLab 实验室的无人驾驶有什么区别？
-
-[答案]: 区别在于：
+**答案**: 区别在于：
 
 google的无人驾驶是宣传机器 
 
@@ -35590,31 +33537,27 @@ tesla的无人驾驶是已经上市。。
  
 
  
-
-[问题]: 特斯拉究竟是真的鬼才还是被互联网吹捧的？
-[答案]: 特斯拉究竟是真的鬼
-
- 
-
- 
-
-[问题]: 特斯拉要公开其电动汽车的专利，真的到了变革的时候了么？
-[答案]: 你说错了。是真的到了倒闭的时候了。。
+<br>**问题**: 特斯拉究竟是真的鬼才还是被互联网吹捧的？
+**答案**: 特斯拉究竟是真的鬼
 
  
 
  
+<br>**问题**: 特斯拉要公开其电动汽车的专利，真的到了变革的时候了么？
+**答案**: 你说错了。是真的到了倒闭的时候了。。
 
-[问题]: 特朗普对上希拉里，谁会是最后的胜利者？
-[答案]: 他是最后的胜利者
+ 
+
+ 
+<br>**问题**: 特朗普对上希拉里，谁会是最后的胜利者？
+**答案**: 他是最后的胜利者
 
  
 
  
+<br>**问题**: 特朗普当选将如何影响中国留学生在美国的留学和就业？
 
-[问题]: 特朗普当选将如何影响中国留学生在美国的留学和就业？
-
-[答案]:反正uber , snap chat 最近不要想上市了。 
+**答案**:反正uber , snap chat 最近不要想上市了。 
 
 FB google Apple 股市会跌很多，把泡沫丢掉 
 
@@ -35625,9 +33568,8 @@ Amazon 面临分拆
  
 
  
-
-[问题]: 特朗普是如何做到『这一生从来不会输』的？
-[答案]: 直言直语
+<br>**问题**: 特朗普是如何做到『这一生从来不会输』的？
+**答案**: 直言直语
 
 代表人民 
 
@@ -35652,41 +33594,39 @@ Amazon 面临分拆
  
 
  
+<br>**问题**: 狄拉克函数证明？
 
-[问题]: 狄拉克函数证明？
+**答案**:我知道怎么证：多图杀猫，版权所有。(c) 2012 
 
-[答案]:我知道怎么证：多图杀猫，版权所有。(c) 2012 
+!****(https://pic4.zhimg.com/36569505922d2da1c3177edff513d667_b.jpg)
 
-![](https://pic4.zhimg.com/36569505922d2da1c3177edff513d667_b.jpg)
+!****(https://pic4.zhimg.com/8a388ccbc2ab41e63d608686abc0831f_b.jpg)
 
-![](https://pic4.zhimg.com/8a388ccbc2ab41e63d608686abc0831f_b.jpg)
+!****(https://pic1.zhimg.com/8287f7d66db6773a997f64fd8a62b810_b.jpg)
 
-![](https://pic1.zhimg.com/8287f7d66db6773a997f64fd8a62b810_b.jpg)
+!****(https://pic2.zhimg.com/c54deca6defd9b9e9721dcec69e24e31_b.jpg)
 
-![](https://pic2.zhimg.com/c54deca6defd9b9e9721dcec69e24e31_b.jpg)
+!****(https://pic1.zhimg.com/2d09d2bbbadd234ff78fc2a48d911af8_b.jpg)
 
-![](https://pic1.zhimg.com/2d09d2bbbadd234ff78fc2a48d911af8_b.jpg)
+!****(https://pic2.zhimg.com/4d4f71c64e2ec5f1964fd92c567ebbd1_b.jpg)
 
-![](https://pic2.zhimg.com/4d4f71c64e2ec5f1964fd92c567ebbd1_b.jpg)
+!****(https://pic2.zhimg.com/d8e236cf45ab8ae5ec5cd3176c08ba29_b.jpg)
 
-![](https://pic2.zhimg.com/d8e236cf45ab8ae5ec5cd3176c08ba29_b.jpg)
+!****(https://pic4.zhimg.com/f5ec9998bd96a27ec7f865e8b3a0e0d7_b.jpg)
 
-![](https://pic4.zhimg.com/f5ec9998bd96a27ec7f865e8b3a0e0d7_b.jpg)
+!****(https://pic2.zhimg.com/efd494bcff3eb11ac1e9c72cc2849af9_b.jpg)
 
-![](https://pic2.zhimg.com/efd494bcff3eb11ac1e9c72cc2849af9_b.jpg)
+!****(https://pic4.zhimg.com/3dcc08c556aa2c0f61714a395195bbff_b.jpg)
 
-![](https://pic4.zhimg.com/3dcc08c556aa2c0f61714a395195bbff_b.jpg)
+!****(https://pic4.zhimg.com/4b080d53e43e8cdc8ba27cc48700bf2b_b.jpg)
 
-![](https://pic4.zhimg.com/4b080d53e43e8cdc8ba27cc48700bf2b_b.jpg)
-
-![](https://pic4.zhimg.com/fbd152e2a23f777bad94f1f8638efcb7_b.jpg)
-
- 
+!****(https://pic4.zhimg.com/fbd152e2a23f777bad94f1f8638efcb7_b.jpg)
 
  
 
-[问题]: 献给立党的歌
-[答案]: 这是我上厕所时唱的。希望他以后多一些严肃，少一点娱乐。
+ 
+<br>**问题**: 献给立党的歌
+**答案**: 这是我上厕所时唱的。希望他以后多一些严肃，少一点娱乐。
 
  
 
@@ -35699,9 +33639,8 @@ Amazon 面临分拆
  
 
  
-
-[问题]: 现代物理里，简洁与优美是否是衡量一个理论的价值的重要标准？
-[答案]: 同样有效的情况下当然是简洁更美。如果你说其实黑洞可以从薛定谔方程里推出来只需要加一个可以理解的小项，那你肯定也是一夜成名了。
+<br>**问题**: 现代物理里，简洁与优美是否是衡量一个理论的价值的重要标准？
+**答案**: 同样有效的情况下当然是简洁更美。如果你说其实黑洞可以从薛定谔方程里推出来只需要加一个可以理解的小项，那你肯定也是一夜成名了。
 
 不同样有效的情况下，肯定是选取更有效的。一个有效的理论，怎么看都是美的。光环效应是一方面，更主要的是一旦你有效，就会有很多人来给你修修补补拍马屁。矢量形式之前的Maxwell
 
@@ -35710,9 +33649,8 @@ Amazon 面临分拆
  
 
  
-
-[问题]: 现在再次翻看曾博的第一个答案，你有什么感想
-[答案]: 无非就是当时内测邀请我去，我看里面的人都是大神就只发有逼格的答案而已。没有公式是因为当时知乎不支持编辑公式；图片缺失是因为知乎丢过一次图片数据；当年还有的。我是一个一个截图丢进来的。
+<br>**问题**: 现在再次翻看曾博的第一个答案，你有什么感想
+**答案**: 无非就是当时内测邀请我去，我看里面的人都是大神就只发有逼格的答案而已。没有公式是因为当时知乎不支持编辑公式；图片缺失是因为知乎丢过一次图片数据；当年还有的。我是一个一个截图丢进来的。
 
  
 
@@ -35737,9 +33675,8 @@ Amazon 面临分拆
  
 
  
-
-[问题]: 现在想在211,985高校当老师是不是一定要国外博士或国外几年的经历？
-[答案]: 祖国真是在功利主义这条道路上一条道走到黑。这样最后必然会自宫的。
+<br>**问题**: 现在想在211,985高校当老师是不是一定要国外博士或国外几年的经历？
+**答案**: 祖国真是在功利主义这条道路上一条道走到黑。这样最后必然会自宫的。
 
 本题我可以问： 
 
@@ -35754,41 +33691,36 @@ Amazon 面临分拆
  
 
  
-
-[问题]: 现在我一看Feynman物理讲义，就想起曾博……然后就思维很混乱，读不下去了，这怎么破？
-[答案]: 通过这一系列问题，我们应该知道到底是谁在专门黑我了。。
-
- 
-
- 
-
-[问题]: 现在苹果产品属于计划报废的产品吗？
-[答案]: 你计划不代表苹果计划。。。
+<br>**问题**: 现在我一看Feynman物理讲义，就想起曾博……然后就思维很混乱，读不下去了，这怎么破？
+**答案**: 通过这一系列问题，我们应该知道到底是谁在专门黑我了。。
 
  
 
  
+<br>**问题**: 现在苹果产品属于计划报废的产品吗？
+**答案**: 你计划不代表苹果计划。。。
 
-[问题]: 现在还有必要对SVM深入学习吗？
-[答案]: 有的。libSVM。
+ 
+
+ 
+<br>**问题**: 现在还有必要对SVM深入学习吗？
+**答案**: 有的。libSVM。
 
 很多公司都在用这个。。先把SVM做好了，再说别的好嘛=
 
  
 
  
-
-[问题]: 现在量子计算的门几乎都是用量子光学实现的，是否可以用半导体凝聚态来实现。有相关文献可以参考么？
-[答案]: 常温下因为热运动，电子态的退相干作用明显。因此即便在凝聚态中也是在超低温下进行量子计算的实验。有很多人利用量子点，Josephseon
+<br>**问题**: 现在量子计算的门几乎都是用量子光学实现的，是否可以用半导体凝聚态来实现。有相关文献可以参考么？
+**答案**: 常温下因为热运动，电子态的退相干作用明显。因此即便在凝聚态中也是在超低温下进行量子计算的实验。有很多人利用量子点，Josephseon
 
 junctions等来模拟qubits.
 
  
 
  
-
-[问题]: 现在（2017年）从零开始设计知乎这款产品你会怎么做？
-[答案]: 现在技术成熟了，当然是一开始就搞live啊。然后向大v分成。这样轮子哥就超过陆奇了。帮恶魔的奶爸点赞的时候，导流分成也会多一些了，毕竟养粉千日，用粉一时。
+<br>**问题**: 现在（2017年）从零开始设计知乎这款产品你会怎么做？
+**答案**: 现在技术成熟了，当然是一开始就搞live啊。然后向大v分成。这样轮子哥就超过陆奇了。帮恶魔的奶爸点赞的时候，导流分成也会多一些了，毕竟养粉千日，用粉一时。
 
  
 
@@ -35813,50 +33745,44 @@ live：发现更大的世界
  
 
  
-
-[问题]: 现实生活中有没有出现过真实的“时空跳跃”的例子？有人说粒子可以，有相应的或者类似的例子吗？
-[答案]: 没有。
+<br>**问题**: 现实生活中有没有出现过真实的“时空跳跃”的例子？有人说粒子可以，有相应的或者类似的例子吗？
+**答案**: 没有。
 
 如果有早就被你的DNA发现了用不着人类来操心。。
 
  
 
  
-
-[问题]: 琅琊榜看完怎么缓过来？
-[答案]: 最好的办法就是不看＝
-
- 
-
- 
-
-[问题]: 理论上，物体能否实现瞬移？
-[答案]: 不可以。想象一下宇宙吧。如果物质可以瞬移，他还要花这么多心思安排这么多物体围绕着对方转？转着好玩？。。。。
+<br>**问题**: 琅琊榜看完怎么缓过来？
+**答案**: 最好的办法就是不看＝
 
  
 
  
-
-[问题]:生产 Mac 必须要用到 Windows，说明 Windows 比 OS X 好吗？
-
-[答案]: 生孩子时候需要用到润滑液，难道说明润滑液比你高级吗？
+<br>**问题**: 理论上，物体能否实现瞬移？
+**答案**: 不可以。想象一下宇宙吧。如果物质可以瞬移，他还要花这么多心思安排这么多物体围绕着对方转？转着好玩？。。。。
 
  
 
  
+<br>**问题**:生产 Mac 必须要用到 Windows，说明 Windows 比 OS X 好吗？
 
-[问题]: 生命死亡的目的是什么？
-[答案]: 平时总是喊痛不敢自杀，现在好不容易给你机会死了，你还不愿意？
+**答案**: 生孩子时候需要用到润滑液，难道说明润滑液比你高级吗？
+
+ 
+
+ 
+<br>**问题**: 生命死亡的目的是什么？
+**答案**: 平时总是喊痛不敢自杀，现在好不容易给你机会死了，你还不愿意？
 
 你还想在这社会受多少苦？
 
  
 
  
+<br>**问题**:用 iPad Pro 阅读电子书的体验如何？
 
-[问题]:用 iPad Pro 阅读电子书的体验如何？
-
-[答案]:体验很好。下载一个pdf reader pro，买个Apple pen , 各种记笔记。差点找到了实体书的感觉。 
+**答案**:体验很好。下载一个pdf reader pro，买个Apple pen , 各种记笔记。差点找到了实体书的感觉。 
 
 屏幕完美，显示锐利，体积轻薄，电池持久，设计精湛，处理能力强劲，系统稳定，生态丰富。简直无可挑剔。 
 
@@ -35877,33 +33803,31 @@ shipping without membership。Amazon的扩张野心太大，应该专注。。�
  
 
  
+<br>**问题**:用 Python 做策略回测，耗时很长，有什么加速办法？
 
-[问题]:用 Python 做策略回测，耗时很长，有什么加速办法？
-
-[答案]: 为了赚钱，不择手段。止盈实亏，靠天吃饭。作茧自缚，自欺欺人。为人鱼肉，领工资养老婆，为虎作伥，过了几年你就走人
-
- 
+**答案**: 为了赚钱，不择手段。止盈实亏，靠天吃饭。作茧自缚，自欺欺人。为人鱼肉，领工资养老婆，为虎作伥，过了几年你就走人
 
  
 
-[问题]: 用220V的微波炉直接加热食物快，还是直接把220V的电压加在食物两端加热快？
-[答案]: 你这个问题很复杂。
+ 
+<br>**问题**: 用220V的微波炉直接加热食物快，还是直接把220V的电压加在食物两端加热快？
+**答案**: 你这个问题很复杂。
 
 首先两个问题的定义就不清楚。 
 
 对于dc做功，joule's law 告诉我们，你首先需要知道电流。假设食物的dc 电导率是
 
-![\\sigma_{DC}](https://www.zhihu.com/equation?tex=%5Csigma_%7BDC%7D) 
+!**\\sigma_{DC}**(https://www.zhihu.com/equation?tex=%5Csigma_%7BDC%7D) 
 
-，食物的三维结构是横截面 ![A](https://www.zhihu.com/equation?tex=A) 
+，食物的三维结构是横截面 !**A**(https://www.zhihu.com/equation?tex=A) 
 
-以及长度 ![l](https://www.zhihu.com/equation?tex=l) 
+以及长度 !**l**(https://www.zhihu.com/equation?tex=l) 
 
-，我们可以知道在恒定电压 ![V](https://www.zhihu.com/equation?tex=V) 
+，我们可以知道在恒定电压 !**V**(https://www.zhihu.com/equation?tex=V) 
 
 下，电热功率是： 
 
-![V^2/R=V^2S=V^2A\\sigma_{DC}/l](https://www.zhihu.com/equation?tex=V%5E2%2FR%3DV%5E2S%3DV%5E2A%5Csigma_%7BDC%7D%2Fl) 
+!**V^2/R=V^2S=V^2A\\sigma_{DC}/l**(https://www.zhihu.com/equation?tex=V%5E2%2FR%3DV%5E2S%3DV%5E2A%5Csigma_%7BDC%7D%2Fl) 
 
  
 
@@ -35911,29 +33835,28 @@ shipping without membership。Amazon的扩张野心太大，应该专注。。�
 
 然后考虑水分子的在微波频率下的absorption coefficient=cross section*concentration=
 
-![\\sigma_{AC} C
+!**\\sigma_{AC} C
 
-\(m^{-1}\)](https://www.zhihu.com/equation?tex=%5Csigma_%7BAC%7D+C+%28m%5E%7B-1%7D%29) 
+\(m^{-1}\)**(https://www.zhihu.com/equation?tex=%5Csigma_%7BAC%7D+C+%28m%5E%7B-1%7D%29) 
 
-，乘以微波在食物中前行的距离 ![l](https://www.zhihu.com/equation?tex=l) 
+，乘以微波在食物中前行的距离 !**l**(https://www.zhihu.com/equation?tex=l) 
 
-，除以微波在食物中的传播速度 ![c](https://www.zhihu.com/equation?tex=c) 
+，除以微波在食物中的传播速度 !**c**(https://www.zhihu.com/equation?tex=c) 
 
 ，就知道吸收功率： 
 
-![VI/2 e^{-{\\sigma_{AC} C
+!**VI/2 e^{-{\\sigma_{AC} C
 
-l}}/c](https://www.zhihu.com/equation?tex=VI%2F2+e%5E%7B-%7B%5Csigma_%7BAC%7D+C+l%7D%7D%2Fc) 
+l}}/c**(https://www.zhihu.com/equation?tex=VI%2F2+e%5E%7B-%7B%5Csigma_%7BAC%7D+C+l%7D%7D%2Fc) 
 
 这两者在不知道精确数值的时候是难以比较的。实际上因为水的dc电阻比较高，ac吸收比较强，我认为微波的吸收效率更高。
 
  
 
  
+<br>**问题**: 用一个小锤不停的敲击一个很大的悬挂铁球，铁球最终会摆动起来吗？
 
-[问题]: 用一个小锤不停的敲击一个很大的悬挂铁球，铁球最终会摆动起来吗？
-
-[答案]:保证每次都对铁球做正功即可。也就是所谓的phase matching (共振之类） 
+**答案**:保证每次都对铁球做正功即可。也就是所谓的phase matching (共振之类） 
 
 动量，冲量的图像是错误的因为如果不是做正功，冲量再大，最初方向不变但是后来变的和铁球动量相反，最后只能阻碍震荡。 
 
@@ -35942,17 +33865,15 @@ l}}/c](https://www.zhihu.com/equation?tex=VI%2F2+e%5E%7B-%7B%5Csigma_%7BAC%7D+C+
  
 
  
-
-[问题]: 用一辈子寿命换完美十年，你愿意吗？
-[答案]: 愿意。很多人努力一辈子不就是为了那十年么（赢取白富美，做公司总裁，登上人生巅峰）
-
- 
+<br>**问题**: 用一辈子寿命换完美十年，你愿意吗？
+**答案**: 愿意。很多人努力一辈子不就是为了那十年么（赢取白富美，做公司总裁，登上人生巅峰）
 
  
 
-[问题]:用了 Mac OS X 的你，最想念 Windows 的什么？
+ 
+<br>**问题**:用了 Mac OS X 的你，最想念 Windows 的什么？
 
-[答案]:想念windows 那白色袜子干净的味道。。 
+**答案**:想念windows 那白色袜子干净的味道。。 
 
 其实是想念windowsn那自带全套驱动的能力。。就算没有驱动，TMD也能启动，启动完了之后南桥芯片都是未知设备有没有，SATA控制器都是未找到，内存控制器都是黄色问号，它居然成功启动了。启动完之后用360驱动大师把他们都安装好了，开心！ 
 
@@ -35965,34 +33886,30 @@ Bolt 3也不支持，主板估计都是苹果定制版的PCI-e 卡，为了节�
  
 
  
-
-[问题]: 用吹风机热风吹头发，是风比较重要还是热比较重要？
-[答案]: 热风重要。
-
- 
-
- 
-
-[问题]:用惯了 Windows 的人用 macOS 会有什么不适？
-
-[答案]: 我靠太漂亮了我亮瞎了。
+<br>**问题**: 用吹风机热风吹头发，是风比较重要还是热比较重要？
+**答案**: 热风重要。
 
  
 
  
+<br>**问题**:用惯了 Windows 的人用 macOS 会有什么不适？
 
-[问题]: 用曾博的方法学英语怎么验证自己对不对啊？
+**答案**: 我靠太漂亮了我亮瞎了。
 
-[答案]:I am frustrated 说得很地道。你看着不是效果吗？他的反义词是： 
+ 
+
+ 
+<br>**问题**: 用曾博的方法学英语怎么验证自己对不对啊？
+
+**答案**:I am frustrated 说得很地道。你看着不是效果吗？他的反义词是： 
 
 I am excited
 
  
 
  
-
-[问题]: 用热力学基本定律来解释物理现象是否等于没有解释？
-[答案]: 这个问题已经被几位回答者分析的很透彻了。承蒙错爱，我再多说几句。
+<br>**问题**: 用热力学基本定律来解释物理现象是否等于没有解释？
+**答案**: 这个问题已经被几位回答者分析的很透彻了。承蒙错爱，我再多说几句。
 
 热力学基本定理解释物理问题是从宏观的角度使用大系统的客观测量的基本关系来解释问题，比如ENTROPY必须增加，ENERGY减少有利于系统稳定，以及其他特别约束条件下的自由能（例如，离子数不变，等压，等体积或者外加磁场条件下）的变化情况判断稳定性和系统从一个平衡态转移到另外一个平衡态的趋势等等。热力学的这些参数是分析问题极有力的工具，而且无所不含，从黑洞，等离子体，到电磁场（没错，电磁场也有热力学，而且可以得到正确的场能关系），磁铁，和橡皮筋。选取正确的系统参数，描述系统的能量，分析平衡态下系统能量随参数的变化关系，进而回答系统的稳定性和变化趋势，是一门艺术。这是有别于还原论分析问题的独到的视角，和还原论的工具是互相促进，互相补充的。因为我们分析的系统往往是宏观物体，具有几乎无限个粒子，这时候微观还原论的工具就失效（或者极端困难）了。因此我们有了统计物理这一门皇冠上的学科。 
 
@@ -36001,42 +33918,37 @@ I am excited
  
 
  
+<br>**问题**: 用计算机根据已知的物理定律模拟三体运动会怎么样？
 
-[问题]: 用计算机根据已知的物理定律模拟三体运动会怎么样？
-
-[答案]:参考Berkeley CS 61B : homework 1 NBody
-
- 
-
- 
-
-[问题]: 用计算机算圆周率，是个怎样的过程？
-[答案]: !(https://pic3.zhimg.com/936f7d2d7b8c4d40fafdbed246ecd53e_b.jpg)
+**答案**:参考Berkeley CS 61B : homework 1 NBody
 
  
 
  
-
-[问题]:由于 Windows API 是基于 C 的，Java 或 C# 如何处理消息循环？
-
-[答案]: 好奇问下，现在开发windows程序个人开发者还有钱赚？为什么要把自己封闭在一个巨头垄断的环境之中。。。
+<br>**问题**: 用计算机算圆周率，是个怎样的过程？
+**答案**: !(https://pic3.zhimg.com/936f7d2d7b8c4d40fafdbed246ecd53e_b.jpg)
 
  
 
  
+<br>**问题**:由于 Windows API 是基于 C 的，Java 或 C# 如何处理消息循环？
 
-[问题]: 由于技术的进步，有哪些事物的定义被改变了？
-[答案]: 成功人士：
+**答案**: 好奇问下，现在开发windows程序个人开发者还有钱赚？为什么要把自己封闭在一个巨头垄断的环境之中。。。
+
+ 
+
+ 
+<br>**问题**: 由于技术的进步，有哪些事物的定义被改变了？
+**答案**: 成功人士：
 
 现特指在知乎上开live的人
 
  
 
  
+<br>**问题**: 由单细胞生物进化并显示出生物多样性，这与熵增是否矛盾？
 
-[问题]: 由单细胞生物进化并显示出生物多样性，这与熵增是否矛盾？
-
-[答案]:宇宙总体来看，是熵增的；但又有物理学家指出，为什么熵这个量和其他所有物理量不同，能一直增加，而不守恒呢？ **
+**答案**:宇宙总体来看，是熵增的；但又有物理学家指出，为什么熵这个量和其他所有物理量不同，能一直增加，而不守恒呢？ **
 
 因此他们猜测生命等熵减机制，就是平衡宇宙加速膨胀引起的熵增，使得总体而言，熵是守恒的。 ** 
 
@@ -36049,31 +33961,27 @@ I am excited
  
 
  
+<br>**问题**: 由双曲正弦函数得到的序列，比如sinh（n），其频谱是什么？
 
-[问题]: 由双曲正弦函数得到的序列，比如sinh（n），其频谱是什么？
-
-[答案]:不可积的应该不存在ft。可能存在laplace transform。如果有，其实可以知道，其频率是复数。
-
- 
-
- 
-
-[问题]: 申请MIT的phd难还是申请MIT的本科难？
-[答案]: 本科吧。毕竟浙大有去MIT念PhD的，但没有去MIT念本科的。。。
+**答案**:不可积的应该不存在ft。可能存在laplace transform。如果有，其实可以知道，其频率是复数。
 
  
 
  
+<br>**问题**: 申请MIT的phd难还是申请MIT的本科难？
+**答案**: 本科吧。毕竟浙大有去MIT念PhD的，但没有去MIT念本科的。。。
 
-[问题]: 申请MIT，Stanford，Berkeley研究生成功的例子，希望能详细一些？
-[答案]: 申请可能成功了。但这几所学校毕业后研究生不成功的例子太多了。
+ 
+
+ 
+<br>**问题**: 申请MIT，Stanford，Berkeley研究生成功的例子，希望能详细一些？
+**答案**: 申请可能成功了。但这几所学校毕业后研究生不成功的例子太多了。
 
  
 
  
-
-[问题]: 申请加州伯克利的研究生PHD有多难？
-[答案]: 看专业。看组看实验室。
+<br>**问题**: 申请加州伯克利的研究生PHD有多难？
+**答案**: 看专业。看组看实验室。
 
 我个人认为体验不如私立学校 
 
@@ -36082,39 +33990,34 @@ I am excited
  
 
  
-
-[问题]: 电、磁、光、波，这四者的相互关系是什么？
-[答案]: ==呵呵
-
- 
-
- 
-
-[问题]: 电介质极化对电磁波速有什么影响？
-[答案]: 查书
+<br>**问题**: 电、磁、光、波，这四者的相互关系是什么？
+**答案**: ==呵呵
 
  
 
  
+<br>**问题**: 电介质极化对电磁波速有什么影响？
+**答案**: 查书
 
-[问题]: 电动机中焦耳热的问题？
-[答案]: 楼主我劝你好好学编程
+ 
+
+ 
+<br>**问题**: 电动机中焦耳热的问题？
+**答案**: 楼主我劝你好好学编程
 
  
 
  
-
-[问题]: 电场会被绝缘物阻挡么？
-[答案]: 最简单的绝缘体是空气，或者真空。真空是否会阻挡电场呢？
+<br>**问题**: 电场会被绝缘物阻挡么？
+**答案**: 最简单的绝缘体是空气，或者真空。真空是否会阻挡电场呢？
 
 这个问题的答案不言自明了。
 
  
 
  
-
-[问题]: 电场是一种特殊的「物质」吗？
-[答案]: 电场是由光子组成一种“能量场”。光子是具备能量的波色子，可以看作是时空网格上的一种简单振动（就好比一根绳索上的振动）。实际上，有一种看法认为，所有非“物质”的粒子，例如光子，引力子，等等波色子，都是多维时空的振动（STRING
+<br>**问题**: 电场是一种特殊的「物质」吗？
+**答案**: 电场是由光子组成一种“能量场”。光子是具备能量的波色子，可以看作是时空网格上的一种简单振动（就好比一根绳索上的振动）。实际上，有一种看法认为，所有非“物质”的粒子，例如光子，引力子，等等波色子，都是多维时空的振动（STRING
 
 THEORY），而所有“物质”的粒子，例如电子等费米子，都是多维时空振动的端点，一种类似结的结构（MIT物理系文小刚教授的弦网理论，dao. ** mit
 
@@ -36125,17 +34028,15 @@ THEORY），而所有“物质”的粒子，例如电子等费米子，都是�
  
 
  
-
-[问题]: 电子和原子核之间的空隙中有什么介质，是真空的吗？
-[答案]: 真空之中应该是时空的fabric
-
- 
+<br>**问题**: 电子和原子核之间的空隙中有什么介质，是真空的吗？
+**答案**: 真空之中应该是时空的fabric
 
  
 
-[问题]: 电子气的简并压算四大基本相互作用中的哪一种？
+ 
+<br>**问题**: 电子气的简并压算四大基本相互作用中的哪一种？
 
-[答案]:参考： http:// physics.stackexchange.com /questions/22263/degeneracy-pressure-
+**答案**:参考： http:// physics.stackexchange.com /questions/22263/degeneracy-pressure-
 
 what-is-it _ _ 
 
@@ -36154,30 +34055,26 @@ what-is-it _ _
  
 
  
-
-[问题]: 电子表的数字为什么侧着看时，是满格的“日”字，导致看不清时间？
-[答案]: 因为液晶显示（最便宜的那种）是通过偏振实现的。偏振片只有在一定角度内工作效果最好（偏振效果最好）。如果你侧看的话，在有光的条件下，入射光就会把偏振片下面的东西，毫无保留的暴露出来。也就是那个显示所有数字的基础：日。
-
- 
-
- 
-
-[问题]: 电死人或动物的是电压还是电流？
-[答案]: 是智商
+<br>**问题**: 电子表的数字为什么侧着看时，是满格的“日”字，导致看不清时间？
+**答案**: 因为液晶显示（最便宜的那种）是通过偏振实现的。偏振片只有在一定角度内工作效果最好（偏振效果最好）。如果你侧看的话，在有光的条件下，入射光就会把偏振片下面的东西，毫无保留的暴露出来。也就是那个显示所有数字的基础：日。
 
  
 
  
+<br>**问题**: 电死人或动物的是电压还是电流？
+**答案**: 是智商
 
-[问题]: 电水壶是什么原理自动关的？
-[答案]: 沸腾时，水温不会再上升。此时可停
+ 
+
+ 
+<br>**问题**: 电水壶是什么原理自动关的？
+**答案**: 沸腾时，水温不会再上升。此时可停
 
  
 
  
-
-[问题]: 电池不接入闭合回路，两端为什么会有电压？
-[答案]: 你这个问题其实问的很好。电池两端电子所处的化学势不一样，因此你测量的时候，可以测到因此产生的电势差。把电子看作自由电子，因为电子是费米子，根据对称性假设（泡利不相容）同一个态不能容纳1个以上电子。因此电子总是从低能态向高能态填充；出于最高能态的电子的能量，就是这个电子体系的化学势（又叫费米能面，费米势，work
+<br>**问题**: 电池不接入闭合回路，两端为什么会有电压？
+**答案**: 你这个问题其实问的很好。电池两端电子所处的化学势不一样，因此你测量的时候，可以测到因此产生的电势差。把电子看作自由电子，因为电子是费米子，根据对称性假设（泡利不相容）同一个态不能容纳1个以上电子。因此电子总是从低能态向高能态填充；出于最高能态的电子的能量，就是这个电子体系的化学势（又叫费米能面，费米势，work
 
 function等）；化学电池的阴极和阳极材料不同，其化学势不一样，只允许电子从电池外一个极流向另一极。因此你能测到一个电势差，这个电势差就是把电子从一个费米面移动到另一个费米面上所消耗的能量。实际上你测量电势差的时候，也用到了金属作导线，电池极的材料和你导线的材料一般不同，他们之间也会存在化学势不同引起的电势差。你测量的值一般严格意义上不是电池开路时真正的电势差（差别了很小一点）。 
 
@@ -36188,10 +34085,9 @@ function等）；化学电池的阴极和阳极材料不同，其化学势不一
  
 
  
+<br>**问题**: 电流有速度么？
 
-[问题]: 电流有速度么？
-
-[答案]:按照定义， ![I=\\int_{\\partial V}^{} JdS\\ \\ \(1\) \\ \\ \\
+**答案**:按照定义， !**I=\\int_{\\partial V}^{} JdS\\ \\ \(1\) \\ \\ \\
 
  
 
@@ -36199,7 +34095,7 @@ J=nev=ne\\mu E \\ \\ \(2\)
 
  
 
-](https://www.zhihu.com/equation?tex=I%3D%5Cint_%7B%5Cpartial+V%7D%5E%7B%7D+JdS%5C+%5C+%281%29+%5C+%5C+%5C+%0AJ%3Dnev%3Dne%5Cmu+E+%5C+%5C+%282%29%0A) 
+**(https://www.zhihu.com/equation?tex=I%3D%5Cint_%7B%5Cpartial+V%7D%5E%7B%7D+JdS%5C+%5C+%281%29+%5C+%5C+%5C+%0AJ%3Dnev%3Dne%5Cmu+E+%5C+%5C+%282%29%0A) 
 
 其中v就是电子移动的平均速度。 
 
@@ -36215,7 +34111,7 @@ J=nev=ne\\mu E \\ \\ \(2\)
 
 电子从接触到电场到加速到平均速度的这一段加速度响应时间基本可以用： 
 
-![t=v_d/a=v_dm/\(eE\)](https://www.zhihu.com/equation?tex=t%3Dv_d%2Fa%3Dv_dm%2F%28eE%29) 
+!**t=v_d/a=v_dm/\(eE\)**(https://www.zhihu.com/equation?tex=t%3Dv_d%2Fa%3Dv_dm%2F%28eE%29) 
 
 表示，由于电子质量特别小，此时间一般可以忽略。 
 
@@ -36226,9 +34122,8 @@ ps。一楼你答的这么多扯的这么远十万个为什么都编出来一本
  
 
  
-
-[问题]: 电磁场仿真中，FDTD算法和FEM算法各有什么优势和缺点？
-[答案]: 白冰冰我还爱你
+<br>**问题**: 电磁场仿真中，FDTD算法和FEM算法各有什么优势和缺点？
+**答案**: 白冰冰我还爱你
 
 FDTD作为一种有限差分时间域数值计算方法，有一次性脉冲分析（宽频），自然结合非线性谐波分析，自然结合Lorentz ,
 
@@ -36239,10 +34134,9 @@ FEM则基本克服了高Q仿真，长方体差分的缺陷，可以对空间进�
  
 
  
+<br>**问题**: 电磁折射：未言尽的秘密
 
-[问题]: 电磁折射：未言尽的秘密
-
-[答案]:
+**答案**:
 
  
 
@@ -36304,7 +34198,7 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic4.zhimg.com/8d67e6fc3ff07b33a0743a88b83d818b_b.jpg) 
+!****(http://pic4.zhimg.com/8d67e6fc3ff07b33a0743a88b83d818b_b.jpg) 
 
 （1）
 
@@ -36338,7 +34232,7 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic3.zhimg.com/f97aabb00b67dd94adab3972cbb55d02_b.jpg) 
+!****(http://pic3.zhimg.com/f97aabb00b67dd94adab3972cbb55d02_b.jpg) 
 
 （2）
 
@@ -36358,7 +34252,7 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic1.zhimg.com/b1100f71935fc3977fb4cddb08bce0e4_b.jpg) 
+!****(http://pic1.zhimg.com/b1100f71935fc3977fb4cddb08bce0e4_b.jpg) 
 
 （3）
 
@@ -36366,7 +34260,7 @@ _ 2）电磁场承担体系能量 _
 
 那么，在某一种和物理实际无关的标记下，矢量势可以表示为： 
 
-![](http://pic3.zhimg.com/ce6223a8cc545e69bc67dd5b34091e92_b.jpg) 
+!****(http://pic3.zhimg.com/ce6223a8cc545e69bc67dd5b34091e92_b.jpg) 
 
 （4）
 
@@ -36378,7 +34272,7 @@ _ 2）电磁场承担体系能量 _
 
 带（3）入（4），我们得到： 
 
-![](http://pic3.zhimg.com/0eb60b1bf604f1a5e50ea25d64b01b66_b.jpg) 
+!****(http://pic3.zhimg.com/0eb60b1bf604f1a5e50ea25d64b01b66_b.jpg) 
 
 （5）
 
@@ -36392,7 +34286,7 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic4.zhimg.com/e81f6493b54cea2f774063ecaa95b71f_b.jpg)
+!****(http://pic4.zhimg.com/e81f6493b54cea2f774063ecaa95b71f_b.jpg)
 
  
 
@@ -36408,7 +34302,7 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic4.zhimg.com/d8fff57ac1b208a024e915879ab2e983_b.jpg) 
+!****(http://pic4.zhimg.com/d8fff57ac1b208a024e915879ab2e983_b.jpg) 
 
 （7）
 
@@ -36422,13 +34316,13 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic4.zhimg.com/fcdec86b359aa457b023879936d34237_b.jpg) 
+!****(http://pic4.zhimg.com/fcdec86b359aa457b023879936d34237_b.jpg) 
 
 （8）
 
  
 
-![](http://pic3.zhimg.com/89021d865ace04ae2ba80eba82f5608a_b.jpg) 
+!****(http://pic3.zhimg.com/89021d865ace04ae2ba80eba82f5608a_b.jpg) 
 
 （9）
 
@@ -36438,7 +34332,7 @@ _ 2）电磁场承担体系能量 _
 
  
 
-![](http://pic4.zhimg.com/ab8db3393a3d869913bbc9f9f11beaf3_b.jpg) 
+!****(http://pic4.zhimg.com/ab8db3393a3d869913bbc9f9f11beaf3_b.jpg) 
 
 （10）
 
@@ -36452,17 +34346,17 @@ p就是源处电偶极矢的积分。实际上，这个偶极子项在不论距�
 
  
 
-![](http://pic2.zhimg.com/fdb3d05d490a2d16734b6dfcbd586f2d_b.jpg) 
+!****(http://pic2.zhimg.com/fdb3d05d490a2d16734b6dfcbd586f2d_b.jpg) 
 
 （11）
 
  
 
-这里直接引用jackson的结论[4]：
+这里直接引用jackson的结论**4**：
 
  
 
-![](http://pic4.zhimg.com/9773fd85c019b3d9fb50b5da12fcdac3_b.jpg) 
+!****(http://pic4.zhimg.com/9773fd85c019b3d9fb50b5da12fcdac3_b.jpg) 
 
 （12）
 
@@ -36520,7 +34414,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic2.zhimg.com/88e4fff97a8ca495b3f44821002fe9ed_b.jpg) 
+!****(http://pic2.zhimg.com/88e4fff97a8ca495b3f44821002fe9ed_b.jpg) 
 
  
 
@@ -36548,7 +34442,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic2.zhimg.com/54f2700da58332dd11e93e253d8d5155_b.jpg) 
+!****(http://pic2.zhimg.com/54f2700da58332dd11e93e253d8d5155_b.jpg) 
 
  
 
@@ -36570,7 +34464,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic3.zhimg.com/2d140ace07022a27133d15aedc767e3e_b.jpg) 
+!****(http://pic3.zhimg.com/2d140ace07022a27133d15aedc767e3e_b.jpg) 
 
 （13）
 
@@ -36586,7 +34480,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic1.zhimg.com/8c7077738e7805c3845142129410ce78_b.jpg) 
+!****(http://pic1.zhimg.com/8c7077738e7805c3845142129410ce78_b.jpg) 
 
  
 
@@ -36606,7 +34500,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic1.zhimg.com/341636db8434c8bce10bbf086d5afff4_b.jpg) 
+!****(http://pic1.zhimg.com/341636db8434c8bce10bbf086d5afff4_b.jpg) 
 
  
 
@@ -36614,7 +34508,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic4.zhimg.com/faa50b6e932761382f03d74d07acfd0f_b.jpg) 
+!****(http://pic4.zhimg.com/faa50b6e932761382f03d74d07acfd0f_b.jpg) 
 
 （14）
 
@@ -36628,7 +34522,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic4.zhimg.com/ba3d8c909d31bac821355d316c90b517_b.jpg) 
+!****(http://pic4.zhimg.com/ba3d8c909d31bac821355d316c90b517_b.jpg) 
 
 (15)
 
@@ -36638,7 +34532,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic3.zhimg.com/ad1021d76aef2d87d8acdd12515ed4ea_b.jpg) 
+!****(http://pic3.zhimg.com/ad1021d76aef2d87d8acdd12515ed4ea_b.jpg) 
 
 (16)
 
@@ -36648,7 +34542,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic3.zhimg.com/d32ec74991f1b5806bcc82a10a724346_b.jpg) 
+!****(http://pic3.zhimg.com/d32ec74991f1b5806bcc82a10a724346_b.jpg) 
 
 (17) 
 
@@ -36662,7 +34556,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic4.zhimg.com/064fb59a15a05fb4de4af535f655c4cb_b.jpg) 
+!****(http://pic4.zhimg.com/064fb59a15a05fb4de4af535f655c4cb_b.jpg) 
 
 (18)
 
@@ -36672,7 +34566,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-令： ![](http://pic2.zhimg.com/f844465cc912dd33c7b0c913705bc76d_b.jpg)
+令： !****(http://pic2.zhimg.com/f844465cc912dd33c7b0c913705bc76d_b.jpg)
 
  
 
@@ -36684,7 +34578,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic2.zhimg.com/fb0be7716fcebc8e169b3cd94371e39d_b.jpg)
+!****(http://pic2.zhimg.com/fb0be7716fcebc8e169b3cd94371e39d_b.jpg)
 
  
 
@@ -36712,7 +34606,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic3.zhimg.com/c099ec139038790852d664e6a69c8952_b.jpg)
+!****(http://pic3.zhimg.com/c099ec139038790852d664e6a69c8952_b.jpg)
 
  
 
@@ -36736,7 +34630,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic1.zhimg.com/9510bd909104959b011c7db3529a6e44_b.jpg) 
+!****(http://pic1.zhimg.com/9510bd909104959b011c7db3529a6e44_b.jpg) 
 
  
 
@@ -36744,7 +34638,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic2.zhimg.com/09113d26dea62e468a6ae3e3e5c74d15_b.jpg)
+!****(http://pic2.zhimg.com/09113d26dea62e468a6ae3e3e5c74d15_b.jpg)
 
  
 
@@ -36752,13 +34646,13 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic1.zhimg.com/a8fd0344af4d3a3034454cbf4c2b1588_b.jpg) 
+!****(http://pic1.zhimg.com/a8fd0344af4d3a3034454cbf4c2b1588_b.jpg) 
 
 由此可得，唯一剩下的可传播的散射波的角度和入射角满足snell关系：
 
  
 
-![](http://pic4.zhimg.com/849496677d6b2753094edb4ba2a6dabb_b.jpg) **
+!****(http://pic4.zhimg.com/849496677d6b2753094edb4ba2a6dabb_b.jpg) **
 
 而原方向传播的入射光的能量，将会在历经几百到几万层原子层吸收后，消耗殆尽 **
 
@@ -36792,7 +34686,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic3.zhimg.com/d7778f1ffd6064524073174005239cc2_b.jpg) 
+!****(http://pic3.zhimg.com/d7778f1ffd6064524073174005239cc2_b.jpg) 
 
  
 
@@ -36838,7 +34732,7 @@ theory中所问：材料另一侧的平面波，能不能够从微观下，从�
 
  
 
-![](http://pic4.zhimg.com/680e3cdb6537c685db3f9fb6f34f6887_b.jpg) 
+!****(http://pic4.zhimg.com/680e3cdb6537c685db3f9fb6f34f6887_b.jpg) 
 
  
 
@@ -36949,69 +34843,63 @@ Bo Zeng
  
 
  
+<br>**问题**: 电磁波中电矢量和磁矢量的振动是否有相位差？
+**答案**: 不一定，具体看白冰冰的答案。
 
-[问题]: 电磁波中电矢量和磁矢量的振动是否有相位差？
-[答案]: 不一定，具体看白冰冰的答案。
-
-一般来说， ![B=E/c=E\\sqrt{\\epsilon\\mu}
+一般来说， !**B=E/c=E\\sqrt{\\epsilon\\mu}
 
  
 
-](https://www.zhihu.com/equation?tex=B%3DE%2Fc%3DE%5Csqrt%7B%5Cepsilon%5Cmu%7D%0A) 
+**(https://www.zhihu.com/equation?tex=B%3DE%2Fc%3DE%5Csqrt%7B%5Cepsilon%5Cmu%7D%0A) 
 
-很多地方 ![\\epsilon ](https://www.zhihu.com/equation?tex=%5Cepsilon+) 
+很多地方 !**\\epsilon **(https://www.zhihu.com/equation?tex=%5Cepsilon+) 
 
 是复数，例如金属里。 
 
-所以 ![B](https://www.zhihu.com/equation?tex=B) 
+所以 !**B**(https://www.zhihu.com/equation?tex=B) 
 
-和 ![E](https://www.zhihu.com/equation?tex=E) 
+和 !**E**(https://www.zhihu.com/equation?tex=E) 
 
 有相位差，也是完全可以理解的么
 
  
 
  
+<br>**问题**:电磁波在传输 28 分钟后，依旧能够把信号提取出来，背后的原因如何解释？
 
-[问题]:电磁波在传输 28 分钟后，依旧能够把信号提取出来，背后的原因如何解释？
-
-[答案]: 可见光是衰减的差不多了。波长更长的电磁波可能不会。波长越长，受到小物体散射的影响越小。
-
- 
-
- 
-
-[问题]: 电磁波打到金属表面之后电场分量和磁场分量怎么变化？
-[答案]: 大家好。我是大傻逼。
+**答案**: 可见光是衰减的差不多了。波长更长的电磁波可能不会。波长越长，受到小物体散射的影响越小。
 
  
 
  
+<br>**问题**: 电磁波打到金属表面之后电场分量和磁场分量怎么变化？
+**答案**: 大家好。我是大傻逼。
 
-[问题]: 电磁波是如何产生的？原理是什么？
-[答案]: 电磁波是这样产生的：
+ 
 
-![](https://pic3.zhimg.com/2affe18c0ca25f71580513d0005b4e8a_b.jpg) 
+ 
+<br>**问题**: 电磁波是如何产生的？原理是什么？
+**答案**: 电磁波是这样产生的：
+
+!****(https://pic3.zhimg.com/2affe18c0ca25f71580513d0005b4e8a_b.jpg) 
 
 然后对（2.1）－（2.4）做适当组合： 
 
-![](https://pic2.zhimg.com/8b0da1744170a12307e8a3a448d9184d_b.jpg) 
+!****(https://pic2.zhimg.com/8b0da1744170a12307e8a3a448d9184d_b.jpg) 
 
 此方程的解就是电磁波。
 
  
 
  
-
-[问题]: 电磁波波数的具体物理意义，出现了复波数该如何解释呢？
-[答案]: 回答这个问题我能找工作吗？
-
- 
+<br>**问题**: 电磁波波数的具体物理意义，出现了复波数该如何解释呢？
+**答案**: 回答这个问题我能找工作吗？
 
  
 
-[问题]: 电磁波里电场和磁场为什么有关系EB=c，为什么我推导出来是EB=-c？
-[答案]: 我很抱歉，我不是生气，我也不是物理系的学生，但我今天是以一个长者的身份，告诉你们：
+ 
+<br>**问题**: 电磁波里电场和磁场为什么有关系EB=c，为什么我推导出来是EB=-c？
+**答案**: 我很抱歉，我不是生气，我也不是物理系的学生，但我今天是以一个长者的身份，告诉你们：
 
 如果不用英文教材的话，还是别学电磁学了吧。原因我不说。白冰冰在清华大学这个世界第一的学府学电磁，现在还偶尔有疏漏，这就是拜大陆翻译者和工程电磁学的水平所赐。 
 
@@ -37020,33 +34908,29 @@ Bo Zeng
  
 
  
+<br>**问题**: 电荷与金属板的镜像等效原理是怎样的？
 
-[问题]: 电荷与金属板的镜像等效原理是怎样的？
-
-[答案]:参看 jackson classical electromagnetics
-
- 
-
- 
-
-[问题]: 电视机顶盒的红外线遥控可以反射吗？
-
-[答案]:大部分银和金镜对infra red都反射的
+**答案**:参看 jackson classical electromagnetics
 
  
 
  
+<br>**问题**: 电视机顶盒的红外线遥控可以反射吗？
 
-[问题]: 电通量的定义是通过面元的电场线条数，为什么计算是电通量会小于1？
-[答案]: 平均起来啊，是可以小于1的。比如说，中国平均没平凡厘米有多少个人，你完全可以得到0,0004个人的情况。特别是，电场线只是一种抽象，并不是真的一根面粉。在很弱的电场中，可能每几百米才有一根面粉；那么你算平均平方米下有多少面粉线，就会得到一个小数了。
+**答案**:大部分银和金镜对infra red都反射的
+
+ 
+
+ 
+<br>**问题**: 电通量的定义是通过面元的电场线条数，为什么计算是电通量会小于1？
+**答案**: 平均起来啊，是可以小于1的。比如说，中国平均没平凡厘米有多少个人，你完全可以得到0,0004个人的情况。特别是，电场线只是一种抽象，并不是真的一根面粉。在很弱的电场中，可能每几百米才有一根面粉；那么你算平均平方米下有多少面粉线，就会得到一个小数了。
 
  
 
  
+<br>**问题**: 男人？
 
-[问题]: 男人？
-
-[答案]:
+**答案**:
 
  
 
@@ -37057,91 +34941,79 @@ Bo Zeng
  
 
  
-
-[问题]: 男性相比女性更凸起的喉结在遗传学上有何意义？
-[答案]: 其他地方也有很多突起。他们的意义很大。
-
- 
-
- 
-
-[问题]: 男朋友不赞成我看琅琊榜，说不以历史为目的的古装都是浪费时间，如何说服？
-[答案]: 你应该反对他看AV：不以上床为目的的高潮都是浪费时间
+<br>**问题**: 男性相比女性更凸起的喉结在遗传学上有何意义？
+**答案**: 其他地方也有很多突起。他们的意义很大。
 
  
 
  
+<br>**问题**: 男朋友不赞成我看琅琊榜，说不以历史为目的的古装都是浪费时间，如何说服？
+**答案**: 你应该反对他看AV：不以上床为目的的高潮都是浪费时间
 
-[问题]: 男生容易被什么感动？
-[答案]: 条件这么差居然会有人愿意给你面试机会。这比一切都有价值。
+ 
+
+ 
+<br>**问题**: 男生容易被什么感动？
+**答案**: 条件这么差居然会有人愿意给你面试机会。这比一切都有价值。
 
 选错了专业却用“计算机是泡沫吧，我们也能找到工作的”来自我安慰，我真为他们这种精神感动！
 
  
 
  
-
-[问题]: 男生渴望被同性肛交该怎么办？
-[答案]: 找赵董
-
- 
-
- 
-
-[问题]: 男程序员需要去整容吗？
-[答案]: 请大家就事论事合理回答谢谢
+<br>**问题**: 男生渴望被同性肛交该怎么办？
+**答案**: 找赵董
 
  
 
  
-
-[问题]: 留学凤凰男的局限——如何看待毒舌婊对于曾博的评价？
-[答案]: 我觉得楼上看的这么透彻，估计要成功了。我还是退出知乎算了
-
- 
-
- 
-
-[问题]:留学生们是怎样缓解出 offer 前的焦虑？
-
-[答案]: 呵呵。拿到offer之后是你5年以上的如何毕业，毕业如何找工作的焦虑。和这个相比，拿不到offer反而是好事。
+<br>**问题**: 男程序员需要去整容吗？
+**答案**: 请大家就事论事合理回答谢谢
 
  
 
  
-
-[问题]: 留学生，一定要爱上美国？
-
-[答案]:Winner is winner . Forever
+<br>**问题**: 留学凤凰男的局限——如何看待毒舌婊对于曾博的评价？
+**答案**: 我觉得楼上看的这么透彻，估计要成功了。我还是退出知乎算了
 
  
 
  
+<br>**问题**:留学生们是怎样缓解出 offer 前的焦虑？
 
-[问题]: 白如冰是谁？
-[答案]: 我爱大冰冰
-
- 
-
- 
-
-[问题]: 白如冰是谁？是男的还是女的
-[答案]: 我的
+**答案**: 呵呵。拿到offer之后是你5年以上的如何毕业，毕业如何找工作的焦虑。和这个相比，拿不到offer反而是好事。
 
  
 
  
+<br>**问题**: 留学生，一定要爱上美国？
 
-[问题]:百度学术能否替代 Google 学术网站？有没有其他选择？
+**答案**:Winner is winner . Forever
 
-[答案]:大家都不提bing 学术，这让轮子哥好伤心啊。。
+ 
+
+ 
+<br>**问题**: 白如冰是谁？
+**答案**: 我爱大冰冰
 
  
 
  
+<br>**问题**: 白如冰是谁？是男的还是女的
+**答案**: 我的
 
-[问题]: 百度推广不通过ICP备案，合法吗？
-[答案]: 合法。而且不管广告词怎么说，都合法。只要能产生GDP养活小企业就业维稳都合法。
+ 
+
+ 
+<br>**问题**:百度学术能否替代 Google 学术网站？有没有其他选择？
+
+**答案**:大家都不提bing 学术，这让轮子哥好伤心啊。。
+
+ 
+
+ 
+<br>**问题**: 百度推广不通过ICP备案，合法吗？
+**答案**: 合法。而且不管广告词怎么说，都合法。只要能产生GDP养活小企业就业维稳都合法。
 
  
 
@@ -37166,16 +35038,14 @@ Bo Zeng
  
 
  
-
-[问题]: 百度阿里腾讯即将聚首深圳，他们看中了深圳什么？
-[答案]: 看中了房价吧
-
- 
+<br>**问题**: 百度阿里腾讯即将聚首深圳，他们看中了深圳什么？
+**答案**: 看中了房价吧
 
  
 
-[问题]: 目前智能机器人没有在市场大面积的普及，是因为遇到了哪些关键性的技术问题呢？
-[答案]: 人本身就是大自然得到的最好的人工智能。产生更多人工智能的办法的生孩子：这被证明是极端有效的。
+ 
+<br>**问题**: 目前智能机器人没有在市场大面积的普及，是因为遇到了哪些关键性的技术问题呢？
+**答案**: 人本身就是大自然得到的最好的人工智能。产生更多人工智能的办法的生孩子：这被证明是极端有效的。
 
  
 
@@ -37186,58 +35056,51 @@ Bo Zeng
  
 
  
-
-[问题]: 目前看来，加州伯克利有没有超越浙江大学？
-[答案]: 被超越了。
+<br>**问题**: 目前看来，加州伯克利有没有超越浙江大学？
+**答案**: 被超越了。
 
 做了一点微小的贡献，很惭愧
 
  
 
  
-
-[问题]: 目前高二不排除复读，普通高中理科生，要想留学该做什么？目标高校中多数院校开设认知科学相关专业
-[答案]: 主要是要钱。
-
- 
-
- 
-
-[问题]: 目标定为高级光学工程师大学应该如何准备
-[答案]: 准备转行学计算机。申请的时候记得只选CMU
+<br>**问题**: 目前高二不排除复读，普通高中理科生，要想留学该做什么？目标高校中多数院校开设认知科学相关专业
+**答案**: 主要是要钱。
 
  
 
  
+<br>**问题**: 目标定为高级光学工程师大学应该如何准备
+**答案**: 准备转行学计算机。申请的时候记得只选CMU
 
-[问题]: 直播中，这种字是怎样投射到球场上的？
-[答案]: 这种实用的AR技术比起什么某些startup搞的100层CNN物体识别植入广告要高明多了。
+ 
+
+ 
+<br>**问题**: 直播中，这种字是怎样投射到球场上的？
+**答案**: 这种实用的AR技术比起什么某些startup搞的100层CNN物体识别植入广告要高明多了。
 
 这充分说明了森林内部潜伏着大佬
 
  
 
  
-
-[问题]: 相声演员放弃传统段子或习惯，改行做脱口秀在中国可行吗？
-[答案]: 现在还看相声？
+<br>**问题**: 相声演员放弃传统段子或习惯，改行做脱口秀在中国可行吗？
+**答案**: 现在还看相声？
 
 奇葩说的段子都比相声演员多
 
  
 
  
-
-[问题]: 相对论里的钟慢效应是指时间本身由于速度的增大变慢了，还是指由于观测对象逐渐远离传输信息的时间被拉长了？
-[答案]: 在b看来，a也慢了。
-
- 
+<br>**问题**: 相对论里的钟慢效应是指时间本身由于速度的增大变慢了，还是指由于观测对象逐渐远离传输信息的时间被拉长了？
+**答案**: 在b看来，a也慢了。
 
  
 
-[问题]:相比优酷，你认为 YouTube 具有哪些优点？
+ 
+<br>**问题**:相比优酷，你认为 YouTube 具有哪些优点？
 
-[答案]: 谁能告诉我优酷的超清是什么鬼？
+**答案**: 谁能告诉我优酷的超清是什么鬼？
 
 你国际足联的啊 
 
@@ -37250,9 +35113,8 @@ Bo Zeng
  
 
  
-
-[问题]: 相比较其它地区，浙江考生上浙大有多大优势？
-[答案]: 为什么邀请我？
+<br>**问题**: 相比较其它地区，浙江考生上浙大有多大优势？
+**答案**: 为什么邀请我？
 
 在欠发省份看来，浙大不错。是一所“好学校”，毕竟在发达地区，比本省的985（有的话）区位条件和经济情况要好。至于是否是全国知名名牌大学，主要看省内某排名机构的宣传了。 
 
@@ -37263,16 +35125,14 @@ Bo Zeng
  
 
  
-
-[问题]: 看了《上帝掷骰子吗？》，一直有个极端想法：人是不是创造了世界，或者说主观选择了世界的投影？
-[答案]: 是。所以关心世界的本质并无意义。更多人都直接关心幻象本身。所以金融行业很热门
-
- 
+<br>**问题**: 看了《上帝掷骰子吗？》，一直有个极端想法：人是不是创造了世界，或者说主观选择了世界的投影？
+**答案**: 是。所以关心世界的本质并无意义。更多人都直接关心幻象本身。所以金融行业很热门
 
  
 
-[问题]: 看完王垠的《天才是什么》后，你有何感想？
-[答案]: 不去微软赚大钱，纵作天才也枉然。
+ 
+<br>**问题**: 看完王垠的《天才是什么》后，你有何感想？
+**答案**: 不去微软赚大钱，纵作天才也枉然。
 
 不去微软造轮子，做遍天才也枉然。 
 
@@ -37283,39 +35143,34 @@ Bo Zeng
  
 
  
+<br>**问题**:看知乎 被gay 秀一脸 被les 秀一脸 被 男女的秀一脸 请问单身狗 怎么才能秀他们一脸？
 
-[问题]:看知乎 被gay 秀一脸 被les 秀一脸 被 男女的秀一脸 请问单身狗 怎么才能秀他们一脸？
-
-[答案]: 发裸照啊
-
- 
-
- 
-
-[问题]: 看绿色看久了，突然转移到白墙上会看到红色，为什么？
-[答案]: 柯南，赤壁。视觉互补定理
+**答案**: 发裸照啊
 
  
 
  
-
-[问题]: 看过王垠的《编程的智慧》，大家有怎样的感想与补充？
-[答案]: 出书出书我一定买。比马代旅游，瑞士滑雪的情趣高多了。。。
-
- 
-
- 
-
-[问题]: 真人版《葫芦娃》该怎么拍？
-[答案]: 当然是全部脱光啊
+<br>**问题**: 看绿色看久了，突然转移到白墙上会看到红色，为什么？
+**答案**: 柯南，赤壁。视觉互补定理
 
  
 
  
+<br>**问题**: 看过王垠的《编程的智慧》，大家有怎样的感想与补充？
+**答案**: 出书出书我一定买。比马代旅游，瑞士滑雪的情趣高多了。。。
 
-[问题]: 真空中能听到自己说话的声音么？
+ 
 
-[答案]:真空中能听到自己说话的声音么？我认为答案是 ** 不能 ** ；不是因为声音能否传播，而是因为，在没有气流的情况下， **
+ 
+<br>**问题**: 真人版《葫芦娃》该怎么拍？
+**答案**: 当然是全部脱光啊
+
+ 
+
+ 
+<br>**问题**: 真空中能听到自己说话的声音么？
+
+**答案**:真空中能听到自己说话的声音么？我认为答案是 ** 不能 ** ；不是因为声音能否传播，而是因为，在没有气流的情况下， **
 
 人的被动发声器，声带，根本就无法发声 ** 。 
 
@@ -37328,9 +35183,8 @@ Bo Zeng
  
 
  
-
-[问题]: 知乎live是不是普通人致富的绝佳手段？
-[答案]: 一个月20万，一年200万，超过了绝大多数高级码农的收入了。而实际上，每一个用户只花了10元。这实在是双赢的集资行为。从小我就想过，如果全国人民每个人都给我一块钱，他们每个人都没有损失，而我却可以成为富翁。很多人的这个梦想在live终于实现了：几乎让所有人在没有任何宣传、主办、售后、场地、被打门槛的情况下赚钱。这么看来，知乎live的确就是下一个淘宝，而中国经济也就即将起飞。很多人表示，1块钱根本不算什么；而只要能听到live主讲人说一句话，也就值得了。
+<br>**问题**: 知乎live是不是普通人致富的绝佳手段？
+**答案**: 一个月20万，一年200万，超过了绝大多数高级码农的收入了。而实际上，每一个用户只花了10元。这实在是双赢的集资行为。从小我就想过，如果全国人民每个人都给我一块钱，他们每个人都没有损失，而我却可以成为富翁。很多人的这个梦想在live终于实现了：几乎让所有人在没有任何宣传、主办、售后、场地、被打门槛的情况下赚钱。这么看来，知乎live的确就是下一个淘宝，而中国经济也就即将起飞。很多人表示，1块钱根本不算什么；而只要能听到live主讲人说一句话，也就值得了。
 
  
 
@@ -37343,9 +35197,8 @@ Bo Zeng
  
 
  
-
-[问题]: 知乎上“还是得看第一学历”的观点是否合理？
-[答案]: 门槛比较低的一些行业，不看第一学历：
+<br>**问题**: 知乎上“还是得看第一学历”的观点是否合理？
+**答案**: 门槛比较低的一些行业，不看第一学历：
 
 例如计算机行业的facebook 和 google，他们招的 santa clara university
 
@@ -37366,18 +35219,16 @@ stanford, harvard, caltech。有时候会有princeton。
  
 
  
-
-[问题]: 知乎上对计算机科学技术的吹捧是不是一种狭隘的表现？
-[答案]: 码农的精神状态、交友范围、老婆颜值、发型高度、情趣情操、行业逼格、准入门槛、滑雪潜水等都还亟待提高。
+<br>**问题**: 知乎上对计算机科学技术的吹捧是不是一种狭隘的表现？
+**答案**: 码农的精神状态、交友范围、老婆颜值、发型高度、情趣情操、行业逼格、准入门槛、滑雪潜水等都还亟待提高。
 
 这样一个工作是极度无趣的，一个金字塔下有好多、好多穷苦的代码工人，遥遥无天日。长期在这个行业工作，就算赚了钱，又有什么用？因此很多人被逼去做金融了。
 
  
 
  
-
-[问题]: 知乎上有什么是提问和回答的方式无法解决，非得要用到live的问题吗？
-[答案]: 并没有。。让我特别好奇的是，最有价值的文字答案不收费，无法判断质量、反馈、水平的语音live反而要收费。
+<br>**问题**: 知乎上有什么是提问和回答的方式无法解决，非得要用到live的问题吗？
+**答案**: 并没有。。让我特别好奇的是，最有价值的文字答案不收费，无法判断质量、反馈、水平的语音live反而要收费。
 
 而且live只是语音不是视频。是怕我们看到主讲人的真面目被吓跑了吗？ 
 
@@ -37388,32 +35239,28 @@ stanford, harvard, caltech。有时候会有princeton。
  
 
  
-
-[问题]: 知乎上的程序员大V是怎么度过大学生活的？
-[答案]: 好开心呀！认识了好多程序员大V！
+<br>**问题**: 知乎上的程序员大V是怎么度过大学生活的？
+**答案**: 好开心呀！认识了好多程序员大V！
 
 他们就要走上人参巅峰了=
 
  
 
  
-
-[问题]: 知乎上的金融界从业人士收入大约是多少？
-[答案]: 最近卖方不是很难过么
-
- 
-
- 
-
-[问题]: 知乎上被黑的最惨的是什么？
-[答案]: 山东大学
+<br>**问题**: 知乎上的金融界从业人士收入大约是多少？
+**答案**: 最近卖方不是很难过么
 
  
 
  
+<br>**问题**: 知乎上被黑的最惨的是什么？
+**答案**: 山东大学
 
-[问题]: 知乎上谁有资格当“曾博全球粉丝后援会”的会长？
-[答案]: 严正声明：
+ 
+
+ 
+<br>**问题**: 知乎上谁有资格当“曾博全球粉丝后援会”的会长？
+**答案**: 严正声明：
 
 最近许多人宣称自己掌握了“勃丝全球后援会”的秘籍、秘密、秘钥、秘方、秘诀、秘闻、秘号、秘群、秘图、秘址、秘口、密码，这都是一些一派胡言，给我本人和“勃丝”抹黑，给失败人士和屌丝泼脏水。这些群都不存在（清华北大的同学欢迎联系我）。“勃丝”之精髓博大精深，岂是我等小民可以参悟？希望这些画蛇添足，东施效颦，缘木求鱼的人早日收手，放下执念。只要心中有失败，哪里不是家？ 
 
@@ -37422,31 +35269,27 @@ stanford, harvard, caltech。有时候会有princeton。
  
 
  
-
-[问题]: 知乎上那些优秀的人在生活中也一样夺目吗，还是显得暗淡许多呢？
-[答案]: 我的目标是轮子哥。你说我优秀？
-
- 
-
- 
-
-[问题]: 知乎上除了码农这种工作，还有别的工作吗？
-[答案]: 不要理我Z我很烦
+<br>**问题**: 知乎上那些优秀的人在生活中也一样夺目吗，还是显得暗淡许多呢？
+**答案**: 我的目标是轮子哥。你说我优秀？
 
  
 
  
+<br>**问题**: 知乎上除了码农这种工作，还有别的工作吗？
+**答案**: 不要理我Z我很烦
 
-[问题]: 知乎会添加「我的匿名回答」这一功能吗？否则大家如何找回自己的匿名回答呢？
-[答案]: 果然所有匿名回答的都是gs哥哥回答的！哼
+ 
+
+ 
+<br>**问题**: 知乎会添加「我的匿名回答」这一功能吗？否则大家如何找回自己的匿名回答呢？
+**答案**: 果然所有匿名回答的都是gs哥哥回答的！哼
 
  
 
  
+<br>**问题**:知乎响应这么慢是因为使用了 Python 语言吗？
 
-[问题]:知乎响应这么慢是因为使用了 Python 语言吗？
-
-[答案]:并不是。其实知乎已经做的很好了。。首页改版了，而且估计用了growth hack。知乎的前端门槛很高的，Cat Chen去面估计也进不去 
+**答案**:并不是。其实知乎已经做的很好了。。首页改版了，而且估计用了growth hack。知乎的前端门槛很高的，Cat Chen去面估计也进不去 
 
  
 
@@ -37457,17 +35300,15 @@ stanford, harvard, caltech。有时候会有princeton。
  
 
  
-
-[问题]: 知乎圈有什么内幕？
-[答案]: 难道不是各个大V为了开live抱团建的知乎新星群，知乎万粉大V群嘛。。
-
- 
+<br>**问题**: 知乎圈有什么内幕？
+**答案**: 难道不是各个大V为了开live抱团建的知乎新星群，知乎万粉大V群嘛。。
 
  
 
-[问题]:知乎时间线中插入内容了，是否意味着要开始做类似 Facebook Newsfeed 广告？前景如何？
+ 
+<br>**问题**:知乎时间线中插入内容了，是否意味着要开始做类似 Facebook Newsfeed 广告？前景如何？
 
-[答案]: 有可能的。卧槽原来搞来搞去，facebook最大的竞争对手竟然是知乎＝
+**答案**: 有可能的。卧槽原来搞来搞去，facebook最大的竞争对手竟然是知乎＝
 
 这饼可算是画大了。。 
 
@@ -37484,24 +35325,21 @@ tt
  
 
  
-
-[问题]: 知乎是不是在一定情况下满足了人的窥探欲？
-[答案]: 社交网络满足的就是窥探欲；不过你其实更加满足了政府和网站对您的窥探欲（您的兴趣爱好，政治观点，浏览记录，搜索记录）
-
- 
-
- 
-
-[问题]: 知乎是否会成为像微博微信那样有影响力的社交媒体
-[答案]: 我是昕神儿子
+<br>**问题**: 知乎是不是在一定情况下满足了人的窥探欲？
+**答案**: 社交网络满足的就是窥探欲；不过你其实更加满足了政府和网站对您的窥探欲（您的兴趣爱好，政治观点，浏览记录，搜索记录）
 
  
 
  
+<br>**问题**: 知乎是否会成为像微博微信那样有影响力的社交媒体
+**答案**: 我是昕神儿子
 
-[问题]:知乎是怎么做到关键词 100% 匹配仍搜索不到内容的？
+ 
 
-[答案]: 他们真的不懂吧。。。。。。。。。。。。。
+ 
+<br>**问题**:知乎是怎么做到关键词 100% 匹配仍搜索不到内容的？
+
+**答案**: 他们真的不懂吧。。。。。。。。。。。。。
 
 这年头好程序员都是前端；好前端都在阿里巴巴。 
 
@@ -37512,17 +35350,15 @@ tt
  
 
  
-
-[问题]: 知乎是怎样从一个专业问题平台一步一步变成具有社会舆论引导性的平台的？
-[答案]: 轮子哥说的对。看来是长大了成熟了要升职了
-
- 
+<br>**问题**: 知乎是怎样从一个专业问题平台一步一步变成具有社会舆论引导性的平台的？
+**答案**: 轮子哥说的对。看来是长大了成熟了要升职了
 
  
 
-[问题]:知乎用户 vczh（陈梓瀚）的编程水平相当于 BAT 中的什么级别？
+ 
+<br>**问题**:知乎用户 vczh（陈梓瀚）的编程水平相当于 BAT 中的什么级别？
 
-[答案]:轮子哥的大哥叛逆者相当于BAT里面的staff(T9), 轮子哥说自己还有两年就可以拿到绿卡外加年薪千万了，那么他现在应该是T9。 
+**答案**:轮子哥的大哥叛逆者相当于BAT里面的staff(T9), 轮子哥说自己还有两年就可以拿到绿卡外加年薪千万了，那么他现在应该是T9。 
 
 我期待轮子哥拿到绿卡后开的万元live。。 
 
@@ -37533,10 +35369,9 @@ tt
  
 
  
+<br>**问题**: 知乎目前的答案排序算法设计，有哪些利弊？
 
-[问题]: 知乎目前的答案排序算法设计，有哪些利弊？
-
-[答案]:他们可以去Facebook Feed ranking 组招几个机器学习，框架代码，数据库的大牛。做一些AB testing
+**答案**:他们可以去Facebook Feed ranking 组招几个机器学习，框架代码，数据库的大牛。做一些AB testing
 
 去看看，如何排序可以增加用户的停留时间。 
 
@@ -37555,9 +35390,8 @@ tt
  
 
  
-
-[问题]: 知乎真的比别的网站要高级吗？
-[答案]: 是真的。高级到都得建个微信群聊更深入的话题了，不愧是腾讯注资：
+<br>**问题**: 知乎真的比别的网站要高级吗？
+**答案**: 是真的。高级到都得建个微信群聊更深入的话题了，不愧是腾讯注资：
 
 如何算命 
 
@@ -37570,32 +35404,28 @@ tt
  
 
  
-
-[问题]: 知乎程序员中现在最有钱的是云舒，轮子哥还是赵老板？
-[答案]: 轮子哥哥你是大坏蛋！
+<br>**问题**: 知乎程序员中现在最有钱的是云舒，轮子哥还是赵老板？
+**答案**: 轮子哥哥你是大坏蛋！
 
 我要去微软好不好?
 
  
 
  
-
-[问题]: 知乎管理员在乱删帖的时候是否会受到良心的谴责？
-[答案]: 不会。他们会很开心：这个月KPI又实现啦
-
- 
-
- 
-
-[问题]: 知乎花式提问起源于曾老师吗？
-[答案]: 爱我就多去回答我提的问题。
+<br>**问题**: 知乎管理员在乱删帖的时候是否会受到良心的谴责？
+**答案**: 不会。他们会很开心：这个月KPI又实现啦
 
  
 
  
+<br>**问题**: 知乎花式提问起源于曾老师吗？
+**答案**: 爱我就多去回答我提的问题。
 
-[问题]: 知乎，变现和live：几条中肯建议
-[答案]: 上一篇文章中我们提到，只要每个人给我一块钱，我就可以成为亿万富翁（另外提示一下，管理层可以关心一下live的税务问题）。很多live的创作者就是这么想，这么做的。现在关于那几个热门live的讨论日嚣尘上，可见尽管内容低俗，手段庸俗，情怀见底，口碑极差，但为了钱，人没有什么做不出来。
+ 
+
+ 
+<br>**问题**: 知乎，变现和live：几条中肯建议
+**答案**: 上一篇文章中我们提到，只要每个人给我一块钱，我就可以成为亿万富翁（另外提示一下，管理层可以关心一下live的税务问题）。很多live的创作者就是这么想，这么做的。现在关于那几个热门live的讨论日嚣尘上，可见尽管内容低俗，手段庸俗，情怀见底，口碑极差，但为了钱，人没有什么做不出来。
 
  
 
@@ -37644,9 +35474,8 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
  
 
  
-
-[问题]: 知识应不应该免费提供给需要的人？
-[答案]: 不应该。
+<br>**问题**: 知识应不应该免费提供给需要的人？
+**答案**: 不应该。
 
 “知识是人类成功的阶梯”。 
 
@@ -37695,10 +35524,9 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
  
 
  
+<br>**问题**: 矩阵的秩与行列式的几何意义
 
-[问题]: 矩阵的秩与行列式的几何意义
-
-[答案]:
+**答案**:
 
  
 
@@ -37720,7 +35548,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
 面积是一个标量，它来自于（构成其相邻边）两个矢量。因此，我们可以将面积看成一个映射：
 
-![](https://pic3.zhimg.com/dca811aca1028b5300e3d12d14d39a52_b.jpg)
+!****(https://pic3.zhimg.com/dca811aca1028b5300e3d12d14d39a52_b.jpg)
 
  
 
@@ -37738,7 +35566,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic1.zhimg.com/3843203fb2954ba5d10a4942279f9acc_b.jpg)
+!****(https://pic1.zhimg.com/3843203fb2954ba5d10a4942279f9acc_b.jpg)
 
  
 
@@ -37746,7 +35574,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic1.zhimg.com/d1cccf1b8de8d874f79f797d620c30e4_b.jpg)
+!****(https://pic1.zhimg.com/d1cccf1b8de8d874f79f797d620c30e4_b.jpg)
 
  
 
@@ -37758,7 +35586,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic2.zhimg.com/4e1c781a46ba53aea46571aec6d039cd_b.jpg)
+!****(https://pic2.zhimg.com/4e1c781a46ba53aea46571aec6d039cd_b.jpg)
 
  
 
@@ -37770,15 +35598,15 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic1.zhimg.com/bf4968c33b53a27479337263cf3e0a08_b.jpg)
+!****(https://pic1.zhimg.com/bf4968c33b53a27479337263cf3e0a08_b.jpg)
 
-![](https://pic2.zhimg.com/6d0ee1d58c420e87f6dbfdb07c5b2469_b.jpg) 
+!****(https://pic2.zhimg.com/6d0ee1d58c420e87f6dbfdb07c5b2469_b.jpg) 
 
  
 
 假定面积映射是一个关于矢量加法的线性映射，那么我们有： 
 
-![](https://pic3.zhimg.com/7e536594f06e72507950e8d4e12b82ea_b.jpg)
+!****(https://pic3.zhimg.com/7e536594f06e72507950e8d4e12b82ea_b.jpg)
 
  
 
@@ -37786,7 +35614,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic1.zhimg.com/2390e9721428b5e04bb19207d234ecdc_b.jpg)
+!****(https://pic1.zhimg.com/2390e9721428b5e04bb19207d234ecdc_b.jpg)
 
  
 
@@ -37814,7 +35642,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic1.zhimg.com/409040f0ff1984c1531b0dcfc6382120_b.jpg)
+!****(https://pic1.zhimg.com/409040f0ff1984c1531b0dcfc6382120_b.jpg)
 
  
 
@@ -37822,13 +35650,13 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic2.zhimg.com/2bf1ebeceb934ae0ba462523c63e2a81_b.jpg) 
+!****(https://pic2.zhimg.com/2bf1ebeceb934ae0ba462523c63e2a81_b.jpg) 
 
 如下图。
 
  
 
-![](https://pic1.zhimg.com/c1001c5466fcb8b31fc1f9fc69a01d68_b.jpg)
+!****(https://pic1.zhimg.com/c1001c5466fcb8b31fc1f9fc69a01d68_b.jpg)
 
  
 
@@ -37862,7 +35690,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic1.zhimg.com/a395355325ab6f0849c72f4b4522bcbc_b.jpg)
+!****(https://pic1.zhimg.com/a395355325ab6f0849c72f4b4522bcbc_b.jpg)
 
  
 
@@ -37958,7 +35786,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
 如果我们把空间中一组线性无关的矢量都写成列向量的形式，那么他们所张成的N维体体积不为零，根据上面的分析，其值由行列式给出。向量经过线性变换A变换之后，得到的新向量形式如下： 
 
-![](https://pic2.zhimg.com/0f6dba59944b5b21cc7c8a1babba2019_b.jpg)
+!****(https://pic2.zhimg.com/0f6dba59944b5b21cc7c8a1babba2019_b.jpg)
 
  
 
@@ -37970,7 +35798,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic4.zhimg.com/2b5ba06180d34c5bcaa5545f6c1975ab_b.jpg)
+!****(https://pic4.zhimg.com/2b5ba06180d34c5bcaa5545f6c1975ab_b.jpg)
 
  
 
@@ -37980,7 +35808,7 @@ live主讲人赚了一波就走，而知乎上仍然笃信知识自由和分享�
 
  
 
-![](https://pic3.zhimg.com/59af69c8b7bcbedecc558838c6ecaec2_b.jpg)
+!****(https://pic3.zhimg.com/59af69c8b7bcbedecc558838c6ecaec2_b.jpg)
 
  
 
@@ -38067,9 +35895,8 @@ _ ** 所以说，三体中的终极必杀，其实也就是一个行列式为0�
  
 
  
-
-[问题]: 码农界的阶级层次究竟是怎样划分的？
-[答案]: 级别是这样的：
+<br>**问题**: 码农界的阶级层次究竟是怎样划分的？
+**答案**: 级别是这样的：
 
 2016 NIPS 文章作者>2016 NIPS
 
@@ -38078,16 +35905,14 @@ _ ** 所以说，三体中的终极必杀，其实也就是一个行列式为0�
  
 
  
-
-[问题]: 研究生学光电方向的前景如何？
-[答案]: 光电总的来说偏物理。否则你就是做光通信，led等等了。。
-
- 
+<br>**问题**: 研究生学光电方向的前景如何？
+**答案**: 光电总的来说偏物理。否则你就是做光通信，led等等了。。
 
  
 
-[问题]: 研究生毕业，什么都不会，怎么办？
-[答案]: 退学，复读，去清华
+ 
+<br>**问题**: 研究生毕业，什么都不会，怎么办？
+**答案**: 退学，复读，去清华
 
 反正现在35岁才结婚 
 
@@ -38110,9 +35935,8 @@ _ ** 所以说，三体中的终极必杀，其实也就是一个行列式为0�
  
 
  
-
-[问题]: 硅谷的软件工程师收入情况如何？
-[答案]: 如果这边流行男生和男生结婚的话，那么他们一起买房子的压力就会小一点了。
+<br>**问题**: 硅谷的软件工程师收入情况如何？
+**答案**: 如果这边流行男生和男生结婚的话，那么他们一起买房子的压力就会小一点了。
 
 除此之外，平时可以各自去高校泡妹子，生孩子。 
 
@@ -38127,9 +35951,8 @@ _ ** 所以说，三体中的终极必杀，其实也就是一个行列式为0�
  
 
  
-
-[问题]: 磁场影响电子产品工作的机理是什么？
-[答案]: 磁场和电场是共同体，基本不存在传播的恒稳磁场（静）。因此太阳风暴什么的应该是电磁波，而且磁场的强度往往比电场要小10^8倍数量级；电磁波对电子器件的影响自然是很大的，他们能改变信号线路里面电子／电流的运动，增加噪音，恶化信噪比，产生逻辑门跳变等，基本摧毁数字电路和逻辑功能。较剧烈的电磁波可以破坏（烧毁？）高压输电网络的关键器件，例如变压器，开关等的逻辑控制电路等等。
+<br>**问题**: 磁场影响电子产品工作的机理是什么？
+**答案**: 磁场和电场是共同体，基本不存在传播的恒稳磁场（静）。因此太阳风暴什么的应该是电磁波，而且磁场的强度往往比电场要小10^8倍数量级；电磁波对电子器件的影响自然是很大的，他们能改变信号线路里面电子／电流的运动，增加噪音，恶化信噪比，产生逻辑门跳变等，基本摧毁数字电路和逻辑功能。较剧烈的电磁波可以破坏（烧毁？）高压输电网络的关键器件，例如变压器，开关等的逻辑控制电路等等。
 
 恒稳磁场的影响一般地说，只是让电子的运动变成和磁场垂直平面内的圆周运动。如果完成一个完整的圆周运动之前就碰到了导体边缘，那就会有所谓的霍尔效应。这些效应都是很微小的。 
 
@@ -38138,10 +35961,9 @@ _ ** 所以说，三体中的终极必杀，其实也就是一个行列式为0�
  
 
  
+<br>**问题**:磁量子数（magnetic quantum number）是如何确定轨道平面是 Pxy、Pxz、Pyz 的
 
-[问题]:磁量子数（magnetic quantum number）是如何确定轨道平面是 Pxy、Pxz、Pyz 的
-
-[答案]: @陳浩
+**答案**: @陳浩
 
 ，这里的磁量子数ml并不是自旋，而是轨道量子数l在z轴上的投影。描述一个非相对论性，无自旋转理想氢原子电子轨道的量子数是|n,l,ml>，分别代表能级、旋转算子（casimir
 
@@ -38160,26 +35982,23 @@ subspace理论，原来哈密顿量的本征态必然也可以被这些量子数
  
 
  
+<br>**问题**: 磁铁会不会吸引液态金属？
 
-[问题]: 磁铁会不会吸引液态金属？
-
-[答案]:1楼说的，液态金属没有稳定的晶格结构，处于自由流动状态，spin-spin interaction
+**答案**:1楼说的，液态金属没有稳定的晶格结构，处于自由流动状态，spin-spin interaction
 
 太小，基本不能称作是铁磁性。无法形成稳定的磁矩和外界磁场相互作用。如有错误还请指正。
 
  
 
  
-
-[问题]: 磁铁断裂后，断裂处的磁极是相同的还是相反的？为什么？
-[答案]: 不是。断裂处的磁极是相反的。
-
- 
+<br>**问题**: 磁铁断裂后，断裂处的磁极是相同的还是相反的？为什么？
+**答案**: 不是。断裂处的磁极是相反的。
 
  
 
-[问题]: 社会主义比资本主义领先的地方有哪些？
-[答案]: 社会主义是落后的。
+ 
+<br>**问题**: 社会主义比资本主义领先的地方有哪些？
+**答案**: 社会主义是落后的。
 
 资本主义可以通过资本运作，产品设计，信用贷款等创造出一个比实体经济大20-2000倍的虚拟经济市场，或者叫资本市场。 
 
@@ -38194,24 +36013,22 @@ subspace理论，原来哈密顿量的本征态必然也可以被这些量子数
  
 
  
-
-[问题]: 科学会有终点吗？
-[答案]: 当然有。string
+<br>**问题**: 科学会有终点吗？
+**答案**: 当然有。string
 
 theory告诉你是怎么用笔画一条线。现在虽然所有人都会画一条线，但还是会有人追求绘画这门艺术。人的价值体现在创造性，创造需求和创造事物去满足需求。如果只知道推导定理而不知道怎么用，这样的人类没什么前途
 
  
 
  
-
-[问题]: 秤上有个空瓶，瓶里有一只保持飞行状态的蜜蜂，瓶口封闭。秤的读数会改变吗？
-[答案]: 不会变。如果会变的话（当然前提是空瓶是否封闭——而问题并未指明）我们放入一个空瓶所测量到的质量恐怕就要加上世界上所有正在飞行中的鸟的质量了。
+<br>**问题**: 秤上有个空瓶，瓶里有一只保持飞行状态的蜜蜂，瓶口封闭。秤的读数会改变吗？
+**答案**: 不会变。如果会变的话（当然前提是空瓶是否封闭——而问题并未指明）我们放入一个空瓶所测量到的质量恐怕就要加上世界上所有正在飞行中的鸟的质量了。
 
 鸟类飞行的确会给大气种的分子（假设是n2和o2）传递动量。然而无数的分子相互作用之后，将把这一部分动量均匀的传递给几乎所有分子（考虑重力的情况下，maxwellian条件里，气体分布不均匀，那么可以认为绝大多数的动量都传递给地面上的分子）。这些动量如果需要被平衡，就会产生一个相应的增压强。问题是地球整体的表面都会分摊这一部分增压强
 
-![\\sim ](https://www.zhihu.com/equation?tex=%5Csim+) 
+!**\\sim **(https://www.zhihu.com/equation?tex=%5Csim+) 
 
-动量。动量是有限的 ![\\sim ](https://www.zhihu.com/equation?tex=%5Csim+) 
+动量。动量是有限的 !**\\sim **(https://www.zhihu.com/equation?tex=%5Csim+) 
 
 鸟的质量＊上升速度。这样一来分配到你这个秤的那部分增压强可以忽略。秤的读数不变。 
 
@@ -38220,34 +36037,30 @@ theory告诉你是怎么用笔画一条线。现在虽然所有人都会画一�
  
 
  
+<br>**问题**: 积分符号内取微分是一种什么方法？
+**答案**: 我赞同楼上的答案：
 
-[问题]: 积分符号内取微分是一种什么方法？
-[答案]: 我赞同楼上的答案：
-
-![](https://pic1.zhimg.com/791c2e1704df3a5d95a1a8dfcfe34c64_b.jpg)
-
- 
-
- 
-
-[问题]:程序员一名，给一个理由说服我买 MacBook？
-
-[答案]: 不然你的高工资往哪花？
+!****(https://pic1.zhimg.com/791c2e1704df3a5d95a1a8dfcfe34c64_b.jpg)
 
  
 
  
+<br>**问题**:程序员一名，给一个理由说服我买 MacBook？
 
-[问题]: 程序员不需要知道太多数学，你认同吗？
-[答案]: 我认同。数学成绩好的不可能来做程序员，而是管理员
+**答案**: 不然你的高工资往哪花？
+
+ 
+
+ 
+<br>**问题**: 程序员不需要知道太多数学，你认同吗？
+**答案**: 我认同。数学成绩好的不可能来做程序员，而是管理员
 
  
 
  
+<br>**问题**:程序员为什么要用 Linux 环境编程，用 Windows 不可以吗？
 
-[问题]:程序员为什么要用 Linux 环境编程，用 Windows 不可以吗？
-
-[答案]: 这只能说明windows的市场配置错误。
+**答案**: 这只能说明windows的市场配置错误。
 
 他应该就出2个版本：windows user edition和 windows developer edition。 
 
@@ -38258,24 +36071,21 @@ developer edition摒弃兼容性完美使用bash和开源工具，凭借微软�
  
 
  
-
-[问题]: 程序员加班没有加班工资你还会加吗？
-[答案]: 会的。只要能让你提高水平早日跳槽，爬上阶梯，去一个给加班费的公司（做你的青天白日梦）
-
- 
-
- 
-
-[问题]:程序员和设计师等专业人员是否更青睐 OS X Mac 电脑？
-
-[答案]:不搞IOS和android 开发企业都不要赚钱了。office 都出iOS版了轮子哥还不快转行==
+<br>**问题**: 程序员加班没有加班工资你还会加吗？
+**答案**: 会的。只要能让你提高水平早日跳槽，爬上阶梯，去一个给加班费的公司（做你的青天白日梦）
 
  
 
  
+<br>**问题**:程序员和设计师等专业人员是否更青睐 OS X Mac 电脑？
 
-[问题]: 程序员如何避免面试被坑？
-[答案]: 温兆伦都来回答了。。
+**答案**:不搞IOS和android 开发企业都不要赚钱了。office 都出iOS版了轮子哥还不快转行==
+
+ 
+
+ 
+<br>**问题**: 程序员如何避免面试被坑？
+**答案**: 温兆伦都来回答了。。
 
 我知道的经验是，面对面试，一定要 
 
@@ -38290,24 +36100,21 @@ developer edition摒弃兼容性完美使用bash和开源工具，凭借微软�
  
 
  
-
-[问题]: 程序员并不是每天都很忙～？
-[答案]: 不同层次，不同学历，不同收入，不同公司，不同地方的程序员，忙的程度是不一样的。
-
- 
-
- 
-
-[问题]: 程序员的你是怎样的机器配置8G可否够用？
-
-[答案]:每年都买最新款的macbook pro就可以了。
+<br>**问题**: 程序员并不是每天都很忙～？
+**答案**: 不同层次，不同学历，不同收入，不同公司，不同地方的程序员，忙的程度是不一样的。
 
  
 
  
+<br>**问题**: 程序员的你是怎样的机器配置8G可否够用？
 
-[问题]: 程序员的情趣在何处？
-[答案]: 在本期活动中，我们看到
+**答案**:每年都买最新款的macbook pro就可以了。
+
+ 
+
+ 
+<br>**问题**: 程序员的情趣在何处？
+**答案**: 在本期活动中，我们看到
 
  
 
@@ -38350,25 +36157,22 @@ developer edition摒弃兼容性完美使用bash和开源工具，凭借微软�
  
 
  
-
-[问题]: 空间有重量吗
-[答案]: 在现有的理论中，时空只是坐标，并不是任何具体的物理对象。因此它不会受力而运动，因此不会有“质量”。
-
- 
+<br>**问题**: 空间有重量吗
+**答案**: 在现有的理论中，时空只是坐标，并不是任何具体的物理对象。因此它不会受力而运动，因此不会有“质量”。
 
  
 
-[问题]: 立党换成和曾博一样的情侣头像是有什么寓意吗？
-[答案]: 你们确实很无聊。我要取关你了，立党。
+ 
+<br>**问题**: 立党换成和曾博一样的情侣头像是有什么寓意吗？
+**答案**: 你们确实很无聊。我要取关你了，立党。
 
 我是勃勃小号
 
  
 
  
-
-[问题]: 笔算开方法之原理？
-[答案]: 巴比伦求平方根的方法：
+<br>**问题**: 笔算开方法之原理？
+**答案**: 巴比伦求平方根的方法：
 
 Methods of computing square roots _ _ 
 
@@ -38395,17 +36199,15 @@ y=n/x
  
 
  
-
-[问题]: 笔试前5，面试前5，总成绩一定前5吗？求数学大神讲解
-[答案]: 笔试有4个人超过你；面试有4个人超过你。最糟糕的情况是，总分有8个人超过你。
-
- 
+<br>**问题**: 笔试前5，面试前5，总成绩一定前5吗？求数学大神讲解
+**答案**: 笔试有4个人超过你；面试有4个人超过你。最糟糕的情况是，总分有8个人超过你。
 
  
 
-[问题]: 第一个月的学习计划
+ 
+<br>**问题**: 第一个月的学习计划
 
-[答案]:
+**答案**:
 
  
 
@@ -38616,9 +36418,8 @@ y=n/x
  
 
  
-
-[问题]: 第一次使用微信小程序是个什么样的体验？
-[答案]: 请问你第一次打开网页是什么体验？
+<br>**问题**: 第一次使用微信小程序是个什么样的体验？
+**答案**: 请问你第一次打开网页是什么体验？
 
  
 
@@ -38695,9 +36496,8 @@ App估计正哭晕在厕所。事实上，当年App Store
  
 
  
-
-[问题]: 等离子隐身是什么样的原理？
-[答案]: 等离子的翻译是错误的。等离子的意思应该是说plasmon（固体物理中的电子），或者plasma（气体中的电子）。后者叫做等离子体，前者，我建议还是翻译成“普拉芝麻”吧。因为飞机表面显然是固体，那么飞机隐身就是靠普拉芝麻。
+<br>**问题**: 等离子隐身是什么样的原理？
+**答案**: 等离子的翻译是错误的。等离子的意思应该是说plasmon（固体物理中的电子），或者plasma（气体中的电子）。后者叫做等离子体，前者，我建议还是翻译成“普拉芝麻”吧。因为飞机表面显然是固体，那么飞机隐身就是靠普拉芝麻。
 
 普拉芝麻的原理主要是改变电磁波的反射特性。做成亚波长尺度的普拉芝麻从整体来看，可以改变材料对某个波长的电磁性质，变成没有反射，或者没有投射，或者任意改变反射相位，或者任意改变反射角度等等
 
@@ -38718,17 +36518,15 @@ ps：为什么我要翻译成普拉芝麻？因为汉语最大的问题是联系
  
 
  
-
-[问题]: 算法导论的学习路线是怎样的？
-[答案]: 学习，做题，和轮子哥玩玩，学习，做题，和轮子哥玩
-
- 
+<br>**问题**: 算法导论的学习路线是怎样的？
+**答案**: 学习，做题，和轮子哥玩玩，学习，做题，和轮子哥玩
 
  
 
-[问题]:精通 C++ 是一种怎样的体验？
+ 
+<br>**问题**:精通 C++ 是一种怎样的体验？
 
-[答案]: 看完排名第二的答案我太开心了。
+**答案**: 看完排名第二的答案我太开心了。
 
 我就知道中国怎么会没有比轮子和某些人更厉害的程序员。原来果然是大隐隐于市。。 
 
@@ -38751,38 +36549,33 @@ ps：为什么我要翻译成普拉芝麻？因为汉语最大的问题是联系
  
 
  
-
-[问题]: 红外线和热量的物理关系与逻辑关系是什么？
-[答案]: 热传导有三种方式：
-
- 
-
- 
-
-[问题]: 红黄蓝颜料按相同比例混合就能得到黑色？
-[答案]: 不需要按比例。足够浓的任何颜料都是黑色
+<br>**问题**: 红外线和热量的物理关系与逻辑关系是什么？
+**答案**: 热传导有三种方式：
 
  
 
  
-
-[问题]:纯数学 PhD 转去工业界混饭碗是一种怎样的体验？
-
-[答案]: 数学系就是要给人类创造价值啊。这正是数学系学生的正确出路
+<br>**问题**: 红黄蓝颜料按相同比例混合就能得到黑色？
+**答案**: 不需要按比例。足够浓的任何颜料都是黑色
 
  
 
  
+<br>**问题**:纯数学 PhD 转去工业界混饭碗是一种怎样的体验？
 
-[问题]: 线性代数有什么用？学习线性代数的意义在哪？
-[答案]: 学会说话也没用啊，计算机都是靠打字～
+**答案**: 数学系就是要给人类创造价值啊。这正是数学系学生的正确出路
+
+ 
+
+ 
+<br>**问题**: 线性代数有什么用？学习线性代数的意义在哪？
+**答案**: 学会说话也没用啊，计算机都是靠打字～
 
  
 
  
-
-[问题]: 继承轮子哥精神的《轮功导论》，会是什么样子的？
-[答案]: 点赞
+<br>**问题**: 继承轮子哥精神的《轮功导论》，会是什么样子的？
+**答案**: 点赞
 
 赚钱 
 
@@ -38801,24 +36594,21 @@ ps：为什么我要翻译成普拉芝麻？因为汉语最大的问题是联系
  
 
  
+<br>**问题**: 综合来说，几大主流C++编译器(icc,gcc,clang,vc++等)究竟孰优孰劣
 
-[问题]: 综合来说，几大主流C++编译器(icc,gcc,clang,vc++等)究竟孰优孰劣
-
-[答案]:为什么计算机领域的概念如此混乱？ - 程序员
-
- 
-
- 
-
-[问题]: 网传台灯镇流器辐射很高，是真的吗？
-[答案]: 对啊。越亮辐射越大
+**答案**:为什么计算机领域的概念如此混乱？ - 程序员
 
  
 
  
+<br>**问题**: 网传台灯镇流器辐射很高，是真的吗？
+**答案**: 对啊。越亮辐射越大
 
-[问题]: 网红的盈利能力主要由什么决定？
-[答案]: 自认为自己足够牛逼。
+ 
+
+ 
+<br>**问题**: 网红的盈利能力主要由什么决定？
+**答案**: 自认为自己足够牛逼。
 
 不管自己干过什么，从不高山仰止，而是来知乎望水自嗨。 
 
@@ -38829,48 +36619,42 @@ ps：为什么我要翻译成普拉芝麻？因为汉语最大的问题是联系
  
 
  
-
-[问题]: 网络台球的动量算法规则是怎么写的？
-[答案]: 动量守恒不会告诉你动量是如何分配的。能量守恒会告诉你最后动量如何分配。
-
- 
-
- 
-
-[问题]: 网页的720度全景图和手机端的720度全景图分别都是怎么做到的？
-[答案]: 多个图片贴图+计算机视觉的一些线性代数算法
+<br>**问题**: 网络台球的动量算法规则是怎么写的？
+**答案**: 动量守恒不会告诉你动量是如何分配的。能量守恒会告诉你最后动量如何分配。
 
  
 
  
+<br>**问题**: 网页的720度全景图和手机端的720度全景图分别都是怎么做到的？
+**答案**: 多个图片贴图+计算机视觉的一些线性代数算法
 
-[问题]: 罗文益将在7~8个月的时间内造一门编程语言，不知道能否打败垠语言？
-[答案]: 立党，我们两听左蛐蛐一句劝吧：好好搬砖，不要总是怼比你层次低很多的人。总是怼他们，你赢得荣誉他们漏洞百出，对你提升有好处吗？
+ 
+
+ 
+<br>**问题**: 罗文益将在7~8个月的时间内造一门编程语言，不知道能否打败垠语言？
+**答案**: 立党，我们两听左蛐蛐一句劝吧：好好搬砖，不要总是怼比你层次低很多的人。总是怼他们，你赢得荣誉他们漏洞百出，对你提升有好处吗？
 
 我们这样的失败人士，就应该抱团取暖互相帮助一起ZS。不要把时间浪费在这些无聊的人身上。
 
  
 
  
-
-[问题]: 罗辑思维近两期节目提到中国才是英式自由贸易的继承者，对此如何论证及评价？
-[答案]: 继承别人过时的东西有好处？
-
- 
-
- 
-
-[问题]:美国 H-1B 签证的抽签是如何操作的？
-
-[答案]: 我很好奇这个计算机随机程序是哪个程序员写的＝＝＝
+<br>**问题**: 罗辑思维近两期节目提到中国才是英式自由贸易的继承者，对此如何论证及评价？
+**答案**: 继承别人过时的东西有好处？
 
  
 
  
+<br>**问题**:美国 H-1B 签证的抽签是如何操作的？
 
-[问题]:美国 PhD 毕业，应该选择科技公司 Data scientist 还是高频交易 Quant 职位？
+**答案**: 我很好奇这个计算机随机程序是哪个程序员写的＝＝＝
 
-[答案]:根据知乎上最火的是fb前员工和data scientist，我认为选择IT更有前途。毕竟国内嗷嗷待哺的人比股市散户多啊= 
+ 
+
+ 
+<br>**问题**:美国 PhD 毕业，应该选择科技公司 Data scientist 还是高频交易 Quant 职位？
+
+**答案**:根据知乎上最火的是fb前员工和data scientist，我认为选择IT更有前途。毕竟国内嗷嗷待哺的人比股市散户多啊= 
 
  
 
@@ -38879,43 +36663,38 @@ ps：为什么我要翻译成普拉芝麻？因为汉语最大的问题是联系
  
 
  
-
-[问题]: 美国STEM专业毕业时附赠绿卡是否属实？
-[答案]: 你生活在另一个世界的美国。
-
- 
+<br>**问题**: 美国STEM专业毕业时附赠绿卡是否属实？
+**答案**: 你生活在另一个世界的美国。
 
  
 
-[问题]: 美国top20的CS和物理PhD转quant哪个更有优势？
-[答案]: 就华人而言，其实主要是看你有没有IMO/IPhO奖牌以及是不是MIT毕业并且是不是清华/北大学生。
+ 
+<br>**问题**: 美国top20的CS和物理PhD转quant哪个更有优势？
+**答案**: 就华人而言，其实主要是看你有没有IMO/IPhO奖牌以及是不是MIT毕业并且是不是清华/北大学生。
 
 其他的当然也有，很少，基本都是去垫底的；要么就是特别努力视这一行为己出。（一些很大的fund 毕竟鱼龙混杂；和Google, Facebook 一样一样的）
 
  
 
  
-
-[问题]: 美国人眼中加州几个学校的区别？
-[答案]: 斯坦福
+<br>**问题**: 美国人眼中加州几个学校的区别？
+**答案**: 斯坦福
 
 但其实其他任何一个学校出来的都可以开live了。收入比你做码农要高得多
 
  
 
  
+<br>**问题**: 美国众多基础学科的博士后最终去向是什么？
 
-[问题]: 美国众多基础学科的博士后最终去向是什么？
-
-[答案]:据说很简单的就去了微软，google 等高能实验室。
-
- 
+**答案**:据说很简单的就去了微软，google 等高能实验室。
 
  
 
-[问题]:美国允许专车司机成立工会，将如何影响 Uber 的利润和估值？
+ 
+<br>**问题**:美国允许专车司机成立工会，将如何影响 Uber 的利润和估值？
 
-[答案]:Uber 具有互联网公司的创新精神，如果脑洞足够大的话，未来在交通领域能推出什么还不一定呢。 
+**答案**:Uber 具有互联网公司的创新精神，如果脑洞足够大的话，未来在交通领域能推出什么还不一定呢。 
 
 因此如果是看10年后的成长的话，估值问题不大。主要是现在打车价格和传统taxi 差别并不大。一旦这个市场成熟，新玩家加入打价格战甚至local player
 
@@ -38928,16 +36707,14 @@ ps：为什么我要翻译成普拉芝麻？因为汉语最大的问题是联系
  
 
  
-
-[问题]: 美国哪所大学的物理系以理论物理的研究最负盛名？
-[答案]: 加州理工
-
- 
+<br>**问题**: 美国哪所大学的物理系以理论物理的研究最负盛名？
+**答案**: 加州理工
 
  
 
-[问题]: 美国大三交换生能否能在该交换学期结束后的暑假在美国申请暑期实习？
-[答案]: 连我都不可以。你想太多了。
+ 
+<br>**问题**: 美国大三交换生能否能在该交换学期结束后的暑假在美国申请暑期实习？
+**答案**: 连我都不可以。你想太多了。
 
 Ps : intern requires a full semester of study back to school after it. 
 
@@ -38946,9 +36723,8 @@ Ps : intern requires a full semester of study back to school after it.
  
 
  
-
-[问题]: 美国大学本科留学生，毕业后第一份工作应该去硅谷大公司工作，还是去创业公司工作？
-[答案]: 既然是第一份工作想这么多干嘛。不论如何你都得跳。
+<br>**问题**: 美国大学本科留学生，毕业后第一份工作应该去硅谷大公司工作，还是去创业公司工作？
+**答案**: 既然是第一份工作想这么多干嘛。不论如何你都得跳。
 
 不要指望第一份工作就帮你发大财。。 
 
@@ -38969,9 +36745,8 @@ tech lead。 我都替你累。。
  
 
  
-
-[问题]: 美国完了不是该高兴么，怎么好多人还很失望的样子？
-[答案]: 知乎上很多人都在美国；美国完蛋了他们怎么会高兴？
+<br>**问题**: 美国完了不是该高兴么，怎么好多人还很失望的样子？
+**答案**: 知乎上很多人都在美国；美国完蛋了他们怎么会高兴？
 
  
 
@@ -38980,10 +36755,9 @@ tech lead。 我都替你累。。
  
 
  
+<br>**问题**:美国最高法院大法官 Scalia 的去世将会带来怎样的影响？
 
-[问题]:美国最高法院大法官 Scalia 的去世将会带来怎样的影响？
-
-[答案]: 大法官的判决
+**答案**: 大法官的判决
 
 1，可以改变美国中产阶级不断坠落的生活吗？ 
 
@@ -39000,16 +36774,14 @@ tech lead。 我都替你累。。
  
 
  
-
-[问题]: 美国有哪些做的超棒的三明治或者汉堡店？
-[答案]: 孜然牛肉一盆。酸豆角牛肉米粉一碗。秒杀愚蠢美国人
-
- 
+<br>**问题**: 美国有哪些做的超棒的三明治或者汉堡店？
+**答案**: 孜然牛肉一盆。酸豆角牛肉米粉一碗。秒杀愚蠢美国人
 
  
 
-[问题]: 美国有哪些税属于明显的恶税？
-[答案]: 我觉得是智商税。
+ 
+<br>**问题**: 美国有哪些税属于明显的恶税？
+**答案**: 我觉得是智商税。
 
 智商低，考不上好学校，选不上好专业，过不了面试。找不到好工作，最后个人净值和年均收入比其他人少100%到1000%，这不叫智商税么。 
 
@@ -39018,16 +36790,14 @@ tech lead。 我都替你累。。
  
 
  
-
-[问题]: 美国物理PhD可以转行电子工程吗？
-[答案]: 胡说八道，一派胡言。给我们抹黑，给科学事业抹黑！
-
- 
+<br>**问题**: 美国物理PhD可以转行电子工程吗？
+**答案**: 胡说八道，一派胡言。给我们抹黑，给科学事业抹黑！
 
  
 
-[问题]: 美国现有民主的弊端在哪？
-[答案]: 说美国无限好的那是真的从来没有严肃考虑过搬来美国。
+ 
+<br>**问题**: 美国现有民主的弊端在哪？
+**答案**: 说美国无限好的那是真的从来没有严肃考虑过搬来美国。
 
 有人说，我是在吹毛求疵。我只能说，如果你把一切都以中国为参考的基准点， ** 你的档次也太低了。 ** 
 
@@ -39054,19 +36824,17 @@ tech lead。 我都替你累。。
  
 
  
-
-[问题]: 美的物理本质是什么？
-[答案]: 你不觉得美这个字本身就很对称么。
+<br>**问题**: 美的物理本质是什么？
+**答案**: 你不觉得美这个字本身就很对称么。
 
 把复杂的东西变得简单，就是美吧。美你只需要写一半就可以了。
 
  
 
  
+<br>**问题**: 考上清北没问题的高中生本科应该选择留学吗？
 
-[问题]: 考上清北没问题的高中生本科应该选择留学吗？
-
-[答案]:清华对你来说唾手可得，所以你才会看不上他。这种心态是很正常的。你觉得没有挑战了。很多大神都觉得google 很容易进，我也对他们嗤之以鼻。 
+**答案**:清华对你来说唾手可得，所以你才会看不上他。这种心态是很正常的。你觉得没有挑战了。很多大神都觉得google 很容易进，我也对他们嗤之以鼻。 
 
 如果你在清北保持年级前5，最后美帝top 10
 
@@ -39079,18 +36847,16 @@ tech lead。 我都替你累。。
  
 
  
-
-[问题]: 考上清华北大本科很难么？
-[答案]: 很难
+<br>**问题**: 考上清华北大本科很难么？
+**答案**: 很难
 
 我没考上
 
  
 
  
-
-[问题]: 考上清华或北大的高材生们从小家里有没有电视、电脑或网络？
-[答案]: 穷到小家里没有电视、电脑或网络的人，是不会考上清华北大的。
+<br>**问题**: 考上清华或北大的高材生们从小家里有没有电视、电脑或网络？
+**答案**: 穷到小家里没有电视、电脑或网络的人，是不会考上清华北大的。
 
 一道题的答案都找不到 
 
@@ -39105,51 +36871,45 @@ tech lead。 我都替你累。。
  
 
  
-
-[问题]: 考不上北大清华的人，就是卢瑟（loser），人生就输在起跑线上了吗？
-[答案]: indeed
+<br>**问题**: 考不上北大清华的人，就是卢瑟（loser），人生就输在起跑线上了吗？
+**答案**: indeed
 
 excited!
 
  
 
  
-
-[问题]: 考了一所普通一本（非211），已经读了快一年半了，还想复读，冲刺Top2或者华五
-[答案]: 知乎已经开始靠社会工程学来提高流量了吗？。。
+<br>**问题**: 考了一所普通一本（非211），已经读了快一年半了，还想复读，冲刺Top2或者华五
+**答案**: 知乎已经开始靠社会工程学来提高流量了吗？。。
 
 无可奉告=去咨询一下你所在省份前3的高中的班主任的意见吧。如果你无法联系到他们，那还是不要复读了
 
  
 
  
-
-[问题]: 耳机是不是阻抗越高越好？
-[答案]: 开路阻抗无限大
-
- 
+<br>**问题**: 耳机是不是阻抗越高越好？
+**答案**: 开路阻抗无限大
 
  
 
-[问题]:耶鲁大学和加州大学伯克利分校的计算机博士 offer 该选哪一个？
+ 
+<br>**问题**:耶鲁大学和加州大学伯克利分校的计算机博士 offer 该选哪一个？
 
-[答案]:居然问这种问题。。。UCB 你毕业了不立足于世界巅峰我把头献给你赏玩。 
+**答案**:居然问这种问题。。。UCB 你毕业了不立足于世界巅峰我把头献给你赏玩。 
 
 对了为什么我加你linkedin 你不加我。。
 
  
 
  
-
-[问题]: 股市的存在会增大财富不平等吗？
-[答案]: 会的。特别是某些职位只需要名校数学统计和CS博士的时候。这些职位的收入是其他职位的2-3倍。
-
- 
+<br>**问题**: 股市的存在会增大财富不平等吗？
+**答案**: 会的。特别是某些职位只需要名校数学统计和CS博士的时候。这些职位的收入是其他职位的2-3倍。
 
  
 
-[问题]: 股灾是如何引发金融风险、甚至导致金融危机的？传导路径是怎样的？什么程度的股灾才能导致金融危机？
-[答案]: 什么是金融危机？
+ 
+<br>**问题**: 股灾是如何引发金融风险、甚至导致金融危机的？传导路径是怎样的？什么程度的股灾才能导致金融危机？
+**答案**: 什么是金融危机？
 
 无非是社会财富的再次分配罢了。把穷人的钱再次分配给有钱人，并且有钱人还嫌分的不多，不投资了。然后穷人就没有工作了。恶性循环。 
 
@@ -39172,16 +36932,14 @@ excited!
  
 
  
-
-[问题]: 能力无边，凌驾整个世界的上帝为何在意卑微的人类是否信他爱他？
-[答案]: 他当然不在意，但是人类在意啊=否则号称爱的基督教，犹太教和伊斯兰教为何相爱相杀这么多年
-
- 
+<br>**问题**: 能力无边，凌驾整个世界的上帝为何在意卑微的人类是否信他爱他？
+**答案**: 他当然不在意，但是人类在意啊=否则号称爱的基督教，犹太教和伊斯兰教为何相爱相杀这么多年
 
  
 
-[问题]: 能否把经典物理理解为一个九维特殊的限性空间必须满足的条件？
-[答案]: 你这里有一点就错了。
+ 
+<br>**问题**: 能否把经典物理理解为一个九维特殊的限性空间必须满足的条件？
+**答案**: 你这里有一点就错了。
 
 至于多少空间我不知道，做string的人肯定可以告诉你（31纬还是11纬。。）和你的想法很一致。 
 
@@ -39200,32 +36958,28 @@ excited!
  
 
  
-
-[问题]: 能否用物理学的观点解释「让天车停摆」这一操作的原理，有理论模型吗？
-[答案]: 什么是天车？
-
- 
+<br>**问题**: 能否用物理学的观点解释「让天车停摆」这一操作的原理，有理论模型吗？
+**答案**: 什么是天车？
 
  
 
-[问题]: 能否通过这个例子来评判微软的必应词典翻译和谷歌网页翻译谁更好？
-[答案]: bing据说是微软做的最好最有技术领先（edge）的一款产品了。
+ 
+<br>**问题**: 能否通过这个例子来评判微软的必应词典翻译和谷歌网页翻译谁更好？
+**答案**: bing据说是微软做的最好最有技术领先（edge）的一款产品了。
 
 不知道他的其他产品做得如何。。。。哦～
 
  
 
  
-
-[问题]: 能否通过逻辑编程消灭程序BUG？
-[答案]: 你怎么证明这个bug不是feature
-
- 
+<br>**问题**: 能否通过逻辑编程消灭程序BUG？
+**答案**: 你怎么证明这个bug不是feature
 
  
 
-[问题]: 能量的本质是什么
-[答案]: 关于光子，质量，能量，静止质量，动质量，为什么光速有上限等问题问的太多了。我个人的感觉是，即便有人一一回答，提问者还是无法搞清楚什么是以上。
+ 
+<br>**问题**: 能量的本质是什么
+**答案**: 关于光子，质量，能量，静止质量，动质量，为什么光速有上限等问题问的太多了。我个人的感觉是，即便有人一一回答，提问者还是无法搞清楚什么是以上。
 
 要想知道什么是以上，必须经过严格的物理理论洗脑。如果不愿意去洗脑，那么唯一能回答的是， ** 能量的本质是物体运动状态中的一个守恒量 **
 
@@ -39244,24 +36998,21 @@ excited!
  
 
  
+<br>**问题**: 自动驾驶的品牌系列有哪些？
 
-[问题]: 自动驾驶的品牌系列有哪些？
-
-[答案]:Tesla. Uber
-
- 
-
- 
-
-[问题]: 自学c语言，有什么好的建议或方法吗？
-[答案]: 当然是轮子哥的教你学C系列课程了
+**答案**:Tesla. Uber
 
  
 
  
+<br>**问题**: 自学c语言，有什么好的建议或方法吗？
+**答案**: 当然是轮子哥的教你学C系列课程了
 
-[问题]: 自学真的能系统地学会很多东西吗？
-[答案]: 不矛盾。因为自学比听那些被知乎官方肆意放任，没有教师资格证，在相关领域没有任何权威人士认可，仅凭自己看几本畅销书和musk传记就胡乱捏造一些概念、顿悟，在第三世界私人小企业里自封思想家及教育家称号，上《非你莫属》都会被张绍刚赶下来，肚子里没几分货就出来卖的人的live，要靠谱多了。
+ 
+
+ 
+<br>**问题**: 自学真的能系统地学会很多东西吗？
+**答案**: 不矛盾。因为自学比听那些被知乎官方肆意放任，没有教师资格证，在相关领域没有任何权威人士认可，仅凭自己看几本畅销书和musk传记就胡乱捏造一些概念、顿悟，在第三世界私人小企业里自封思想家及教育家称号，上《非你莫属》都会被张绍刚赶下来，肚子里没几分货就出来卖的人的live，要靠谱多了。
 
  
 
@@ -39288,9 +37039,8 @@ excited!
  
 
  
-
-[问题]: 自旋为12的粒子是什么形状的，三维真的有转两圈才能和自己重合的形状？
-[答案]: 反正这的确说明了人类所看到的3维世界就是一个幻觉。interstellar的幻想说不定是真的。
+<br>**问题**: 自旋为12的粒子是什么形状的，三维真的有转两圈才能和自己重合的形状？
+**答案**: 反正这的确说明了人类所看到的3维世界就是一个幻觉。interstellar的幻想说不定是真的。
 
 反正无法理解 
 
@@ -39299,10 +37049,9 @@ excited!
  
 
  
+<br>**问题**: 自杀者应该受到谴责吗？
 
-[问题]: 自杀者应该受到谴责吗？
-
-[答案]:
+**答案**:
 
  
 
@@ -39319,9 +37068,8 @@ ZS的要受到谴责。
  
 
  
-
-[问题]: 自由电子、晶体中的电子以及原子中的电子的区别？
-[答案]: 事实上，宇宙中只有一个电子，他们的大小，质量，自特异性，自旋，磁场，电荷等等，都是完全一样的。所以我不知道你说的那个不同位置不同材料中的不同电子是什么。。
+<br>**问题**: 自由电子、晶体中的电子以及原子中的电子的区别？
+**答案**: 事实上，宇宙中只有一个电子，他们的大小，质量，自特异性，自旋，磁场，电荷等等，都是完全一样的。所以我不知道你说的那个不同位置不同材料中的不同电子是什么。。
 
 。。 
 
@@ -39330,10 +37078,9 @@ ZS的要受到谴责。
  
 
  
+<br>**问题**: 自相位调制SPM会让脉冲光发生频谱展宽，那么新频率的光子是怎么来的？
 
-[问题]: 自相位调制SPM会让脉冲光发生频谱展宽，那么新频率的光子是怎么来的？
-
-[答案]:既然是非线性。\chi 系数里面的高阶项哪里来的？ 
+**答案**:既然是非线性。\chi 系数里面的高阶项哪里来的？ 
 
 电子-光子相互作用。 
 
@@ -39344,10 +37091,9 @@ ZS的要受到谴责。
  
 
  
+<br>**问题**: 舌尖中国”系列连锁餐饮店的想法（坑）
 
-[问题]: 舌尖中国”系列连锁餐饮店的想法（坑）
-
-[答案]:
+**答案**:
 
  
 
@@ -39416,9 +37162,8 @@ store：把本周轮流的中华菜系每道菜摆上来给大家看大家闻但
  
 
  
-
-[问题]: 色温是什么概念？
-[答案]: 是一种形容物体温度变化时，颜色也会发生相应变化的现象。
+<br>**问题**: 色温是什么概念？
+**答案**: 是一种形容物体温度变化时，颜色也会发生相应变化的现象。
 
 你首先要知道光子的颜色是由光子的频率（或者波长）决定的。频率越高，波长越短，颜色越偏紫，逐渐不可见。 
 
@@ -39429,9 +37174,8 @@ store：把本周轮流的中华菜系每道菜摆上来给大家看大家闻但
  
 
  
-
-[问题]: 节能灯为何慢慢变亮？
-[答案]: 抄袭自百度知道：
+<br>**问题**: 节能灯为何慢慢变亮？
+**答案**: 抄袭自百度知道：
 
  
 
@@ -39458,33 +37202,29 @@ store：把本周轮流的中华菜系每道菜摆上来给大家看大家闻但
  
 
  
-
-[问题]: 若电子在介质中以大于介质光速的速度匀速运动，会怎么样？
-[答案]: 匀速运动不会辐射。什么都不会发生
-
- 
-
- 
-
-[问题]:英伟达股价创新高，GPU 有可能颠覆 CPU 吗？
-
-[答案]: 一次财报就10%。资本家控制人的手段越来越丰富了。
+<br>**问题**: 若电子在介质中以大于介质光速的速度匀速运动，会怎么样？
+**答案**: 匀速运动不会辐射。什么都不会发生
 
  
 
  
+<br>**问题**:英伟达股价创新高，GPU 有可能颠覆 CPU 吗？
 
-[问题]: 英语和数学不好的人是不是学不会编程？
+**答案**: 一次财报就10%。资本家控制人的手段越来越丰富了。
 
-[答案]:你好好学c++ c#，学到后来，百万年薪找上门。没人管你英文好不好。
+ 
+
+ 
+<br>**问题**: 英语和数学不好的人是不是学不会编程？
+
+**答案**:你好好学c++ c#，学到后来，百万年薪找上门。没人管你英文好不好。
 
  
 
  
+<br>**问题**: 英语里有哪些一说出来就知道他要装逼的话？
 
-[问题]: 英语里有哪些一说出来就知道他要装逼的话？
-
-[答案]:Dear Bo: 
+**答案**:Dear Bo: 
 
  
 
@@ -39495,10 +37235,9 @@ After thoroughly reviewing/considering your candidacy, we...进入Gmail 显示�
  
 
  
+<br>**问题**:苹果5s 怎么辩真伪？现在山寨高仿机那么厉害，翻新倒不怕，就怕是仿造的。
 
-[问题]:苹果5s 怎么辩真伪？现在山寨高仿机那么厉害，翻新倒不怕，就怕是仿造的。
-
-[答案]: 千万别去淘宝买
+**答案**: 千万别去淘宝买
 
 千万别去淘宝买 
 
@@ -39515,10 +37254,9 @@ After thoroughly reviewing/considering your candidacy, we...进入Gmail 显示�
  
 
  
+<br>**问题**:苹果为何要 10 亿美金战略投资滴滴出行？
 
-[问题]:苹果为何要 10 亿美金战略投资滴滴出行？
-
-[答案]: 苹果投资是为了证明自己还有发展新市场的空间，可惜他居然投给了一个泡沫。这种饮鸩止渴的做法，只是苹果CEO库克短视的再一体现。这也是没办法，一个能把自家Siri
+**答案**: 苹果投资是为了证明自己还有发展新市场的空间，可惜他居然投给了一个泡沫。这种饮鸩止渴的做法，只是苹果CEO库克短视的再一体现。这也是没办法，一个能把自家Siri
 
 搞残，创始人出走；一个上台以来iPhone最大创新就是增大屏幕；一个对人工智能，AR，VR没兴趣没见解就知道挖人来搞Health 搞出来的Apple
 
@@ -39545,10 +37283,9 @@ watch 被证明是最没用的苹果产品，他还能投什么呢？他投了�
  
 
  
+<br>**问题**: 苹果产品的生产力很差么？
 
-[问题]: 苹果产品的生产力很差么？
-
-[答案]:玩了一天的iPad Pro, 我认识到我之前的错误了。 
+**答案**:玩了一天的iPad Pro, 我认识到我之前的错误了。 
 
 苹果这是铁了心的要把iOS做成下一代操作系统啊，下一代具有生产力的取代桌面的操作系统 
 
@@ -39569,32 +37306,28 @@ Windows Compatible
  
 
  
-
-[问题]: 苹果会盛极而衰吗？
-[答案]: 起码得等到2019年。
-
- 
-
- 
-
-[问题]:苹果公司 (Apple) 是怎么招人的？
-
-[答案]: 去apple的话往往是业界大神，或者是专业120%对口的勤奋的研究生／phd／本科生。
+<br>**问题**: 苹果会盛极而衰吗？
+**答案**: 起码得等到2019年。
 
  
 
  
+<br>**问题**:苹果公司 (Apple) 是怎么招人的？
 
-[问题]:苹果公司 71 拆股后效果如何？
+**答案**: 去apple的话往往是业界大神，或者是专业120%对口的勤奋的研究生／phd／本科生。
 
-[答案]: 一直在涨。。
+ 
+
+ 
+<br>**问题**:苹果公司 71 拆股后效果如何？
+
+**答案**: 一直在涨。。
 
  
 
  
-
-[问题]: 苹果公司和微软在各自的发展历程中分别有哪些得失？
-[答案]: 微软失去了移动
+<br>**问题**: 苹果公司和微软在各自的发展历程中分别有哪些得失？
+**答案**: 微软失去了移动
 
 苹果失去了桌面。 
 
@@ -39607,51 +37340,45 @@ Windows Compatible
  
 
  
+<br>**问题**:苹果公司的 Apple Pay 如果和阿里巴巴或者支付宝合作会碰撞出怎样的火花？都有哪些潜在的合作形式？
 
-[问题]:苹果公司的 Apple Pay 如果和阿里巴巴或者支付宝合作会碰撞出怎样的火花？都有哪些潜在的合作形式？
-
-[答案]:主要价值就是现在apple passbook上也可以通过支付宝账户激活虚拟卡了。
-
- 
+**答案**:主要价值就是现在apple passbook上也可以通过支付宝账户激活虚拟卡了。
 
  
 
-[问题]: 苹果内部用什么产品办公？
+ 
+<br>**问题**: 苹果内部用什么产品办公？
 
-[答案]:windows (R) NT (tm) technology, 2000 
+**答案**:windows (R) NT (tm) technology, 2000 
 
 Microsoft(R) Surface Pro 3
 
  
 
  
-
-[问题]: 苹果在手机操作系统领域吊打微软，为何在电脑操作系统领域却被微软吊打？
-[答案]: 因为手机不是电脑而是嵌入式。
+<br>**问题**: 苹果在手机操作系统领域吊打微软，为何在电脑操作系统领域却被微软吊打？
+**答案**: 因为手机不是电脑而是嵌入式。
 
 这两家公司都不太理解对方的领域。。
 
  
 
  
-
-[问题]: 苹果官网是怎么做到完美保证多平台浏览体验的？
-[答案]: 右键审查元素看下不完了么，文字都是图片。不同分辨率的设备加载的图片不一样而已。
-
- 
-
- 
-
-[问题]: 苹果开始研发汽车，大家对其前景是否看好？
-[答案]: 。。。。555
+<br>**问题**: 苹果官网是怎么做到完美保证多平台浏览体验的？
+**答案**: 右键审查元素看下不完了么，文字都是图片。不同分辨率的设备加载的图片不一样而已。
 
  
 
  
+<br>**问题**: 苹果开始研发汽车，大家对其前景是否看好？
+**答案**: 。。。。555
 
-[问题]: 苹果是PC品牌么？
+ 
 
-[答案]:李冰你太可爱了。。一方面说wiki 不可以作为引用源，一方面引用wiki 说我引用不全，貌似忘记查看wiki
+ 
+<br>**问题**: 苹果是PC品牌么？
+
+**答案**:李冰你太可爱了。。一方面说wiki 不可以作为引用源，一方面引用wiki 说我引用不全，貌似忘记查看wiki
 
 的词条日志了。那段话是我引用之后被人加上去的。而加上去的那个人，正是在和我论战中同样认为wiki 毫无效力的，但是持相反意见的孙金鹿。 
 
@@ -39664,23 +37391,20 @@ Microsoft(R) Surface Pro 3
  
 
  
-
-[问题]: 苹果电脑上的那种香味是来源于何处？
-[答案]: 脸打得好响啊我喜欢
-
- 
-
- 
-
-[问题]: 苹果的iPhone还可以火多少年？五年？十年？还是永远火下去？
-[答案]: 我等着下一波金融危机
+<br>**问题**: 苹果电脑上的那种香味是来源于何处？
+**答案**: 脸打得好响啊我喜欢
 
  
 
  
+<br>**问题**: 苹果的iPhone还可以火多少年？五年？十年？还是永远火下去？
+**答案**: 我等着下一波金融危机
 
-[问题]: 苹果的末日马上到来
-[答案]: 大家好我是立党哥哥的妯娌，小勃勃
+ 
+
+ 
+<br>**问题**: 苹果的末日马上到来
+**答案**: 大家好我是立党哥哥的妯娌，小勃勃
 
  
 
@@ -39755,25 +37479,22 @@ Care的市场有多大？就算很大，消费者的习惯能得到转变吗？�
  
 
  
+<br>**问题**: 苹果的股票现在还值得买入吗？
 
-[问题]: 苹果的股票现在还值得买入吗？
-
-[答案]:你好。现在估计要突破770 了 （7:1拆）
-
- 
-
- 
-
-[问题]:苹果等公司会对 Surface Book 等产品的推出做出什么反应？
-
-[答案]:总有一天Tim cook 会（引咎）辞职的
+**答案**:你好。现在估计要突破770 了 （7:1拆）
 
  
 
  
+<br>**问题**:苹果等公司会对 Surface Book 等产品的推出做出什么反应？
 
-[问题]: 莫名其妙被阿里拒绝，我应不应该低头认输？
-[答案]: 不论如何。在一个买方市场，你能要到什么说法呢？公司招人本来就是他们的私事，不是你表现好就要你的。你长得丑，学历低，学校不好，口音问题，说话太冲，总之看你不爽，都不会要你。公司就是这么任性，所以有公司诚意要你，这其实是件很难的的事。说明你们三观都符了。
+**答案**:总有一天Tim cook 会（引咎）辞职的
+
+ 
+
+ 
+<br>**问题**: 莫名其妙被阿里拒绝，我应不应该低头认输？
+**答案**: 不论如何。在一个买方市场，你能要到什么说法呢？公司招人本来就是他们的私事，不是你表现好就要你的。你长得丑，学历低，学校不好，口音问题，说话太冲，总之看你不爽，都不会要你。公司就是这么任性，所以有公司诚意要你，这其实是件很难的的事。说明你们三观都符了。
 
 至于winter
 
@@ -39782,10 +37503,9 @@ Care的市场有多大？就算很大，消费者的习惯能得到转变吗？�
  
 
  
+<br>**问题**:获取 CMU CS 的 PHD Offer 需要满足哪些条件？
 
-[问题]:获取 CMU CS 的 PHD Offer 需要满足哪些条件？
-
-[答案]: 你懂中文吗？
+**答案**: 你懂中文吗？
 
 我告诉你 
 
@@ -39796,16 +37516,14 @@ and then phd comes
  
 
  
-
-[问题]: 落地100W以内最有逼格的车是什么？
-[答案]: 捐给我吧，我背着你走。
-
- 
+<br>**问题**: 落地100W以内最有逼格的车是什么？
+**答案**: 捐给我吧，我背着你走。
 
  
 
-[问题]: 蔡康永为什么取关奇葩说？
-[答案]: 他也看出来奇葩说马东没水平但是咄咄逼人，觉得不爽了。
+ 
+<br>**问题**: 蔡康永为什么取关奇葩说？
+**答案**: 他也看出来奇葩说马东没水平但是咄咄逼人，觉得不爽了。
 
 马东其实还是一个独裁者，而且一点也不谦逊。从他对部分选手的“掐时”，到对某些选手特点的利用到对另外一些选手因私的特殊关照，我就发现了这一点。选手对他来说只是一个让节目成功的可以利用的物品而已。而可惜的是它让节目成功的定义太庸俗了，和晓松奇谈比比就知道高下。 
 
@@ -39816,19 +37534,17 @@ and then phd comes
  
 
  
-
-[问题]: 薛定谔方程的同心柱解？
-[答案]: 你这算的已经很对了。你既然能找到k，就应该能找到能量的表达式E=(hbar*k)^2/(2*m)。因为你认定在自由空间内没有势能；波解是standing
+<br>**问题**: 薛定谔方程的同心柱解？
+**答案**: 你这算的已经很对了。你既然能找到k，就应该能找到能量的表达式E=(hbar*k)^2/(2*m)。因为你认定在自由空间内没有势能；波解是standing
 
 wave；根据非相对论性量子力学，能量就是E=(hbar*k)^2/(2*m)的发散关系。
 
  
 
  
+<br>**问题**:虚数用 “i” 来表示是因为它是 imaginary 的缩写。但是，为什么有时候虚数也可以用 “j” 来表示呢？
 
-[问题]:虚数用 “i” 来表示是因为它是 imaginary 的缩写。但是，为什么有时候虚数也可以用 “j” 来表示呢？
-
-[答案]: i和j都是-1的两个根，实际上，i=-j。下面我将会详细介绍这个不同学科之间，符号差异的成因。
+**答案**: i和j都是-1的两个根，实际上，i=-j。下面我将会详细介绍这个不同学科之间，符号差异的成因。
 
 @Ivony @曹洪洋 @睿睿 
 
@@ -39887,30 +37603,26 @@ iwt，我们可以找jackson的electrodynamics做对比，这也是电磁学最�
  
 
  
-
-[问题]: 蚂蚁为什么摔不死？
-[答案]: 蚂蚁太小太轻了。把蚂蚁摔死在空气里就好比把你摔死在，水里。。一般你摔不死。除非超高速射蚂蚁。
-
- 
-
- 
-
-[问题]: 蚊子会不会进化成没有嗡嗡声？
-[答案]: 其实是人进化出能听到嗡嗡声。不然人早就被飞虫叮死了。
+<br>**问题**: 蚂蚁为什么摔不死？
+**答案**: 蚂蚁太小太轻了。把蚂蚁摔死在空气里就好比把你摔死在，水里。。一般你摔不死。除非超高速射蚂蚁。
 
  
 
  
+<br>**问题**: 蚊子会不会进化成没有嗡嗡声？
+**答案**: 其实是人进化出能听到嗡嗡声。不然人早就被飞虫叮死了。
 
-[问题]: 蜗牛都往上爬吗？
-[答案]: 我不是勃勃谢谢
+ 
+
+ 
+<br>**问题**: 蜗牛都往上爬吗？
+**答案**: 我不是勃勃谢谢
 
  
 
  
-
-[问题]: 蠢的人能意识到自己蠢吗？
-[答案]: 考试考不过别人
+<br>**问题**: 蠢的人能意识到自己蠢吗？
+**答案**: 考试考不过别人
 
 长得不如别人帅 
 
@@ -39937,9 +37649,8 @@ PS：很多人不承认自己蠢自己落后于人只是自尊心作祟。当然
  
 
  
-
-[问题]: 行业中有哪些字是误读并延续下来的，比如铬（ge）大家都读（落）光栅（zha）大家都是读（shan）
-[答案]: 请输入你的windows秘钥
+<br>**问题**: 行业中有哪些字是误读并延续下来的，比如铬（ge）大家都读（落）光栅（zha）大家都是读（shan）
+**答案**: 请输入你的windows秘钥
 
  
 
@@ -39956,9 +37667,8 @@ PS：很多人不承认自己蠢自己落后于人只是自尊心作祟。当然
  
 
  
-
-[问题]: 表妹考上了加州大学伯克利分校，3月份就要去美国了，送她什么礼物她会发自内心高兴呢？
-[答案]: 加州大学伯克利分校在南加州？
+<br>**问题**: 表妹考上了加州大学伯克利分校，3月份就要去美国了，送她什么礼物她会发自内心高兴呢？
+**答案**: 加州大学伯克利分校在南加州？
 
 你再问问你妹妹考的是哪个分校。 
 
@@ -39967,9 +37677,8 @@ PS：很多人不承认自己蠢自己落后于人只是自尊心作祟。当然
  
 
  
-
-[问题]: 被全世界拒绝时该怎么办？
-[答案]: 现代社会的主要弊病：
+<br>**问题**: 被全世界拒绝时该怎么办？
+**答案**: 现代社会的主要弊病：
 
 人口太多 
 
@@ -39982,30 +37691,26 @@ PS：很多人不承认自己蠢自己落后于人只是自尊心作祟。当然
  
 
  
-
-[问题]: 被母校（高中）给拉去开座谈分享学习经验是什么体验
-[答案]: 我印象中只有清华北大的优秀毕业生才能去吧。例如特奖获得者
-
- 
-
- 
-
-[问题]: 被浙江大学劝退是怎样的一番体验？
-[答案]: 最近不是一个被劝退的去了北大么。官还挺大
+<br>**问题**: 被母校（高中）给拉去开座谈分享学习经验是什么体验
+**答案**: 我印象中只有清华北大的优秀毕业生才能去吧。例如特奖获得者
 
  
 
  
+<br>**问题**: 被浙江大学劝退是怎样的一番体验？
+**答案**: 最近不是一个被劝退的去了北大么。官还挺大
 
-[问题]: 被轮子哥拉黑是一种怎样的体验？
-[答案]: 失字有了一撇
+ 
+
+ 
+<br>**问题**: 被轮子哥拉黑是一种怎样的体验？
+**答案**: 失字有了一撇
 
  
 
  
-
-[问题]: 西方有「卖萌」文化吗？
-[答案]: 我是丑萌
+<br>**问题**: 西方有「卖萌」文化吗？
+**答案**: 我是丑萌
 
 翻译成英文就是： 
 
@@ -40014,17 +37719,15 @@ Chou
  
 
  
+<br>**问题**:要不要升级windows 10？为什么？
 
-[问题]:要不要升级windows 10？为什么？
-
-[答案]:等windows 11
-
- 
+**答案**:等windows 11
 
  
 
-[问题]: 要具备哪些条件才能让科学得到真正的快速发展？
-[答案]: 说的好
+ 
+<br>**问题**: 要具备哪些条件才能让科学得到真正的快速发展？
+**答案**: 说的好
 
 可惜我国的人均收入还是太低。有钱的人都在想怎么去投资赚钱，而不是去思考人类未来。 
 
@@ -40039,55 +37742,48 @@ Chou
  
 
  
-
-[问题]: 要多努力才能考上浙江大学？
-[答案]: 考砸了自然就来了。
+<br>**问题**: 要多努力才能考上浙江大学？
+**答案**: 考砸了自然就来了。
 
 有些省市要考砸两次
 
  
 
  
-
-[问题]: 要怎么追一个男程序员？
-[答案]: 这个汉子是要有多帅
-
- 
-
- 
-
-[问题]: 覃超到底对曾博做了什么？
-[答案]: 做了恶
+<br>**问题**: 要怎么追一个男程序员？
+**答案**: 这个汉子是要有多帅
 
  
 
  
+<br>**问题**: 覃超到底对曾博做了什么？
+**答案**: 做了恶
 
-[问题]: 覃超和曾博哪个人水平更高
-[答案]: 高不高我不知道
+ 
+
+ 
+<br>**问题**: 覃超和曾博哪个人水平更高
+**答案**: 高不高我不知道
 
 谁能从粉丝身上薅最多的羊毛，谁就厉害。
 
  
 
  
-
-[问题]: 计算机专业中，本科生与研究生在IT行业的工作上有哪些区别？
-[答案]: 本科生容易找，没经验没思想有激情；研究生抢着要，有经验写的快很能干；博士生深井病。
-
- 
-
- 
-
-[问题]: 计算机方面哪些大学比较强？
-[答案]: CMU比较好，毕业直接去微软。
+<br>**问题**: 计算机专业中，本科生与研究生在IT行业的工作上有哪些区别？
+**答案**: 本科生容易找，没经验没思想有激情；研究生抢着要，有经验写的快很能干；博士生深井病。
 
  
 
  
+<br>**问题**: 计算机方面哪些大学比较强？
+**答案**: CMU比较好，毕业直接去微软。
 
-[问题]: 计算机是怎样进行开方和幂运算的？
-[答案]: 在数值计算权威Mathematica中：
+ 
+
+ 
+<br>**问题**: 计算机是怎样进行开方和幂运算的？
+**答案**: 在数值计算权威Mathematica中：
 
 （参考 Some Notes on Internal Implementation _ _ ） 
 
@@ -40095,11 +37791,11 @@ Chou
 
 例如： 
 
-![5^{81}=5*5^{80}=5*\(5^{40}\)^2=5*\(\(5^{20}\)^2\)^2
+!**5^{81}=5*5^{80}=5*\(5^{40}\)^2=5*\(\(5^{20}\)^2\)^2
 
  
 
-=5*\(\(\(5^{10}\)^2\)^2\)^2=5*\(\(\(\(5^5\)^2\)^2\)^2\)^2=5*\(\(\(\(5*5^4\)^2\)^2\)^2\)^2=5*\(\(\(\(5*\(5^2\)^2\)^2\)^2\)^2\)^2](https://www.zhihu.com/equation?tex=5%5E%7B81%7D%3D5%2A5%5E%7B80%7D%3D5%2A%285%5E%7B40%7D%29%5E2%3D5%2A%28%285%5E%7B20%7D%29%5E2%29%5E2%0A%3D5%2A%28%28%285%5E%7B10%7D%29%5E2%29%5E2%29%5E2%3D5%2A%28%28%28%285%5E5%29%5E2%29%5E2%29%5E2%29%5E2%3D5%2A%28%28%28%285%2A5%5E4%29%5E2%29%5E2%29%5E2%29%5E2%3D5%2A%28%28%28%285%2A%285%5E2%29%5E2%29%5E2%29%5E2%29%5E2%29%5E2) 
+=5*\(\(\(5^{10}\)^2\)^2\)^2=5*\(\(\(\(5^5\)^2\)^2\)^2\)^2=5*\(\(\(\(5*5^4\)^2\)^2\)^2\)^2=5*\(\(\(\(5*\(5^2\)^2\)^2\)^2\)^2\)^2**(https://www.zhihu.com/equation?tex=5%5E%7B81%7D%3D5%2A5%5E%7B80%7D%3D5%2A%285%5E%7B40%7D%29%5E2%3D5%2A%28%285%5E%7B20%7D%29%5E2%29%5E2%0A%3D5%2A%28%28%285%5E%7B10%7D%29%5E2%29%5E2%29%5E2%3D5%2A%28%28%28%285%5E5%29%5E2%29%5E2%29%5E2%29%5E2%3D5%2A%28%28%28%285%2A5%5E4%29%5E2%29%5E2%29%5E2%29%5E2%3D5%2A%28%28%28%285%2A%285%5E2%29%5E2%29%5E2%29%5E2%29%5E2%29%5E2) 
 
 这样乘法的次数基本缩减到了log(n),n是指数的大小。 
 
@@ -40156,10 +37852,9 @@ Chou
  
 
  
+<br>**问题**:计算机科学与技术专业的学生要怎样做才能避免成为 一个低级的码农？
 
-[问题]:计算机科学与技术专业的学生要怎样做才能避免成为 一个低级的码农？
-
-[答案]: 国外名牌大学教材是次要，事实上“名牌”大学很多，计算机教材就那么几本。很多学校的教材都直接amazon
+**答案**: 国外名牌大学教材是次要，事实上“名牌”大学很多，计算机教材就那么几本。很多学校的教材都直接amazon
 
 上买。但讲起来的讲义就很见功力了（基本上是把教材反过来讲）。很多大学的教学视频都内部上网，课程讨论都在网上实现（piazza）。instructor
 
@@ -40169,15 +37864,15 @@ Chou
 
 有专门交作业和跑测试的网站: 
 
-![](https://pic1.zhimg.com/b094f6ed976d54d9eedcaeafd79a8e30_b.jpg) 
+!****(https://pic1.zhimg.com/b094f6ed976d54d9eedcaeafd79a8e30_b.jpg) 
 
-![](https://pic2.zhimg.com/a381cc0b56cc056d505fb694e30bd449_b.jpg) 
+!****(https://pic2.zhimg.com/a381cc0b56cc056d505fb694e30bd449_b.jpg) 
 
 Piazza: 
 
  
 
-![](https://pic1.zhimg.com/e416a8fffc8879ff60ec02914c87794c_b.jpg) 
+!****(https://pic1.zhimg.com/e416a8fffc8879ff60ec02914c87794c_b.jpg) 
 
  
 
@@ -40186,10 +37881,9 @@ Piazza:
  
 
  
+<br>**问题**: 计算机科学领域有哪些优秀的博客？
 
-[问题]: 计算机科学领域有哪些优秀的博客？
-
-[答案]:如果还是本科生的话，不去好好看书，泡stack overflow , 看文档，要去拾人牙慧？ 如果一定要看，建议把计算机"科学"博客改成计算机"技术"博客。 
+**答案**:如果还是本科生的话，不去好好看书，泡stack overflow , 看文档，要去拾人牙慧？ 如果一定要看，建议把计算机"科学"博客改成计算机"技术"博客。 
 
  
 
@@ -40230,26 +37924,23 @@ CMU的CS本科，研究生，哪里有时间有心情去看技术博客？不信
  
 
  
-
-[问题]: 计算物理phd对理论水平的要求高吗？
-[答案]: 最好懂。不懂不知道算的是什么。但懂的水平和层次应该不高。实际上,applied
+<br>**问题**: 计算物理phd对理论水平的要求高吗？
+**答案**: 最好懂。不懂不知道算的是什么。但懂的水平和层次应该不高。实际上,applied
 
 science足够了。。。。。比起很多人都聪明了。所谓学以致用。因为数值和可视化的关系，这些人对于理论的理解可能更深（而不是停留在符号表面）
 
  
 
  
+<br>**问题**: 计算物理的英文教材，图中的公式里的字母代表什么函数关系？
 
-[问题]: 计算物理的英文教材，图中的公式里的字母代表什么函数关系？
-
-[答案]:Big o notation. Please read your book's first or last pages for symbols used
-
- 
+**答案**:Big o notation. Please read your book's first or last pages for symbols used
 
  
 
-[问题]: 讨论计算机专业人员的数学路线
-[答案]: 你能秒杀所有的算法题的时候，你的数学水平已经很高了。
+ 
+<br>**问题**: 讨论计算机专业人员的数学路线
+**答案**: 你能秒杀所有的算法题的时候，你的数学水平已经很高了。
 
 其实计算机界应该出一本吉米多维奇。分类练习。120多种算法，每一种30-40道练习题。外加几道业界难题。 
 
@@ -40286,9 +37977,8 @@ scheme或者c（三选一）。后2年可以用java。花2年时间学完算法�
  
 
  
-
-[问题]: 记一次面试
-[答案]: 记一次面试：
+<br>**问题**: 记一次面试
+**答案**: 记一次面试：
 
 在GOOGLE面试的时候，高级工程师问完我倒置悬挂交替二叉树的解法后，又饶有兴致地问道： 
 
@@ -40313,33 +38003,29 @@ CODE上可没有，我完全没有办法准备过啊。我恼羞成怒，内心�
  
 
  
-
-[问题]: 证明一个积分不等式？
-[答案]: 原问题已经有答案了
-
- 
+<br>**问题**: 证明一个积分不等式？
+**答案**: 原问题已经有答案了
 
  
 
-[问题]: 试比较一下新东方与好未来（即学而思）？
-[答案]: 这是要开始淘汰中学机构了么=我觉得可以搞
+ 
+<br>**问题**: 试比较一下新东方与好未来（即学而思）？
+**答案**: 这是要开始淘汰中学机构了么=我觉得可以搞
 
 学而思吸收了很多竞赛和国外大牛，觉得比单纯的老师要好。。但在模式，推广，互联网化上，还不知道怎么搞
 
  
 
  
+<br>**问题**:试用过 Swift 之后，你觉得哪些方面做得很差？
 
-[问题]:试用过 Swift 之后，你觉得哪些方面做得很差？
-
-[答案]: 我觉得他在吸引微软粉抨击自身这一点做得很差。比如楼主
-
- 
+**答案**: 我觉得他在吸引微软粉抨击自身这一点做得很差。比如楼主
 
  
 
-[问题]: 该如何奉劝刚刚高考的孩子不要选生物，而选择金融和计算机等专业？
-[答案]: 推荐他复读吧。可以继续学习生物。
+ 
+<br>**问题**: 该如何奉劝刚刚高考的孩子不要选生物，而选择金融和计算机等专业？
+**答案**: 推荐他复读吧。可以继续学习生物。
 
 对了，我要和楼上来自清华的高材生撕逼，我的赞要比他多。这样我校的分数线就会更高了。 
 
@@ -40352,10 +38038,9 @@ CODE上可没有，我完全没有办法准备过啊。我恼羞成怒，内心�
  
 
  
+<br>**问题**:说一说哪一门编程语言 库 的说明文档是你见过最难读的？
 
-[问题]:说一说哪一门编程语言 库 的说明文档是你见过最难读的？
-
-[答案]: Matlab:
+**答案**: Matlab:
 
 随手摘抄： 
 
@@ -40482,38 +38167,33 @@ tex的程序文档估计没人愿意看，是knuth写的。
  
 
  
-
-[问题]: 说一门学科是「实验科学」意思是什么？
-[答案]: 其理论的正确性必须通过实验来证明。
-
- 
-
- 
-
-[问题]: 请分析南京宝马撕碎马自达的事故？
-[答案]: 反正中国富商宁可买大众也不会买日系。这就是智商。当然因为有钱，最后都买了宝马。
+<br>**问题**: 说一门学科是「实验科学」意思是什么？
+**答案**: 其理论的正确性必须通过实验来证明。
 
  
 
  
-
-[问题]: 请帮我看一看这幅图里物块B受的支持力是否恒定，并尝试用动能，动量定理解决此问题？
-[答案]: 已举报
-
- 
-
- 
-
-[问题]: 请简明通俗的解释一下，什么叫量子输运理论
-[答案]: 我觉得题主可以查google，如果还觉得不清楚我可以再来搬运一下。。。。
+<br>**问题**: 请分析南京宝马撕碎马自达的事故？
+**答案**: 反正中国富商宁可买大众也不会买日系。这就是智商。当然因为有钱，最后都买了宝马。
 
  
 
  
+<br>**问题**: 请帮我看一看这幅图里物块B受的支持力是否恒定，并尝试用动能，动量定理解决此问题？
+**答案**: 已举报
 
-[问题]: 请问live的审核标准是什么，是肥水不流外人田吗？
+ 
 
-[答案]:
+ 
+<br>**问题**: 请简明通俗的解释一下，什么叫量子输运理论
+**答案**: 我觉得题主可以查google，如果还觉得不清楚我可以再来搬运一下。。。。
+
+ 
+
+ 
+<br>**问题**: 请问live的审核标准是什么，是肥水不流外人田吗？
+
+**答案**:
 
  
 
@@ -40564,32 +38244,28 @@ DEAN，LECUN YANN的事迹】的公立 BERKELEY 大学【注3，以上都是事�
  
 
  
-
-[问题]: 请问ucb加州大学伯克利分校的Haas商学院有多难进？
-[答案]: 我也要成为混的风生水起的学长！
+<br>**问题**: 请问ucb加州大学伯克利分校的Haas商学院有多难进？
+**答案**: 我也要成为混的风生水起的学长！
 
 可惜
 
  
 
  
-
-[问题]: 请问中科大和清华比，在教学水平、人际资源、出国深造等等方面有差距吗？差距有多大？
-[答案]: 我建议楼主好好学微软的技术将来去摩根大通拿100w＋的年薪。
-
- 
-
- 
-
-[问题]: 请问传热学的公式推导完全看不懂怎么办？
-[答案]: 女生吗？来哥哥教你
+<br>**问题**: 请问中科大和清华比，在教学水平、人际资源、出国深造等等方面有差距吗？差距有多大？
+**答案**: 我建议楼主好好学微软的技术将来去摩根大通拿100w＋的年薪。
 
  
 
  
+<br>**问题**: 请问传热学的公式推导完全看不懂怎么办？
+**答案**: 女生吗？来哥哥教你
 
-[问题]: 请问在美国如何看到电影《你的名字》？
-[答案]: 中二
+ 
+
+ 
+<br>**问题**: 请问在美国如何看到电影《你的名字》？
+**答案**: 中二
 
  
 
@@ -40598,10 +38274,9 @@ DEAN，LECUN YANN的事迹】的公立 BERKELEY 大学【注3，以上都是事�
  
 
  
+<br>**问题**: 请问大家如何看待加州的SCA-5法案？
 
-[问题]: 请问大家如何看待加州的SCA-5法案？
-
-[答案]:这个投票和法案无关。只是奥巴马政府WE THE PEOPLE采取的“签名超过一定数目我司就正面回复你”的一种社会政策。 
+**答案**:这个投票和法案无关。只是奥巴马政府WE THE PEOPLE采取的“签名超过一定数目我司就正面回复你”的一种社会政策。 
 
 现在因为签名数目不足，已经关闭投票了。 
 
@@ -40610,9 +38285,8 @@ DEAN，LECUN YANN的事迹】的公立 BERKELEY 大学【注3，以上都是事�
  
 
  
-
-[问题]: 请问如何申请到一个机构做访问学者，包括高校或研究机构？
-[答案]: 自己有一定的研究成果。自己来自于有研究声望的机构；自己的现在的老板支持（推荐信）。
+<br>**问题**: 请问如何申请到一个机构做访问学者，包括高校或研究机构？
+**答案**: 自己有一定的研究成果。自己来自于有研究声望的机构；自己的现在的老板支持（推荐信）。
 
 然后你去国外你中意的大学里寻找和自己研究相关的教授。发邮件询问是否可以提供visiting
 
@@ -40629,18 +38303,16 @@ scholar的机会。往往如果你自己出钱的话，对方来者不拒的。�
  
 
  
-
-[问题]: 请问如何看待浙江大学把城市学院（三本）的学生转入浙大？
-[答案]: 浙大难道不是本来就是三本么。。
+<br>**问题**: 请问如何看待浙江大学把城市学院（三本）的学生转入浙大？
+**答案**: 浙大难道不是本来就是三本么。。
 
 从三本转入三本，也是醉了
 
  
 
  
-
-[问题]: 请问我在一个热均匀分布的烤箱中，放入正方形和圆形的不同形状的锅，里面装有面包，为什么正方形锅拐角处的面包会被烤糊，而圆形锅中恰好？谢谢～
-[答案]: 从对称性我们可以对这个问题做一个初步的定性解答：
+<br>**问题**: 请问我在一个热均匀分布的烤箱中，放入正方形和圆形的不同形状的锅，里面装有面包，为什么正方形锅拐角处的面包会被烤糊，而圆形锅中恰好？谢谢～
+**答案**: 从对称性我们可以对这个问题做一个初步的定性解答：
 
 如果盘子是正方形，那么他的四个角显然破坏了对称性（也就是说，一个正方形的盘，只具有点群对称c4，每旋转90度，才能回到自己） 
 
@@ -40653,9 +38325,8 @@ scholar的机会。往往如果你自己出钱的话，对方来者不拒的。�
  
 
  
-
-[问题]: 请问理想的反射曲面是什么形状
-[答案]: 我能回答我不知道吗？。。。
+<br>**问题**: 请问理想的反射曲面是什么形状
+**答案**: 我能回答我不知道吗？。。。
 
 “如果采用抛物面镜，计算会发现，从物体发出的三条特征光线不会相交到同一个点上（凸透镜似乎可以）”。你给出来的图不是完美的相交在一个点上了吗？你的计算应该有问题。 
 
@@ -40674,41 +38345,36 @@ lense，无非就是2个抛物面，他做成的透射镜也是很好的。
  
 
  
-
-[问题]: 请问用电子电路控制机械的学问,名称叫什么
-[答案]: 自动化，电机原理。。
-
- 
-
- 
-
-[问题]: 请问这是发生什么现象呢
-[答案]: 请上图。
+<br>**问题**: 请问用电子电路控制机械的学问,名称叫什么
+**答案**: 自动化，电机原理。。
 
  
 
  
+<br>**问题**: 请问这是发生什么现象呢
+**答案**: 请上图。
 
-[问题]:请问这篇文章中cs master的惨淡前景是真的吗？
+ 
 
-[答案]: 好歹也是正规学校读书出来的，比那些靠着网课学入门级C++（例如为什么要用std::string
+ 
+<br>**问题**:请问这篇文章中cs master的惨淡前景是真的吗？
+
+**答案**: 好歹也是正规学校读书出来的，比那些靠着网课学入门级C++（例如为什么要用std::string
 
 这样，按照600的学费，这个点就价值20了。yeah原来我是百万富翁！）的人还是前途好那么一点。
 
  
 
  
-
-[问题]: 诸葛亮是失败人士吗？
-[答案]: 是的，因为他这么牛逼却没有机会开live，彻底失败啊
-
- 
+<br>**问题**: 诸葛亮是失败人士吗？
+**答案**: 是的，因为他这么牛逼却没有机会开live，彻底失败啊
 
  
 
-[问题]: 读SICP中遇到的疑惑？
+ 
+<br>**问题**: 读SICP中遇到的疑惑？
 
-[答案]:a name's value is an object ，your gender is a sex. 
+**答案**:a name's value is an object ，your gender is a sex. 
 
 有问题吗？ 
 
@@ -40719,9 +38385,8 @@ value=object
  
 
  
-
-[问题]: 读博除了是一个科研训练的过程，对人生还可能有什么影响？
-[答案]: 可以通过eb1拿到快速绿卡。
+<br>**问题**: 读博除了是一个科研训练的过程，对人生还可能有什么影响？
+**答案**: 可以通过eb1拿到快速绿卡。
 
 可以通过千人计划去北大清华复旦交大分分钟做副教授。 
 
@@ -40742,33 +38407,29 @@ value=object
  
 
  
-
-[问题]: 谐振子在量子力学中有什么意义？
-[答案]: 任意形状的势能函数，最低阶的非平凡偶数次项就是谐振子势能函数。奇数次项会导致运动无界。
+<br>**问题**: 谐振子在量子力学中有什么意义？
+**答案**: 任意形状的势能函数，最低阶的非平凡偶数次项就是谐振子势能函数。奇数次项会导致运动无界。
 
 所以经典力学我们要学简谐振动，量子力学要学谐振子以及他的处理算符（升降）
 
  
 
  
+<br>**问题**: 谷歌提供的服务中有哪些相见恨晚的服务？
 
-[问题]: 谷歌提供的服务中有哪些相见恨晚的服务？
-
-[答案]:Google flight
-
- 
-
- 
-
-[问题]: 谷歌现在拥有哪些知名的程序员呢？
-[答案]: 陈萌萌
+**答案**:Google flight
 
  
 
  
+<br>**问题**: 谷歌现在拥有哪些知名的程序员呢？
+**答案**: 陈萌萌
 
-[问题]: 谷歌社招要求这么笼统，要怎么做准备才能顺利拿到offer呢？
-[答案]: 提供一点微小的经验，大公司一般码农的门槛真的很低。
+ 
+
+ 
+<br>**问题**: 谷歌社招要求这么笼统，要怎么做准备才能顺利拿到offer呢？
+**答案**: 提供一点微小的经验，大公司一般码农的门槛真的很低。
 
 他们家的 Scientist 是单独招的。例如你要达到Yuandong Tian 的水平才可以被招收到。而他基本上是一个可以去北美top 20
 
@@ -40783,18 +38444,16 @@ Site 的时候表现的资历深厚，自信自强，思维迅捷，项目深入
  
 
  
-
-[问题]: 谷粉、软粉、果粉、锤粉、米粉、魅粉、花粉、毛粉有什么异同点和逼格点？
-[答案]: 逼还有点了？
+<br>**问题**: 谷粉、软粉、果粉、锤粉、米粉、魅粉、花粉、毛粉有什么异同点和逼格点？
+**答案**: 逼还有点了？
 
 人和人之间唯一的异同就是有没有逼有没有鸟
 
  
 
  
-
-[问题]: 谷粉、软粉、果粉有什么异同点？
-[答案]: GOOGLE迷往往不在google工作
+<br>**问题**: 谷粉、软粉、果粉有什么异同点？
+**答案**: GOOGLE迷往往不在google工作
 
 MS迷往往只能找ms公司的工作 
 
@@ -40803,30 +38462,26 @@ APPLE迷往往找工作apple也不会要。
  
 
  
-
-[问题]: 财务自由是一种怎样的体验？
-[答案]: 死是一种什么状态？其实最自由的。我们去体验吧
-
- 
-
- 
-
-[问题]: 质子中子电子等亚原子粒子是不可区分的吗？
-[答案]: 电子是不可区分的；质子和中子是可以区分的。具体为神马发现是可区分的我等会再来看看＝＝
+<br>**问题**: 财务自由是一种怎样的体验？
+**答案**: 死是一种什么状态？其实最自由的。我们去体验吧
 
  
 
  
+<br>**问题**: 质子中子电子等亚原子粒子是不可区分的吗？
+**答案**: 电子是不可区分的；质子和中子是可以区分的。具体为神马发现是可区分的我等会再来看看＝＝
 
-[问题]: 质子和电子会“死”吗？
-[答案]: 湮灭的确可以让物质“消失”。衰变也能让质子，中子等复合粒子相互间发生转化。电子具有全同性，也就是说整个宇宙的所有电子都是一样的。这一点是当今物理学最大的理论难题之一。
+ 
+
+ 
+<br>**问题**: 质子和电子会“死”吗？
+**答案**: 湮灭的确可以让物质“消失”。衰变也能让质子，中子等复合粒子相互间发生转化。电子具有全同性，也就是说整个宇宙的所有电子都是一样的。这一点是当今物理学最大的理论难题之一。
 
  
 
  
-
-[问题]: 质子结合成核子，质量会亏损。是不是质子被咬了一小口不够圆了？
-[答案]: 不是学核的，
+<br>**问题**: 质子结合成核子，质量会亏损。是不是质子被咬了一小口不够圆了？
+**答案**: 不是学核的，
 
 答案可能有错。质子结合成核子，通过相互作用增强了系统能量（相互作用能），因此核子的质量减少了；相互作用的能量通过W或者Z子传递，他们各自也带有质量，是短程作用力。这个w,z子的质量可以认为是质子亏损的那部分质量转移来的。总的来说，能量是守恒的，广义质量也是守恒的。 
 
@@ -40835,17 +38490,15 @@ APPLE迷往往找工作apple也不会要。
  
 
  
-
-[问题]: 走向社会不被骗有哪些原则？
-[答案]: 多认识高水平的朋友（例如清华大学毕业的牛人），和他们交流，提高眼界；你各方面水平会自然提高；
-
- 
+<br>**问题**: 走向社会不被骗有哪些原则？
+**答案**: 多认识高水平的朋友（例如清华大学毕业的牛人），和他们交流，提高眼界；你各方面水平会自然提高；
 
  
 
-[问题]:跨平台融合——微软、苹果、Canonical 谁会成为第一个？
+ 
+<br>**问题**:跨平台融合——微软、苹果、Canonical 谁会成为第一个？
 
-[答案]: 微软的主要业务精力都放在人工智能（一种可能永远无法实现，只能伪接近的东西），语义识别，小冰上。他没有点消费者市场的天赋树，他不知道如何提升用户体验，如何设计消费产品，其桌面端，移动端在win
+**答案**: 微软的主要业务精力都放在人工智能（一种可能永远无法实现，只能伪接近的东西），语义识别，小冰上。他没有点消费者市场的天赋树，他不知道如何提升用户体验，如何设计消费产品，其桌面端，移动端在win
 
 8 的领导下都很失败，现在居然还在纠结开始菜单的问题。。靠这样一个为企业服务的工业公司统一消费者的跨平台，无异于天方夜谭。 
 
@@ -40856,9 +38509,8 @@ Google 没有传统意义上的桌面操作系统，这个问题不存在。
  
 
  
-
-[问题]: 身为一个基础学科的研究生，你是如何提高自己的编程能力的？
-[答案]: 聪明人学学就会。我这样的还得刷题。
+<br>**问题**: 身为一个基础学科的研究生，你是如何提高自己的编程能力的？
+**答案**: 聪明人学学就会。我这样的还得刷题。
 
 推荐一个网站 
 
@@ -40867,41 +38519,36 @@ Geeksforgeeks
  
 
  
-
-[问题]: 身为计算机博士的你毕业后情况如何？
-[答案]: 我了个去。。直接去ms当高帅富了。。。。。
+<br>**问题**: 身为计算机博士的你毕业后情况如何？
+**答案**: 我了个去。。直接去ms当高帅富了。。。。。
 
 世界上最有价值的phd就是cs phd了。日
 
  
 
  
-
-[问题]: 车速越快，行车越平稳，用物理知识如何解析？
-[答案]: 假定路面每隔1米出现一个足够大的坑洼，导致汽车产生垂直方向的震动。那么当你开的车速是10米每秒时，震动的频率是10Hz。如果是100米每秒时，震动的频率是100Hz。
+<br>**问题**: 车速越快，行车越平稳，用物理知识如何解析？
+**答案**: 假定路面每隔1米出现一个足够大的坑洼，导致汽车产生垂直方向的震动。那么当你开的车速是10米每秒时，震动的频率是10Hz。如果是100米每秒时，震动的频率是100Hz。
 
 汽车本身的固有频率可能是2-20Hz附近，而且不论如何，其频率响应一定是一个低通滤波器。因此速度越快，振荡频率越高，振幅越小。可以理解为上一个震动还未完全开始，下一个震动就到达了，两两抵消
 
  
 
  
-
-[问题]: 转动惯量到底是个表示什么的物理量？
-[答案]: 是一个描述刚体惯性的物理量。刚体具有旋转不变性，因此具有不变量角动量。描述角动量变化需要受到的力（力矩）的量就是转动惯量。
-
- 
-
- 
-
-[问题]: 转行搞开发，如何通过简历刷选拿到面试机会
-[答案]: 我建议你去名校学计算机硕士
+<br>**问题**: 转动惯量到底是个表示什么的物理量？
+**答案**: 是一个描述刚体惯性的物理量。刚体具有旋转不变性，因此具有不变量角动量。描述角动量变化需要受到的力（力矩）的量就是转动惯量。
 
  
 
  
+<br>**问题**: 转行搞开发，如何通过简历刷选拿到面试机会
+**答案**: 我建议你去名校学计算机硕士
 
-[问题]: 轮子哥和勃勃是怎么结下梁子的？
-[答案]: 三大烂漫：
+ 
+
+ 
+<br>**问题**: 轮子哥和勃勃是怎么结下梁子的？
+**答案**: 三大烂漫：
 
 1，自我吹捧 
 
@@ -40946,10 +38593,9 @@ Geeksforgeeks
  
 
  
+<br>**问题**: 轮子哥在微软Office部门的级别是什么？
 
-[问题]: 轮子哥在微软Office部门的级别是什么？
-
-[答案]:经过确认，轮子哥的级别已经是sde 3-4 了（微软sde ii 的意思就是3-4，
+**答案**:经过确认，轮子哥的级别已经是sde 3-4 了（微软sde ii 的意思就是3-4，
 
 1-2没有符号，5-6就是senior），下一级就是senior。离senior已经不远了！轮子哥将会成为我认识的第一个senior。 
 
@@ -40964,10 +38610,9 @@ Geeksforgeeks
  
 
  
+<br>**问题**:轮子哥在微软入职九年还是SDE 2，这正常吗？
 
-[问题]:轮子哥在微软入职九年还是SDE 2，这正常吗？
-
-[答案]: 加入深度学习行业，搞一下MXNET（现在已知在各个方面超过cafe2的框架），以后成为luqi，年收入千万还是有可能的。
+**答案**: 加入深度学习行业，搞一下MXNET（现在已知在各个方面超过cafe2的框架），以后成为luqi，年收入千万还是有可能的。
 
 但是那样毕竟太累了。还是陪粉丝玩水知乎写自己最喜欢的GUI最有意思。谁说C++ template是世界上最先进的语言呢。 
 
@@ -40978,32 +38623,28 @@ Geeksforgeeks
  
 
  
-
-[问题]: 轮子哥外形是高富帅还是普通程序猿？
-[答案]: 鲍默尔吧。你真爱微软？
+<br>**问题**: 轮子哥外形是高富帅还是普通程序猿？
+**答案**: 鲍默尔吧。你真爱微软？
 
 如果我是程序员，我一定更有节操
 
  
 
  
-
-[问题]: 轮子哥开课了，曾博为什么却生气了？
-[答案]: 我不生气那难道还生孩子？
-
- 
-
- 
-
-[问题]: 轮子哥最近翻牌的质量是不是变低了，如果是，为什么
-[答案]: 牌子用久了，磨损了一点
+<br>**问题**: 轮子哥开课了，曾博为什么却生气了？
+**答案**: 我不生气那难道还生孩子？
 
  
 
  
+<br>**问题**: 轮子哥最近翻牌的质量是不是变低了，如果是，为什么
+**答案**: 牌子用久了，磨损了一点
 
-[问题]: 轮子哥的C++为什么学的这么好？请分享一下学习C++秘诀？
-[答案]: 题目在此：
+ 
+
+ 
+<br>**问题**: 轮子哥的C++为什么学的这么好？请分享一下学习C++秘诀？
+**答案**: 题目在此：
 
 https:// zhuanlan.zhihu.com/p/21 265678 
 
@@ -41030,10 +38671,9 @@ https:// zhuanlan.zhihu.com/p/21 265678
  
 
  
+<br>**问题**:轮子哥的新头衔「《C++Primer 5th》强势审校」是什么意思？
 
-[问题]:轮子哥的新头衔「《C++Primer 5th》强势审校」是什么意思？
-
-[答案]: 骗粉的方式，人到中年就容易自大。
+**答案**: 骗粉的方式，人到中年就容易自大。
 
  
 
@@ -41046,23 +38686,20 @@ https:// zhuanlan.zhihu.com/p/21 265678
  
 
  
-
-[问题]: 轮子哥的英语是怎么练出来的？
-[答案]: 。。。如果水平不高的话也不需要练
-
- 
-
- 
-
-[问题]: 轮子哥这几天去哪里了？
-[答案]: 轮子哥的务工签证问题搞清楚了吗？轮子哥老婆你怎么看？
+<br>**问题**: 轮子哥的英语是怎么练出来的？
+**答案**: 。。。如果水平不高的话也不需要练
 
  
 
  
+<br>**问题**: 轮子哥这几天去哪里了？
+**答案**: 轮子哥的务工签证问题搞清楚了吗？轮子哥老婆你怎么看？
 
-[问题]: 轮子哥这种程序员的收入到底怎么样？
-[答案]: 年薪２０Ｗ应该有的吧（算上股票），也可能更高。很多微软中层都是这样，但问题在于，倘若继续写VC++的话，以后应该没什么涨幅了。
+ 
+
+ 
+<br>**问题**: 轮子哥这种程序员的收入到底怎么样？
+**答案**: 年薪２０Ｗ应该有的吧（算上股票），也可能更高。很多微软中层都是这样，但问题在于，倘若继续写VC++的话，以后应该没什么涨幅了。
 
  
 
@@ -41123,18 +38760,16 @@ UP的CEO们）。对于这些人来说，他们的工资讨论的起点都是50W
  
 
  
-
-[问题]: 软件工程对天赋的要求有多高？
-[答案]: 所以高票里面的她就是萌萌？
+<br>**问题**: 软件工程对天赋的要求有多高？
+**答案**: 所以高票里面的她就是萌萌？
 
 我也一定要好好学习去
 
  
 
  
-
-[问题]: 软黑是怎样炼成的？
-[答案]: 求微软给我工作。此祈祷长期有效
+<br>**问题**: 软黑是怎样炼成的？
+**答案**: 求微软给我工作。此祈祷长期有效
 
  
 
@@ -41149,39 +38784,34 @@ windows
  
 
  
-
-[问题]: 迄今为止，地球上有哪些未解之谜？
-[答案]: 为什么我这么蠢
-
- 
-
- 
-
-[问题]: 迄今为止，获得诺贝尔奖的日本人半数集中在物理领域，说明了什么？
-[答案]: 日本人牛逼，日本人牛逼。
+<br>**问题**: 迄今为止，地球上有哪些未解之谜？
+**答案**: 为什么我这么蠢
 
  
 
  
-
-[问题]:近一年多A股约盈50万。 如何加强本人的理财能力？
-
-[答案]: 你真是学以致用赚大钱了=别和我们抢码农工作
+<br>**问题**: 迄今为止，获得诺贝尔奖的日本人半数集中在物理领域，说明了什么？
+**答案**: 日本人牛逼，日本人牛逼。
 
  
 
  
+<br>**问题**:近一年多A股约盈50万。 如何加强本人的理财能力？
 
-[问题]:近两年 Data Mining 最重要的十篇 paper 是哪些？
+**答案**: 你真是学以致用赚大钱了=别和我们抢码农工作
 
-[答案]: 这句话有语病。最重要的十篇PAPER是哪十篇才对。“哪些”意味着提问数目不明，然而疑问句中已经用数量词10做限制定语修辞了数目，因此不能再用哪些作为提问句主语。
+ 
+
+ 
+<br>**问题**:近两年 Data Mining 最重要的十篇 paper 是哪些？
+
+**答案**: 这句话有语病。最重要的十篇PAPER是哪十篇才对。“哪些”意味着提问数目不明，然而疑问句中已经用数量词10做限制定语修辞了数目，因此不能再用哪些作为提问句主语。
 
  
 
  
-
-[问题]: 近年来的大学排名武大基本都是全国前五的位置，长久下来，以后的人会不会在观念上认为武大就是全国前五？
-[答案]: 小地区的人看排行榜
+<br>**问题**: 近年来的大学排名武大基本都是全国前五的位置，长久下来，以后的人会不会在观念上认为武大就是全国前五？
+**答案**: 小地区的人看排行榜
 
 大城市的人只看分数线。。 
 
@@ -41200,9 +38830,8 @@ windows
  
 
  
-
-[问题]: 还有20天工作，怎么安排这段时间？
-[答案]: 卖萌
+<br>**问题**: 还有20天工作，怎么安排这段时间？
+**答案**: 卖萌
 
 唱“ADELE”的歌 
 
@@ -41213,9 +38842,8 @@ windows
  
 
  
-
-[问题]: 还珠格格第三部为何替换掉绝大部分演员？
-[答案]: 你居然提出这个问题。即日起将为答应。
+<br>**问题**: 还珠格格第三部为何替换掉绝大部分演员？
+**答案**: 你居然提出这个问题。即日起将为答应。
 
 王答应，禁足，没有朕的手谕，任何人不得探视。 
 
@@ -41232,9 +38860,8 @@ windows
  
 
  
-
-[问题]: 这一波人工智能泡沫将会怎么破灭？
-[答案]: 才『一千』人关注此问题，看来并不是很泡沫。
+<br>**问题**: 这一波人工智能泡沫将会怎么破灭？
+**答案**: 才『一千』人关注此问题，看来并不是很泡沫。
 
  
 
@@ -41255,31 +38882,30 @@ SHAW啊。（当然给的也没FB多。主要是要影响力，和一个男人�
  
 
  
+<br>**问题**: 这一项为何为0？《信号与系统（郑君里）》上册
+**答案**: ......你确定你明白中括号右上角和右下角写的
 
-[问题]: 这一项为何为0？《信号与系统（郑君里）》上册
-[答案]: ......你确定你明白中括号右上角和右下角写的
+!**\\infty**(https://www.zhihu.com/equation?tex=%5Cinfty) 
 
-![\\infty](https://www.zhihu.com/equation?tex=%5Cinfty) 
-
-和 ![0](https://www.zhihu.com/equation?tex=0) 
+和 !**0**(https://www.zhihu.com/equation?tex=0) 
 
 所代表的意思？这是让你去积分吗。。。 
 
-当 ![t\\rightarrow \\infty
+当 !**t\\rightarrow \\infty
 
-](https://www.zhihu.com/equation?tex=t%5Crightarrow+%5Cinfty+) 
+**(https://www.zhihu.com/equation?tex=t%5Crightarrow+%5Cinfty+) 
 
 时，显然函数＝0，因为分子上
 
-![e^{-\\infty}=0](https://www.zhihu.com/equation?tex=e%5E%7B-%5Cinfty%7D%3D0) 
+!**e^{-\\infty}=0**(https://www.zhihu.com/equation?tex=e%5E%7B-%5Cinfty%7D%3D0) 
 
-，而积分项的值有限（和 ![f\(t\)](https://www.zhihu.com/equation?tex=f%28t%29) 
+，而积分项的值有限（和 !**f\(t\)**(https://www.zhihu.com/equation?tex=f%28t%29) 
 
 的可积性有关） 
 
-当 ![t=0](https://www.zhihu.com/equation?tex=t%3D0) 
+当 !**t=0**(https://www.zhihu.com/equation?tex=t%3D0) 
 
-时，显然函数＝0，因为分子上 ![e^{0}=1](https://www.zhihu.com/equation?tex=e%5E%7B0%7D%3D1) 
+时，显然函数＝0，因为分子上 !**e^{0}=1**(https://www.zhihu.com/equation?tex=e%5E%7B0%7D%3D1) 
 
 但积分区间＝0，积分＝0，函数＝0。 
 
@@ -41290,24 +38916,21 @@ SHAW啊。（当然给的也没FB多。主要是要影响力，和一个男人�
  
 
  
-
-[问题]: 这个世界
-[答案]: 这个世界是层级结构的。你必须一层一层走进世界的内部。你会发现这些人和你一样。但他们什么都不说：他们之和进入世界内部的人交流。而不恰当的社交则会把你从这个珍贵的世界中拉出去。比如，sns。也就是说，互联网的发展让那个内部的世界越来越小，但也越来越珍贵。生命的50年如果都花在那个世界里，这才是真正可贵的一生。
-
- 
-
- 
-
-[问题]: 这个递归的原理是怎么运算的？
-
-[答案]:哈哈。人类大脑是储存不了recursion 的
+<br>**问题**: 这个世界
+**答案**: 这个世界是层级结构的。你必须一层一层走进世界的内部。你会发现这些人和你一样。但他们什么都不说：他们之和进入世界内部的人交流。而不恰当的社交则会把你从这个珍贵的世界中拉出去。比如，sns。也就是说，互联网的发展让那个内部的世界越来越小，但也越来越珍贵。生命的50年如果都花在那个世界里，这才是真正可贵的一生。
 
  
 
  
+<br>**问题**: 这个递归的原理是怎么运算的？
 
-[问题]: 这几年清华本科特奖中没有一个当年的省状元或国际金牌，这是为什么？
-[答案]: 你真幼稚
+**答案**:哈哈。人类大脑是储存不了recursion 的
+
+ 
+
+ 
+<br>**问题**: 这几年清华本科特奖中没有一个当年的省状元或国际金牌，这是为什么？
+**答案**: 你真幼稚
 
 你想得到什么答案? 
 
@@ -41322,34 +38945,32 @@ SHAW啊。（当然给的也没FB多。主要是要影响力，和一个男人�
  
 
  
-
-[问题]: 这张照片丑在哪里？
-[答案]: 看到大家这么倾情为我分析讲解，受益匪浅。我会多锻炼少上网的，在此，特献上我的表情包
+<br>**问题**: 这张照片丑在哪里？
+**答案**: 看到大家这么倾情为我分析讲解，受益匪浅。我会多锻炼少上网的，在此，特献上我的表情包
 
 欢迎使用 
 
-![](https://pic2.zhimg.com/803a07d1a97b04c2c6e847322bcfb5c9_b.png)
+!****(https://pic2.zhimg.com/803a07d1a97b04c2c6e847322bcfb5c9_b.png)
 
-![](https://pic2.zhimg.com/658d426a117611561134616720dd2615_b.png)
+!****(https://pic2.zhimg.com/658d426a117611561134616720dd2615_b.png)
 
-![](https://pic3.zhimg.com/47282b9c8908405db5e7fb6c59212456_b.png)
+!****(https://pic3.zhimg.com/47282b9c8908405db5e7fb6c59212456_b.png)
 
-![](https://pic2.zhimg.com/a9828cc0f4078694d583fcaa073a07ad_b.png)
+!****(https://pic2.zhimg.com/a9828cc0f4078694d583fcaa073a07ad_b.png)
 
-![](https://pic1.zhimg.com/6ac47f7e8db38ed73b2a3dda0dc034f0_b.png)
+!****(https://pic1.zhimg.com/6ac47f7e8db38ed73b2a3dda0dc034f0_b.png)
 
-![](https://pic4.zhimg.com/3b3cdc86ed1a2f89f71098dc0c7037db_b.png)
+!****(https://pic4.zhimg.com/3b3cdc86ed1a2f89f71098dc0c7037db_b.png)
 
-![](https://pic1.zhimg.com/5abe60138b162da0999558f1320fef18_b.png)
+!****(https://pic1.zhimg.com/5abe60138b162da0999558f1320fef18_b.png)
 
-![](https://pic3.zhimg.com/61bdee5d1a3b09a475ed28b01a81704a_b.png)
-
- 
+!****(https://pic3.zhimg.com/61bdee5d1a3b09a475ed28b01a81704a_b.png)
 
  
 
-[问题]: 这是谁的演讲提纲（选节）？
-[答案]: 黑我大勃勃，已举报
+ 
+<br>**问题**: 这是谁的演讲提纲（选节）？
+**答案**: 黑我大勃勃，已举报
 
 http:// zhuanlan.zhihu.com/jiuy an/20598724 
 
@@ -41358,10 +38979,9 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
+<br>**问题**: 这样的永动机是否存在？
 
-[问题]: 这样的永动机是否存在？
-
-[答案]:这 ** 是有可能 **
+**答案**:这 ** 是有可能 **
 
 的。所谓能量守恒，和电荷守恒，动量守恒一样是人类目前观测体系中，因为系统的时空，度规等对称性所导致的不变量。但这完全可能被破坏，例如弱作用下的宇称不守恒等。不过能量，动量暂时还没有观测到不守恒。 
 
@@ -41372,9 +38992,8 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
-
-[问题]: 这种看似冒险的、另辟蹊径的高考自主复习策略的可行性如何？
-[答案]: 我觉得冰冰的经验值得学习。我就算了。
+<br>**问题**: 这种看似冒险的、另辟蹊径的高考自主复习策略的可行性如何？
+**答案**: 我觉得冰冰的经验值得学习。我就算了。
 
 另外可以问问徐老师。 @徐国曦 
 
@@ -41385,55 +39004,48 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
-
-[问题]: 这里面too的用法对吗？
-[答案]: 对的。副词可以放在句子任何地方，前置表强调。
-
- 
+<br>**问题**: 这里面too的用法对吗？
+**答案**: 对的。副词可以放在句子任何地方，前置表强调。
 
  
 
-[问题]: 选择浙江大学【选学校】还是同济大学【选专业】？
-[答案]: 你生物和信息都是省一，却仍然考不上清华北大。说明你智商不足，没能进全省前20。你还是去复读一次吧，期待你的智商在这一年中得到提高～
+ 
+<br>**问题**: 选择浙江大学【选学校】还是同济大学【选专业】？
+**答案**: 你生物和信息都是省一，却仍然考不上清华北大。说明你智商不足，没能进全省前20。你还是去复读一次吧，期待你的智商在这一年中得到提高～
 
 （PS：我是说真的。我之前不知道清北的学生对自己的智商有这么高的信仰。我觉得你这辈子失去获得这个信仰的机会的话，也是蛮可惜的。你有能力，我建议你强迫自己复读一年，成为高智商拥有者。虽然你进去之后可能丧失成为马云和马化腾的机会，但你可以成为杨振宁啊）
 
  
 
  
-
-[问题]: 通电p型半导体受到的洛伦兹力（霍尔效应）怎么解释？
-[答案]: 希望你问的在清楚一点。。
-
- 
+<br>**问题**: 通电p型半导体受到的洛伦兹力（霍尔效应）怎么解释？
+**答案**: 希望你问的在清楚一点。。
 
  
 
-[问题]: 通识课碰到反相对论的非物理系教授怎么办？
-[答案]: 勇气可嘉；
+ 
+<br>**问题**: 通识课碰到反相对论的非物理系教授怎么办？
+**答案**: 勇气可嘉；
 
 可歌可泣
 
  
 
  
-
-[问题]: 造谣者出于什么目的要造谣？
-[答案]: 有一个成语是哗众取宠
-
- 
-
- 
-
-[问题]: 那些初高中甚至小学就接触编程的人最后到了什么样的境界？
-[答案]: 最后都来知乎了
+<br>**问题**: 造谣者出于什么目的要造谣？
+**答案**: 有一个成语是哗众取宠
 
  
 
  
+<br>**问题**: 那些初高中甚至小学就接触编程的人最后到了什么样的境界？
+**答案**: 最后都来知乎了
 
-[问题]: 那到底搜索关键词怎样管理才能兼顾商业和道德？
-[答案]: 很简单：
+ 
+
+ 
+<br>**问题**: 那到底搜索关键词怎样管理才能兼顾商业和道德？
+**答案**: 很简单：
 
 正如烟草一样，在医疗广告下面用清楚的字显示：网络就医有害健康；广告有风险，责任请自负； 
 
@@ -41442,9 +39054,8 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
-
-[问题]: 都说“性格决定命运”，这个说法成立么？如果成立，好的命运的人又是怎么样的性格？
-[答案]: 命运和性格都是相互影响，不断演化，共同筛选的。一个人如果不能从失败和错误中汲取教训，改变自己的缺点，那么他的性格就决定了它失败的命运；如果一个人能从经验中汲取教训，永不再犯，那么他的性格就决定了他成功的命运。
+<br>**问题**: 都说“性格决定命运”，这个说法成立么？如果成立，好的命运的人又是怎么样的性格？
+**答案**: 命运和性格都是相互影响，不断演化，共同筛选的。一个人如果不能从失败和错误中汲取教训，改变自己的缺点，那么他的性格就决定了它失败的命运；如果一个人能从经验中汲取教训，永不再犯，那么他的性格就决定了他成功的命运。
 
 邓布利多就是这么一个人。他是天才，但是当他通过误杀妹妹和爱上另外一个男人这个错误意识到自己的弱点时（对权力的欲望），勇敢的斩断了迷思，安心做起了校长，最后成功领导了对同样具有权利迷思的伏地魔的决战。他对波特说过一句话， 
 
@@ -41477,17 +39088,15 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
-
-[问题]: 都说研究大熊猫具有重大科学意义，这些所谓「重大」的科学意义到底是什么？
-[答案]: 以全局为大，海内外影响为重。所谓重大
-
- 
+<br>**问题**: 都说研究大熊猫具有重大科学意义，这些所谓「重大」的科学意义到底是什么？
+**答案**: 以全局为大，海内外影响为重。所谓重大
 
  
 
-[问题]: 采铜、李笑来、万维钢、刘未鹏、雾满拦江等人的各种方法论和认知论是不是一种新的成功学？
+ 
+<br>**问题**: 采铜、李笑来、万维钢、刘未鹏、雾满拦江等人的各种方法论和认知论是不是一种新的成功学？
 
-[答案]:这个社会动荡和痛苦的来源，就是普通的失败人士不承认不接受自己的失败，还一定要去学什么成功学，给自己制造一种正能量充满希望的虚幻。试问，这除了给成功人士 **
+**答案**:这个社会动荡和痛苦的来源，就是普通的失败人士不承认不接受自己的失败，还一定要去学什么成功学，给自己制造一种正能量充满希望的虚幻。试问，这除了给成功人士 **
 
 滋滋滋 ** 送钱以外还有什么任何的好处？ 
 
@@ -41506,9 +39115,8 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
-
-[问题]: 野鸡大学出身怎么才能和勃勃做朋友
-[答案]: 报名参加我开设的勃算课：
+<br>**问题**: 野鸡大学出身怎么才能和勃勃做朋友
+**答案**: 报名参加我开设的勃算课：
 
 链接如下： 
 
@@ -41519,9 +39127,8 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
-
-[问题]: 量子力学中轨道角动量怎么定义？是r×p吗？，但是r和p不能同时确定吧。
-[答案]: 问的好。把我问住了。
+<br>**问题**: 量子力学中轨道角动量怎么定义？是r×p吗？，但是r和p不能同时确定吧。
+**答案**: 问的好。把我问住了。
 
 冰冰冰冰！ 
 
@@ -41532,10 +39139,9 @@ http:// zhuanlan.zhihu.com/jiuy an/20598724
  
 
  
+<br>**问题**: 量子力学初学者的一个问题？
 
-[问题]: 量子力学初学者的一个问题？
-
-[答案]:上面的回答可以说都是错误的。所谓无限大的平面波（也就是你给出的这个表达式）恰好完美证明了测不准原理：因为你能写出它 ** 严格的动量p **
+**答案**:上面的回答可以说都是错误的。所谓无限大的平面波（也就是你给出的这个表达式）恰好完美证明了测不准原理：因为你能写出它 ** 严格的动量p **
 
 ，所以它在空间中的 ** 延展必须是无穷大的 ** ，也就是说，delta p=0, delta x=
 
@@ -41558,29 +39164,28 @@ infinity。你基本上无法确定这个波在空间中的“哪一个位置”
  
 
  
+<br>**问题**: 量子力学和信号与系统这两门课之间是不是有某种联系？
+**答案**: !e^{xy}(https://www.zhihu.com/equation?tex=e%5E%7Bxy%7D)
 
-[问题]: 量子力学和信号与系统这两门课之间是不是有某种联系？
-[答案]: !e^{xy}(https://www.zhihu.com/equation?tex=e%5E%7Bxy%7D)
-
-中， ![x,y](https://www.zhihu.com/equation?tex=x%2Cy) 
+中， !**x,y**(https://www.zhihu.com/equation?tex=x%2Cy) 
 
 称为共轭变量。例如在平面波中： 
 
-![e^{ixk-i\\omega
+!**e^{ixk-i\\omega
 
-t}](https://www.zhihu.com/equation?tex=e%5E%7Bixk-i%5Comega+t%7D) 
+t}**(https://www.zhihu.com/equation?tex=e%5E%7Bixk-i%5Comega+t%7D) 
 
-, ![x,k](https://www.zhihu.com/equation?tex=x%2Ck) 
+, !**x,k**(https://www.zhihu.com/equation?tex=x%2Ck) 
 
-共轭； ![\\omega, t](https://www.zhihu.com/equation?tex=%5Comega%2C+t) 
+共轭； !**\\omega, t**(https://www.zhihu.com/equation?tex=%5Comega%2C+t) 
 
 共轭，因此有变换关系。 
 
 之所以信号和量子力学有相似处，因为他们处理的都是波而已。量子力学最本质的共轭变量变换关系是要求： 
 
-![\[x,p\]=i\\hbar](https://www.zhihu.com/equation?tex=%5Bx%2Cp%5D%3Di%5Chbar) 
+!**\**x,p\**=i\\hbar**(https://www.zhihu.com/equation?tex=%5Bx%2Cp%5D%3Di%5Chbar) 
 
-。或者又说， ![p=\\hbar k](https://www.zhihu.com/equation?tex=p%3D%5Chbar+k) 
+。或者又说， !**p=\\hbar k**(https://www.zhihu.com/equation?tex=p%3D%5Chbar+k) 
 
 。这个可是和信号系统半毛钱关系也没有的。
 
@@ -41603,31 +39208,28 @@ principle corresponds to the symplectic form _ _ .
  
 
  
+<br>**问题**: 量子化的定义是什么？量子化的理论一定会出现普朗克常量h吗？
 
-[问题]: 量子化的定义是什么？量子化的理论一定会出现普朗克常量h吗？
-
-[答案]:量子化理论中必定存在hbar .
+**答案**:量子化理论中必定存在hbar .
 
 这是量子理论中，能量的单位。而一个力学系统没有能量是无法想象的。（能量是基本的不变量，变分的目标函数）当然在某些单位系统中可以令hbar=1. 
 
 量子化的定义是这样： 
 
-[x,p]=i hbar
+**x,p**=i hbar
 
  
 
  
-
-[问题]: 量子的不确定理论是科学还是骗局？
-[答案]: 你还是好好学习找到一份微软的工作吧亲
-
- 
+<br>**问题**: 量子的不确定理论是科学还是骗局？
+**答案**: 你还是好好学习找到一份微软的工作吧亲
 
  
 
-[问题]: 量子的题目求解？
+ 
+<br>**问题**: 量子的题目求解？
 
-[答案]:F 是个矩阵？ 
+**答案**:F 是个矩阵？ 
 
  
 
@@ -41640,16 +39242,14 @@ principle corresponds to the symplectic form _ _ .
  
 
  
-
-[问题]: 量子通讯创始人潘建伟能否成为中国本土诺贝尔物理学奖第一人？
-[答案]: 能不能都和你无关。。。
-
- 
+<br>**问题**: 量子通讯创始人潘建伟能否成为中国本土诺贝尔物理学奖第一人？
+**答案**: 能不能都和你无关。。。
 
  
 
-[问题]: 金属为什么有金属光泽？
-[答案]: 这主要是个物理问题，而不是化学问题。
+ 
+<br>**问题**: 金属为什么有金属光泽？
+**答案**: 这主要是个物理问题，而不是化学问题。
 
 首先，自由电子的电磁响应（lorentz 方程）决定了金属对低于某一个频率（plasmon
 
@@ -41670,39 +39270,36 @@ law的平面反射。这样一来取决于光源的位置，人眼看到金属�
  
 
  
-
-[问题]: 金属为什么能反射电磁波？
-[答案]: 关于物质对电磁波作用的微观解释，请看我在其他帖子内的回答。
-
- 
+<br>**问题**: 金属为什么能反射电磁波？
+**答案**: 关于物质对电磁波作用的微观解释，请看我在其他帖子内的回答。
 
  
 
-[问题]: 金属反光和其他平面的反光有什么本质区别？为什么偏振镜不能消除金属表面的反光？
+ 
+<br>**问题**: 金属反光和其他平面的反光有什么本质区别？为什么偏振镜不能消除金属表面的反光？
 
-[答案]:参考Fresnel 公式： 
+**答案**:参考Fresnel 公式： 
 
 对于P偏振光，反射率为： 
 
 对于S偏振光，反射率为： 
 
-![](https://pic3.zhimg.com/3c465dd65e789631e9a5a027a0dac66a_b.jpg) 
+!****(https://pic3.zhimg.com/3c465dd65e789631e9a5a027a0dac66a_b.jpg) 
 
 对于一般材料，P和S偏振光的反射率的比值为： 
 
-![](https://pic4.zhimg.com/b5e35ae549dea1050c04cd823239fbaf_b.jpg) 
+!****(https://pic4.zhimg.com/b5e35ae549dea1050c04cd823239fbaf_b.jpg) 
 
 对于金属（高N材料），P,S偏振光的反射率比值为：~1 
 
-![](https://pic1.zhimg.com/f46dd411252cb44a9a566b95676fcbdc_b.jpg)
+!****(https://pic1.zhimg.com/f46dd411252cb44a9a566b95676fcbdc_b.jpg)
 
  
 
  
+<br>**问题**: 金属网可以阻挡电磁波传播的原理是什么？
 
-[问题]: 金属网可以阻挡电磁波传播的原理是什么？
-
-[答案]:2楼从工程的角度给出了合理解释。实际上从物理上说，周期性结构存在光子波带（想象下光子晶体），波带可能存在禁带stop band。所谓波导的cut off
+**答案**:2楼从工程的角度给出了合理解释。实际上从物理上说，周期性结构存在光子波带（想象下光子晶体），波带可能存在禁带stop band。所谓波导的cut off
 
 frequency其实就是一种stop band。金属网也有stop band。因此，在这个stop band
 
@@ -41713,9 +39310,8 @@ approximation来计算，简而言之，和静电场一样，只是换上AC 的�
  
 
  
-
-[问题]: 金钱名誉地位健康情感，人生最重要的是什么？
-[答案]: 金钱。
+<br>**问题**: 金钱名誉地位健康情感，人生最重要的是什么？
+**答案**: 金钱。
 
 因为只有金钱是一般等价物 
 
@@ -41724,9 +39320,8 @@ approximation来计算，简而言之，和静电场一样，只是换上AC 的�
  
 
  
-
-[问题]: 钟晓迪和曾博什么关系？和勃学呢？
-[答案]: 他并不懂哲学。
+<br>**问题**: 钟晓迪和曾博什么关系？和勃学呢？
+**答案**: 他并不懂哲学。
 
 水平不高，只会编纂故事骗取关注，仔细一看毫无思想 
 
@@ -41735,25 +39330,22 @@ approximation来计算，简而言之，和静电场一样，只是换上AC 的�
  
 
  
+<br>**问题**:银色是什么颜色？RGB 的色系里面是不是没有银色？光学上该如何定义？
 
-[问题]:银色是什么颜色？RGB 的色系里面是不是没有银色？光学上该如何定义？
-
-[答案]: 主要是白色（高反）
-
- 
-
- 
-
-[问题]: 银铃般的笑声是怎样的？
-[答案]: 啊哈哈哈哈哈哈哈哈哈呵呵呵哈哈哈哈呵呵呵哈哈呵哈呵呵呵呵哈
+**答案**: 主要是白色（高反）
 
  
 
  
+<br>**问题**: 银铃般的笑声是怎样的？
+**答案**: 啊哈哈哈哈哈哈哈哈哈呵呵呵哈哈哈哈呵呵呵哈哈呵哈呵呵呵呵哈
 
-[问题]:错过了李开复老师的知乎 Live，还有什么方法可以得到？
+ 
 
-[答案]: 强迫让成功人士上知乎和屌丝对话，真的好吗。。。除了掀起一股风，能创造什么价值吗？
+ 
+<br>**问题**:错过了李开复老师的知乎 Live，还有什么方法可以得到？
+
+**答案**: 强迫让成功人士上知乎和屌丝对话，真的好吗。。。除了掀起一股风，能创造什么价值吗？
 
  
 
@@ -41780,33 +39372,29 @@ MEDIUM.COM _ _ 。最后，LIVE一般说的是视频，例如FB LIVE；你这个
  
 
  
-
-[问题]: 锤子科技的文艺青年版T恤为什么能卖到199？
-[答案]: 对于稍微有钱的人来说，199真不贵。你要考虑老罗是一家完全正当缴税的企业。没有什么幺蛾子。换成美金也就是30刀一件（税前），是比19.99一件的贵了一点，但可以把材质做好，不像我买了一件7刀的，洗一次就抹布了。有意思？
+<br>**问题**: 锤子科技的文艺青年版T恤为什么能卖到199？
+**答案**: 对于稍微有钱的人来说，199真不贵。你要考虑老罗是一家完全正当缴税的企业。没有什么幺蛾子。换成美金也就是30刀一件（税前），是比19.99一件的贵了一点，但可以把材质做好，不像我买了一件7刀的，洗一次就抹布了。有意思？
 
 199和129没啥区别。现在顿饭都要人均60，70了。这件衣服能穿2年，值得了
 
  
 
  
-
-[问题]: 镜子中是否有另一个世界？
-[答案]: 镜子成像只是光子的反射。可见光范围内的光子无法进入金属表层太深。因此，镜子内部是不透明的，光子的光路只是从外部进入到金属表层内几十到几百纳米的范围内，其余的都反射回来了。从这个角度来说，镜子内部不存在另外一个世界。
-
- 
-
- 
-
-[问题]: 问开过的人，奥迪Q5好还是宝马X3好？
-
-[答案]:这些车明年就被tesla x 秒杀了。。。
+<br>**问题**: 镜子中是否有另一个世界？
+**答案**: 镜子成像只是光子的反射。可见光范围内的光子无法进入金属表层太深。因此，镜子内部是不透明的，光子的光路只是从外部进入到金属表层内几十到几百纳米的范围内，其余的都反射回来了。从这个角度来说，镜子内部不存在另外一个世界。
 
  
 
  
+<br>**问题**: 问开过的人，奥迪Q5好还是宝马X3好？
 
-[问题]: 问题删了，别黑人了，没意思，问号？
-[答案]: 我知道你是在黑他。但我还是要骂你。
+**答案**:这些车明年就被tesla x 秒杀了。。。
+
+ 
+
+ 
+<br>**问题**: 问题删了，别黑人了，没意思，问号？
+**答案**: 我知道你是在黑他。但我还是要骂你。
 
 有个JB用。能比得上清华大学特等奖学金得主？ 
 
@@ -41821,9 +39409,8 @@ two sigma, citadel, D.E.Shaw, Jump 等公司的offer。
  
 
  
-
-[问题]: 问题已解决关闭？
-[答案]: 大一上半年下半年考虑转学去美帝，或者去香港。
+<br>**问题**: 问题已解决关闭？
+**答案**: 大一上半年下半年考虑转学去美帝，或者去香港。
 
 转学去美帝最后去cal tech 再拿到Harvard offer的不要太多 
 
@@ -41836,9 +39423,8 @@ two sigma, citadel, D.E.Shaw, Jump 等公司的offer。
  
 
  
-
-[问题]: 问：程序猿要进入大公司（实习或者入职）如BAT等英语一定要过四级么？？
-[答案]: Hi:
+<br>**问题**: 问：程序猿要进入大公司（实习或者入职）如BAT等英语一定要过四级么？？
+**答案**: Hi:
 
 How the code is work? It is work last day and it is not today. If it is work
 
@@ -41847,9 +39433,8 @@ tell me else I am not happy
  
 
  
-
-[问题]: 阻止屌丝自杀是不是精英们的阴谋？
-[答案]: 是的。请看我的签名
+<br>**问题**: 阻止屌丝自杀是不是精英们的阴谋？
+**答案**: 是的。请看我的签名
 
  
 
@@ -41892,9 +39477,8 @@ tell me else I am not happy
  
 
  
-
-[问题]: 阿里2016校招给技术人员工资10k一个月是真的吗？
-[答案]: 码农市场要崩溃了。
+<br>**问题**: 阿里2016校招给技术人员工资10k一个月是真的吗？
+**答案**: 码农市场要崩溃了。
 
 刷题还有什么用？ 
 
@@ -41903,9 +39487,8 @@ tell me else I am not happy
  
 
  
-
-[问题]: 阿里、百度、腾讯、微软、英特尔等著名企业，校招后的三年，员工的待遇和成长情况？
-[答案]: 如果我在国内我一定去微软，原因有三：
+<br>**问题**: 阿里、百度、腾讯、微软、英特尔等著名企业，校招后的三年，员工的待遇和成长情况？
+**答案**: 如果我在国内我一定去微软，原因有三：
 
 1，给所有人机会。微软的工作机会是最平等的，这对于找工作的重要性不言而喻。如果能有机会拿到微软的实习，自然今后寻找工作的底气也就足了很多。对于跨专业的人来说更是如此，其他公司往往狗眼看人低，一看你不是计算机专业的就不要你。但微软更注重实际能力。 
 
@@ -41932,10 +39515,9 @@ tell me else I am not happy
  
 
  
+<br>**问题**:阿里实习等级评判A A+ B+比例大概是多少？
 
-[问题]:阿里实习等级评判A A+ B+比例大概是多少？
-
-[答案]: 阿里巴巴，天下无敌；阿里巴巴，世界第一。
+**答案**: 阿里巴巴，天下无敌；阿里巴巴，世界第一。
 
 阿里巴巴，今天七十七 
 
@@ -41946,105 +39528,91 @@ tell me else I am not happy
  
 
  
+<br>**问题**:阿里巴巴 2015 年双十一达到 912.17 亿 GMV 后，是什么原因导致了其股价开市则持续走低？
 
-[问题]:阿里巴巴 2015 年双十一达到 912.17 亿 GMV 后，是什么原因导致了其股价开市则持续走低？
-
-[答案]: 东西卖的这么好，都卖到国外去了，还可以跌；看来uber也要步后尘了。。。。。
-
- 
-
- 
-
-[问题]:阿里巴巴 P8、P9 及以上到底是什么水平？
-
-[答案]: 秒杀现在在线的全部知乎CS渣渣。
+**答案**: 东西卖的这么好，都卖到国外去了，还可以跌；看来uber也要步后尘了。。。。。
 
  
 
  
+<br>**问题**:阿里巴巴 P8、P9 及以上到底是什么水平？
 
-[问题]: 阿里巴巴2015年校招交互设计实习笔试可能会出什么题？
-[答案]: 有人说淘宝专卖假货，你会如何反驳他
-
- 
-
- 
-
-[问题]: 阿里巴巴即将超越沃尔玛成全球第一大零售商，有哪些意义？
-[答案]: 前端的地位会更大。
+**答案**: 秒杀现在在线的全部知乎CS渣渣。
 
  
 
  
-
-[问题]: 阿里巴巴暑期实习面试和学校考试冲突怎么办？
-[答案]: 我不会去面试时间无法根据你的日程表调整的公司面试。这种公司毫无价值，以为自己是在菜市场买菜。
-
- 
-
- 
-
-[问题]: 阿里用户体验题：“研究一大陆购物网站进军台湾后，提升流量和销量的方法”考官要考的是什么？如何答比较好？
-[答案]: 不好意思我文不对题。。但我觉得真的比算法题要难。题主你确定要走这一行？
+<br>**问题**: 阿里巴巴2015年校招交互设计实习笔试可能会出什么题？
+**答案**: 有人说淘宝专卖假货，你会如何反驳他
 
  
 
  
+<br>**问题**: 阿里巴巴即将超越沃尔玛成全球第一大零售商，有哪些意义？
+**答案**: 前端的地位会更大。
 
-[问题]: 阿里的研发实习和微软的技术支持实习如何选择？
-[答案]: 我觉得轮子更帅
+ 
+
+ 
+<br>**问题**: 阿里巴巴暑期实习面试和学校考试冲突怎么办？
+**答案**: 我不会去面试时间无法根据你的日程表调整的公司面试。这种公司毫无价值，以为自己是在菜市场买菜。
 
  
 
  
+<br>**问题**: 阿里用户体验题：“研究一大陆购物网站进军台湾后，提升流量和销量的方法”考官要考的是什么？如何答比较好？
+**答案**: 不好意思我文不对题。。但我觉得真的比算法题要难。题主你确定要走这一行？
 
-[问题]: 除了火没影子外，还有什么在光照下没影子？
-[答案]: 火有影子。
+ 
+
+ 
+<br>**问题**: 阿里的研发实习和微软的技术支持实习如何选择？
+**答案**: 我觉得轮子更帅
+
+ 
+
+ 
+<br>**问题**: 除了火没影子外，还有什么在光照下没影子？
+**答案**: 火有影子。
 
 火影
 
  
 
  
-
-[问题]: 除了知乎live，世界上还有哪些东西是成功人士制造的幻境？
-[答案]: 当然是微信围棋学习群和算命学习群了。。。
-
- 
-
- 
-
-[问题]: 随着同性婚姻在美国全面合法，一妻多夫和一夫多妻未来有可能在美国全面合法吗？
-[答案]: 等持有opt的学生在美国工作长期合法，h1b有效期达到10年，可无限续签的时候，一夫多妻，一妻多夫，多妻多夫都会合法的。工作比结婚重要。工作比结婚重要。工作比结婚重要。什么事情要说三遍来着？
+<br>**问题**: 除了知乎live，世界上还有哪些东西是成功人士制造的幻境？
+**答案**: 当然是微信围棋学习群和算命学习群了。。。
 
  
 
  
-
-[问题]: 随着高度的增加地球引力会相对减弱吗？
-[答案]: 同一楼上。引力的大小从牛顿的角度来说是和距离的平方成反比的。具体要计算的话可以用类似经典场的高斯公式。地球的引力范围应该是无穷大。
-
- 
-
- 
-
-[问题]: 隔空移物是一种怎么样的体验？
-[答案]: 我觉得当时我在做梦。实际上真的在做梦
+<br>**问题**: 随着同性婚姻在美国全面合法，一妻多夫和一夫多妻未来有可能在美国全面合法吗？
+**答案**: 等持有opt的学生在美国工作长期合法，h1b有效期达到10年，可无限续签的时候，一夫多妻，一妻多夫，多妻多夫都会合法的。工作比结婚重要。工作比结婚重要。工作比结婚重要。什么事情要说三遍来着？
 
  
 
  
-
-[问题]: 集合A中，有的子集的并集为A，且各个子集的元素不重复，如何列出所有这样的子集组合？
-
-[答案]:backtracking with pruning
+<br>**问题**: 随着高度的增加地球引力会相对减弱吗？
+**答案**: 同一楼上。引力的大小从牛顿的角度来说是和距离的平方成反比的。具体要计算的话可以用类似经典场的高斯公式。地球的引力范围应该是无穷大。
 
  
 
  
+<br>**问题**: 隔空移物是一种怎么样的体验？
+**答案**: 我觉得当时我在做梦。实际上真的在做梦
 
-[问题]: 震荡电路向外辐射电磁波功率和震荡频率四次方成正比怎么证明？
-[答案]: 光子的能量和频率成正比
+ 
+
+ 
+<br>**问题**: 集合A中，有的子集的并集为A，且各个子集的元素不重复，如何列出所有这样的子集组合？
+
+**答案**:backtracking with pruning
+
+ 
+
+ 
+<br>**问题**: 震荡电路向外辐射电磁波功率和震荡频率四次方成正比怎么证明？
+**答案**: 光子的能量和频率成正比
 
 功率和震荡频率成正比（在天线理论里，一个周期放出一群光子吧，可以这么说） 
 
@@ -42053,9 +39621,8 @@ tell me else I am not happy
  
 
  
-
-[问题]: 青少年时期的「精英」学生和「平庸」学生在步入社会后的差别很大吗？
-[答案]: 你如何定义精英？我们学校找不到工作的一大把。温兆伦年薪超过100万。你觉得如何从青少年时期就定义精英？
+<br>**问题**: 青少年时期的「精英」学生和「平庸」学生在步入社会后的差别很大吗？
+**答案**: 你如何定义精英？我们学校找不到工作的一大把。温兆伦年薪超过100万。你觉得如何从青少年时期就定义精英？
 
  
 
@@ -42076,9 +39643,8 @@ facebook，都不可能是精英。更别提我这种找不到工作的。
  
 
  
-
-[问题]: 非计算机专业的程序员能达到什么样的高度？
-[答案]: 学的太多反而不好。学点别的，然后入门，然后找人带你。而且只学对你有用的就可以了。
+<br>**问题**: 非计算机专业的程序员能达到什么样的高度？
+**答案**: 学的太多反而不好。学点别的，然后入门，然后找人带你。而且只学对你有用的就可以了。
 
 天天写代码的人肯定没有你具备的其他优势，譬如，你懂一点小物理（化学，生物，数学，人文），会搭建一些电路或者测量设备，会解方程做仿真。会英语。而这些技能也是非常重要的。gogole不是要搞nfc做什么近场付费吗，不懂电磁场的纯码农怎么上手？此外他们就算上手了，会觉得有意思吗？他能理解自己在干什么吗？ 
 
@@ -42087,25 +39653,22 @@ facebook，都不可能是精英。更别提我这种找不到工作的。
  
 
  
-
-[问题]: 面对现实还是走自己的路？
-[答案]: 因为你还没遇到，计算机
-
- 
-
- 
-
-[问题]:面试题 给定一个顺序排列的数组，和一个数n，如何快速找出大于等于n的那个数的下标？
-
-[答案]: 考试只考这道题就好了。
+<br>**问题**: 面对现实还是走自己的路？
+**答案**: 因为你还没遇到，计算机
 
  
 
  
+<br>**问题**:面试题 给定一个顺序排列的数组，和一个数n，如何快速找出大于等于n的那个数的下标？
 
-[问题]:预算有限，应该买 iPhone 6，还是买一个入门级单反相机？
+**答案**: 考试只考这道题就好了。
 
-[答案]:我建议你买iphone . 买完iPhone 之后你发觉移动计算的美好毅然回家每天学习objective c
+ 
+
+ 
+<br>**问题**:预算有限，应该买 iPhone 6，还是买一个入门级单反相机？
+
+**答案**:我建议你买iphone . 买完iPhone 之后你发觉移动计算的美好毅然回家每天学习objective c
 
 开发移动端程序和网页最后成为出色的开发者写的程序经验帖点击达到30万，网上粉丝150万，受计算机杂志邀请写文章，卖软件赚了不少钱。现在已经到了去硅谷工作的路上。即便不是去硅谷，也是去在阿里巴巴，百度，360的路上。 
 
@@ -42116,63 +39679,55 @@ facebook，都不可能是精英。更别提我这种找不到工作的。
  
 
  
-
-[问题]: 风可以吹动光吗？
-[答案]: 说的不错。风不但可以吹动光，光还可以点亮风。
-
- 
-
- 
-
-[问题]: 飞行模式如果不叫「飞行模式」那应该叫什么？
-
-[答案]:英文原文是 airplane mode：飞机上模式。
+<br>**问题**: 风可以吹动光吗？
+**答案**: 说的不错。风不但可以吹动光，光还可以点亮风。
 
  
 
  
+<br>**问题**: 飞行模式如果不叫「飞行模式」那应该叫什么？
 
-[问题]: 饭店有1000个房间，规定每个房间都只能住一个人，如何让1001个人都能睡觉
-[答案]: 没有带行李是一个提示。因为没有带行李，所以，他，对不起我编不下去了。
-
- 
-
- 
-
-[问题]: 马东和汪涵你们更喜欢谁？为什么？
-[答案]: 和高晓松比起来毛都不是
+**答案**:英文原文是 airplane mode：飞机上模式。
 
  
 
  
+<br>**问题**: 饭店有1000个房间，规定每个房间都只能住一个人，如何让1001个人都能睡觉
+**答案**: 没有带行李是一个提示。因为没有带行李，所以，他，对不起我编不下去了。
 
-[问题]: 马云当时为什么没考上清华？
-[答案]: 请大家仔细看题。我不是还在纠结清华大学的问题（这问题不需要纠结）
+ 
+
+ 
+<br>**问题**: 马东和汪涵你们更喜欢谁？为什么？
+**答案**: 和高晓松比起来毛都不是
+
+ 
+
+ 
+<br>**问题**: 马云当时为什么没考上清华？
+**答案**: 请大家仔细看题。我不是还在纠结清华大学的问题（这问题不需要纠结）
 
 谢谢。
 
  
 
  
-
-[问题]: 马云画的这是什么？
-[答案]: 他画的是马蹄＋云＝马云。。。
-
- 
+<br>**问题**: 马云画的这是什么？
+**答案**: 他画的是马蹄＋云＝马云。。。
 
  
 
-[问题]: 马薇薇学过生物吗？
-[答案]: 我就想问肋骨也在运动吗？。。运动系统。
+ 
+<br>**问题**: 马薇薇学过生物吗？
+**答案**: 我就想问肋骨也在运动吗？。。运动系统。
 
 Anyway , 汉语真是博大精深
 
  
 
  
-
-[问题]: 高中生怎样成为vczh这样的人？
-[答案]: 写代码是很难的。
+<br>**问题**: 高中生怎样成为vczh这样的人？
+**答案**: 写代码是很难的。
 
 你可以当演员吗？不行，如果你没有演技专长的话。比如子墨虽不是演戏专业但内置DNA好啊。柯达虽然有肌肉但表情僵硬只能大声喧哗走搞笑路线。轮子哥长得太丑也无法进入演艺圈。 
 
@@ -42183,23 +39738,20 @@ Anyway , 汉语真是博大精深
  
 
  
-
-[问题]: 高等数学、线性代数、概率与数理统计、几何学这些知识可以用来干什么？主要应用有哪些？
-[答案]: 可以用来考试，主要应用是：考取美国留学机会，考取msra的实习机会，考取百度，腾讯的工作机会；考取复旦大学的研究生。
-
- 
-
- 
-
-[问题]: 高考为了分数拼命有意义吗？
-[答案]: 高考理论上应该不难。只要你从小明白自己活着的意义是什么。。
+<br>**问题**: 高等数学、线性代数、概率与数理统计、几何学这些知识可以用来干什么？主要应用有哪些？
+**答案**: 可以用来考试，主要应用是：考取美国留学机会，考取msra的实习机会，考取百度，腾讯的工作机会；考取复旦大学的研究生。
 
  
 
  
+<br>**问题**: 高考为了分数拼命有意义吗？
+**答案**: 高考理论上应该不难。只要你从小明白自己活着的意义是什么。。
 
-[问题]: 高考之前有效的做会4万道理科题是否有希望拿到市状元？
-[答案]: 真正有价值的教材一句话就能帮你弄懂一个概念
+ 
+
+ 
+<br>**问题**: 高考之前有效的做会4万道理科题是否有希望拿到市状元？
+**答案**: 真正有价值的教材一句话就能帮你弄懂一个概念
 
 真正有价值的老师一个例子就能帮你学完一章 
 
@@ -42214,17 +39766,15 @@ Anyway , 汉语真是博大精深
  
 
  
-
-[问题]: 高考体检出色弱就没任何办法学习生物相关专业了么？
-[答案]: 这是一个多么可怕的家庭，教育出一个喜欢生物的孩子。
-
- 
+<br>**问题**: 高考体检出色弱就没任何办法学习生物相关专业了么？
+**答案**: 这是一个多么可怕的家庭，教育出一个喜欢生物的孩子。
 
  
 
-[问题]:高考前5％的人（211水平）以填鸭式学习为主的人多吗，是否大多数人都以主动学习为主？5 ‰呢？
+ 
+<br>**问题**:高考前5％的人（211水平）以填鸭式学习为主的人多吗，是否大多数人都以主动学习为主？5 ‰呢？
 
-[答案]:填鸭式的学习基本可以保证你考上5%。实际上5%不难：1%% 是清华北大，5%%是复旦等； ** 5%，湖南大学也不一定能上 ** 。 
+**答案**:填鸭式的学习基本可以保证你考上5%。实际上5%不难：1%% 是清华北大，5%%是复旦等； ** 5%，湖南大学也不一定能上 ** 。 
 
  
 
@@ -42271,16 +39821,14 @@ Anyway , 汉语真是博大精深
  
 
  
-
-[问题]: 高考复读考上清华北大是一种怎样的体验
-[答案]: 来，我的小板凳呢
-
- 
+<br>**问题**: 高考复读考上清华北大是一种怎样的体验
+**答案**: 来，我的小板凳呢
 
  
 
-[问题]: 高职生通过竞赛的方式进入大学可行吗
-[答案]: 我国应该提供初中复读制度，看来
+ 
+<br>**问题**: 高职生通过竞赛的方式进入大学可行吗
+**答案**: 我国应该提供初中复读制度，看来
 
 为什么我国的转学制度，这么烂呢？果然是个毁灭人性的国家 
 
@@ -42297,23 +39845,20 @@ Anyway , 汉语真是博大精深
  
 
  
-
-[问题]: 高速旋转的刀片是否可以成为光滑的“圆柱体”？
-[答案]: 从刀片参考系来看，其实是你用手刷刷刷的来拍他的刀头作死
-
- 
-
- 
-
-[问题]: 高频电磁波对人一定有负面影响吗？
-[答案]: 可见光频率高达1PHz，经常给人带来心情舒爽等副作用。
+<br>**问题**: 高速旋转的刀片是否可以成为光滑的“圆柱体”？
+**答案**: 从刀片参考系来看，其实是你用手刷刷刷的来拍他的刀头作死
 
  
 
  
+<br>**问题**: 高频电磁波对人一定有负面影响吗？
+**答案**: 可见光频率高达1PHz，经常给人带来心情舒爽等副作用。
 
-[问题]: 鸦片战争，对中国来说，是好事还是坏事？
-[答案]: 看来你也准备进小黑屋了。
+ 
+
+ 
+<br>**问题**: 鸦片战争，对中国来说，是好事还是坏事？
+**答案**: 看来你也准备进小黑屋了。
 
  
 
@@ -42328,11 +39873,10 @@ search逼走，facebook进不来，youtube、wikipedia不存在，gmail卡的死
  
 
  
+<br>**问题**: 麦克斯韦方程组哪里优美？如何解释这个方程组？
+**答案**: 其对称性之美主要源于磁场是空间效应，电场是时间效应。电磁可以相互转换。电磁场在
 
-[问题]: 麦克斯韦方程组哪里优美？如何解释这个方程组？
-[答案]: 其对称性之美主要源于磁场是空间效应，电场是时间效应。电磁可以相互转换。电磁场在
-
-![\(\\phi,A_x,A_y,A_z\)](https://www.zhihu.com/equation?tex=%28%5Cphi%2CA_x%2CA_y%2CA_z%29) 
+!**\(\\phi,A_x,A_y,A_z\)**(https://www.zhihu.com/equation?tex=%28%5Cphi%2CA_x%2CA_y%2CA_z%29) 
 
 表示下关于狭义相对论的洛伦兹变换是协变的。因此电磁场这这一组矢量就是四维空间中的一组矢量（rank 1
 
@@ -42341,9 +39885,8 @@ tensor）。写成关于时间和空间微分的形式，自然要满足特别�
  
 
  
-
-[问题]: 黑匣子为什么不记录全部的飞行数据？
-[答案]: 按照“储存时间足够论”，其实只需要记录最后10分钟的就够了。“足够论”的论据完全可以用在10分钟上。。。储存多一点总是没有坏处，况且且人类的技术难道不是就应该受到人类的需求的挑战吗？满足于现状，给现状找各种借口，不是一个工程师该做的事。
+<br>**问题**: 黑匣子为什么不记录全部的飞行数据？
+**答案**: 按照“储存时间足够论”，其实只需要记录最后10分钟的就够了。“足够论”的论据完全可以用在10分钟上。。。储存多一点总是没有坏处，况且且人类的技术难道不是就应该受到人类的需求的挑战吗？满足于现状，给现状找各种借口，不是一个工程师该做的事。
 
  
 
@@ -42362,9 +39905,8 @@ tensor）。写成关于时间和空间微分的形式，自然要满足特别�
  
 
  
-
-[问题]: （计算机）日常操作中哪些是用户容易犯的错以及怎么改正？
-[答案]: 重要文件不存在云盘上。到处都是丢了XXX，内有重要资料，归还重谢
+<br>**问题**: （计算机）日常操作中哪些是用户容易犯的错以及怎么改正？
+**答案**: 重要文件不存在云盘上。到处都是丢了XXX，内有重要资料，归还重谢
 
  
 
